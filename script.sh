@@ -3,7 +3,7 @@
 echo "Cleanup"
 rm -rf user.csv
 
-echo "Get last user database"
+echo "Download the latest user database"
 curl -o user.csv https://radioid.net/static/user.csv
 
 echo "Replacing of diacritics"
