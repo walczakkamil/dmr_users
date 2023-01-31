@@ -519,6 +519,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2600533,SP6CRV,Lukasz,Malysz,Wroclaw,dolno?l?skie,Poland
 2600534,SP3AWK,Cezary,Walczak,Makoszyce,wielkopolskie,Poland
 2600535,SP5PRP,Pawel,,Warszawa,mazowieckie,Poland
+2600536,SQ3TGQ,Piotr,J,Sierakowo,wielkopolskie,Poland
 2600537,SQ8GL,Krzysztof,Wesolowski,Lublin,lubelskie,Poland
 2600538,SP6MLT,Andrzej,Lukowiak,Wroclaw,dolno?l?skie,Poland
 2600539,SQ9RIF,Janusz,Filary,Rybnik,?l?skie,Poland
@@ -1450,7 +1451,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2601490,SQ8KT,Kamil,Tarczynski,Glogow Malopolski,podkarpackie,Poland
 2601491,SP1CLM,Kamil,NOWACKI,Szczecinek,zachodniopomorskie,Poland
 2601492,SP7AR,Arkadiusz,Rybak,Sieradz,??dzkie,Poland
-2601493,SP7PA,Pawel,C,Sarnowek Maly,?wi?tokrzyskie,Poland
+2601493,SP7PA,Pawel, ,Sarnowek Maly,?wi?tokrzyskie,Poland
 2601494,SP5WX,Adam,Trabka,Warszawa,mazowieckie,Poland
 2601495,SQ1DEX,Kamil,Gruczek,Swinoujscie,zachodniopomorskie,Poland
 2601496,SQ8EP,Zdzislaw,Zdik,Swidnik,lubelskie,Poland
@@ -1537,6 +1538,9 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2601577,SP3YPR,Club,Polish Amateur Radio Club,Gorzow Wlkp,lubuskie,Poland
 2601578,SP4AGX,Grzegorz,Krawiel,Bialystok,podlaskie,Poland
 2601579,SQ1AK,Andrzej,,Szczecin,zachodniopomorskie,Poland
+2601580,SP2PD,Piotr,Draszek,Gdansk,pomorskie,Poland
+2601581,SP88MM,Mateusz,Muzyk,Piotrowka,opolskie,Poland
+2601582,SQ5SDN,Jaroslaw,Szwabinski,Nowy Dwor Mazowiecki,mazowieckie,Poland
 2601999,SP5VEQ,Tomasz,Brejnak,Warszawa,mazowieckie,Poland
 2602001,SP2WGN,Maciej,,Gdansk,,Poland
 2602002,SP2FRN,Sebastian,Eferenovich,Gdynia,pomorskie,Poland
@@ -2884,7 +2888,6 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2607165,SQ7XQ,Piotr,,Lodz,,Poland
 2607166,SQ7JZS,Janusz,,Wielun,,Poland
 2607167,SO7AFC,Maciek,,Kielce,,Poland
-2607168,SQ7ECZ,Szymon,,Starachowice,?wi?tokrzyskie,Poland
 2607169,SP7WJ,Wojciech,,Starachowice,?wi?tokrzyskie,Poland
 2607170,SP7TSA,Slawomir,,Zajeziorze,?wi?tokrzyskie,Poland
 2607171,SQ7OWP,Ryszard,,Ostrowiec Swietokrzyski,?wi?tokrzyskie,Poland
@@ -3569,6 +3572,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2609474,SP9AZF,Xavier,Rajda,Kozy,?l?skie,Poland
 2609475,SQ9ORN,Dominik,Cyran,Katowice,?l?skie,Poland
 2609476,SQ9RSC,Robert,,Olsztyn k/Czestochowy,,Poland
+2609477,SQ9WOW,Miroslaw,Marcol,Marklowice,?l?skie,Poland
 2609478,SP9PAW,Pawel,,Krakow,,Poland
 2609479,SP9OFM,Wojciech,,Wieliczka,,Poland
 2609480,SQ9ORT,Kazimierz,,Jaworzno,,Poland
