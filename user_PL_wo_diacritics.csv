@@ -53,7 +53,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2600053,SQ9PQC,Mariusz,,Zywiec,,Poland
 2600054,SQ3HXR,Mariusz,,Chodziez,,Poland
 2600055,SP3MFF,Zenon,,Lubasz,,Poland
-2600056,SP9ORD,Rafal,,Krzeszowice,,Poland
+2600056,SP9ORD,Rafal,None,Krzeszowice,,Poland
 2600057,SP5XEP,Marek,,Warszawa,,Poland
 2600058,SP9EKG,Krystian,,Chorzow,,Poland
 2600059,SP9WA,Artur,,Midzybrodzie Zywieckie,?l?skie,Poland
@@ -317,6 +317,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2600328,SP3EOL,Czeslaw,,Chodziez,wielkopolskie,Poland
 2600329,SP8EET,Bartlomiej,,Sanok,,Poland
 2600330,SP3VBH,Halina,,Chodziez,wielkopolskie,Poland
+2600331,SP3ZBZ,Klub,,Chodziez,wielkopolskie,Poland
 2600333,SQ7OCI,Piotr,,Lodz,??dzkie,Poland
 2600334,SP8KRET,Lukasz,,Lublin,,Poland
 2600335,SQ3EYG,Hieronim,,Chodziez,wielkopolskie,Poland
@@ -519,7 +520,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2600533,SP6CRV,Lukasz,Malysz,Wroclaw,dolno?l?skie,Poland
 2600534,SP3AWK,Cezary,Walczak,Makoszyce,wielkopolskie,Poland
 2600535,SP5PRP,Pawel,,Warszawa,mazowieckie,Poland
-2600536,SQ3TGQ,Piotr,J,Sierakowo,wielkopolskie,Poland
+2600536,SQ3TGQ,Piotr,,Sierakowo,wielkopolskie,Poland
 2600537,SQ8GL,Krzysztof,Wesolowski,Lublin,lubelskie,Poland
 2600538,SP6MLT,Andrzej,Lukowiak,Wroclaw,dolno?l?skie,Poland
 2600539,SQ9RIF,Janusz,Filary,Rybnik,?l?skie,Poland
@@ -1541,6 +1542,9 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2601580,SP2PD,Piotr,Draszek,Gdansk,pomorskie,Poland
 2601581,SP88MM,Mateusz,Muzyk,Piotrowka,opolskie,Poland
 2601582,SQ5SDN,Jaroslaw,Szwabinski,Nowy Dwor Mazowiecki,mazowieckie,Poland
+2601583,SP6DGR,Arkadiusz,Krawczyk,Wierusz?w city W?sosz,??dzkie,Poland
+2601584,SP9LIS,Jakub,Karpinski,Lisow,?l?skie,Poland
+2601585,SP5SRG,Siegiej Do Przejecia,Siergiej,Warszawa,,Poland
 2601999,SP5VEQ,Tomasz,Brejnak,Warszawa,mazowieckie,Poland
 2602001,SP2WGN,Maciej,,Gdansk,,Poland
 2602002,SP2FRN,Sebastian,Eferenovich,Gdynia,pomorskie,Poland
