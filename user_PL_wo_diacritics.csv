@@ -520,7 +520,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2600533,SP6CRV,Lukasz,Malysz,Wroclaw,dolno?l?skie,Poland
 2600534,SP3AWK,Cezary,Walczak,Makoszyce,wielkopolskie,Poland
 2600535,SP5PRP,Pawel,,Warszawa,mazowieckie,Poland
-2600536,SQ3TGQ,Piotr,,Sierakowo,wielkopolskie,Poland
+2600536,SQ3TGQ,Piotr,Jarczewski,Sierakowo,wielkopolskie,Poland
 2600537,SQ8GL,Krzysztof,Wesolowski,Lublin,lubelskie,Poland
 2600538,SP6MLT,Andrzej,Lukowiak,Wroclaw,dolno?l?skie,Poland
 2600539,SQ9RIF,Janusz,Filary,Rybnik,?l?skie,Poland
@@ -1387,7 +1387,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2601425,SP9LPK,Wojciech,Czyszczon,Krakow,ma?opolskie,Poland
 2601426,SP9MPZ,Marcin,Placzek,Krakow,ma?opolskie,Poland
 2601427,SP9DPD,Adam,Wrobel,Ruda Slaska,?l?skie,Poland
-2601428,SP9ADIK,Adrian, ,Chorzow,?l?skie,Poland
+2601428,SO9S,Adrian, ,Chorzow,?l?skie,Poland
 2601429,SQ4OZO,Marcin,Mazur,Olsztyn,warmi?sko-mazurskie,Poland
 2601430,SP2OMO,Daniel,Da,Domatowo,pomorskie,Poland
 2601431,SN8KR,Kacper,Raczka,Jaslo,podkarpackie,Poland
@@ -1552,7 +1552,9 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2601590,SO5AZ,Artur,Zukowski,Warszawa,mazowieckie,Poland
 2601591,SP9OQ,Leslaw,,Gliwice,?l?skie,Poland
 2601592,HF0TV,Konrad,Czaplicki,Grajewo,podlaskie,Poland
-2601593,SQ5KGO,Piotr,KaGieO,Minsk Mazowiecki,mazowieckie,Poland
+2601593,SQ5KGO,Piotr,Kalczewiak,Minsk Mazowiecki,mazowieckie,Poland
+2601594,SP4JEU,Roman,Baginski,Ostroda,warmi?sko-mazurskie,Poland
+2601595,SP4MB,Marcin,B,Bialystok,podlaskie,Poland
 2601999,SP5VEQ,Tomasz,Brejnak,Warszawa,mazowieckie,Poland
 2602001,SP2WGN,Maciej,,Gdansk,,Poland
 2602002,SP2FRN,Sebastian,Eferenovich,Gdynia,pomorskie,Poland
