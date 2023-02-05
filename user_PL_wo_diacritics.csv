@@ -1,34 +1,34 @@
 RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
-2600001,SQ7LRX,Adam,K,Lodz,lodzkie,Poland
-2600002,SQ7SCC,Arek,,Lodz,lodzkie,Poland
-2600003,SP9UXY,Andrzej,,Gliwice,slaskie,Poland
-2600004,SQ7AYZ,Piotr,,Aleksandrow Lodzki,lodzkie,Poland
-2600005,SQ7OFD,Artur,,Lodz,lodzkie,Poland
-2600006,SQ7JHC,Lukasz,,Belchatow,lodzkie,Poland
-2600007,SQ7SCC,Arek,,Lodz,lodzkie,Poland
-2600008,SP5QWK,Artur,Karolak,Lowicz,lodzkie,Poland
-2600009,SP7AM,Grzegorz,,Opatow,swietokrzyskie,Poland
-2600010,SP7UKL,Cezary,,Lodz,lodzkie,Poland
+2600001,SQ7LRX,Adam,K,Lodz,??dzkie,Poland
+2600002,SQ7SCC,Arek,,Lodz,??dzkie,Poland
+2600003,SP9UXY,Andrzej,,Gliwice,?l?skie,Poland
+2600004,SQ7AYZ,Piotr,,Aleksandrow Lodzki,??dzkie,Poland
+2600005,SQ7OFD,Artur,,Lodz,??dzkie,Poland
+2600006,SQ7JHC,Lukasz,,Belchatow,??dzkie,Poland
+2600007,SQ7SCC,Arek,,Lodz,??dzkie,Poland
+2600008,SP5QWK,Artur,Karolak,Lowicz,??dzkie,Poland
+2600009,SP7AM,Grzegorz,,Opatow,?wi?tokrzyskie,Poland
+2600010,SP7UKL,Cezary,,Lodz,??dzkie,Poland
 2600011,SP1JT,Wojciech,,Szczecin,zachodniopomorskie,Poland
 2600012,SP2MIC,Michal,,Gdansk,pomorskie,Poland
 2600013,SQ5VCO,Adam,,Chrzczanka Folwark,mazowieckie,Poland
-2600014,SQ9DJE,Tomasz,,Krakow,malopolskie,Poland
-2600015,SP9GRP,Karol,,Ropica Polska,malopolskie,Poland
+2600014,SQ9DJE,Tomasz,,Krakow,ma?opolskie,Poland
+2600015,SP9GRP,Karol,,Ropica Polska,ma?opolskie,Poland
 2600016,SQ4FFM,Irek,,Hajnowka,podlaskie,Poland
-2600017,SP9HYX,Jacek,,Krynica Zdroj,malopolskie,Poland
+2600017,SP9HYX,Jacek,,Krynica Zdroj,ma?opolskie,Poland
 2600018,SQ6BMK,Ludomir,,Nysa,opolskie,Poland
 2600019,SQ8JMC,Michal,,Stojeszyn Pierwszy,lubelskie,Poland
-2600020,SP6INA,Mariusz,Wozniak,Wroclaw,dolnoslaskie,Poland
+2600020,SP6INA,Mariusz,Wozniak,Wroclaw,dolno?l?skie,Poland
 2600021,SP2ATJ,Tomasz,,Pakosc,kujawsko-pomorskie,Poland
 2600022,SQ5UHU,Marek,Dabrowski,Kazun Polski,mazowieckie,Poland
-2600023,SP6VGX,Tomasz,,Kamienna Gora,dolnoslaskie,Poland
+2600023,SP6VGX,Tomasz,,Kamienna Gora,dolno?l?skie,Poland
 2600024,SP8I,Artur,,Jastkowice,podkarpackie,Poland
 2600025,SP8F,Krzysztof,,Sanok,podkarpackie,Poland
 2600026,SQ8RXH,Grzegorz,Dedo,Jaslo,podkarpackie,Poland
-2600027,SP7IIX,Marian,,Kutno,lodzkie,Poland
+2600027,SP7IIX,Marian,,Kutno,??dzkie,Poland
 2600028,SP2SGQ,Zbigniew,Kosidowski,Chojnice,pomorskie,Poland
-2600029,SP7NLB,Marcin,,Skarzysko Kamienna,swietokrzyskie,Poland
-2600030,SQ9HQ,Piotr,Desput,Bochnia,malopolskie,Poland
+2600029,SP7NLB,Marcin,,Skarzysko Kamienna,?wi?tokrzyskie,Poland
+2600030,SQ9HQ,Piotr,Desput,Bochnia,ma?opolskie,Poland
 2600031,SP5LKC,Lukasz,,Lipiany,,Poland
 2600032,SP3SUS,Jaroslaw,,Zielona Gora,,Poland
 2600033,SQ8JI,Adam,,Pulawy,,Poland
@@ -36,7 +36,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2600035,SP5RK,Radoslaw,,Warszawa,,Poland
 2600036,SQ5NWR,Przemyslaw,,Skrzeszew,,Poland
 2600037,SP9TOT,Adam,,Katowice,,Poland
-2600038,SP9NRK,Stanislaw,,Katowice,slaskie,Poland
+2600038,SP9NRK,Stanislaw,,Katowice,?l?skie,Poland
 2600039,SP5CVT,Bartosz,,Warszawa,,Poland
 2600040,SQ1SR,Slawomir,,Gryfino,zachodniopomorskie,Poland
 2600041,SP8SIB,Dariusz,,Rudna Mala,podkarpackie,Poland
@@ -48,17 +48,17 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2600048,SQ8GKK,Jan,,Warszawa,,Poland
 2600049,SP6BLA,Michal,,Wroclaw,,Poland
 2600050,SP5NAF,Grzegorz,Golan,Kadzidlo,mazowieckie,Poland
-2600051,SP9ABW,Piotr,Walczak,Krakow,malopolskie,Poland
-2600052,SP6KG,Grzegorz,K,Zerniki Wr,dolnoslaskie,Poland
+2600051,SP9ABW,Piotr,Walczak,Krakow,ma?opolskie,Poland
+2600052,SP6KG,Grzegorz,K,Zerniki Wr,dolno?l?skie,Poland
 2600053,SQ9PQC,Mariusz,,Zywiec,,Poland
 2600054,SQ3HXR,Mariusz,,Chodziez,,Poland
 2600055,SP3MFF,Zenon,,Lubasz,,Poland
 2600056,SP9ORD,Rafal,None,Krzeszowice,,Poland
 2600057,SP5XEP,Marek,,Warszawa,,Poland
 2600058,SP9EKG,Krystian,,Chorzow,,Poland
-2600059,SP9WA,Artur,,Midzybrodzie Zywieckie,slaskie,Poland
-2600060,SP7MTU,Zbigniew,,Lodz,lodzkie,Poland
-2600061,SP7PGK,Klub,OT 15,Lodz,lodzkie,Poland
+2600059,SP9WA,Artur,,Midzybrodzie Zywieckie,?l?skie,Poland
+2600060,SP7MTU,Zbigniew,,Lodz,??dzkie,Poland
+2600061,SP7PGK,Klub,OT 15,Lodz,??dzkie,Poland
 2600062,SP5VJS,Piotr,,Warszawa,,Poland
 2600063,SP6SUD,Romain,,Katy Wroclawskie,,Poland
 2600064,SP6WRA,Cezary,,Wroclaw,,Poland
@@ -67,14 +67,14 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2600067,SQ6OWI,Marcin,,Malczow,,Poland
 2600068,SP9CKM,Norbert,,Krakow,,Poland
 2600069,SP5XTF,Tomasz,,Warszawa,,Poland
-2600070,SQ7NHR,Grzegorz,,Lodz,lodzkie,Poland
+2600070,SQ7NHR,Grzegorz,,Lodz,??dzkie,Poland
 2600071,SP3MFF,Zenon,,Lubasz,,Poland
-2600072,SQ9JDZ,Mateusz,,Zakopane,malopolskie,Poland
+2600072,SQ9JDZ,Mateusz,,Zakopane,ma?opolskie,Poland
 2600073,SQ5MJX,Krzysztof,,Pruszkow,,Poland
 2600074,SQ3LVC,Piotr,,Wielen,,Poland
 2600075,SP9GTR,Krzysztof,,Lacko,,Poland
 2600076,SP5EJC,Jacek,,Warszawa,,Poland
-2600077,SQ7PFP,Marcin,,Lodz,lodzkie,Poland
+2600077,SQ7PFP,Marcin,,Lodz,??dzkie,Poland
 2600078,SQ9MLN,Leszek,,Raciborz,,Poland
 2600079,SP6AD,Zbigniew,,Glogowek,,Poland
 2600080,SP6TP,Tadeusz,Morgas,Nysa,opolskie,Poland
@@ -97,9 +97,9 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2600097,SQ9WRT,Marcin,,Czstochowa,,Poland
 2600098,SP5DPD,Wojciech,,Warszawa,,Poland
 2600099,SP6TP,Tadeusz,Morgas,Nysa,opolskie,Poland
-2600100,SP7KS,Krzysztof,,Lodz,lodzkie,Poland
+2600100,SP7KS,Krzysztof,,Lodz,??dzkie,Poland
 2600101,SP6MRU,Marcin,,Walbrzych,,Poland
-2600102,SP9RPS,Krzysztof,Strug,Wieliczka,malopolskie,Poland
+2600102,SP9RPS,Krzysztof,Strug,Wieliczka,ma?opolskie,Poland
 2600103,SP7WWO,Tomasz,,Lodz,,Poland
 2600104,SP4UBW,Dariusz,,Bialystok,podlaskie,Poland
 2600105,SP5LOT,Tomasz,,Warszawa,,Poland
@@ -108,7 +108,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2600108,SQ2KL,Krystian,,Rumia,,Poland
 2600109,SP8SKZ,Konrad,,Lublin,,Poland
 2600110,SP9SK,Aleksander,,Bytom,,Poland
-2600111,SP7GJA,Pawel,STAWSKI,Lodz,lodzkie,Poland
+2600111,SP7GJA,Pawel,STAWSKI,Lodz,??dzkie,Poland
 2600112,SQ1FYZ,Przemek,Zyndul,Szczecin,zachodniopomorskie,Poland
 2600113,SQ9GT,Grzegorz,,Koty,,Poland
 2600114,SP20EJ,Robert,Elsinga,Krakow,,Poland
@@ -127,7 +127,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2600127,SP6IGS,Igor,,Wroclaw,,Poland
 2600128,SP9MRN,Maciej,,Gliwice,,Poland
 2600129,SQ3EPU,Tomasz,,Kozieglowy,,Poland
-2600130,SQ6SFO,Jakub,Stepniewicz,Wroclaw,dolnoslaskie,Poland
+2600130,SQ6SFO,Jakub,Stepniewicz,Wroclaw,dolno?l?skie,Poland
 2600131,SP5PBE,Klub,,Warszawa,,Poland
 2600132,SP1NQV,Wojciech,,Swidwin,,Poland
 2600133,SQ3NMA,Krzysztof, ,Poznan,wielkopolskie,Poland
@@ -148,7 +148,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2600150,SQ2NUL,Eugeniusz,,Reda,,Poland
 2600151,SQ4SGH,Grzegorz,,Bialystok,,Poland
 2600152,SQ5EKU,Robert,None,Karczew,mazowieckie,Poland
-2600153,SP7TR,Tomasz,,Pabianice,lodzkie,Poland
+2600153,SP7TR,Tomasz,,Pabianice,??dzkie,Poland
 2600154,SP3MKL,Miroslaw,,Leszno,,Poland
 2600155,SP6VGA,Dariusz,Kubicki,Miodary,,Poland
 2600156,SP2YO,Jaroslaw,,Wejherowo,,Poland
@@ -159,7 +159,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2600161,SP5CIB,Janusz,,Jozefow,,Poland
 2600162,SQ8SBS,Stanislaw,,Jaslo,,Poland
 2600164,SP3UKK,Piotr,,Poznan,,Poland
-2600165,SP7JD,Zygmunt,Orzechowski,Zofiowka,lodzkie,Poland
+2600165,SP7JD,Zygmunt,Orzechowski,Zofiowka,??dzkie,Poland
 2600166,SQ1EUJ,Jacek,,Miedzyzdroje,,Poland
 2600167,SN5W,Klub,,Otwock,,Poland
 2600168,SP73VOT,Klub,,Warszawa,,Poland
@@ -169,11 +169,11 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2600172,SQ5MBG,Wojciech,,Cisie,mazowieckie,Poland
 2600173,SP5WCK,Janusz,,Sokolow Podlaski,,Poland
 2600174,SQ5EKU,Robert,None,Karczew,mazowieckie,Poland
-2600175,SP6FCS,Jaroslaw,,Wroclaw,dolnoslaskie,Poland
+2600175,SP6FCS,Jaroslaw,,Wroclaw,dolno?l?skie,Poland
 2600176,SP9KDR,Klub,,Pcim 948,,Poland
-2600177,SQ7LRN,Robert,,Lodz,lodzkie,Poland
+2600177,SQ7LRN,Robert,,Lodz,??dzkie,Poland
 2600178,SP8MP,Michal,,Lublin,,Poland
-2600179,SP6ARC,Piotr,Gregor,Kaczorow,dolnoslaskie,Poland
+2600179,SP6ARC,Piotr,Gregor,Kaczorow,dolno?l?skie,Poland
 2600180,SP5GNU,Jozef,,Warszawa,,Poland
 2600181,SP9LS,Leszek,,Wilkowice,,Poland
 2600182,SQ4KBA,Krzysztof,,Bialystok,,Poland
@@ -213,7 +213,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2600219,SQ6GTL,Boguslaw,,Wroclaw,,Poland
 2600220,SP3ZAC,Klub,,Poznan,,Poland
 2600221,SQ2TAM,Miroslaw,,Szarlata,,Poland
-2600222,SQ7OCI,Piotr,,Lodz,lodzkie,Poland
+2600222,SQ7OCI,Piotr,,Lodz,??dzkie,Poland
 2600223,SP6EY,Zbigniew,,Boleslawiec,,Poland
 2600224,HF5BJZ,Bartosz,,Warszawa,,Poland
 2600225,SQ2EJF,Dominik,Wasowicz,Gdynia,pomorskie,Poland
@@ -224,10 +224,10 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2600230,SP2CEL,Damian,,Bydgoszcz,,Poland
 2600231,SQ5BPD,Piotr,,Mlawa,,Poland
 2600232,SP2RAF,Rafal,,Bydgoszcz,,Poland
-2600233,SP9JW,Jaroslaw,,Rabka-Zdroj,malopolskie,Poland
+2600233,SP9JW,Jaroslaw,,Rabka-Zdroj,ma?opolskie,Poland
 2600234,SP1DOZ,Slawomir,,Szczecin,,Poland
-2600235,SP6ZOLW,Zbigniew,Gorczycki,Wroclaw,dolnoslaskie,Poland
-2600237,SP6F,Pawel,,Wroclaw,dolnoslaskie,Poland
+2600235,SP6ZOLW,Zbigniew,Gorczycki,Wroclaw,dolno?l?skie,Poland
+2600237,SP6F,Pawel,,Wroclaw,dolno?l?skie,Poland
 2600238,SP6JGD,Slawomir,,Dabrowica,,Poland
 2600239,SQ9FMP,Artur,,Zawiercie,,Poland
 2600240,SP9WZS,Robert,,Niegowoniczki,,Poland
@@ -250,7 +250,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2600258,SP2SQT,Jakub,,Czemlewo,,Poland
 2600259,SP7TW,Tomasz,,Lodz,,Poland
 2600260,SP7DMM,Piotr,,Lodz,,Poland
-2600261,SQ9CWW,Piotr,,Bierun,slaskie,Poland
+2600261,SQ9CWW,Piotr,,Bierun,?l?skie,Poland
 2600262,SP2LBV,Waldemar,,Zlawies Mala,,Poland
 2600263,SQ7V,Piotr,,Ostrowiec Swietokrzy,,Poland
 2600264,SP4SWD,Piotr,,Bialystok,,Poland
@@ -258,13 +258,13 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2600266,SP2OKO,Pawel,Ryzner,Gdynia,pomorskie,Poland
 2600267,SQ8DSP,Krzysztof,,Stezyca,,Poland
 2600268,SP4ADW,Adam,,Bialystok,,Poland
-2600269,SP7AJ,Arek,,Lodz,lodzkie,Poland
-2600270,SP9JP,Jerzy,Polczynski,Krakow,malopolskie,Poland
+2600269,SP7AJ,Arek,,Lodz,??dzkie,Poland
+2600270,SP9JP,Jerzy,Polczynski,Krakow,ma?opolskie,Poland
 2600271,SP6ET,Piotr,,Wroclaw,,Poland
 2600272,SP3MAJ,Lukasz,,Poznan,,Poland
 2600273,SQ7LQJ,Jan,,Kielce,,Poland
 2600274,SP3AAL,Michal,,Lubsko,,Poland
-2600275,SQ9HHT,Pawel,,Trzebnica,dolnoslaskie,Poland
+2600275,SQ9HHT,Pawel,,Trzebnica,dolno?l?skie,Poland
 2600276,SQ5NAW,Artur,,Warszawa,,Poland
 2600277,SP7TSK,Jakub,,Lodz,,Poland
 2600278,SO9MOO,Roman,,Bielsko-Biala,,Poland
@@ -287,7 +287,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2600297,SP2PJS,Pawel,,Grudziadz,,Poland
 2600298,SQ9HH,Manuel,,Warszawa,,Poland
 2600299,SO5RF,Mariusz,,Jozefow,,Poland
-2600301,SP9ODT,Adam,,Nowy Sacz,malopolskie,Poland
+2600301,SP9ODT,Adam,,Nowy Sacz,ma?opolskie,Poland
 2600302,SP4MK,Marcin,,Kleosin,,Poland
 2600303,SP3MR,Rafal,,Robakowo,,Poland
 2600304,SQ7BCN,Marek,,Ostrowiec Swietokrzy,,Poland
@@ -302,15 +302,15 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2600313,SP0K,Krystyna,,Lublin,,Poland
 2600314,SQ2PVB,Benedykt,,Bydgoszcz,,Poland
 2600315,SP7NPZ,Wojciech,,Lodz,,Poland
-2600316,SP9RPS,Krzysztof,Strug,Wieliczka,malopolskie,Poland
+2600316,SP9RPS,Krzysztof,Strug,Wieliczka,ma?opolskie,Poland
 2600317,SP5SWR,Robert,,Ciechanow,,Poland
 2600318,SQ9IDE,Damian,,Radostowice,,Poland
-2600319,SP5MGC,Marcin,Gajewski,Kunow,swietokrzyskie,Poland
+2600319,SP5MGC,Marcin,Gajewski,Kunow,?wi?tokrzyskie,Poland
 2600320,SP3MCO,Marek,,Lubsko,,Poland
 2600321,SP1F,Zbigniew,,Kolobrzeg,,Poland
 2600322,SQ9KRIS,Krystian,,Myslowice,,Poland
 2600323,SP5AMN,Janusz,,Zyrow,,Poland
-2600324,SP9AM,Andrzej,,Siemianowice Slaskie,slaskie,Poland
+2600324,SP9AM,Andrzej,,Siemianowice Slaskie,?l?skie,Poland
 2600325,SQ1GPU,Krzysztof,,Walcz,,Poland
 2600326,SP5Q,Bogdan,,Warszawa,,Poland
 2600327,HF3PMP,Mateusz,,Rozlogi,,Poland
@@ -318,14 +318,14 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2600329,SP8EET,Bartlomiej,,Sanok,,Poland
 2600330,SP3VBH,Halina,,Chodziez,wielkopolskie,Poland
 2600331,SP3ZBZ,Klub,,Chodziez,wielkopolskie,Poland
-2600333,SQ7OCI,Piotr,,Lodz,lodzkie,Poland
+2600333,SQ7OCI,Piotr,,Lodz,??dzkie,Poland
 2600334,SP8KRET,Lukasz,,Lublin,,Poland
 2600335,SQ3EYG,Hieronim,,Chodziez,wielkopolskie,Poland
 2600336,SP6BRZ,Dariusz,None,Brzeg,,Poland
 2600337,SP9WLC,Tomasz,,Rybnik,,Poland
 2600338,SQ8ESQ,Jakub,,Bilgoraj,,Poland
-2600339,SQ9BTI,Marcin,,Krakow,malopolskie,Poland
-2600340,SP7AJ,Arek,,Lodz,lodzkie,Poland
+2600339,SQ9BTI,Marcin,,Krakow,ma?opolskie,Poland
+2600340,SP7AJ,Arek,,Lodz,??dzkie,Poland
 2600341,SQ9PVG,Piotr,,Cieszyn,,Poland
 2600342,SQ6MW,Maciej,,Ruszow,,Poland
 2600343,SP5MJB,Michal,Biernacki,Bieniewiec,mazowieckie,Poland
@@ -342,7 +342,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2600354,SP0TTV,Piotr,,Szczecin,,Poland
 2600355,SQ7KGG,Artur,,Belchatow,,Poland
 2600356,SP5MXJ,Marek,,Jablonna,,Poland
-2600357,SO0BAD,Maciej,Muziol,Krakow,malopolskie,Poland
+2600357,SO0BAD,Maciej,Muziol,Krakow,ma?opolskie,Poland
 2600358,SP5TMI,Tomasz,,Warszawa,,Poland
 2600359,SP0TTV,Piotr,,Szczecin,,Poland
 2600360,SP8RS,Robert,Spryszak,Wyznica,lubelskie,Poland
@@ -359,7 +359,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2600371,SP7VLS,Krzysztof,,Lodz,,Poland
 2600372,SP9LIV,Krystian,,Orzesze,,Poland
 2600373,SP2LMA,Miroslaw,Lewandowski,Gdansk,pomorskie,Poland
-2600375,SQ9TM,Marek,,Pcim,malopolskie,Poland
+2600375,SQ9TM,Marek,,Pcim,ma?opolskie,Poland
 2600376,HF9CW,Stella,,Brzusnik,mazowieckie,Poland
 2600377,SQ2RCB,Andrzej,,Torun,,Poland
 2600378,SP4DW,Dawid,,Olecko,,Poland
@@ -373,8 +373,8 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2600386,SP5ZIP,ZHP Warszawa,,Warszawa,,Poland
 2600387,SP9MOM,Maciej,,Gliwice,,Poland
 2600388,SP9TT,Tadeusz,,Tarnowskie Gory,,Poland
-2600389,SP9MQU,Eugeniusz,,Katowice,slaskie,Poland
-2600390,SP7SMF,Marek,,Mirkow,lodzkie,Poland
+2600389,SP9MQU,Eugeniusz,,Katowice,?l?skie,Poland
+2600390,SP7SMF,Marek,,Mirkow,??dzkie,Poland
 2600391,SP9PKS,Klub,,Mikolow,,Poland
 2600392,SP3IS,Jerzy,,Poznan,,Poland
 2600393,SP1GAL,Krzysztof,,Smolecin,,Poland
@@ -384,15 +384,15 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2600397,SP5BOB,Rafal,,Sedek,,Poland
 2600398,SP7HO,Jacek,,Zyrardow,mazowieckie,Poland
 2600399,SO5DZ,Przemyslaw,,Nowy Dwor Mazowiecki,,Poland
-2600400,SP7SMF,Marek,,Mirkow,lodzkie,Poland
-2600401,HF9ZHP,ZHP Bedzin,Klub Harcerski,Bedzin,slaskie,Poland
+2600400,SP7SMF,Marek,,Mirkow,??dzkie,Poland
+2600401,HF9ZHP,ZHP Bedzin,Klub Harcerski,Bedzin,?l?skie,Poland
 2600402,SP5RAK,Robert,,Warszawa,,Poland
 2600403,SP6DG,Dawid,,Skokowa,,Poland
 2600404,SP8MZB,Aleksander,,Rzeszow,,Poland
 2600405,SP1TJ,Marek,,Kolobrzeg,,Poland
 2600406,SQ3SHC,Stanislaw,,Plewiska,wielkopolskie,Poland
 2600407,SP3AMO,Marek,,Zielona Gora,,Poland
-2600408,SQ9FSH,Krzysztof,None,Charsznica,slaskie,Poland
+2600408,SQ9FSH,Krzysztof,None,Charsznica,?l?skie,Poland
 2600409,SQ9TCK,Tadeusz,,Orzesze,,Poland
 2600410,SQ5FGH,Dariusz,,Warszawa,mazowieckie,Poland
 2600411,SP5HBY,Hubert,,Warszawa,,Poland
@@ -401,12 +401,12 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2600414,SP5SF,Marek, ,Warszawa,mazowieckie,Poland
 2600415,SQ5HQX,Malgorzata,,Warszawa,,Poland
 2600416,SQ8P,Patryk,,Lesko,,Poland
-2600417,SQ7SE,Andrzej,Sierra Echo,KO00FV,swietokrzyskie,Poland
+2600417,SQ7SE,Andrzej,Sierra Echo,KO00FV,?wi?tokrzyskie,Poland
 2600418,SP9OUR,Tomasz,,Pisarzowice,,Poland
 2600419,SQ5ETB,Tomasz,,Jozefow,,Poland
 2600420,SP8RR,Ryszard,,Jaslo,podkarpackie,Poland
 2600421,SQ1KSH,Maciej,,Karwowo,,Poland
-2600422,SQ9EZE,Piotr,Piotrowski,Gorlice,malopolskie,Poland
+2600422,SQ9EZE,Piotr,Piotrowski,Gorlice,ma?opolskie,Poland
 2600423,SP5SZE,Maciej,Szewczyk,Warszawa,mazowieckie,Poland
 2600424,SQ1KUI,Ireneusz,,Zlocieniec,,Poland
 2600425,SP5RZW,Andrzej,,Izabelin,,Poland
@@ -424,11 +424,11 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2600437,SQ8MXP,Lukasz,,Lublin,,Poland
 2600438,SO2M,Lukasz,,Banino,,Poland
 2600439,SQ9DKV,Leszek,,Krakow,,Poland
-2600440,SQ7LQA,Tomasz,,Lodz,lodzkie,Poland
-2600441,SP7TS,Tomasz,Szydlowski,Konstantynow Lodzki,lodzkie,Poland
+2600440,SQ7LQA,Tomasz,,Lodz,??dzkie,Poland
+2600441,SP7TS,Tomasz,Szydlowski,Konstantynow ?odzki,??dzkie,Poland
 2600442,SP6KOA,Radoslaw,,Wroclaw,,Poland
 2600443,SP3DRY,Alfred,,Debno,,Poland
-2600444,SQ7ROT,Rafal,,Lodz,lodzkie,Poland
+2600444,SQ7ROT,Rafal,,Lodz,??dzkie,Poland
 2600445,SP5BPI,Wieslaw,,Warszawa,,Poland
 2600446,SQ9XD,Szymon,,Gliwice,,Poland
 2600447,SP8JCF,Maciej,,Strzyzow,,Poland
@@ -439,196 +439,196 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2600452,SP6JZG,Jerzy,,Opole,,Poland
 2600453,SP6RTX,Andrzej,,Opole,,Poland
 2600454,SP1AKA,Adam,Kryca,Polczyn Zdroj,zachodniopomorskie,Poland
-2600455,SP9NFB,Artur,,Olszana,malopolskie,Poland
+2600455,SP9NFB,Artur,,Olszana,ma?opolskie,Poland
 2600456,SP5EPD,Pawel,,Warszawa,,Poland
 2600457,SP9AE,Waldemar,,Goleszow,,Poland
-2600458,SP6JAP,Janusz,Przewlocki,Witoszow Dolny,slaskie,Poland
+2600458,SP6JAP,Janusz,Przewlocki,Witoszow Dolny,?l?skie,Poland
 2600459,SQ3BW,Wojciech,,Dobiezyn,,Poland
 2600460,SP5WAB,Tomasz,,Pruszkow,,Poland
-2600461,SQ6SFX,Michal,,Twardogora,dolnoslaskie,Poland
+2600461,SQ6SFX,Michal,,Twardogora,dolno?l?skie,Poland
 2600462,SP4KOT,Dawid,,Bialystok,,Poland
 2600463,SQ9JYL,Milosz,,Witeradow,,Poland
 2600464,SP1MPW,Pawel,,Kolobrzeg,,Poland
 2600465,SP5J,Jan,,Warszawa,mazowieckie,Poland
-2600466,SP7PBC,Klub,,Skierniewice,lodzkie,Poland
-2600467,SP9WFU,Leszek,,Krakow,malopolskie,Poland
+2600466,SP7PBC,Klub,,Skierniewice,??dzkie,Poland
+2600467,SP9WFU,Leszek,,Krakow,ma?opolskie,Poland
 2600468,SP1AL,Andrzej,,Bydgoszcz,kujawsko-pomorskie,Poland
 2600469,SP1IC,Irek,,Zlocieniec,zachodniopomorskie,Poland
 2600470,SQ1EUF,Jaroslaw,,71-804 Szczecin,,Poland
 2600471,SQ6RKU,Dominik,,PL 55-100 Trzebnica,,Poland
 2600472,SQ6UV,Tomasz,,Bardo,,Poland
-2600473,SQ9PIO,Piotr,,Krakow,malopolskie,Poland
-2600474,SQ7JZN,Aleksander,Pieniazek,Lodz,lodzkie,Poland
-2600475,SP6IZU,Hubert,,Wroclaw,dolnoslaskie,Poland
+2600473,SQ9PIO,Piotr,,Krakow,ma?opolskie,Poland
+2600474,SQ7JZN,Aleksander,Pieniazek,Lodz,??dzkie,Poland
+2600475,SP6IZU,Hubert,,Wroclaw,dolno?l?skie,Poland
 2600476,SP3VN,Jacek,,Poznan,wielkopolskie,Poland
-2600477,SP9ERY,Aleksander,,Katowice,slaskie,Poland
+2600477,SP9ERY,Aleksander,,Katowice,?l?skie,Poland
 2600478,SP2CHY,Wojciech,,Mosty,pomorskie,Poland
-2600479,SQ8KJJ,Krzysztof,,Biala Podlaska,lubelskie,Poland
+2600479,SQ8KJJ,Krzysztof,,Bia?a Podlaska,lubelskie,Poland
 2600480,SQ5UC,Bogdan,,Zegrze,mazowieckie,Poland
-2600481,SP9TMK,Michal,,Bielsko-Biala,malopolskie,Poland
+2600481,SP9TMK,Michal,,Bielsko-Biala,ma?opolskie,Poland
 2600482,SP1RWX,Rafal,,Lobez,zachodniopomorskie,Poland
 2600483,SP2SKL,Jakub,,Gdansk,pomorskie,Poland
-2600484,SQ6KQE,Adrian,,Jelenia Gora,dolnoslaskie,Poland
+2600484,SQ6KQE,Adrian,,Jelenia Gora,dolno?l?skie,Poland
 2600485,SQ4FAU,Zdzislaw,,Bielsk Podlaski,podlaskie,Poland
 2600486,SP0MM,Michal,Brennek,Warszawa,Mazowieckie,Poland
 2600487,SQ5DAL,Leszek,,Gora Kalwaria,mazowieckie,Poland
-2600488,SP7AYJ,Jerzy,,Lodz,lodzkie,Poland
-2600489,SP6QKX,Daniel,,Jawor,dolnoslaskie,Poland
+2600488,SP7AYJ,Jerzy,,Lodz,??dzkie,Poland
+2600489,SP6QKX,Daniel,,Jawor,dolno?l?skie,Poland
 2600490,SP5MSW,Zbigniew,,Warszawa,mazowieckie,Poland
-2600491,SP6NIP,Eugeniusz,,Jawor,dolnoslaskie,Poland
+2600491,SP6NIP,Eugeniusz,,Jawor,dolno?l?skie,Poland
 2600492,SP1TC,Damian,,Szczecin,zachodniopomorskie,Poland
-2600493,SQ7OWN,Piotr,,Skarbka Dolna,swietokrzyskie,Poland
-2600494,SQ7OS,Piotr,Moron,Starachowice,swietokrzyskie,Poland
-2600495,SP6MED,Mateusz,,Strzelin,dolnoslaskie,Poland
+2600493,SQ7OWN,Piotr,,Skarbka Dolna,?wi?tokrzyskie,Poland
+2600494,SQ7OS,Piotr,Moro?,Starachowice,?wi?tokrzyskie,Poland
+2600495,SP6MED,Mateusz,,Strzelin,dolno?l?skie,Poland
 2600496,SQ4PKO,Jacek,,Bialystok,podlaskie,Poland
-2600497,SP6OJK,Jaroslaw,,Kolanowice,dolnoslaskie,Poland
+2600497,SP6OJK,Jaroslaw,,Kolanowice,dolno?l?skie,Poland
 2600498,SP1SU,Kacper,,Swinoujscie,zachodniopomorskie,Poland
 2600499,SP8NFH,Andrzej,Rogalinski,Lesko,podkarpackie,Poland
-2600500,SQ7AIE,Andrzej,,Piotrkow Tryb,lodzkie,Poland
-2600501,SP6LZA,Marcin,,Wroclaw,dolnoslaskie,Poland
-2600502,SP6XXB,Henryk,,Wroclaw,dolnoslaskie,Poland
+2600500,SQ7AIE,Andrzej,,Piotrkow Tryb,??dzkie,Poland
+2600501,SP6LZA,Marcin,,Wroclaw,dolno?l?skie,Poland
+2600502,SP6XXB,Henryk,,Wroclaw,dolno?l?skie,Poland
 2600503,SQ7BCE,Marcin,,Kielce,,Poland
-2600504,SP9KJK,Jan,Kulinski,Bedzin,slaskie,Poland
+2600504,SP9KJK,Jan,Kulinski,Bedzin,?l?skie,Poland
 2600505,SP3GVG,Grzegorz,,Gniezno,wielkopolskie,Poland
 2600506,SO1SS,Armand,Budzianowski,Kolo,wielkopolskie,Poland
 2600507,SQ6RDO,Artur,Sztuka,Wroclaw,opolskie,Poland
 2600508,SO3AKO,Tomasz,Labedzki,Plewiska,wielkopolskie,Poland
-2600509,SQ9RII,Szymon,Sajdak,Dabrowa Gornicza,slaskie,Poland
-2600510,SQ7PSP,Piotr,Wasiak,Kielce,swietokrzyskie,Poland
+2600509,SQ9RII,Szymon,Sajdak,Dabrowa G?rnicza,?l?skie,Poland
+2600510,SQ7PSP,Piotr,Wasiak,Kielce,?wi?tokrzyskie,Poland
 2600511,SP2DW,Dariusz,Wydra,Gdansk,pomorskie,Poland
-2600512,SQ9MSE,Grzegorz,,Gliwice,slaskie,Poland
-2600513,SQ2MTK,Grzegorz,Radtke,Gorzedziej,pomorskie,Poland
-2600514,SQ9HHC,Waldemar,Fros,Pogrzebien,slaskie,Poland
-2600515,SP9HG,Boguslaw,Krol,Nowy Sacz,malopolskie,Poland
+2600512,SQ9MSE,Grzegorz,,Gliwice,?l?skie,Poland
+2600513,SQ2MTK,Grzegorz,Radtke,Gorz?dziej,pomorskie,Poland
+2600514,SQ9HHC,Waldemar,Fros,Pogrzebien,?l?skie,Poland
+2600515,SP9HG,Boguslaw,Krol,Nowy Sacz,ma?opolskie,Poland
 2600516,SP8UZI,Janusz,Kaszycki,Sanok,podkarpackie,Poland
 2600517,SP5XMD,Maciej,Nowak,Warszawa,mazowieckie,Poland
 2600518,HF4ALL,Marcin,,,,Poland
-2600519,SQ6POE,Jan,Malek,Zabkowice Slaskie,dolnoslaskie,Poland
-2600520,SQ6ILJ,Jakub,Burdka,Wroclaw,dolnoslaskie,Poland
-2600521,SP6MAW,Mariusz,Wojcik,Glogow,dolnoslaskie,Poland
-2600522,SP7WQZ,Zdzislaw,Miernik ,Suchedniow,swietokrzyskie,Poland
-2600523,SQ7QM,Dariusz,Papis,Lodz,lodzkie,Poland
-2600524,SP9SR,Jacek,,Rybnik,slaskie,Poland
-2600525,SQ7QM,Dariusz,Papis,Lodz,lodzkie,Poland
+2600519,SQ6POE,Jan,Malek,Zabkowice Slaskie,dolno?l?skie,Poland
+2600520,SQ6ILJ,Jakub,Burdka,Wroclaw,dolno?l?skie,Poland
+2600521,SP6MAW,Mariusz,Wojcik,Glogow,dolno?l?skie,Poland
+2600522,SP7WQZ,Zdzislaw,Miernik ,Suchedniow,?wi?tokrzyskie,Poland
+2600523,SQ7QM,Dariusz,Papis,Lodz,??dzkie,Poland
+2600524,SP9SR,Jacek,,Rybnik,?l?skie,Poland
+2600525,SQ7QM,Dariusz,Papis,Lodz,??dzkie,Poland
 2600526,SP5IYD,Jerzy,Paczocha,Siedliska,mazowieckie,Poland
-2600527,SQ9BDB,Artur,Sluzalek,Sosnowiec,slaskie,Poland
-2600528,SP4DS,Daniel,,Barczewo,warminsko-mazurskie,Poland
+2600527,SQ9BDB,Artur,Sluzalek,Sosnowiec,?l?skie,Poland
+2600528,SP4DS,Daniel,,Barczewo,warmi?sko-mazurskie,Poland
 2600529,SQ5PEP,Piotr,Pogorzelski,Zyrardow,mazowieckie,Poland
 2600530,SP1UF,Franciszek,Lewandowski,Szczecin,zachodniopomorskie,Poland
-2600531,SP2PA,Tymoteusz,Ziemak,Paslek,warminsko-mazurskie,Poland
-2600532,SQ6DJ,Piotr,,Wroclaw,dolnoslaskie,Poland
-2600533,SP6CRV,Lukasz,Malysz,Wroclaw,dolnoslaskie,Poland
+2600531,SP2PA,Tymoteusz,Ziemak,Paslek,warmi?sko-mazurskie,Poland
+2600532,SQ6DJ,Piotr,,Wroclaw,dolno?l?skie,Poland
+2600533,SP6CRV,Lukasz,Malysz,Wroclaw,dolno?l?skie,Poland
 2600534,SP3AWK,Cezary,Walczak,Makoszyce,wielkopolskie,Poland
 2600535,SP5PRP,Pawel,,Warszawa,mazowieckie,Poland
 2600536,SQ3TGQ,Piotr,Jarczewski,Sierakowo,wielkopolskie,Poland
 2600537,SQ8GL,Krzysztof,Wesolowski,Lublin,lubelskie,Poland
-2600538,SP6MLT,Andrzej,Lukowiak,Wroclaw,dolnoslaskie,Poland
-2600539,SQ9RIF,Janusz,Filary,Rybnik,slaskie,Poland
-2600540,SQ6IYD,Mariusz,Warchal,Lubin,dolnoslaskie,Poland
+2600538,SP6MLT,Andrzej,Lukowiak,Wroclaw,dolno?l?skie,Poland
+2600539,SQ9RIF,Janusz,Filary,Rybnik,?l?skie,Poland
+2600540,SQ6IYD,Mariusz,Warchal,Lubin,dolno?l?skie,Poland
 2600541,SQ5PS,Pawel,,Nadarzyn,mazowieckie,Poland
 2600542,SQ5AGD,Agnieszka,,Pruszkow,mazowieckie,Poland
-2600543,SQ9APO,Jacek,Tobiasz,Szarow,malopolskie,Poland
-2600544,SP7ZEG,Piotr,Zegota,Lodz,lodzkie,Poland
+2600543,SQ9APO,Jacek,Tobiasz,Szarow,ma?opolskie,Poland
+2600544,SP7ZEG,Piotr,Zegota,Lodz,??dzkie,Poland
 2600545,SP5UFK,Adam,Zalewski,Warszawa,mazowieckie,Poland
 2600546,SP5MTY,Mateusz,Tyrakowski,Warszawa,mazowieckie,Poland
 2600547,SP2SNF,Sebastian,Nowak,Inowroclaw,kujawsko-pomorskie,Poland
 2600548,SP3VAT,Andrzej,Kapron,Nowa Sol,lubuskie,Poland
 2600549,SQ5EWE,Ewelina,Janeczek,Warszawa,mazowieckie,Poland
-2600550,SQ7LQA,Tomasz,,Lodz,lodzkie,Poland
-2600551,SP6NVB,Bogdan,Morawski,Wroclaw,dolnoslaskie,Poland
+2600550,SQ7LQA,Tomasz,,Lodz,??dzkie,Poland
+2600551,SP6NVB,Bogdan,Morawski,Wroclaw,dolno?l?skie,Poland
 2600552,SQ5RS,Jakub,Rosiak,Plonsk,mazowieckie,Poland
-2600553,SQ9KWX,Grzegorz,Morawski,Olkusz,malopolskie,Poland
-2600554,SQ7HJE,Dariusz,,Rogozno,lodzkie,Poland
-2600555,SQ7ROT,Rafal,,Lodz,lodzkie,Poland
-2600556,SP9FTW,Walenty,Jacak,Szczawnica,malopolskie,Poland
-2600557,SQ9MLC,Leszek,Matacz,Bytom,slaskie,Poland
-2600558,SP6TPX,Roman,Wyrobek,Chorzow,slaskie,Poland
+2600553,SQ9KWX,Grzegorz,Morawski,Olkusz,ma?opolskie,Poland
+2600554,SQ7HJE,Dariusz,,Rogozno,??dzkie,Poland
+2600555,SQ7ROT,Rafal,,Lodz,??dzkie,Poland
+2600556,SP9FTW,Walenty,Jacak,Szczawnica,ma?opolskie,Poland
+2600557,SQ9MLC,Leszek,Matacz,Bytom,?l?skie,Poland
+2600558,SP6TPX,Roman,Wyrobek,Chorzow,?l?skie,Poland
 2600559,SQ3SWJ,Andrzej,Cichosz,Myjomice,wielkopolskie,Poland
 2600560,SQ8SKD,Dawid,Skros,Chelm,lubelskie,Poland
 2600561,SP2WAN,Mateusz,Wantoch-Rekowski,Pruszcz Gdanski,pomorskie,Poland
 2600562,SP2REK,Pawel,Wantoch-Rekowski,Pruszcz Gdanski,pomorskie,Poland
-2600563,SP2QCQ,Edward,Ginter,Elblag,warminsko-mazurskie,Poland
+2600563,SP2QCQ,Edward,Ginter,Elblag,warmi?sko-mazurskie,Poland
 2600564,3Z5S,Witold,Zakrzewski,Warszawa,mazowieckie,Poland
 2600566,SP3KO,Jaroslaw,Majewski,Zielona Gora,lubuskie,Poland
 2600567,SQ5K,Michal,Leniec,Turow,mazowieckie,Poland
-2600568,SP9XLC,Andrzej,Urbanczyk,Wymyslow,slaskie,Poland
+2600568,SP9XLC,Andrzej,Urbanczyk,Wymys?ow,?l?skie,Poland
 2600569,SP2SCH,Michal,Emler,Bedomin,pomorskie,Poland
-2600570,SQ6BL,Lukasz,Binkowski,Boguslawice,dolnoslaskie,Poland
+2600570,SQ6BL,Lukasz,Binkowski,Boguslawice,dolno?l?skie,Poland
 2600571,SP3N,Antoni,Marchwacki,Ostrzeszow,wielkopolskie,Poland
-2600572,SP4SV,Marek,Dubiel,Lomza,podlaskie,Poland
+2600572,SP4SV,Marek,Dubiel,?om?a,podlaskie,Poland
 2600573,SQ3LVF,Andrzej,Brys,Wyrzysk,wielkopolskie,Poland
-2600574,SQ9NJJ,Bartlomiej,Zielinski,Wlasna,slaskie,Poland
-2600575,SQ6NCN,Sylwester,Smok,Wroclaw,dolnoslaskie,Poland
+2600574,SQ9NJJ,Bartlomiej,Zielinski,Wlasna,?l?skie,Poland
+2600575,SQ6NCN,Sylwester,Smok,Wroclaw,dolno?l?skie,Poland
 2600576,SP3B,Bartosz,Nowak,Komorniki,wielkopolskie,Poland
-2600577,SP9VEP,Tomasz,Wozniak,Przybyslawice,malopolskie,Poland
+2600577,SP9VEP,Tomasz,Wozniak,Przybyslawice,ma?opolskie,Poland
 2600578,SP0J,Dawid,Guzenda,Poznan,wielkopolskie,Poland
 2600579,SQ3KNT,Zdzislaw,Kilanowski,Poznan,wielkopolskie,Poland
 2600580,SQ5NBR,Jan,,Warszawa,mazowieckie,Poland
-2600581,SQ6NLN,Wlodzimierz,Tarnowski,Wysoka,dolnoslaskie,Poland
+2600581,SQ6NLN,Wlodzimierz,Tarnowski,Wysoka,dolno?l?skie,Poland
 2600582,SP5XHJ,Czeslaw,Faderewski,Zawady,mazowieckie,Poland
-2600583,SP6OM,Mateusz,Stojek,Wroclaw,dolnoslaskie,Poland
+2600583,SP6OM,Mateusz,Stojek,Wroclaw,dolno?l?skie,Poland
 2600584,SP5TL,Tomasz,Lubiejewski,Warszawa,mazowieckie,Poland
-2600585,SP7WNY,Wlodzimierz,Soplinski,Zgierz,lodzkie,Poland
+2600585,SP7WNY,Wlodzimierz,Soplinski,Zgierz,??dzkie,Poland
 2600587,SP44WFF,Ryszard,Wiktor,Rzeszow,podkarpackie,Poland
-2600588,SP6EWO,Oleg,Olivson,Wroclaw,dolnoslaskie,Poland
-2600589,SQ9MDN,Jacek,,Zabrze,slaskie,Poland
+2600588,SP6EWO,Oleg,Olivson,Wroclaw,dolno?l?skie,Poland
+2600589,SQ9MDN,Jacek,,Zabrze,?l?skie,Poland
 2600590,SQ1SDY,Tadeusz,,Swinoujscie,zachodniopomorskie,Poland
 2600591,SP2HBS,Tomasz,Oplaczko,Gdynia,pomorskie,Poland
-2600592,3Z5APKV,Artur,,Bronislawow,mazowieckie,Poland
-2600593,SP4ZHT,ZHP Dzialdowo,Harcerski Klub Lacznosci,Dzialdowo,warminsko-mazurskie,Poland
+2600592,3Z5APKV,Artur,,Bronis?awow,mazowieckie,Poland
+2600593,SP4ZHT,ZHP Dzialdowo,Harcerski Klub ??czno?ci,Dzialdowo,warmi?sko-mazurskie,Poland
 2600594,SQ3AUA,Jacek,Baranowski,Pila,wielkopolskie,Poland
-2600595,SQ6BBX,Maciej,Mrozinski,Olawa,dolnoslaskie,Poland
-2600596,SP7WQV,Edward,Mackowiak,Korzecko,swietokrzyskie,Poland
+2600595,SQ6BBX,Maciej,Mrozinski,Olawa,dolno?l?skie,Poland
+2600596,SP7WQV,Edward,Mackowiak,Korzecko,?wi?tokrzyskie,Poland
 2600597,SP1LON,Piotr,Kijowski,Dobra,zachodniopomorskie,Poland
-2600598,SP6AW,Andrzej,,Milkowice,dolnoslaskie,Poland
+2600598,SP6AW,Andrzej,,Milkowice,dolno?l?skie,Poland
 2600599,SQ4P,Przemek,,Bialystok,podlaskie,Poland
-2600600,SP0RP,Klub,Fundacja,Czestochowa,slaskie,Poland
+2600600,SP0RP,Klub,Fundacja,Czestochowa,?l?skie,Poland
 2600601,SQ2AGA,Agnieszka,,Bydgoszcz,kujawsko-pomorskie,Poland
-2600602,SQ6JNH,Janusz,Pasnik,Wroclaw,dolnoslaskie,Poland
-2600603,SP9OKO,Kacper,Sokolowski,Krakow,malopolskie,Poland
-2600604,SP1ARE,Arkadiusz,Orlowski,Wiartel,warminsko-mazurskie,Poland
-2600605,SQ8OY,Mariusz,,Cracov,malopolskie,Poland
-2600606,SP7WM,Wojciech,Marczynski,Leczyca,lodzkie,Poland
+2600602,SQ6JNH,Janusz,Pasnik,Wroclaw,dolno?l?skie,Poland
+2600603,SP9OKO,Kacper,Soko?owski,Krakow,ma?opolskie,Poland
+2600604,SP1ARE,Arkadiusz,Orlowski,Wiartel,warmi?sko-mazurskie,Poland
+2600605,SQ8OY,Mariusz,,Cracov,ma?opolskie,Poland
+2600606,SP7WM,Wojciech,Marczynski,Leczyca,??dzkie,Poland
 2600607,SP1WR,Marek,Wiaderek,Ryman,zachodniopomorskie,Poland
-2600608,SQ1KTO,Bartosz,Bialkowski,Szczecinek,zachodniopomorskie,Poland
-2600609,SP6APM,Pawel,Mazurkiewicz,Dzierzoniow,dolnoslaskie,Poland
-2600611,SQ6BMW,Robert,Szymanowski,Wroclaw,dolnoslaskie,Poland
+2600608,SQ1KTO,Bartosz,Bia?kowski,Szczecinek,zachodniopomorskie,Poland
+2600609,SP6APM,Pawel,Mazurkiewicz,Dzierzoniow,dolno?l?skie,Poland
+2600611,SQ6BMW,Robert,Szymanowski,Wroclaw,dolno?l?skie,Poland
 2600612,SQ8JMZ,Robert,Szura,Rakszawa,podkarpackie,Poland
-2600613,SP5DVB,Tadeusz,Bawej,Kutno,lodzkie,Poland
-2600614,SP6NXT,Stanislaw,Kochanowski,Miloszyce,dolnoslaskie,Poland
+2600613,SP5DVB,Tadeusz,Bawej,Kutno,??dzkie,Poland
+2600614,SP6NXT,Stanislaw,Kochanowski,Miloszyce,dolno?l?skie,Poland
 2600616,SQ2RPK,Andrzej,Tokarski,Malbork,pomorskie,Poland
 2600617,SQ2CDC,Cezary,Despot Mladanowicz,Malbork,pomorskie,Poland
 2600618,SP2CDN,Cezary,,Torun,kujawsko-pomorskie,Poland
 2600619,3Z3O,Artur,,Bialystok,podlaskie,Poland
-2600620,SQ4PBM,Stanislaw,Tylicki,Szczytno,warminsko-mazurskie,Poland
-2600621,SQ9ORK,Marcin,,Tuchow,malopolskie,Poland
-2600622,SQ9LDR,Marcin,Rudek,Zawada,malopolskie,Poland
+2600620,SQ4PBM,Stanislaw,Tylicki,Szczytno,warmi?sko-mazurskie,Poland
+2600621,SQ9ORK,Marcin,,Tuchow,ma?opolskie,Poland
+2600622,SQ9LDR,Marcin,Rudek,Zawada,ma?opolskie,Poland
 2600623,SP5MXG,Tadeusz,Gorkowski,Warszawa,mazowieckie,Poland
-2600624,SP9SZR,Robert,Laskowski,Kobior,slaskie,Poland
+2600624,SP9SZR,Robert,Laskowski,Kobior,?l?skie,Poland
 2600625,SP1RA,Andrzej,Knasiak,Swidwin,zachodniopomorskie,Poland
-2600626,SQ9NOP,Piotr,Biegun,Zabnica,slaskie,Poland
+2600626,SQ9NOP,Piotr,Biegun,Zabnica,?l?skie,Poland
 2600627,SQ5FNQ,Marcin,Stolarski,Warszawa,mazowieckie,Poland
 2600628,SP3RAO,Jan,Zarzecki,Kaszczor,wielkopolskie,Poland
-2600629,SQ5WJP,Witold,Popiolek,Warszawa,mazowieckie,Poland
-2600630,SQ9GEE,Lukasz,Kesek,Liszki,malopolskie,Poland
+2600629,SQ5WJP,Witold,Popio?ek,Warszawa,mazowieckie,Poland
+2600630,SQ9GEE,Lukasz,Kesek,Liszki,ma?opolskie,Poland
 2600631,SQ1MNC,Michal,Polakowski,Swinoujscie,zachodniopomorskie,Poland
-2600632,SN9E,Mateusz,Kulach,Podzamcze,slaskie,Poland
+2600632,SN9E,Mateusz,Kulach,Podzamcze,?l?skie,Poland
 2600633,SP2BPK,Piotr,Kohls,Bydgoszcz,kujawsko-pomorskie,Poland
-2600634,SQ9HYR,Tomasz,,Myslowice,slaskie,Poland
-2600635,SP9IT,Jacek,Czerwinski,Nowy Sacz,malopolskie,Poland
+2600634,SQ9HYR,Tomasz,,Myslowice,?l?skie,Poland
+2600635,SP9IT,Jacek,Czerwinski,Nowy Sacz,ma?opolskie,Poland
 2600636,SP3LRZ,Jerzy,Broda,Poznan,wielkopolskie,Poland
 2600637,SQ5APT,Przemek,,Siedlce,mazowieckie,Poland
-2600638,SP7NW,Karol,Zawadzki,Kielce,swietokrzyskie,Poland
+2600638,SP7NW,Karol,Zawadzki,Kielce,?wi?tokrzyskie,Poland
 2600639,HF3DWD,Robert,,Konotop,lubuskie,Poland
-2600640,SP6OWV,Grzegorz,Marczek,Strzegom,dolnoslaskie,Poland
-2600641,SQ7KHW,Michal,Kucinski,Lodz,lodzkie,Poland
+2600640,SP6OWV,Grzegorz,Marczek,Strzegom,dolno?l?skie,Poland
+2600641,SQ7KHW,Michal,Kucinski,Lodz,??dzkie,Poland
 2600642,SP3EAT,Andrzej,Mackowiak,Poznan,wielkopolskie,Poland
 2600643,SP5JG,Marek,Mlynarczyk,Warszawa,mazowieckie,Poland
-2600644,SQ9JDH,Dariusz,Wilkus,Maruszyna,malopolskie,Poland
+2600644,SQ9JDH,Dariusz,Wilkus,Maruszyna,ma?opolskie,Poland
 2600645,SQ8KO,Krzysztof,Owsiany,Sanok,podkarpackie,Poland
 2600646,SP3CW,Artur,Topczewski,Leszno,wielkopolskie,Poland
-2600648,SQ9IPX,Krystian,Siembida,Krakow,malopolskie,Poland
-2600649,SQ9LGK,Krzysztof,Kogut,Nowy Sacz,malopolskie,Poland
+2600648,SQ9IPX,Krystian,Siembida,Krakow,ma?opolskie,Poland
+2600649,SQ9LGK,Krzysztof,Kogut,Nowy Sacz,ma?opolskie,Poland
 2600650,SP5WTF,Piotr,Michniewski,Bramki,mazowieckie,Poland
 2600651,SP8PKT,Dariusz,Izdebski,Biala Podlaska,lubelskie,Poland
 2600652,SP8IPJ,Miroslaw,Perdak,Mielec,podkarpackie,Poland
@@ -637,124 +637,124 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2600655,SP8AQK,Adrian,Szumilas,Lezajsk,podkarpackie,Poland
 2600656,SQ2HEI,Piotr,Gronczewski,Gdansk,pomorskie,Poland
 2600657,SQ5LPT,Lukasz,Przybylo,Warszawa,mazowieckie,Poland
-2600658,SP3NUH,Jacek,Marciniak,Poznan,wielkopolskie,Poland
+2600658,SP3NUH,Jacek,Marciniak,Pozna?,wielkopolskie,Poland
 2600659,SP1HX,Henryk,,Kolobrzeg,zachodniopomorskie,Poland
 2600661,SQ7SCD,Dominik,,Poznan,wielkopolskie,Poland
 2600662,SP5NVX,Tomasz,Kuczerski,Warszawa,mazowieckie,Poland
-2600663,SP6WJM,Wojciech,Mieszczak,Luban,dolnoslaskie,Poland
-2600664,SQ9IWU,Ryszard,Brzozka,Katowice,slaskie,Poland
+2600663,SP6WJM,Wojciech,Mieszczak,Luban,dolno?l?skie,Poland
+2600664,SQ9IWU,Ryszard,Brzozka,Katowice,?l?skie,Poland
 2600665,SQ3AM,Artur,Matys,Siedlikow,wielkopolskie,Poland
-2600666,SP7MTU,Zbigniew,,Lodz,lodzkie,Poland
-2600667,SP9THO,Krzysztof,Mzyk,Klimontow,malopolskie,Poland
+2600666,SP7MTU,Zbigniew,,Lodz,??dzkie,Poland
+2600667,SP9THO,Krzysztof,Mzyk,Klimontow,ma?opolskie,Poland
 2600668,SP8OBU,Iwona,Krupska,Rzeszow,podkarpackie,Poland
-2600669,SQ2NNR,Arkadiusz,Ciesielski,Kielpino,pomorskie,Poland
-2600670,SQ7LRW,Waldek,,Lodz,lodzkie,Poland
-2600671,SP9EOT,Pawel,,Krakow,malopolskie,Poland
+2600669,SQ2NNR,Arkadiusz,Ciesielski,Kie?pino,pomorskie,Poland
+2600670,SQ7LRW,Waldek,,Lodz,??dzkie,Poland
+2600671,SP9EOT,Pawel,,Krakow,ma?opolskie,Poland
 2600672,SP2LIU,Dariusz,,Gdynia,pomorskie,Poland
-2600673,SP9ADI,Adam,Urbanski,Sosnowiec,slaskie,Poland
+2600673,SP9ADI,Adam,Urbanski,Sosnowiec,?l?skie,Poland
 2600674,SP8GB,Grzegorz,Buczylo,Hola,lubelskie,Poland
 2600675,SQ2DW,Dawid,Zapiec,Zbrachlin,kujawsko-pomorskie,Poland
-2600676,SP6JBF,Jacek,Bakowski,Legnica,dolnoslaskie,Poland
+2600676,SP6JBF,Jacek,Bakowski,Legnica,dolno?l?skie,Poland
 2600677,SP4H,Tomasz,,Bialystok,podlaskie,Poland
 2600678,SP4QK,Jakub,Kostiuczuk,Bialystok,podlaskie,Poland
-2600679,SP7XIX,Jerzy,Szczerba,Lodz,lodzkie,Poland
+2600679,SP7XIX,Jerzy,Szczerba,Lodz,??dzkie,Poland
 2600680,SP2WHM,Dariusz,Steczniewski,Zajezierze,pomorskie,Poland
 2600681,SQ2LXT,Tomasz,Muskala,Torun,kujawsko-pomorskie,Poland
 2600682,SP4SP,Grzegorz,Lange,Bialystok,podlaskie,Poland
 2600683,SP3WVQ,Andrzej,Nowak,Stare Stracze,lubuskie,Poland
 2600684,SP3SLU,Jerzy,Gomoliszewski,Turek,wielkopolskie,Poland
-2600686,SP6MG,Marek,Gajewski,Tarnowskie Gory,slaskie,Poland
+2600686,SP6MG,Marek,Gajewski,Tarnowskie Gory,?l?skie,Poland
 2600688,SP3CMX,Mieczyslaw,Czarnecki,Gorzow Wielkopolski,lubuskie,Poland
-2600689,SQ9DDY,Janusz,Sikorski,Mochnaczka,malopolskie,Poland
+2600689,SQ9DDY,Janusz,Sikorski,Mochnaczka,ma?opolskie,Poland
 2600690,SP3OKS,Slawomir ,Krysztofowicz,Posada,wielkopolskie,Poland
 2600691,SQ8IFF,Konrad,Komada,Lublin,lubelskie,Poland
-2600692,SP4AGA,Agnieszka,Sztachanska,Biala Piska,warminsko-mazurskie,Poland
+2600692,SP4AGA,Agnieszka,Sztachanska,Biala Piska,warmi?sko-mazurskie,Poland
 2600693,SQ3SWA,Artur,Makowski,Chodziez,wielkopolskie,Poland
 2600694,SP5RST,Robert,Siwiec,Olszewnica Stara,mazowieckie,Poland
-2600695,SQ9CSB,Sebastian,,Bytom,slaskie,Poland
-2600696,SQ9KGB,Dariusz,Pcionek,Krakow,malopolskie,Poland
-2600697,SQ6ADD,Dawid,,Swidnica,dolnoslaskie,Poland
+2600695,SQ9CSB,Sebastian,,Bytom,?l?skie,Poland
+2600696,SQ9KGB,Dariusz,Pcionek,Krakow,ma?opolskie,Poland
+2600697,SQ6ADD,Dawid,,?widnica,dolno?l?skie,Poland
 2600698,SQ7LQT,Zbigniew ,,,,Poland
-2600699,SP9OUV,Jacek,Nowak,Bielsko Biala,slaskie,Poland
-2600700,SP7CC,Arek,,Lodz,lodzkie,Poland
-2600701,SP7ELO,Bartosz,,Lowicz,lodzkie,Poland
+2600699,SP9OUV,Jacek,Nowak,Bielsko Biala,?l?skie,Poland
+2600700,SP7CC,Arek,,Lodz,??dzkie,Poland
+2600701,SP7ELO,Bartosz,,Lowicz,??dzkie,Poland
 2600702,SQ2KAK,Mariusz,,Bydgoszcz,kujawsko-pomorskie,Poland
 2600703,SQ8NQW,Marek,Wos,Terliczka,podkarpackie,Poland
-2600704,SQ7RAI,Artur,Janus,Opoczno,lodzkie,Poland
-2600705,SQ9JDR,Janusz,Pietruszkiewicz,Mloszowa,malopolskie,Poland
-2600706,SQ2PPL,Sebastian,Labuda,Nowa Wies Leborska,pomorskie,Poland
-2600707,SP7PGK,Klub,OT 15,Lodz,lodzkie,Poland
-2600708,SQ7HJX,Przemek,Balinski,Wlodzimierzow,lodzkie,Poland
+2600704,SQ7RAI,Artur,Janus,Opoczno,??dzkie,Poland
+2600705,SQ9JDR,Janusz,Pietruszkiewicz,Mloszowa,ma?opolskie,Poland
+2600706,SQ2PPL,Sebastian,Labuda,Nowa Wie? L?borska,pomorskie,Poland
+2600707,SP7PGK,Klub,OT 15,Lodz,??dzkie,Poland
+2600708,SQ7HJX,Przemek,Balinski,Wlodzimierzow,??dzkie,Poland
 2600709,SP8LNK,Stanislaw,Krupa,Lezajsk,podkarpackie,Poland
-2600710,SQ1DNJ,Dariusz,Kedzierski,Rogowo,zachodniopomorskie,Poland
+2600710,SQ1DNJ,Dariusz,K?dzierski,Rogowo,zachodniopomorskie,Poland
 2600711,SP5SLT,Krzysztof,,Warszawa,mazowieckie,Poland
 2600712,SQ2M,Marek,Borucz,Warszawa,mazowieckie,Poland
 2600713,SP8RO,Robert,Burlikowski,Zalesie,lubelskie,Poland
 2600714,SP6PNZ,Klub,Krotkofalowcow Ziemi Nyskiej,Nysa,opolskie,Poland
-2600715,SO9AHC,Krystian,Poks,Strzebin,slaskie,Poland
-2600716,SP9VRF,Stanislaw,,Nowy Sacz,malopolskie,Poland
+2600715,SO9AHC,Krystian,Poks,Strzebin,?l?skie,Poland
+2600716,SP9VRF,Stanislaw,,Nowy Sacz,ma?opolskie,Poland
 2600717,SQ3GNN,Adam,Ignaszak,Jarocin,wielkopolskie,Poland
-2600718,SP4LIN,Krzysztof,Bielus,Zalewo,warminsko-mazurskie,Poland
-2600719,SQ9RHS,Marek,,Pszczyna,slaskie,Poland
+2600718,SP4LIN,Krzysztof,Bie?u?,Zalewo,warmi?sko-mazurskie,Poland
+2600719,SQ9RHS,Marek,,Pszczyna,?l?skie,Poland
 2600720,SQ8MVO,Piotr, ,Rzeszow,podkarpackie,Poland
 2600721,SQ2JSG,Marian,Ropel,Kartuzy,pomorskie,Poland
 2600722,SQ2LYZ,Daniel,Dargacz,Przodkowo,pomorskie,Poland
 2600723,SQ2JSN,Jaroslaw,Tojza,Gdansk,pomorskie,Poland
-2600724,SP3AKL,Krzysztof,Adamczuk,Nowogrod Bobrzanski,lubuskie,Poland
-2600725,SP6RG,Bogdan,Woloszyn,Sokolniki,dolnoslaskie,Poland
+2600724,SP3AKL,Krzysztof,Adamczuk,Nowogr?d Bobrza?ski,lubuskie,Poland
+2600725,SP6RG,Bogdan,Wo?oszyn,Sokolniki,dolno?l?skie,Poland
 2600726,SP8RJK,Dariusz,Szybiak,Dubiecko,podkarpackie,Poland
 2600727,SQ3SWZ,Zbigniew,Walszewski,Rawicz,wielkopolskie,Poland
-2600728,SP1DK,Dariusz,Kumiega,Lysa Gora,swietokrzyskie,Poland
+2600728,SP1DK,Dariusz,Kumiega,Lysa Gora,?wi?tokrzyskie,Poland
 2600729,SP5MNF,Marek,Golda,Wolkowyja,podkarpackie,Poland
-2600730,SP6RXP,Piotr,Reda,Olesnica,dolnoslaskie,Poland
-2600732,SQ4HRX,Krystian,,Kalskie Nowiny,warminsko-mazurskie,Poland
-2600733,SP6O,Robert,Olearczyk,Swidnica,dolnoslaskie,Poland
+2600730,SP6RXP,Piotr,Reda,Olesnica,dolno?l?skie,Poland
+2600732,SQ4HRX,Krystian,,Kalskie Nowiny,warmi?sko-mazurskie,Poland
+2600733,SP6O,Robert,Olearczyk,Swidnica,dolno?l?skie,Poland
 2600734,SQ2OTP,Dariusz,Czarnecki,Gdynia,pomorskie,Poland
-2600735,SQ7IQO,Marek,Moczkowski,Plichtow,lodzkie,Poland
+2600735,SQ7IQO,Marek,Moczkowski,Plichtow,??dzkie,Poland
 2600736,SQ7HIL,Piotr,Koleczko,Stalowa Wola,podkarpackie,Poland
 2600737,SQ2MK,Michal, ,Gdynia,pomorskie,Poland
 2600738,SP1HM,Henryk,Marjak,Mierzyn,zachodniopomorskie,Poland
 2600739,SN5HRT,Maciej,Hawrylecki,Piaseczno,mazowieckie,Poland
-2600740,SP9FGZ,Zbigniew,Gorgon,Bielsko-Biala,slaskie,Poland
+2600740,SP9FGZ,Zbigniew,Gorgon,Bielsko-Biala,?l?skie,Poland
 2600741,SQ2CDK,Tomasz,Pyrak,Gdansk,pomorskie,Poland
 2600742,HF5WWL,Robert, ,Wolomin,mazowieckie,Poland
 2600743,SN2DP,Dariusz,Piorkowski,Obory,kujawsko-pomorskie,Poland
 2600744,SP8DK,Tomasz,Wisniewski,Kocudza,lubelskie,Poland
 2600745,SP1MDR,Stanislaw,Kosalka,Karsino,zachodniopomorskie,Poland
-2600746,SP5GRZ,Grzegorz,,Milanowek,mazowieckie,Poland
-2600747,SQ6POH,Karol,Bejm,Wolow,dolnoslaskie,Poland
-2600748,SQ9BZ,Lukasz,Zelechowski,Katowice,slaskie,Poland
+2600746,SP5GRZ,Grzegorz,,Milan?wek,mazowieckie,Poland
+2600747,SQ6POH,Karol,Bejm,Wolow,dolno?l?skie,Poland
+2600748,SQ9BZ,Lukasz,Zelechowski,Katowice,?l?skie,Poland
 2600749,SP5BUD,Krzysztof,Kencki,Warszawa,mazowieckie,Poland
 2600750,SQ5MS,Marcin,Sawicki,Zabki,mazowieckie,Poland
-2600751,SQ7EL,Przemyslaw,Muras,Lodz,lodzkie,Poland
+2600751,SQ7EL,Przemyslaw,Muras,Lodz,??dzkie,Poland
 2600752,SP5GSM,Mariusz,Kaniecki,Warszawa,mazowieckie,Poland
 2600753,SP8TJC,Jacek,Rozpara,Krosno,podkarpackie,Poland
 2600754,SP5DBW,Jaroslaw, ,Warszawa,mazowieckie,Poland
 2600755,SQ5SZS,Szymon, ,Falenty,mazowieckie,Poland
 2600756,SP4WRF,Krzysztof,Gryc,Hajnowka,podlaskie,Poland
-2600757,SP7JAC,Jacek,,Opoczno,lodzkie,Poland
-2600758,SP8CQN,Dariusz,Krol,Lublin,lubelskie,Poland
+2600757,SP7JAC,Jacek,,Opoczno,??dzkie,Poland
+2600758,SP8CQN,Dariusz,Kr?l,Lublin,lubelskie,Poland
 2600759,SQ9QS,Maciej,Wrobel,Warszawa,mazowieckie,Poland
 2600760,SP8PA,Przemyslaw,Albin,Krasnik,lubelskie,Poland
-2600761,SQ9LFC,Czeslaw,Orlecki,Nowy Sacz,malopolskie,Poland
+2600761,SQ9LFC,Czeslaw,Orlecki,Nowy Sacz,ma?opolskie,Poland
 2600762,SQ5MGD,Dario,Kostarski,Warszawa,mazowieckie,Poland
-2600763,SP6DAN,Daniel,Smilowski,Piotrowice,dolnoslaskie,Poland
-2600764,SQ7AM,Artur,,Lodz,lodzkie,Poland
-2600765,SP4PSP,Dominik ,Deptula,Szczytno,warminsko-mazurskie,Poland
-2600766,SP4PD,Piotr,Draszek,Olsztyn,warminsko-mazurskie,Poland
+2600763,SP6DAN,Daniel,Smilowski,Piotrowice,dolno?l?skie,Poland
+2600764,SQ7AM,Artur,,Lodz,??dzkie,Poland
+2600765,SP4PSP,Dominik ,Deptula,Szczytno,warmi?sko-mazurskie,Poland
+2600766,SP4PD,Piotr,Draszek,Olsztyn,warmi?sko-mazurskie,Poland
 2600767,SP3IEG,Jaroslaw,Rozanek,Opalenica,wielkopolskie,Poland
 2600768,SQ6PR,Piotr ,Radzimski,Opole,opolskie,Poland
-2600769,SP9RPH,Tadeusz,Romanski,Marcinkowice,malopolskie,Poland
-2600770,SQ7KGH,Karol,,Lodz,lodzkie,Poland
+2600769,SP9RPH,Tadeusz,Romanski,Marcinkowice,ma?opolskie,Poland
+2600770,SQ7KGH,Karol,,Lodz,??dzkie,Poland
 2600771,SP2DJN,Daniel,Nowak,Rotmanka,pomorskie,Poland
 2600772,SP8IRZ,Leszek,Chudzik,Rzeszow,podkarpackie,Poland
-2600773,SQ9LFB,Andrzej,Michalski,Nowy Sacz,malopolskie,Poland
+2600773,SQ9LFB,Andrzej,Michalski,Nowy Sacz,ma?opolskie,Poland
 2600774,SP3PDA,Adam,Witkowski,Sulecinek,wielkopolskie,Poland
 2600775,SP5ARW,Piotr,Sitek,Warszawa,mazowieckie,Poland
-2600777,SP7CC,Arek,,Lodz,lodzkie,Poland
-2600778,SP4DIR,Michal,Jasionowicz,Olsztyn,warminsko-mazurskie,Poland
-2600779,SQ9C,Michal, ,Krakow,malopolskie,Poland
-2600780,SP9XDS,Daniel,Sokol,Jaworzno,slaskie,Poland
+2600777,SP7CC,Arek,,Lodz,??dzkie,Poland
+2600778,SP4DIR,Michal,Jasionowicz,Olsztyn,warmi?sko-mazurskie,Poland
+2600779,SQ9C,Michal, ,Krak?w,ma?opolskie,Poland
+2600780,SP9XDS,Daniel,Sokol,Jaworzno,?l?skie,Poland
 2600781,SP2XD,Jerzy,,Torun,kujawsko-pomorskie,Poland
 2600782,SP8BAR,Maciej,Barszczak,Nienadowa,podkarpackie,Poland
 2600783,SP8BUH,Wojciech,Daraz,Rzeszow,podkarpackie,Poland
@@ -763,48 +763,48 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2600786,SP3MO,Maciej,Olaszek,Rzgow,wielkopolskie,Poland
 2600787,SP5ATX,Patryk, ,Marki,mazowieckie,Poland
 2600788,SQ5JNJ,Wojciech,Lugowski,Moscibrody,mazowieckie,Poland
-2600789,SP9TPX,Patryk,Bonczyk,Belk,slaskie,Poland
+2600789,SP9TPX,Patryk,Bonczyk,Belk,?l?skie,Poland
 2600790,SQ5BIO,Ewa,,Leszno,mazowieckie,Poland
-2600791,SQ7T,Marcin,Wolkowicz,Lodz,lodzkie,Poland
+2600791,SQ7T,Marcin,Wolkowicz,Lodz,??dzkie,Poland
 2600792,SP3Q,Jakub,Brodecki,Nekla,wielkopolskie,Poland
-2600793,SP7EN,Dominik,Gajda,Lodz,lodzkie,Poland
+2600793,SP7EN,Dominik,Gajda,Lodz,??dzkie,Poland
 2600794,SQ5BAC,Kazimierz,Brzozowski,Siedlce,mazowieckie,Poland
 2600795,SQ8LUC,Marcin,Zajutrek,Lublin,lubelskie,Poland
 2600796,SQ2CBA,Piotr,    ,Bydgoszcz,kujawsko-pomorskie,Poland
 2600797,SP2DM,Marcin,,Gdansk,pomorskie,Poland
 2600798,SP8VGA,Marcin,Wieczorek,Lublin,lubelskie,Poland
-2600799,SP6CYN,Slawomir,Siejak,Bielawa,dolnoslaskie,Poland
-2600800,SQ7PGP,Michal,Nawrocki,Sieradz,lodzkie,Poland
-2600801,SP6BKJ,Jakub,Fedyczak,Wroclaw,dolnoslaskie,Poland
-2600802,SQ4SR,Sylwester,Rogojsz,Goldap,warminsko-mazurskie,Poland
-2600803,SP6BX,Maciej,Mrozinski,Przeclawice ,dolnoslaskie,Poland
+2600799,SP6CYN,Slawomir,Siejak,Bielawa,dolno?l?skie,Poland
+2600800,SQ7PGP,Michal,Nawrocki,Sieradz,??dzkie,Poland
+2600801,SP6BKJ,Jakub,Fedyczak,Wroclaw,dolno?l?skie,Poland
+2600802,SQ4SR,Sylwester,Rogojsz,Goldap,warmi?sko-mazurskie,Poland
+2600803,SP6BX,Maciej,Mrozinski,Przeclawice ,dolno?l?skie,Poland
 2600804,SP5BI,Sylwester, 73,Jaktorow,mazowieckie,Poland
-2600805,SP9QLO,Damian,Przybyla,Katowice,slaskie,Poland
-2600806,SP7CCW,Mikolaj,Wojcicki,Dabrowa,lodzkie,Poland
-2600807,SQ4FDK,Piotr,Kowalski,Goldap,warminsko-mazurskie,Poland
+2600805,SP9QLO,Damian,Przybyla,Katowice,?l?skie,Poland
+2600806,SP7CCW,Mikolaj,Wojcicki,Dabrowa,??dzkie,Poland
+2600807,SQ4FDK,Piotr,Kowalski,Goldap,warmi?sko-mazurskie,Poland
 2600808,SQ5CKZ,Cezary,ZYCH,Marki,mazowieckie,Poland
-2600809,SP6KB,Krzysztof  ,Babij,Rakoszyce,dolnoslaskie,Poland
-2600810,SQ9WIS,Wiktor,Szydlowski,Tarnow,malopolskie,Poland
+2600809,SP6KB,Krzysztof  ,Babij,Rakoszyce,dolno?l?skie,Poland
+2600810,SQ9WIS,Wiktor,Szyd?owski,Tarn?w,ma?opolskie,Poland
 2600812,SQ2AR,Adam,,Bydgoszcz,kujawsko-pomorskie,Poland
 2600813,SQ3KAR,Adam,Cithurus,Ostrow Wielkopolski,wielkopolskie,Poland
 2600814,SQ5WTF,Piotr ,Siadaczka ,Warszawa,mazowieckie,Poland
-2600815,SP9BOT,Marcin,Szewczyk,Krakow,malopolskie,Poland
+2600815,SP9BOT,Marcin,Szewczyk,Krakow,ma?opolskie,Poland
 2600816,SP3EED,Dariusz,Chmielewski,Chodziez,wielkopolskie,Poland
 2600817,SP7SQK,Edward,Tomaniak,Garbatka Letnisko ,mazowieckie,Poland
-2600818,SP7DE,Dariusz,Dobros,Kutno,lodzkie,Poland
-2600819,SP4KWD,Dariusz,Zajaczkowski,Swietochowo,warminsko-mazurskie,Poland
-2600820,SP7LE,Lukasz,Ejsmont,Lodz,lodzkie,Poland
+2600818,SP7DE,Dariusz,Dobros,Kutno,??dzkie,Poland
+2600819,SP4KWD,Dariusz,Zajaczkowski,Swietochowo,warmi?sko-mazurskie,Poland
+2600820,SP7LE,Lukasz,Ejsmont,Lodz,??dzkie,Poland
 2600821,SQ4ENR,Jakub,Doroszkiewicz,Bialystok,podlaskie,Poland
 2600822,SP2ROC,Jakub,,Wloclawek,kujawsko-pomorskie,Poland
-2600823,SP7MOW,Andrzej,Ostrowski,Starachowice,swietokrzyskie,Poland
+2600823,SP7MOW,Andrzej,Ostrowski,Starachowice,?wi?tokrzyskie,Poland
 2600824,SP8MB,Marcin,Brzozowski,Swidnik,lubelskie,Poland
-2600825,SQ6JNZ,Andrzej,Miszczuk,Gora,dolnoslaskie,Poland
+2600825,SQ6JNZ,Andrzej,Miszczuk,Gora,dolno?l?skie,Poland
 2600826,SQ2PPJ,Piotr,Lisewski,Gdynia,pomorskie,Poland
-2600827,SP3MW,Maciej,Wolosewicz,Zielona Gora,lubuskie,Poland
+2600827,SP3MW,Maciej,Wo?osewicz,Zielona Gora,lubuskie,Poland
 2600828,SP3BKR,Maciej,Hajnos,Zielona Gora,lubuskie,Poland
 2600829,SQ3NTY,Jakub,Szpak,Zielona Gora,lubuskie,Poland
 2600830,SP5SI,Szymon,Panecki,Warszawa,mazowieckie,Poland
-2600831,SP6GDI,Przemyslaw,Oryl,Walbrzych,dolnoslaskie,Poland
+2600831,SP6GDI,Przemyslaw,Oryl,Walbrzych,dolno?l?skie,Poland
 2600832,SP3VZT,Artur,Obszynski,Kalisz,wielkopolskie,Poland
 2600833,SP2MGO,Marcin,,Gdansk,pomorskie,Poland
 2600834,SQ6ILH,Sebastian,,Scinawka,,Poland
@@ -812,168 +812,168 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2600836,SQ1GQE,Marcin,Osadowski,Stargard,zachodniopomorskie,Poland
 2600837,SQ3GOK,Robert,Budka,Turek,wielkopolskie,Poland
 2600838,SP1AR,Antoni,,Swinoujscie,zachodniopomorskie,Poland
-2600839,SP4BAO,Pawel,Kowalski,Morag,warminsko-mazurskie,Poland
+2600839,SP4BAO,Pawel,Kowalski,Morag,warmi?sko-mazurskie,Poland
 2600840,SP3XA,Cezary,Fliszkiewicz,Potrzanowo,wielkopolskie,Poland
 2600841,SP6DA,Adam,Dziadek,Nysa,opolskie,Poland
-2600842,SQ9LCL,Piotr,Romanski,Nowy Sacz,malopolskie,Poland
+2600842,SQ9LCL,Piotr,Romanski,Nowy Sacz,ma?opolskie,Poland
 2600843,SQ5JUU,Marek,Grzyb,Radom,mazowieckie,Poland
-2600844,SP9JMD,Adam,DYSZY,Debowiec,slaskie,Poland
+2600844,SP9JMD,Adam,DYSZY,Debowiec,?l?skie,Poland
 2600845,SP2SLU,Michal,Rasz,Slupsk,pomorskie,Poland
 2600846,SP2KL,Bartosz,Kubiak,Bydgoszcz,kujawsko-pomorskie,Poland
-2600847,SP9HT,Piotr,Wilk,Stanowice,slaskie,Poland
-2600848,SP7THC,Michal,Platek,Brody,swietokrzyskie,Poland
-2600849,SP7TBS,Tomasz,Bancerowski,Starachowice,swietokrzyskie,Poland
+2600847,SP9HT,Piotr,Wilk,Stanowice,?l?skie,Poland
+2600848,SP7THC,Michal,Platek,Brody,?wi?tokrzyskie,Poland
+2600849,SP7TBS,Tomasz,Bancerowski,Starachowice,?wi?tokrzyskie,Poland
 2600850,SQ5AXR,Andrzej,Rozbicki,SIEDLCE,mazowieckie,Poland
 2600851,SP5NEL,Konrad,Serowiecki,Warszawa,mazowieckie,Poland
-2600852,SP6ONA,Magdalena,,Milkowice,dolnoslaskie,Poland
+2600852,SP6ONA,Magdalena,,Milkowice,dolno?l?skie,Poland
 2600853,SP6DMR,Franciszek,Nysa,Zlotoglowice,opolskie,Poland
 2600854,SQ5RDF,Pawel,Biernacki,Krakow,,Poland
 2600855,SP8ABT,Piotr,Perec,Rzeszow,podkarpackie,Poland
 2600856,SP8KM,Mariusz,Kania,39 207 Brzeznica,podkarpackie,Poland
 2600857,SP3BAH,Mariusz,Brzezowski,Strzelce Krajenskie,lubuskie,Poland
-2600858,SP7MSN,Michal,Nowak,Dobron,lodzkie,Poland
+2600858,SP7MSN,Michal,Nowak,Dobron,??dzkie,Poland
 2600859,SQ5SM,Marcin,Szadowiak,Warszawa,mazowieckie,Poland
 2600860,SP5SBB,Szymon,Brynczak,Nakory,mazowieckie,Poland
 2600861,SP2GRP,Piotr,Rendaszka,Gdynia,pomorskie,Poland
 2600862,SP5TSA,Marcin,Stanczyk,Warszawa,mazowieckie,Poland
 2600863,SQ5FSO,Pawel,Granat,Warszawa ,mazowieckie,Poland
 2600864,SP3DAN,Daniel,Eksner,Brzezno,wielkopolskie,Poland
-2600865,SP7MAK,Marcin,Kowalik,Lodz,lodzkie,Poland
+2600865,SP7MAK,Marcin,Kowalik,Lodz,??dzkie,Poland
 2600866,SQ2JYJ,Grzegorz,Kosmider,Inowroclaw,kujawsko-pomorskie,Poland
-2600867,SP6TO,Lukasz,Abucki,Jelcz Laskowice ,dolnoslaskie,Poland
+2600867,SP6TO,Lukasz,Abucki,Jelcz Laskowice ,dolno?l?skie,Poland
 2600868,SP3SC,Pawel,L,WLKP,wielkopolskie,Poland
-2600869,SP6LOL,Radoslaw, ,Wroclaw,dolnoslaskie,Poland
-2600870,SP3DEF,Pawel,Matuszak,Poznan,wielkopolskie,Poland
+2600869,SP6LOL,Radoslaw, ,Wroclaw,dolno?l?skie,Poland
+2600870,SP3DEF,Pawe?,Matuszak,Pozna?,wielkopolskie,Poland
 2600871,SQ8RW,Robert,Wisniewski,Lublin,lubelskie,Poland
-2600872,SO9L,Rafal,,Krakow,malopolskie,Poland
-2600873,SP9SVU,Jan,Gardyla,Krakow,malopolskie,Poland
-2600874,SP6SLP,Sebastian,Lewinski,Glogow,dolnoslaskie,Poland
-2600875,SQ9FMC,Artur,Kesik,Krzepice,slaskie,Poland
+2600872,SO9L,Rafal,,Krakow,ma?opolskie,Poland
+2600873,SP9SVU,Jan,Gardyla,Krakow,ma?opolskie,Poland
+2600874,SP6SLP,Sebastian,Lewinski,Glogow,dolno?l?skie,Poland
+2600875,SQ9FMC,Artur,Kesik,Krzepice,?l?skie,Poland
 2600876,SP1ATL,Michal,Bobowik,Koszalin,zachodniopomorskie,Poland
-2600877,SP7ETC,Rafal,Krokos,Lodz,lodzkie,Poland
+2600877,SP7ETC,Rafal,Krokos,Lodz,??dzkie,Poland
 2600878,SP2HAV,Krzysztof,Mrugala,Gdansk,pomorskie,Poland
 2600879,SP34U,Grupa 34U,Stowarzyszenie o Charakterze Strzeleckim Kolekcjonerskim i Szkoleniowym,Jaslo,podkarpackie,Poland
-2600880,SP7ASV,Tomasz,Smiechowicz,Wielun,lodzkie,Poland
-2600881,SP2SJG,Stanislaw,Grams,Lidzbark,warminsko-mazurskie,Poland
+2600880,SP7ASV,Tomasz,Smiechowicz,Wielun,??dzkie,Poland
+2600881,SP2SJG,Stanislaw,Grams,Lidzbark,warmi?sko-mazurskie,Poland
 2600882,SP2FNR,Dominik,Marszalek,Gdansk,pomorskie,Poland
-2600883,SP6LTP,Zbigniew,Bakalarczyk,Swidnica,dolnoslaskie,Poland
+2600883,SP6LTP,Zbigniew,Bakalarczyk,Swidnica,dolno?l?skie,Poland
 2600884,SP4TW,Tomasz,Wasiewski,Lomza,podlaskie,Poland
 2600885,SP4BL,Bartosz,Gerlowski,Gielczyn,podlaskie,Poland
 2600886,SQ5RGW,Jacek,Kutkowski,Lipinki,mazowieckie,Poland
 2600887,SP4EBD,Edmund,Belkowski,Bialystok,podlaskie,Poland
-2600888,SQ7PGP,Michal,Nawrocki,Sieradz,lodzkie,Poland
-2600889,SP7SKT,Michal,Sarzynski,Koprzywnica,swietokrzyskie,Poland
+2600888,SQ7PGP,Michal,Nawrocki,Sieradz,??dzkie,Poland
+2600889,SP7SKT,Michal,Sarzynski,Koprzywnica,?wi?tokrzyskie,Poland
 2600890,SP5DJ,Jacek,Drapala,Plochocin Osiedle,mazowieckie,Poland
 2600891,SP0DZ,Daniel,Zochowski,Serock,mazowieckie,Poland
-2600892,SQ7RAD,Radoslaw,Chalupczak,Starachowice,swietokrzyskie,Poland
+2600892,SQ7RAD,Radoslaw,Chalupczak,Starachowice,?wi?tokrzyskie,Poland
 2600893,SP8WJF,Zdzislaw,Dworal,Stobierna,podkarpackie,Poland
 2600894,SP2MWZ,Brunon,Swiatek,Gdynia,pomorskie,Poland
-2600895,SP9ODU,Jacek,SP9ODU,Krakow,malopolskie,Poland
-2600896,SP9RRI,Anna,Aleksandrow,Krakow,malopolskie,Poland
+2600895,SP9ODU,Jacek,SP9ODU,Krakow,ma?opolskie,Poland
+2600896,SP9RRI,Anna,Aleksandrow,Krakow,ma?opolskie,Poland
 2600897,SQ3MZU,Lukasz,Lazurek,Stara Kopernia,lubuskie,Poland
 2600898,SP8DSX,Bogdan,Pajda,Maleniska,podkarpackie,Poland
-2600899,SP6BVK,Artur,Waszewski,Kaczowiska,dolnoslaskie,Poland
-2600900,SP7JB,Jaroslaw,Badek,Lodz,lodzkie,Poland
+2600899,SP6BVK,Artur,Waszewski,Kaczowiska,dolno?l?skie,Poland
+2600900,SP7JB,Jaroslaw,Badek,??d?,??dzkie,Poland
 2600901,SQ5C,Marcin, ,Radzymin,mazowieckie,Poland
-2600902,SP7MFU,Andrzej,Kozlowski,Kielce,swietokrzyskie,Poland
+2600902,SP7MFU,Andrzej,Kozlowski,Kielce,?wi?tokrzyskie,Poland
 2600903,SP4JZ,Jaroslaw,Zaremba,Zambrow,podlaskie,Poland
 2600904,SP8EK,Eugeniusz,Krzeminski,Kurylowka,podkarpackie,Poland
 2600905,SP2GNR,Piotr,,Gniewino,pomorskie,Poland
 2600906,SQ5NAN,Mariusz,Wichniewicz,Warszawa,mazowieckie,Poland
-2600907,SP9APV,Maciej,Czupidlo,Raczna,malopolskie,Poland
+2600907,SP9APV,Maciej,Czupidlo,Raczna,ma?opolskie,Poland
 2600908,SP3CET,Wladyslaw,Suder,Poznan,wielkopolskie,Poland
 2600909,SP1MBO,Marek,Bidzinski,Gostyn Lobeski,zachodniopomorskie,Poland
 2600910,SP3TOM,Tomasz,,Krzyszkowo,wielkopolskie,Poland
-2600911,SP7EV,Jacek,Rymarczyk,Starachowice,swietokrzyskie,Poland
-2600912,SQ9WDR,Mariusz,,Miechow  Charsznica,malopolskie,Poland
-2600913,SP6NET,Robert,Matelski,Dzikowiec,dolnoslaskie,Poland
-2600914,SQ6KPI,Piotr,Kawinski,Chocianow,dolnoslaskie,Poland
-2600915,SP9HGN,Jaroslaw,Surmacz,Tychy,slaskie,Poland
+2600911,SP7EV,Jacek,Rymarczyk,Starachowice,?wi?tokrzyskie,Poland
+2600912,SQ9WDR,Mariusz,,Miechow  Charsznica,ma?opolskie,Poland
+2600913,SP6NET,Robert,Matelski,Dzikowiec,dolno?l?skie,Poland
+2600914,SQ6KPI,Piotr,Kawinski,Chocianow,dolno?l?skie,Poland
+2600915,SP9HGN,Jaroslaw,Surmacz,Tychy,?l?skie,Poland
 2600916,3Z1P,Piotr,Konczalski,Szczecin,zachodniopomorskie,Poland
-2600917,SQ9SHX,Kamil,Betkowski,Siemianowice Slaskie,slaskie,Poland
+2600917,SQ9SHX,Kamil,Betkowski,Siemianowice Slaskie,?l?skie,Poland
 2600918,SN3V,Edward,Deskur,Warszawa,mazowieckie,Poland
-2600919,SP9TBM,Tomasz,Kupka,Koszwice,slaskie,Poland
+2600919,SP9TBM,Tomasz,Kupka,Koszwice,?l?skie,Poland
 2600920,SP3PGX,Klub,UZ,Zielona Gora,lubuskie,Poland
-2600921,SP9ATX,Zdzislaw,Krukowski,Katowice,slaskie,Poland
+2600921,SP9ATX,Zdzislaw,Krukowski,Katowice,?l?skie,Poland
 2600922,SQ5BLC,Andrzej,Szulecki,Minsk Mazowiecki,mazowieckie,Poland
-2600923,SP9WSS,Wojciech,Stefanczyk,Krakow,malopolskie,Poland
-2600924,SQ9ABR,Andrzej,,Krakow,malopolskie,Poland
-2600925,SN6DFN,Aleksander,Kurczyk,Klodzko,dolnoslaskie,Poland
-2600926,SP6TKN,Hubert,Golos,Wroclaw,dolnoslaskie,Poland
+2600923,SP9WSS,Wojciech,Stefanczyk,Krakow,ma?opolskie,Poland
+2600924,SQ9ABR,Andrzej,,Krakow,ma?opolskie,Poland
+2600925,SN6DFN,Aleksander,Kurczyk,Klodzko,dolno?l?skie,Poland
+2600926,SP6TKN,Hubert,Golos,Wroclaw,dolno?l?skie,Poland
 2600927,SP5PW,Piotr,,Siedlce,mazowieckie,Poland
 2600928,HF5P,Pawel,Ryt,Grodzisk Mazowiecki,mazowieckie,Poland
 2600929,SQ5MGP,Ireneusz,Baczynski,Warszawa,mazowieckie,Poland
 2600930,SP3WIP,Piotr,Kaprykowski,Swiebodzin,lubuskie,Poland
 2600931,SP3SW,Tadeusz,Bulach,Swiebodzin,lubuskie,Poland
 2600932,SP5MDR,Miroslaw,Drabarz,Warszawa,mazowieckie,Poland
-2600933,SP9PSP,Witold,Chojnacki,Stronie,malopolskie,Poland
+2600933,SP9PSP,Witold,Chojnacki,Stronie,ma?opolskie,Poland
 2600934,SP3QDU,Henryk,Pawlak,Ostrow Wlkp,wielkopolskie,Poland
-2600935,SP6KH,Kamil,Hofman,Jelcz Laskowice,dolnoslaskie,Poland
-2600936,SQ2HEG,Bogdan,Gorzynski,Elblag,warminsko-mazurskie,Poland
-2600937,SP9EP,Pawel,Mr,Cisownica,slaskie,Poland
+2600935,SP6KH,Kamil,Hofman,Jelcz Laskowice,dolno?l?skie,Poland
+2600936,SQ2HEG,Bogdan,Gorzynski,Elblag,warmi?sko-mazurskie,Poland
+2600937,SP9EP,Pawel,Mr,Cisownica,?l?skie,Poland
 2600938,SP8OWL,Piotr,Kirczuk,Swidnik,lubelskie,Poland
-2600939,SQ7EHG,Michal,Blaszczyk,Sieradz,lodzkie,Poland
+2600939,SQ7EHG,Michal,B?aszczyk,Sieradz,??dzkie,Poland
 2600940,SQ8TDI,Tomasz,Kurczyk,Debica,podkarpackie,Poland
 2600941,SP2JW,Jonasz,Wojcik,Gdansk,pomorskie,Poland
 2600942,HF8FRN,Wiktor,Jurkowski,Lublin,lubelskie,Poland
 2600943,SQ2OFX,Stefan,Wieczorek,Gdynia,pomorskie,Poland
-2600944,SP7BAL,Lukasz,,Lodz,lodzkie,Poland
-2600945,SQ9MTI,Mateusz,,Tychy,slaskie,Poland
-2600946,SP7DOD,Bartosz,Krawczyk Demczuk,Pabianice,lodzkie,Poland
+2600944,SP7BAL,Lukasz,,Lodz,??dzkie,Poland
+2600945,SQ9MTI,Mateusz,,Tychy,?l?skie,Poland
+2600946,SP7DOD,Bartosz,Krawczyk Demczuk,Pabianice,??dzkie,Poland
 2600947,SP8JW,Wojciech,Jaworski,Chrzanow,lubelskie,Poland
 2600948,SQ1GYI,Zbigniew,Chmielowiec,Swinoujscie,zachodniopomorskie,Poland
-2600949,SQ7MRY,Andrzej,Misztela,Tomaszow Mazowiecki,lodzkie,Poland
-2600950,SP9FK,Jakub,Figlewicz,Dobczyce,malopolskie,Poland
+2600949,SQ7MRY,Andrzej,Misztela,Tomasz?w Mazowiecki,??dzkie,Poland
+2600950,SP9FK,Jakub,Figlewicz,Dobczyce,ma?opolskie,Poland
 2600951,SQ4PJJ,Jozef,Kuc,Grajewo,podlaskie,Poland
-2600952,SQ7NLC,Zygmunt,Patyna,Kielce,swietokrzyskie,Poland
+2600952,SQ7NLC,Zygmunt,Patyna,Kielce,?wi?tokrzyskie,Poland
 2600953,SP5UHG,Adam,Gregorczyk,Pultusk,mazowieckie,Poland
 2600954,SQ3JPZ,Marcin,Antczak,Nowogrod Bobrzanski,lubuskie,Poland
 2600955,SP5BA,Mariusz,Lukijanczuk,Kobylka,mazowieckie,Poland
 2600956,SP3WRO,Mateusz,Jedrzejczak,Wronki,wielkopolskie,Poland
 2600957,SQ2MAX,Adam,    ,Bydgoszcz,kujawsko-pomorskie,Poland
-2600958,SP6QKC,Kazimierz,Stolarek,Ziebice,dolnoslaskie,Poland
+2600958,SP6QKC,Kazimierz,Stolarek,Ziebice,dolno?l?skie,Poland
 2600959,SP3HB,Henryk,Biernacki,Radnica,lubuskie,Poland
-2600960,SP9ODI,Stanislaw,Bobak,Lukownica,malopolskie,Poland
+2600960,SP9ODI,Stanislaw,Bobak,Lukownica,ma?opolskie,Poland
 2600961,SP8TI,Jan,Moscicki,Trzebieszow,lubelskie,Poland
-2600962,SP9IJE,Waclaw,,Nowy Sacz,malopolskie,Poland
-2600963,SQ6GTQ,Tomasz,Eisfeld,Nowa Ruda,dolnoslaskie,Poland
+2600962,SP9IJE,Waclaw,,Nowy Sacz,ma?opolskie,Poland
+2600963,SQ6GTQ,Tomasz,Eisfeld,Nowa Ruda,dolno?l?skie,Poland
 2600964,SP1WLQ,Radoslaw,Wilczynski,Choszczno,zachodniopomorskie,Poland
 2600965,SQ3RDE,Daniel,,Zary,lubuskie,Poland
-2600966,SP7JOA,Zbigniew,Podwyszynski,Sandomierz,swietokrzyskie,Poland
+2600966,SP7JOA,Zbigniew,Podwyszynski,Sandomierz,?wi?tokrzyskie,Poland
 2600967,SP8NTX,Ireneusz,Niczyporuk,Rakowiska,lubelskie,Poland
 2600968,SQ5SLK,Lukasz,Skrzypczak,Blonie,mazowieckie,Poland
 2600969,SQ5WRX,Marcin,Grochala,Warszawa,mazowieckie,Poland
-2600970,SP7ZLW,Krystian,,Zelow,lodzkie,Poland
-2600971,SP6PFL,Mariusz,Zielinski,Nowa Ruda,dolnoslaskie,Poland
+2600970,SP7ZLW,Krystian,,Zelow,??dzkie,Poland
+2600971,SP6PFL,Mariusz,Zielinski,Nowa Ruda,dolno?l?skie,Poland
 2600972,SP4JP,Jakub,Piotrowski,Lomza,podlaskie,Poland
-2600973,SP4OIT,Tomasz,Laskowski,Olecko,warminsko-mazurskie,Poland
-2600974,SP6MB,Mariusz,Bee,Kielczow,dolnoslaskie,Poland
+2600973,SP4OIT,Tomasz,Laskowski,Olecko,warmi?sko-mazurskie,Poland
+2600974,SP6MB,Mariusz,Bee,Kielczow,dolno?l?skie,Poland
 2600975,SQ5RB,Robert,Borowicki,Sulejowek,mazowieckie,Poland
-2600976,SP6AFL,Artur,Franka,Wroclaw,dolnoslaskie,Poland
+2600976,SP6AFL,Artur,Franka,Wroc?aw,dolno?l?skie,Poland
 2600977,SO3JA,Jozef,Adamski,Smigiel,wielkopolskie,Poland
-2600978,SQ7ASG,Arkadiusz,Skurpel,Galkow Duzy,lodzkie,Poland
-2600979,SQ9RIH,Krzysztof,Ziolkowski,Kobiernice,slaskie,Poland
+2600978,SQ7ASG,Arkadiusz,Skurpel,Galkow Duzy,??dzkie,Poland
+2600979,SQ9RIH,Krzysztof,Ziolkowski,Kobiernice,?l?skie,Poland
 2600980,SQ5WG,Krzysztof,Kosinski,Sochaczew,mazowieckie,Poland
 2600981,SP5FAR,Sebastian,Burcicki,Warszawa,mazowieckie,Poland
-2600982,SQ9TK,Tomasz,Kukla,Krakow,malopolskie,Poland
-2600983,SQ9JYK,Piotr,Moson,Gorlice,malopolskie,Poland
+2600982,SQ9TK,Tomasz,Kukla,Krakow,ma?opolskie,Poland
+2600983,SQ9JYK,Piotr,Moson,Gorlice,ma?opolskie,Poland
 2600984,SP1LEX,Konrad,Jankowski,Szczecin,zachodniopomorskie,Poland
-2600985,SP7BMW,Filip,,Lodz,lodzkie,Poland
+2600985,SP7BMW,Filip,,Lodz,??dzkie,Poland
 2600986,SQ8OQC,Piotr,Curylo,Stara Jastrzabka,podkarpackie,Poland
 2600987,SP5BOT,Przemyslaw,Kopanski,Falbogi,mazowieckie,Poland
-2600988,SP6WBL,Arkadiusz,Gogojewicz,Klodzko,dolnoslaskie,Poland
-2600989,SP7RB,Robert,Baleja,Lodz,lodzkie,Poland
-2600990,SP5CRO,Stanislaw,Korzen,Okuniew,mazowieckie,Poland
+2600988,SP6WBL,Arkadiusz,Gogojewicz,K?odzko,dolno?l?skie,Poland
+2600989,SP7RB,Robert,Baleja,Lodz,??dzkie,Poland
+2600990,SP5CRO,Stanis?aw,Korze?,Okuniew,mazowieckie,Poland
 2600991,SP2BLB,Marian,Kurdyn,Torun,kujawsko-pomorskie,Poland
-2600992,SP7ARAB,Jacek,Arabski,Lodz,lodzkie,Poland
-2600993,SP9AOX,Wojciech,,Tarnow,malopolskie,Poland
+2600992,SP7ARAB,Jacek,Arabski,Lodz,??dzkie,Poland
+2600993,SP9AOX,Wojciech,,Tarnow,ma?opolskie,Poland
 2600994,SQ2ODE,Mariusz,Stefaniak,Chelmno,kujawsko-pomorskie,Poland
-2600995,SP9POL,Marcin,Kapron,Krakow,malopolskie,Poland
+2600995,SP9POL,Marcin,Kapron,Krakow,ma?opolskie,Poland
 2600996,SP8IRQ,Rafal,Rychlicki ,Dzierzkowice,lubelskie,Poland
-2600997,SP7CC,Arek,,Lodz,lodzkie,Poland
+2600997,SP7CC,Arek,,Lodz,??dzkie,Poland
 2600998,SQ2RAD,Adrian,Wozniak,Gdynia,pomorskie,Poland
-2600999,SP7TECH,Klub,,Lodz,lodzkie,Poland
-2601000,SP0RP,Klub,Fundacja,Czestochowa,slaskie,Poland
+2600999,SP7TECH,Klub,,Lodz,??dzkie,Poland
+2601000,SP0RP,Klub,Fundacja,Czestochowa,?l?skie,Poland
 2601001,SP1XNE,Maciek,,Szczecin,zachodniopomorskie,Poland
 2601002,SQ1TAO,Krzysztof,,Szczecin,zachodniopomorskie,Poland
 2601003,SQ1GZG,Bogdan,,Stargard,zachodniopomorskie,Poland
@@ -981,7 +981,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2601005,SQ1FTF,Tomasz,,Sulkowo,,Poland
 2601006,SP1WSY,Waldemar,,Stargard,zachodniopomorskie,Poland
 2601007,SQ3DHO,Krzysztof,,Dopiewo,wielkopolskie,Poland
-2601008,SP1XNA,Adrian,Debicz,Stargard,zachodniopomorskie,Poland
+2601008,SP1XNA,Adrian,D?bicz,Stargard,zachodniopomorskie,Poland
 2601009,SP1WSX,Tomasz, ,Swinoujcie,zachodniopomorskie,Poland
 2601010,SQ1JGC,Agnieszka,,Stargard,,Poland
 2601011,SQ1EUY,Jerzy,,Szczecin,zachodniopomorskie,Poland
@@ -992,7 +992,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2601017,SP1ADR,Adrian,,Dziwnw,,Poland
 2601018,SP1HSE,Remigiusz,,Szczecin,zachodniopomorskie,Poland
 2601019,SP1FTI,Dariusz,,Swinoujscie,zachodniopomorskie,Poland
-2601020,SP9HAN,Grzegorz,Markowski,Czestochowa,slaskie,Poland
+2601020,SP9HAN,Grzegorz,Markowski,Czestochowa,?l?skie,Poland
 2601021,SQ1BHK,Aleksander,,Przeclaw,zachodniopomorskie,Poland
 2601022,SQ1PSD,Marek,,Szczecin,zachodniopomorskie,Poland
 2601023,SQ1PIN,Piotr,,Szczecin,zachodniopomorskie,Poland
@@ -1017,7 +1017,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2601043,SP1VDE,Pawel,,Szczecim,,Poland
 2601044,SP1CGT,Andrzej,,Szczecin,zachodniopomorskie,Poland
 2601045,SQ1FYC,Marek,Marks,Pezino,zachodniopomorskie,Poland
-2601047,SP7LK,Lukasz,Kaczmarek,Zdunska Wola,lodzkie,Poland
+2601047,SP7LK,Lukasz,Kaczmarek,Zdunska Wola,??dzkie,Poland
 2601048,SP1MWB,Marek,,Szczecin,zachodniopomorskie,Poland
 2601049,SP1VDA,Roman,,Szczecin,zachodniopomorskie,Poland
 2601050,SP1BMW,Kamil,,Szczecin,,Poland
@@ -1028,7 +1028,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2601055,SP1MVS,Ryszard,,Police,zachodniopomorskie,Poland
 2601056,SQ1OHF,Edward,,Szczecin,zachodniopomorskie,Poland
 2601057,SP1UJW,Wojciech,,Dygowo,zachodniopomorskie,Poland
-2601058,SQ1GU,Andrzej,Gorczynski,Kolobrzeg ,zachodniopomorskie,Poland
+2601058,SQ1GU,Andrzej,Gorczynski,Ko?obrzeg ,zachodniopomorskie,Poland
 2601059,SQ1NT,Leszek,Karkut,Kolobrzeg,zachodniopomorskie,Poland
 2601060,SQ1WO,Wojciech,Zielinski,Szczecin,zachodniopomorskie,Poland
 2601061,SQ1BHQ,Piotr,Siedlarz,Trzebiez,zachodniopomorskie,Poland
@@ -1066,7 +1066,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2601098,SP1EC,Krzysztof,,Szczecin,,Poland
 2601099,SP11A,Cezary,,Stargard,,Poland
 2601100,SP1ADT,Andrzej,,Zlocieniec,,Poland
-2601101,SP1DX,Grzegorz,Jedrak,Szczecin,zachodniopomorskie,Poland
+2601101,SP1DX,Grzegorz,J?drak,Szczecin,zachodniopomorskie,Poland
 2601102,SQ1OHD,Marek,,Szczecin,,Poland
 2601103,SP1ZPL,Krzysztof,Tatko,Przeclaw,zachodniopomorskie,Poland
 2601104,SQ1REX,Piotr,,Kolobrzeg,,Poland
@@ -1093,56 +1093,56 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2601125,SP1GAL,Krzysztof,,Smolecin,,Poland
 2601126,SP6RVW,Rafal,Mianowski,Warszawa,mazowieckie,Poland
 2601127,SP3UAZ,Krzysztof,Orzel,Gorzow Wlkp,lubuskie,Poland
-2601128,SP9OJW,Krzysztof,Tarnowski,Bytom,slaskie,Poland
-2601129,SP9KGR,Klub,Gorlicki Klub Krotkofalowcow,Gorlice,malopolskie,Poland
+2601128,SP9OJW,Krzysztof,Tarnowski,Bytom,?l?skie,Poland
+2601129,SP9KGR,Klub,Gorlicki Klub Krotkofalowcow,Gorlice,ma?opolskie,Poland
 2601130,SQ2IP,Slawomir,Pochojka,Laskowice,kujawsko-pomorskie,Poland
-2601132,SP3LOL,Marcin,Lozinski,Poznan,wielkopolskie,Poland
+2601132,SP3LOL,Marcin,?ozinski,Poznan,wielkopolskie,Poland
 2601133,SQ2HDO,Dariusz,Kuczeruk,Pradki,kujawsko-pomorskie,Poland
-2601134,SP7HF,Michal,L,Lodz,lodzkie,Poland
-2601135,SP6RGB,Robert,Glowacki,Bozejowice,dolnoslaskie,Poland
-2601136,SP4I,Maciej,Chmielinski,Milomlyn,warminsko-mazurskie,Poland
+2601134,SP7HF,Michal,L,Lodz,??dzkie,Poland
+2601135,SP6RGB,Robert,Glowacki,Bozejowice,dolno?l?skie,Poland
+2601136,SP4I,Maciej,Chmielinski,Milomlyn,warmi?sko-mazurskie,Poland
 2601138,SP3PS,Przemyslaw,Stanislawski,Lednogora,wielkopolskie,Poland
 2601139,SQ1KSA,Andrzej,Misztal,Swinoujscie,zachodniopomorskie,Poland
 2601140,SP3AMP,Pawel,Pacholczak,Wielen,wielkopolskie,Poland
-2601141,SQ9JXN,Arkadiusz,Pietrzyk,Czechowice-Dziedzice,slaskie,Poland
-2601142,SP6PLF,Piotr,,Jelenia Gora,dolnoslaskie,Poland
+2601141,SQ9JXN,Arkadiusz,Pietrzyk,Czechowice-Dziedzice,?l?skie,Poland
+2601142,SP6PLF,Piotr,,Jelenia Gora,dolno?l?skie,Poland
 2601143,SP5WLH,Tadeusz,Swiderski,Warszawa,mazowieckie,Poland
-2601144,SP9AKT,Marcin,Spannbauer,Grodziec,slaskie,Poland
+2601144,SP9AKT,Marcin,Spannbauer,Grodziec,?l?skie,Poland
 2601145,SP1TI,Bartek,Surowiec,Kolobrzeg,zachodniopomorskie,Poland
-2601146,SN0DN,Lukasz,,Krakow,malopolskie,Poland
-2601147,SP9HBM,Arkadiusz,Herisz,Ruda Slaska,slaskie,Poland
-2601148,SP9ODF,Ryszard,Ginalski,Kobylanka,malopolskie,Poland
-2601149,SP5FXJ,Marcin,Felisiak,Stanislawow,mazowieckie,Poland
-2601150,SP6INI,Jacek,Robinski,Walbrzych,dolnoslaskie,Poland
-2601151,SP4ALA,Bartosz,Gradkowski,Ketrzyn,warminsko-mazurskie,Poland
+2601146,SN0DN,Lukasz,,Krakow,ma?opolskie,Poland
+2601147,SP9HBM,Arkadiusz,Herisz,Ruda Slaska,?l?skie,Poland
+2601148,SP9ODF,Ryszard,Ginalski,Kobylanka,ma?opolskie,Poland
+2601149,SP5FXJ,Marcin,Felisiak,Stanis?awow,mazowieckie,Poland
+2601150,SP6INI,Jacek,Robinski,Walbrzych,dolno?l?skie,Poland
+2601151,SP4ALA,Bartosz,Gradkowski,Ketrzyn,warmi?sko-mazurskie,Poland
 2601152,SP1KAR,Dawid,Rak,Lipiany,zachodniopomorskie,Poland
 2601153,SP2JB,Jaroslaw,Bola,Chojnice,pomorskie,Poland
 2601154,SQ1HTA,Pawel,Lorkiewicz,Szczecin,zachodniopomorskie,Poland
-2601155,SQ7WT,Wojciech,Tworz,Skarzysko Kamienna,swietokrzyskie,Poland
-2601156,SP9CST,Edward,Zawislok,Chorzow,slaskie,Poland
+2601155,SQ7WT,Wojciech,Tworz,Skarzysko Kamienna,?wi?tokrzyskie,Poland
+2601156,SP9CST,Edward,Zawislok,Chorz?w,?l?skie,Poland
 2601157,SO4SO,Marcin, ,Sobolewo,podlaskie,Poland
 2601158,SQ8MFK,Dariusz,Dys,Krasnystaw,lubelskie,Poland
-2601159,SP7LBA,Lukasz,Banasiak,Belchatow,lodzkie,Poland
-2601160,SN7MZ,Mariusz,Zielinski,Kwaskow,lodzkie,Poland
+2601159,SP7LBA,Lukasz,Banasiak,Belchatow,??dzkie,Poland
+2601160,SN7MZ,Mariusz,Zieli?ski,Kwaskow,??dzkie,Poland
 2601161,SP5IDC,Maciej,Chmielewski,Sulejowek,mazowieckie,Poland
-2601162,SQ9HHL,Krzysztof,Doniczka,Gliwice,slaskie,Poland
-2601163,SQ6COQ,Waldemar,Balacz,Nowogrodziec,dolnoslaskie,Poland
+2601162,SQ9HHL,Krzysztof,Doniczka,Gliwice,?l?skie,Poland
+2601163,SQ6COQ,Waldemar,Balacz,Nowogrodziec,dolno?l?skie,Poland
 2601164,SP5NFT,Jaroslaw,Halatsan,Warszawa,mazowieckie,Poland
 2601165,SQ1DOZ,Marcin,Zdunek,Swinoujscie,zachodniopomorskie,Poland
 2601166,SQ3PCH,Mikolaj,Kondej,Poznan,wielkopolskie,Poland
 2601167,SP5RAJ,Radoslaw,Jablonski,Pruszkow,mazowieckie,Poland
 2601168,SP5XYZ,Przemyslaw,Pliszka,Kaluszyn,mazowieckie,Poland
-2601169,SQ9MDT,Tomasz,,Katowice,slaskie,Poland
+2601169,SQ9MDT,Tomasz,,Katowice,?l?skie,Poland
 2601170,SP3JH,Henryk,Jozwiak,Radzyn,lubuskie,Poland
-2601171,SO6WRC,Rafal,Duszatynski,Walbrzych,dolnoslaskie,Poland
-2601172,SQ9OYP,Krzysztof,Madura,Krakow,malopolskie,Poland
-2601173,SP0NGE,Jakub,Kramarz,Krakow,malopolskie,Poland
-2601174,SQ4FKS,Tomasz,Antonik,Olsztyn,warminsko-mazurskie,Poland
-2601175,SQ7PSS,Wojciech,Baranski,Zagnansk,swietokrzyskie,Poland
-2601176,SQ9EOW,Adam,,Nowy Sacz,malopolskie,Poland
+2601171,SO6WRC,Rafal,Duszatynski,Walbrzych,dolno?l?skie,Poland
+2601172,SQ9OYP,Krzysztof,Madura,Krakow,ma?opolskie,Poland
+2601173,SP0NGE,Jakub,Kramarz,Krakow,ma?opolskie,Poland
+2601174,SQ4FKS,Tomasz,Antonik,Olsztyn,warmi?sko-mazurskie,Poland
+2601175,SQ7PSS,Wojciech,Baranski,Zagnansk,?wi?tokrzyskie,Poland
+2601176,SQ9EOW,Adam,,Nowy Sacz,ma?opolskie,Poland
 2601177,SQ3GKN,Grzegorz,Czapkajlo,Rychwal,wielkopolskie,Poland
-2601178,SQ6KXQ,Rafal,Weraksa,Jelenia Gora,dolnoslaskie,Poland
-2601179,SP7DTU,Janusz,Gorecki,Lodz,lodzkie,Poland
+2601178,SQ6KXQ,Rafal,Weraksa,Jelenia Gora,dolno?l?skie,Poland
+2601179,SP7DTU,Janusz,Gorecki,Lodz,??dzkie,Poland
 2601180,SP3AG,Arkadiusz,,Pila,wielkopolskie,Poland
 2601181,SQ5FLP,Piotr,Jablonski,Piaseczno,mazowieckie,Poland
 2601182,SP5WQ,Mateusz,Neumann,Warszawa,mazowieckie,Poland
@@ -1150,34 +1150,34 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2601184,SQ1KUF,Jakub,Szczepkowski,Lipiany,zachodniopomorskie,Poland
 2601185,SP4BIA,Bartosz,Borowski,Lewickie Stacja,podlaskie,Poland
 2601186,SP1RAJ,Radoslaw,Jablonski,Pruszkow,mazowieckie,Poland
-2601187,SP7DXM,Daniel,Malyska,Wielun,lodzkie,Poland
+2601187,SP7DXM,Daniel,Malyska,Wielun,??dzkie,Poland
 2601188,SP4RAJ,Radoslaw,Jablonski,Pruszkow,mazowieckie,Poland
 2601189,SQ2KTL,Aleksander,Lewandowski,Chojnice,pomorskie,Poland
 2601190,SQ2HEB,Bogdan,,Wladyslawowo,pomorskie,Poland
-2601191,SP9TCB,Marek,Okularczyk,Gliwice,slaskie,Poland
+2601191,SP9TCB,Marek,Okularczyk,Gliwice,?l?skie,Poland
 2601192,SP2KEC,Dariusz,Kecler,Gdansk,pomorskie,Poland
 2601193,SP8NI,Edward,Rokicki,Lodyna,podkarpackie,Poland
-2601194,SQ9MCP,Jerzy,Kedra,Krakow,malopolskie,Poland
-2601195,SP3VAG,Ryszard,Rojda,Sulechow,lubuskie,Poland
+2601194,SQ9MCP,Jerzy,Kedra,Krakow,ma?opolskie,Poland
+2601195,SP3VAG,Ryszard,Rojda,Sulech?w,lubuskie,Poland
 2601196,SQ5CZA,Jacek,Malachowski,Legionowo,mazowieckie,Poland
-2601197,SQ7KPI,Mariusz, ,Piotrkow Trybunalski,lodzkie,Poland
+2601197,SQ7KPI,Mariusz, ,Piotrkow Trybunalski,??dzkie,Poland
 2601198,SP5WN,Marcin,Szemraj,Warszawa,mazowieckie,Poland
 2601199,SQ5MPG,Maciej,Piwowarski,Piaseczno,mazowieckie,Poland
-2601200,SQ7KPI,Mariusz, ,Piotrkow Trybunalski,lodzkie,Poland
+2601200,SQ7KPI,Mariusz, ,Piotrkow Trybunalski,??dzkie,Poland
 2601201,SP2SCS,Karol,Adamczyk,Rumia,pomorskie,Poland
-2601202,SP6GSA,Grzegorz,Sawczuk,Wysoka,dolnoslaskie,Poland
-2601203,SP9AA,Piotr,Marewicz,Chrzanow,malopolskie,Poland
+2601202,SP6GSA,Grzegorz,Sawczuk,Wysoka,dolno?l?skie,Poland
+2601203,SP9AA,Piotr,Marewicz,Chrzanow,ma?opolskie,Poland
 2601204,SQ1EIG,Grzegorz,Kobierski,Gdansk,pomorskie,Poland
 2601205,SQ5CN,Cezary,Nieszporek,Brwinow,mazowieckie,Poland
 2601206,SQ5LTP,Lukasz,Zalewski,Warszawa,mazowieckie,Poland
-2601207,SQ7BCF,Boguslaw,Zalewski,Kielce,swietokrzyskie,Poland
+2601207,SQ7BCF,Boguslaw,Zalewski,Kielce,?wi?tokrzyskie,Poland
 2601208,SP8SPC,Grzegorz,Gryta,Krasnik,lubelskie,Poland
-2601209,SQ6QV,Tomasz,Salwach,Legnica,dolnoslaskie,Poland
-2601210,SQ7MZ,Mariusz,Zielinski,Kwaskow,lodzkie,Poland
+2601209,SQ6QV,Tomasz,Salwach,Legnica,dolno?l?skie,Poland
+2601210,SQ7MZ,Mariusz,Zieli?ski,Kwaskow,??dzkie,Poland
 2601211,SP2AA,Ryszard,Kuc,Glina,pomorskie,Poland
-2601212,SQ9MR,Mariusz,,Bochnia,malopolskie,Poland
-2601213,SQ9LS,Slawomir,,Sosnowiec,slaskie,Poland
-2601214,SP9KAM,Jakub,Mika,Wieliczka,malopolskie,Poland
+2601212,SQ9MR,Mariusz,,Bochnia,ma?opolskie,Poland
+2601213,SQ9LS,Slawomir,,Sosnowiec,?l?skie,Poland
+2601214,SP9KAM,Jakub,Mika,Wieliczka,ma?opolskie,Poland
 2601215,SP5LLT,Piotr,Paluch,Warszawa,mazowieckie,Poland
 2601216,SP1GKM,Robert,Gmyrek,Szczecin,zachodniopomorskie,Poland
 2601217,SP0KS,Marcin,Czop,Warszawa,mazowieckie,Poland
@@ -1185,261 +1185,261 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2601219,SP5AQN,Milosz,Godlewski,Kobylka,mazowieckie,Poland
 2601220,SP2GSK,Lukasz,Gasior,Rumia,pomorskie,Poland
 2601221,SQ2WB,Jakub,Gorzynski,88 321 Kwieciszewo,kujawsko-pomorskie,Poland
-2601222,SP6WJT,Wieslaw,Jablonski,Gryfow Slaski,dolnoslaskie,Poland
+2601222,SP6WJT,Wieslaw,Jab?onski,Gryfow Slaski,dolno?l?skie,Poland
 2601223,SP5SPR,Piotr,Plewa,Warszawa,mazowieckie,Poland
 2601224,SQ2DPB,Przemyslaw,Bobrucki,Goscicino,pomorskie,Poland
 2601225,SP5BTC,Radoslaw,Kosinski,Sokolow Podlaski,mazowieckie,Poland
 2601226,SP8OBD,Piotr,,Jaroslaw,,Poland
-2601227,SQ6OCN,Rafal,Kilar,Swidnica,dolnoslaskie,Poland
+2601227,SQ6OCN,Rafal,Kilar,Swidnica,dolno?l?skie,Poland
 2601228,SQ5OUX,Norbert,Minkowski,Warszawa,mazowieckie,Poland
-2601229,SP9WZB,Edward,Lerch,Knurow,slaskie,Poland
-2601230,SP9MCZ,Ryszard,Suslik,Oswiecim,malopolskie,Poland
-2601231,SP9WOO,Lukasz,Kwiek,Tarnow,malopolskie,Poland
+2601229,SP9WZB,Edward,Lerch,Knurow,?l?skie,Poland
+2601230,SP9MCZ,Ryszard,Suslik,Oswiecim,ma?opolskie,Poland
+2601231,SP9WOO,Lukasz,Kwiek,Tarnow,ma?opolskie,Poland
 2601232,3Z0E,Eustachy,,Szczecin,zachodniopomorskie,Poland
-2601233,SQ6ADI,Adrian,Czarkowski,Glogow,dolnoslaskie,Poland
+2601233,SQ6ADI,Adrian,Czarkowski,Glogow,dolno?l?skie,Poland
 2601234,SQ2EEY,Krystian,Lukaszewicz,Jaromierz,pomorskie,Poland
 2601235,SP5RNB,Jaroslaw,Rucinski,Warszawa,mazowieckie,Poland
 2601236,SP2ADL,Adam,Nosarzewski,Gdynia,pomorskie,Poland
 2601237,SP2BE,Tobiasz,Gondzik,Bydgoszcz,kujawsko-pomorskie,Poland
-2601238,SP9SCA,Andrzej,Szczyrbowski,Zaborze,slaskie,Poland
-2601239,3Z9V,Piotr,Majkrzak,Krakow,malopolskie,Poland
+2601238,SP9SCA,Andrzej,Szczyrbowski,Zaborze,?l?skie,Poland
+2601239,3Z9V,Piotr,Majkrzak,Krakow,ma?opolskie,Poland
 2601240,SQ5BEE,Mariusz,Niemiec,Warszawa,mazowieckie,Poland
 2601241,SP5WML,Robert,Jarosz,Mlawa,mazowieckie,Poland
 2601242,SQ8WP,Przemyslaw,Watras,Chelm,lubelskie,Poland
 2601243,SP5SD,Sebastian,Dziadosz,Warszawa,mazowieckie,Poland
-2601244,SP7JB,Jaroslaw,Badek,Lodz,lodzkie,Poland
-2601245,SP6BAZ,Krzysztof,Adamski,Krzykow,dolnoslaskie,Poland
+2601244,SP7JB,Jaroslaw,Badek,??d?,??dzkie,Poland
+2601245,SP6BAZ,Krzysztof,Adamski,Krzykow,dolno?l?skie,Poland
 2601246,SP2JGG,Eugeniusz,Grablowski,Milwino,pomorskie,Poland
-2601247,SP6PPG,Jan,Taras,Glogow,dolnoslaskie,Poland
+2601247,SP6PPG,Jan,Taras,Glogow,dolno?l?skie,Poland
 2601248,SQ6NEI,Piotr,Taras,Lysiny,lubuskie,Poland
-2601249,SP6HPF,Michal,Taras,Glogow,dolnoslaskie,Poland
+2601249,SP6HPF,Michal,Taras,Glogow,dolno?l?skie,Poland
 2601250,SP2HQY,Dariusz,Mankiewicz,Gdynia,pomorskie,Poland
-2601251,SO9KA,Karol,Mieszkowski,Swietochlowice,slaskie,Poland
-2601252,SP9UP,Marek,,Bielsko-Biala,slaskie,Poland
+2601251,SO9KA,Karol,Mieszkowski,Swietochlowice,?l?skie,Poland
+2601252,SP9UP,Marek,,Bielsko-Biala,?l?skie,Poland
 2601253,SO5MAJ,Jan,Maciejewski,Piaseczno,mazowieckie,Poland
-2601254,SP1V,Krzysztof,,Krakow,malopolskie,Poland
-2601255,SP9TP,Tomasz,Pieczaba,Sosnowiec,slaskie,Poland
+2601254,SP1V,Krzysztof,,Krakow,ma?opolskie,Poland
+2601255,SP9TP,Tomasz,Pieczaba,Sosnowiec,?l?skie,Poland
 2601256,SP5CTP,Michal,Cuch,Warszawa,mazowieckie,Poland
-2601257,SP9RAD,Radoslaw,Biernacki,Krakow,malopolskie,Poland
+2601257,SP9RAD,Radoslaw,Biernacki,Krakow,ma?opolskie,Poland
 2601258,SP5DMK,Daniel,Maszkowski,Bobrowiec,mazowieckie,Poland
-2601259,SQ9BKP,Wojciech,Oczkowski,Bielsko Biala,slaskie,Poland
+2601259,SQ9BKP,Wojciech,Oczkowski,Bielsko Biala,?l?skie,Poland
 2601260,SP3KP,Piotr,Stolpiak,Zielona Gora,lubuskie,Poland
 2601261,SQ3MS,Marcin,Szala,Slawa,lubuskie,Poland
-2601262,SP9JCK,Jacek,Jaros,Krakow,malopolskie,Poland
+2601262,SP9JCK,Jacek,Jaros,Krakow,ma?opolskie,Poland
 2601263,SP5EXT,Maciej,Szkamruk,Warszawa,mazowieckie,Poland
 2601264,SQ5JUT,Tomasz,Wozniak,Warszawa,mazowieckie,Poland
-2601265,SQ7GTA,Wojciech,Golasinski,Lodz,lodzkie,Poland
+2601265,SQ7GTA,Wojciech,Golasinski,Lodz,??dzkie,Poland
 2601266,SP5ARE,Arek,Kus,Stare Faszczyce,mazowieckie,Poland
-2601267,SP9EEE,Piotr,Piotrowski,Gorlice,malopolskie,Poland
-2601268,SP7AZ,Andrzej,Zalewski,Lodz,lodzkie,Poland
+2601267,SP9EEE,Piotr,Piotrowski,Gorlice,ma?opolskie,Poland
+2601268,SP7AZ,Andrzej,Zalewski,Lodz,??dzkie,Poland
 2601269,SP5HGW,Krzysztof,S,Wawa,mazowieckie,Poland
 2601270,SO5WZ,Wojciech,Z,Warszawa,mazowieckie,Poland
 2601271,SO5TD,Tomasz, ,Warszawa,mazowieckie,Poland
 2601272,SP2WN,Wenancjusz,Rolka,Malbork,pomorskie,Poland
 2601273,SP3GW,Krzysztof,Piechota,Poznan,wielkopolskie,Poland
-2601274,SP9HC,Szymon, , Zory,slaskie,Poland
-2601275,SP9RWR,Rafal,Wrona,Gorlice,malopolskie,Poland
-2601276,SP9MOC,Michal,Opara,Kolonia Wierzchowisko,slaskie,Poland
+2601274,SP9HC,Szymon, , ?ory,?l?skie,Poland
+2601275,SP9RWR,Rafal,Wrona,Gorlice,ma?opolskie,Poland
+2601276,SP9MOC,Michal,Opara,Kolonia Wierzchowisko,?l?skie,Poland
 2601278,SP2ARK,Andrzej,   ,Wloclawek,kujawsko-pomorskie,Poland
 2601279,SP5WT,Marcin,Wiktor ,Warszawa ,mazowieckie,Poland
 2601280,SQ5TC,Tomasz,Chojnacki,Radom,mazowieckie,Poland
-2601281,SQ7AWP,Artur,Wegrzyn,Kielce,swietokrzyskie,Poland
+2601281,SQ7AWP,Artur,Wegrzyn,Kielce,?wi?tokrzyskie,Poland
 2601282,SP2WGC,Leszek,Dawicki,Gdansk,pomorskie,Poland
 2601283,SP5NOP,Jakub,Naporowski,Warszawa,mazowieckie,Poland
 2601284,SQ8PGS,Piotr,Glowala,Stalowa Wola,podkarpackie,Poland
-2601285,SQ7PWL,Pawel,,Kielce,swietokrzyskie,Poland
-2601286,SP9WZP,Waclaw,Kus,Gliwice,slaskie,Poland
-2601287,SP9NB,Marcin,Dembinski,Krakow,malopolskie,Poland
+2601285,SQ7PWL,Pawe?,,Kielce,?wi?tokrzyskie,Poland
+2601286,SP9WZP,Waclaw,Kus,Gliwice,?l?skie,Poland
+2601287,SP9NB,Marcin,Dembinski,Krakow,ma?opolskie,Poland
 2601288,SP3UK,Rafal, ,Ostrow Wielkopolski,wielkopolskie,Poland
 2601289,SQ5E,Pawel,Brzezinski,Warszawa,mazowieckie,Poland
-2601290,SP6WTF,Robert,Szewczyk,Wroclaw,dolnoslaskie,Poland
+2601290,SP6WTF,Robert,Szewczyk,Wroclaw,dolno?l?skie,Poland
 2601291,SP5AFM,Marcin,Surowiec,Warszawa,mazowieckie,Poland
 2601292,SP5OPS,Herman,Bohatiuk,Warszawa,mazowieckie,Poland
 2601293,SP8BJ,Jacek,Blach,Lublin,lubelskie,Poland
 2601294,SP8BK,Karolina,Blach,Lublin,lubelskie,Poland
 2601295,SO5LAR,Rafal,Latkowski,Warszawa,mazowieckie,Poland
 2601296,SP3BMW,Grzegorz,Kuncik,Miedzyrzecz,lubuskie,Poland
-2601297,3Z9VI,Tomasz,Matuszewski,Klecza Dolna,malopolskie,Poland
-2601299,SP9JS,Janusz,Sliwa,Gorlice,malopolskie,Poland
+2601297,3Z9VI,Tomasz,Matuszewski,Klecza Dolna,ma?opolskie,Poland
+2601299,SP9JS,Janusz,Sliwa,Gorlice,ma?opolskie,Poland
 2601300,SQ3SHC,Stanislaw,,Plewiska,wielkopolskie,Poland
 2601301,SQ2PAX,Damian,Ziemba,Stanislawka,kujawsko-pomorskie,Poland
 2601302,SP5LOG,Michal,Biernacki,Kazun Bielany,mazowieckie,Poland
 2601303,SQ3TGRS,Karol,Cichonski,Boduszewo,wielkopolskie,Poland
-2601304,SP9MAC,Maciej,Mierzwa,Gorlice,malopolskie,Poland
+2601304,SP9MAC,Maciej,Mierzwa,Gorlice,ma?opolskie,Poland
 2601305,SP1JMF,Michal,Preyzner,Stargard,zachodniopomorskie,Poland
 2601306,SQ6CYS,Marcin,,Krapkowice,opolskie,Poland
 2601307,SO5J,Jacek,Skrobisz,Warszawa,mazowieckie,Poland
 2601309,SP5MO,Mikolaj,Skuza,Cerekiew,mazowieckie,Poland
 2601310,SP5RT,Tomasz,Rybak,Warszawa,mazowieckie,Poland
-2601311,HF9BIT,Kamil,G,Dabrowa Gornicza ,slaskie,Poland
-2601312,SQ7OFC,Jaroslaw,Wolak,Lodz,lodzkie,Poland
-2601313,SP7TV,Michal,Kotlarek,Lodz,lodzkie,Poland
+2601311,HF9BIT,Kamil,G,Dabrowa Gornicza ,?l?skie,Poland
+2601312,SQ7OFC,Jaroslaw,Wolak,Lodz,??dzkie,Poland
+2601313,SP7TV,Michal,Kotlarek,Lodz,??dzkie,Poland
 2601314,SP2EKD,Janusz,Wasowski,Witkowo,wielkopolskie,Poland
 2601315,SP5ST,Roman,Stankiewicz,Warszawa,mazowieckie,Poland
-2601316,SP6AF,Ferdynand,Ardelli,Bielawa,dolnoslaskie,Poland
+2601316,SP6AF,Ferdynand,Ardelli,Bielawa,dolno?l?skie,Poland
 2601317,SP5CLX,Arkadiusz,Czerwinski,Ruda,mazowieckie,Poland
-2601318,SP9RQH,Krzysztof,Kurowski,Tenczynek,malopolskie,Poland
-2601319,SP9ECS,Grzegorz, ,Myslenice,malopolskie,Poland
-2601320,SP9QZH,Leszek,Stadler,Chorzow,slaskie,Poland
+2601318,SP9RQH,Krzysztof,Kurowski,Tenczynek,ma?opolskie,Poland
+2601319,SP9ECS,Grzegorz, ,Myslenice,ma?opolskie,Poland
+2601320,SP9QZH,Leszek,Stadler,Chorzow,?l?skie,Poland
 2601321,SP5CMW,Przemyslaw,Zoladek,Dabrowa,mazowieckie,Poland
-2601322,SP9EPI,Przemyslaw,Sztandera,Wieliczka,malopolskie,Poland
-2601323,SQ9NFS,Andrzej,Pawlikowski,Poronin,malopolskie,Poland
-2601324,SP9KTG,Tomasz,   ,Krakow,malopolskie,Poland
+2601322,SP9EPI,Przemyslaw,Sztandera,Wieliczka,ma?opolskie,Poland
+2601323,SQ9NFS,Andrzej,Pawlikowski,Poronin,ma?opolskie,Poland
+2601324,SP9KTG,Tomasz,   ,Krakow,ma?opolskie,Poland
 2601325,SQ5LNO,Jacek,Kotowski,Warszawa,mazowieckie,Poland
 2601326,SP5PMA,Pawel,Marszalek,Pruszkow,mazowieckie,Poland
-2601327,SP6VAC,Tomasz,Wac,Opole,dolnoslaskie,Poland
+2601327,SP6VAC,Tomasz,Wac,Opole,dolno?l?skie,Poland
 2601328,SP8ETM,Emil,Jarosz,Rzeszow,podkarpackie,Poland
-2601329,SQ9EAJ,Jan,Skoczen,Krakow,malopolskie,Poland
+2601329,SQ9EAJ,Jan,Skoczen,Krakow,ma?opolskie,Poland
 2601330,SP4ABC,Robert,Mroz,Bialystok,podlaskie,Poland
 2601331,SP5AND,Andrzej,Langer,Warszawa,mazowieckie,Poland
 2601332,SQ8NGO,Michal,Szabla,Stalowa Wola,podkarpackie,Poland
 2601333,SQ6HZI,Marek,Papierz,Strzelce Opolskie,opolskie,Poland
 2601334,SP2TPN,Maciej,---,Gdynia,pomorskie,Poland
-2601335,SP9SPK,Piotr, ,Zabrze,slaskie,Poland
-2601336,SP9WFQ,Arek,,Nowy Sacz,malopolskie,Poland
-2601337,SP4AB,Andrzej,Blazejczyk,Olsztyn,warminsko-mazurskie,Poland
+2601335,SP9SPK,Piotr, ,Zabrze,?l?skie,Poland
+2601336,SP9WFQ,Arek,,Nowy Sacz,ma?opolskie,Poland
+2601337,SP4AB,Andrzej,Blazejczyk,Olsztyn,warmi?sko-mazurskie,Poland
 2601338,SQ3RAX,Dawid,Sroka,Poznan,wielkopolskie,Poland
 2601339,SQ6AWK,Adam,Wirski,Strzelce Opolskie,opolskie,Poland
-2601340,SP9CB,Piotr,Kurek,Podlopien,malopolskie,Poland
-2601341,SP9DLS,Szymon,Kantor,Krakow,malopolskie,Poland
+2601340,SP9CB,Piotr,Kurek,Podlopien,ma?opolskie,Poland
+2601341,SP9DLS,Szymon,Kantor,Krakow,ma?opolskie,Poland
 2601342,SQ3OLA,Oliwia,,Plewiska,wielkopolskie,Poland
 2601343,SP8ABM,Roman,Narog,Kraczkowa,podkarpackie,Poland
-2601344,SP9IN,Irek,Niemczyk,BIELSKO BIALA,slaskie,Poland
+2601344,SP9IN,Irek,Niemczyk,BIELSKO BIALA,?l?skie,Poland
 2601345,SP4APB,Pawel,Brzozowski,Bialystok,podlaskie,Poland
 2601346,SQ5WAW,Piotr,,Warszawa,mazowieckie,Poland
 2601347,SP2VIM,Szymon,Kempny,Gdansk,pomorskie,Poland
-2601348,SP9KON,Lukasz,Konieczny,Swietochlowice,slaskie,Poland
-2601349,SP7CWZ,Jan,Maniecki,Lodz,lodzkie,Poland
-2601350,SP7EVG,Krzysztof,Olczak,Lodz ,lodzkie,Poland
-2601351,SP9MPX,Michal,Peterek,Katowice,slaskie,Poland
-2601352,SQ6MIF,Jerzy,Brzostek,Ziebice,dolnoslaskie,Poland
-2601353,SP7MME,Rafal,Biernacki,Lodz,lodzkie,Poland
+2601348,SP9KON,Lukasz,Konieczny,Swietochlowice,?l?skie,Poland
+2601349,SP7CWZ,Jan,Maniecki,Lodz,??dzkie,Poland
+2601350,SP7EVG,Krzysztof,Olczak,??d? ,??dzkie,Poland
+2601351,SP9MPX,Michal,Peterek,Katowice,?l?skie,Poland
+2601352,SQ6MIF,Jerzy,Brzostek,Ziebice,dolno?l?skie,Poland
+2601353,SP7MME,Rafal,Biernacki,Lodz,??dzkie,Poland
 2601354,HF4112P,Klub,Podlasie,Bialystok,podlaskie,Poland
 2601355,SP2SGK,Jan,Malinowski,KWIDZYN,pomorskie,Poland
-2601356,SP6AKO,Artur,,,dolnoslaskie,Poland
+2601356,SP6AKO,Artur,,,dolno?l?skie,Poland
 2601357,SQ3KMJ,Kamil,,Gostyn,wielkopolskie,Poland
 2601358,SP6NYA,Fabian,Jonek,Gorzow Slaski,opolskie,Poland
 2601359,SP5GRE,Grzegorz,Deneka,Blonie,mazowieckie,Poland
 2601360,SP5MMP,Marek,Sobiecki,Warszawa,mazowieckie,Poland
 2601361,SQ8MVV,Marcin,Klocek,Rzeszow,podkarpackie,Poland
 2601362,SQ5BAS,Jakub,Kaluzny,Warszawa,mazowieckie,Poland
-2601363,SP6QKP,Piotr,,Lubin,dolnoslaskie,Poland
+2601363,SP6QKP,Piotr,,Lubin,dolno?l?skie,Poland
 2601364,SQ8BWH,Pawel,Holys,Wolka Labunska,lubelskie,Poland
-2601365,SP9THC,Lukasz,Biernat,Wola Kiedrzynska   CZESTOCHOWA  ,slaskie,Poland
-2601366,SQ7GB,Bartosz,Grzyb,Busko Zdroj,swietokrzyskie,Poland
+2601365,SP9THC,Lukasz,Biernat,Wola Kiedrzynska   CZESTOCHOWA  ,?l?skie,Poland
+2601366,SQ7GB,Bartosz,Grzyb,Busko Zdroj,?wi?tokrzyskie,Poland
 2601367,SP66B,Marcin,W,Opole,opolskie,Poland
 2601368,SP2ELO,Marcin,Ulanowicz,Gdansk,pomorskie,Poland
 2601369,SQ5AK,Adam,Kotarbinski,Stefanowo,mazowieckie,Poland
-2601370,SP6WLA,Wladyslaw,Kedzierski,Polkowice,dolnoslaskie,Poland
+2601370,SP6WLA,Wladyslaw,Kedzierski,Polkowice,dolno?l?skie,Poland
 2601371,SP5ALD,Maciej,Woch,Siedlce,mazowieckie,Poland
-2601372,SP9CXD,Adam,Gornicki,Raciborz,slaskie,Poland
+2601372,SP9CXD,Adam,Gornicki,Raciborz,?l?skie,Poland
 2601373,SP5JDJ,Jakub,Drabik,Szydlowiec,mazowieckie,Poland
-2601374,SP7WST,Mateusz,Widerkiewicz,Lodz,lodzkie,Poland
-2601375,SP9CCW,Szymon,Fortuna,Krakow,malopolskie,Poland
+2601374,SP7WST,Mateusz,Widerkiewicz,Lodz,??dzkie,Poland
+2601375,SP9CCW,Szymon,Fortuna,Krakow,ma?opolskie,Poland
 2601376,SP1ABC,Piotr,KLIMKOWICZ,SZCZECIN,zachodniopomorskie,Poland
 2601377,SQ5JIV,Przemyslaw,Frasunek,Warszawa,mazowieckie,Poland
-2601378,SQ9MARI,Mariusz,Ciasto,Tarnow,malopolskie,Poland
+2601378,SQ9MARI,Mariusz,Ciasto,Tarnow,ma?opolskie,Poland
 2601379,SQ5DK,Dariusz,Krawczyk,Warszawa,mazowieckie,Poland
 2601380,SP5SRX,Szymon,,Drezewo,mazowieckie,Poland
-2601381,SQ9B,Michal,Birecki,Katowice,slaskie,Poland
+2601381,SQ9B,Michal,Birecki,Katowice,?l?skie,Poland
 2601382,SQ3NVN,Jacek,Strycharczyk,Pleszew,wielkopolskie,Poland
-2601383,SP9LHD,Bartlomiej,Puget,Swiatniki Gorne,malopolskie,Poland
-2601384,SP6ARD,Rafal,Oczachowski,Lubin,dolnoslaskie,Poland
+2601383,SP9LHD,Bartlomiej,Puget,Swiatniki Gorne,ma?opolskie,Poland
+2601384,SP6ARD,Rafal,Oczachowski,Lubin,dolno?l?skie,Poland
 2601385,SQ6IUM,Krzysztof,Klys,Wierchlesie,opolskie,Poland
 2601386,SQ5OVF,Pawel,Tesarski,Wiazowna,mazowieckie,Poland
 2601387,SP6WLM,Wieslaw,Lechowicz,Ligota Zamecka,opolskie,Poland
-2601388,SP5XD,Michal, , ,dolnoslaskie,Poland
-2601389,SP9SKO,Robert, ,Krakow,malopolskie,Poland
-2601390,SQ9HP,Grzegorz,Kot,Palcza,malopolskie,Poland
-2601391,SQ6JMM,Justyna,Mierzwinska,Glogow,dolnoslaskie,Poland
-2601392,SO6N,Dariusz,Pelowski,Wroclaw,dolnoslaskie,Poland
-2601393,SP9OP,Jakub,Skrzypnik,Krakow,malopolskie,Poland
+2601388,SP5XD,Michal, , ,dolno?l?skie,Poland
+2601389,SP9SKO,Robert, ,Krakow,ma?opolskie,Poland
+2601390,SQ9HP,Grzegorz,Kot,Palcza,ma?opolskie,Poland
+2601391,SQ6JMM,Justyna,Mierzwinska,Glogow,dolno?l?skie,Poland
+2601392,SO6N,Dariusz,Pelowski,Wroclaw,dolno?l?skie,Poland
+2601393,SP9OP,Jakub,Skrzypnik,Krakow,ma?opolskie,Poland
 2601394,SQ5DBF,Dzmitry,Belahortsau,Warszawa,mazowieckie,Poland
-2601395,SQ9EUM,Marcin,,Krakow,malopolskie,Poland
+2601395,SQ9EUM,Marcin,,Krakow,ma?opolskie,Poland
 2601396,SP8GC,Grzegorz,Cisowski,Rzeszow,podkarpackie,Poland
 2601397,SQ5TS,Tomasz,Spala,Legionowo,mazowieckie,Poland
-2601398,SQ9JYZ,Krzysztof,Kubisz,Muszyna,malopolskie,Poland
-2601399,SP9MAI,Marcin,Krok,Wancerzow,slaskie,Poland
-2601400,SQ6FMBY,Filip,Zielinski,Wolow,dolnoslaskie,Poland
+2601398,SQ9JYZ,Krzysztof,Kubisz,Muszyna,ma?opolskie,Poland
+2601399,SP9MAI,Marcin,Krok,Wancerzow,?l?skie,Poland
+2601400,SQ6FMBY,Filip,Zielinski,Wolow,dolno?l?skie,Poland
 2601401,SP5FUJ,Wiktor,Paluchniak,Warsaw,mazowieckie,Poland
-2601402,SP6AKP,Adam,Piatkowski,Walbrzych,dolnoslaskie,Poland
+2601402,SP6AKP,Adam,Piatkowski,Wa?brzych,dolno?l?skie,Poland
 2601403,SQ5JJ,Jacek,Jagiello,Sokolow Podlaskii,mazowieckie,Poland
 2601404,SQ1ES,Emil,Szwechlowicz,Mieszkowice,zachodniopomorskie,Poland
-2601405,SQ7RKM,Piotr,Szwiec,Opoczno,lodzkie,Poland
+2601405,SQ7RKM,Piotr,Szwiec,Opoczno,??dzkie,Poland
 2601406,SP2JIP,Krzysztof,Posyniak,Gdansk,pomorskie,Poland
-2601407,SQ7PWM,Mateusz,Pelka,Kielce,swietokrzyskie,Poland
+2601407,SQ7PWM,Mateusz,Pelka,Kielce,?wi?tokrzyskie,Poland
 2601408,SP4ANR,Andrei,Simanau,Bialystok,podlaskie,Poland
-2601409,SP7NC,Piotr,K,Lodz,lodzkie,Poland
+2601409,SP7NC,Piotr,K,Lodz,??dzkie,Poland
 2601410,SP1KC,Krzysztof,,Swidwin,zachodniopomorskie,Poland
 2601411,SP2CSR,Bartosz,Pyszynski,Bydgoszcz,kujawsko-pomorskie,Poland
-2601412,SP4TVN,Tomasz,Pestka,Wilkasy,warminsko-mazurskie,Poland
+2601412,SP4TVN,Tomasz,Pestka,Wilkasy,warmi?sko-mazurskie,Poland
 2601413,SP5AWL,Adam,Wolf,Zielonka,mazowieckie,Poland
-2601414,SP0ZP,Zbigniew, ,Krakow,malopolskie,Poland
+2601414,SP0ZP,Zbigniew, ,Krakow,ma?opolskie,Poland
 2601415,SP8MBO,Michal,Bosek,Markowa,podkarpackie,Poland
-2601416,SQ7BFI,Marcin,Iwanski,Opoczno,lodzkie,Poland
+2601416,SQ7BFI,Marcin,Iwanski,Opoczno,??dzkie,Poland
 2601417,SP5TZP,Piotr,Tyborowski,Jozefoslaw,mazowieckie,Poland
 2601419,SQ4PS,Pawel,Dabrowski,Lomza,podlaskie,Poland
-2601420,SP9DDB,Dawid,Baran,Dabrowa Gornicza,slaskie,Poland
-2601421,SO5WI,Wiktor,Starzak,Bialystok,podlaskie,Poland
+2601420,SP9DDB,Dawid,Baran,Dabrowa Gornicza,?l?skie,Poland
+2601421,SO5WI,Wiktor,Starzak,Bia?ystok,podlaskie,Poland
 2601422,SP3DOG,Bogdan,Cierpka ,Poznan,wielkopolskie,Poland
-2601423,SP2GA,Michal,Wenta,Gdynia,pomorskie,Poland
+2601423,SP2GA,Micha?,Wenta,Gdynia,pomorskie,Poland
 2601424,SP4WRI,Marcin,Lawrenty,Bialystok,podlaskie,Poland
-2601425,SP9LPK,Wojciech,Czyszczon,Krakow,malopolskie,Poland
-2601426,SP9MPZ,Marcin,Placzek,Krakow,malopolskie,Poland
-2601427,SP9DPD,Adam,Wrobel,Ruda Slaska,slaskie,Poland
-2601428,SO9S,Adrian, ,Chorzow,slaskie,Poland
-2601429,SQ4OZO,Marcin,Mazur,Olsztyn,warminsko-mazurskie,Poland
+2601425,SP9LPK,Wojciech,Czyszczon,Krakow,ma?opolskie,Poland
+2601426,SP9MPZ,Marcin,Placzek,Krakow,ma?opolskie,Poland
+2601427,SP9DPD,Adam,Wrobel,Ruda Slaska,?l?skie,Poland
+2601428,SO9S,Adrian, ,Chorzow,?l?skie,Poland
+2601429,SQ4OZO,Marcin,Mazur,Olsztyn,warmi?sko-mazurskie,Poland
 2601430,SP2OMO,Daniel,Da,Domatowo,pomorskie,Poland
 2601431,SN8KR,Kacper,Raczka,Jaslo,podkarpackie,Poland
-2601432,SQ7KLK,Krzysztof,Klatka,Skierniewice,lodzkie,Poland
+2601432,SQ7KLK,Krzysztof,Klatka,Skierniewice,??dzkie,Poland
 2601433,SP5OG,Olaf,Grabowski,Minsk Mazowiecki,mazowieckie,Poland
-2601434,SQ9JYO,Jaroslaw,Nowacki,Muszyna,malopolskie,Poland
-2601435,SQ2LMH,Krzysztof,Walasiewicz,Chelmza,kujawsko-pomorskie,Poland
+2601434,SQ9JYO,Jaroslaw,Nowacki,Muszyna,ma?opolskie,Poland
+2601435,SQ2LMH,Krzysztof,Walasiewicz,Che?mza,kujawsko-pomorskie,Poland
 2601436,SP4KD,Kamil,,Bialystok,podlaskie,Poland
 2601437,SP3JAC,Jacek,,Zielona Gora,lubuskie,Poland
-2601438,SQ7PL,Pawel,Lyp,Radomsko,lodzkie,Poland
-2601439,SP9MOA,Klub,Niepolomicki Klub Krotkofalowcow przy Mlodziezowym Obserwatorium Astronomicznym,Niepolomice,malopolskie,Poland
+2601438,SQ7PL,Pawel,Lyp,Radomsko,??dzkie,Poland
+2601439,SP9MOA,Klub,Niepolomicki Klub Krotkofalowcow przy Mlodziezowym Obserwatorium Astronomicznym,Niepolomice,ma?opolskie,Poland
 2601440,SQ2IPS,Pawel,Skrzypkowski,Somonino,pomorskie,Poland
 2601441,SP2BWI,Slawomir,Kniola,Naklo,kujawsko-pomorskie,Poland
 2601442,SQ3L,Marcin,Malingowski,Poznan,wielkopolskie,Poland
 2601443,SO3T,Tomasz,Serdiukow Malysa,Zielona Gora,lubuskie,Poland
-2601444,SP7BRUH,Oliwier,Stefaniak,Sulejow,lodzkie,Poland
+2601444,SP7BRUH,Oliwier,Stefaniak,Sulejow,??dzkie,Poland
 2601445,SP1W,Lukasz,Linhard,Szczecin,zachodniopomorskie,Poland
 2601446,SQ2TM,Tomasz, ,Bydgoszcz,kujawsko-pomorskie,Poland
 2601447,SP3VK,Viktoria,Sepska,Zielona Gora,lubuskie,Poland
-2601448,SQ9BC,Bogdan,,Raciechowice,malopolskie,Poland
+2601448,SQ9BC,Bogdan,,Raciechowice,ma?opolskie,Poland
 2601449,SP3LM,Maksymilian,Prokopowicz,Zagan,lubuskie,Poland
-2601450,SQ9PKW,Andrzej,Golebiewski,Czarny Dunajec,malopolskie,Poland
+2601450,SQ9PKW,Andrzej,Golebiewski,Czarny Dunajec,ma?opolskie,Poland
 2601451,SQ3KNO,Andrzej,Andrzejewski,Opalenica,wielkopolskie,Poland
-2601452,SQ9ONP,Krzysztof ,Gazdzicki,Gliwice,slaskie,Poland
-2601453,SQ7JZQ,Tomasz,Wrobel,Dabkowice Dolne,lodzkie,Poland
-2601454,SN6ZDA,ZHP Wroclaw,Radio Club Polish Scout,Wroclaw,dolnoslaskie,Poland
-2601455,SP6ZHP,ZHP Wroclaw,Radio Club Polish Scout,Wroclaw,dolnoslaskie,Poland
-2601456,SP9KGB,Krzysztof,Gerlich,Ruda Slaska,slaskie,Poland
+2601452,SQ9ONP,Krzysztof ,Gazdzicki,Gliwice,?l?skie,Poland
+2601453,SQ7JZQ,Tomasz,Wrobel,Dabkowice Dolne,??dzkie,Poland
+2601454,SN6ZDA,ZHP Wroclaw,Radio Club Polish Scout,Wroclaw,dolno?l?skie,Poland
+2601455,SP6ZHP,ZHP Wroclaw,Radio Club Polish Scout,Wroclaw,dolno?l?skie,Poland
+2601456,SP9KGB,Krzysztof,Gerlich,Ruda Slaska,?l?skie,Poland
 2601457,SP3BSI,Mariusz ,Pokora,Witkowo,wielkopolskie,Poland
 2601458,SO5HIM,Pawel,Staniewicz,Warszawa,mazowieckie,Poland
 2601459,SP2AKE,Piotr,Glomski,Gdansk,pomorskie,Poland
 2601460,SQ2OTO,Piotr,Halman,Lebork,pomorskie,Poland
-2601461,SP6UJW,Jedrzej,Ulasiewicz,Wroclaw,dolnoslaskie,Poland
-2601462,SP9RTT,Jan,Trofimczuk,Raciborz,slaskie,Poland
+2601461,SP6UJW,Jedrzej,Ulasiewicz,Wroclaw,dolno?l?skie,Poland
+2601462,SP9RTT,Jan,Trofimczuk,Raciborz,?l?skie,Poland
 2601463,SP2CDS,Lukasz,Halas,Radlowek,kujawsko-pomorskie,Poland
 2601464,SQ1UKF,Konrad,,Szczecin,zachodniopomorskie,Poland
 2601465,SP1KD,Konrad,Dudziak,Szczecin,zachodniopomorskie,Poland
 2601466,SP8SIL,Piotr,,Lublin,lubelskie,Poland
-2601467,SP6C,Artur,Michajluk,Kamien,,Poland
-2601468,SP9QBA,Jakub,Madeja,Krakow,malopolskie,Poland
+2601467,SP6C,Artur,Michajluk,Kamie?,,Poland
+2601468,SP9QBA,Jakub,Madeja,Krakow,ma?opolskie,Poland
 2601469,SQ5QS,Piotr,,Warszawa,mazowieckie,Poland
-2601470,SP9NGL,Angel, , ,malopolskie,Poland
-2601471,SQ9FK,Piotr,Gaska,Zabrze,slaskie,Poland
+2601470,SP9NGL,Angel, , ,ma?opolskie,Poland
+2601471,SQ9FK,Piotr,Gaska,Zabrze,?l?skie,Poland
 2601472,SP3LOR,Krzysztof ,Paradowski ,Poznan,wielkopolskie,Poland
 2601473,SP3NF,Fabian,Nowak,Lezenica,wielkopolskie,Poland
 2601474,SP3QBA,Jakub,Taszarek,Struzewo,wielkopolskie,Poland
-2601475,SP6NC,Piotr,Sacher,Boleslawiec,dolnoslaskie,Poland
-2601476,SQ6DAG,Leszek,J,Boleslawiec,dolnoslaskie,Poland
+2601475,SP6NC,Piotr,Sacher,Boleslawiec,dolno?l?skie,Poland
+2601476,SQ6DAG,Leszek,J,Boleslawiec,dolno?l?skie,Poland
 2601477,SQ4BSG,Bogumil,Sielachowski,Bialystok,podlaskie,Poland
-2601478,SP9MIP,Pawel,Michalek,Jurkow,malopolskie,Poland
-2601479,SP6MPG,Grzegorz,Perkowski,Niemcza,dolnoslaskie,Poland
-2601480,SP9BBO,Bartlomiej,Budzik,Gorlice,malopolskie,Poland
+2601478,SP9MIP,Pawel,Michalek,Jurkow,ma?opolskie,Poland
+2601479,SP6MPG,Grzegorz,Perkowski,Niemcza,dolno?l?skie,Poland
+2601480,SP9BBO,Bartlomiej,Budzik,Gorlice,ma?opolskie,Poland
 2601481,SQ2JAK,Robert,Osmanski,Inowroclaw,kujawsko-pomorskie,Poland
 2601482,SP2SJK,Szymon,Kaliski,Inowroclaw,kujawsko-pomorskie,Poland
 2601483,SP5AEZ,Tomasz,Baluk,Nieporet,mazowieckie,Poland
@@ -1447,113 +1447,113 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2601485,SO5RQ,Jakub,R,Warszawa,mazowieckie,Poland
 2601486,SQ8DSR,Michal,Uryga,Lublin,lubelskie,Poland
 2601487,SP3SRM,Rafal,Majorczyk,Srem,wielkopolskie,Poland
-2601488,SP7RTX,Andrzej,Stamirowski,Lodz,lodzkie,Poland
-2601489,SP2WBN,Krzysztof,Grzelczak,Wladyslawowo,pomorskie,Poland
+2601488,SP7RTX,Andrzej,Stamirowski,Lodz,??dzkie,Poland
+2601489,SP2WBN,Krzysztof,Grzelczak,Wladys?awowo,pomorskie,Poland
 2601490,SQ8KT,Kamil,Tarczynski,Glogow Malopolski,podkarpackie,Poland
 2601491,SP1CLM,Kamil,NOWACKI,Szczecinek,zachodniopomorskie,Poland
-2601492,SP7AR,Arkadiusz,Rybak,Sieradz,lodzkie,Poland
-2601493,SP7PA,Pawel, ,Sarnowek Maly,swietokrzyskie,Poland
+2601492,SP7AR,Arkadiusz,Rybak,Sieradz,??dzkie,Poland
+2601493,SP7PA,Pawel, ,Sarnowek Maly,?wi?tokrzyskie,Poland
 2601494,SP5WX,Adam,Trabka,Warszawa,mazowieckie,Poland
 2601495,SQ1DEX,Kamil,Gruczek,Swinoujscie,zachodniopomorskie,Poland
 2601496,SQ8EP,Zdzislaw,Zdik,Swidnik,lubelskie,Poland
 2601497,SP3SOT,Marek,Sotek,Pila,wielkopolskie,Poland
-2601498,SP6MCW,Mariusz,Piszczorowicz,Wroclaw,dolnoslaskie,Poland
-2601499,SP9XE,Krzysztof,Kasprzyk,Swietochlowice,slaskie,Poland
+2601498,SP6MCW,Mariusz,Piszczorowicz,Wroclaw,dolno?l?skie,Poland
+2601499,SP9XE,Krzysztof,Kasprzyk,Swietoch?owice,?l?skie,Poland
 2601500,SP3MS,Maciej,Sroka,Miedzychod,,Poland
-2601501,SP9HKA,Kamil,Biela,Rybnik,slaskie,Poland
+2601501,SP9HKA,Kamil,Biela,Rybnik,?l?skie,Poland
 2601502,SP3DML,Michal,Augustyniak,Biskupice Zabaryczne,wielkopolskie,Poland
-2601503,SP9UNW,Miroslaw,Branczewski,Dabrowa Gornicza,slaskie,Poland
+2601503,SP9UNW,Miroslaw,Branczewski,Dabrowa Gornicza,?l?skie,Poland
 2601504,SP5WRB,Andrzej,WYREBOWSKI,Warszawa,mazowieckie,Poland
 2601505,SO5TWM,Tomasz,Majkowski,Ciechanow,mazowieckie,Poland
-2601506,SQ9SNS,Lukasz,Sosniaczynski,Krakow,malopolskie,Poland
-2601507,SQ6NLZ,Grzegorz,Bundziow,Cerekwica,dolnoslaskie,Poland
-2601508,SP9WZU,Rafal,Blachlinski,Bytom,slaskie,Poland
+2601506,SQ9SNS,?ukasz,Sosniaczynski,Krakow,ma?opolskie,Poland
+2601507,SQ6NLZ,Grzegorz,Bundziow,Cerekwica,dolno?l?skie,Poland
+2601508,SP9WZU,Rafal,Blachlinski,Bytom,?l?skie,Poland
 2601509,SP4LD,Leszek,Dzienis,WASILKOW,podlaskie,Poland
 2601510,SP86ZAL,Bernd,Ultralight,Grodkow,opolskie,Poland
 2601511,SP2LCN,Tomasz,Hrycuniak,Bydgoszcz,kujawsko-pomorskie,Poland
-2601512,SQ9NOF,Boguslaw,Adamowicz,Bukowno,slaskie,Poland
-2601513,SP8TN,Grzegorz,Drzymala,Tuszow Narodowy,podkarpackie,Poland
-2601514,SP4SR,Slawomir,Romejko,Olsztyn,warminsko-mazurskie,Poland
+2601512,SQ9NOF,Boguslaw,Adamowicz,Bukowno,?l?skie,Poland
+2601513,SP8TN,Grzegorz,Drzyma?a,Tusz?w Narodowy,podkarpackie,Poland
+2601514,SP4SR,Slawomir,Romejko,Olsztyn,warmi?sko-mazurskie,Poland
 2601515,SQ3LUNA,Luna,Swiatek,Poznan,wielkopolskie,Poland
 2601516,SQ3MP,Michal,P,Mosina,wielkopolskie,Poland
 2601517,SP1TER,Piotr,Ziemlewski,Darlowo,zachodniopomorskie,Poland
 2601518,SQ3MT,Michal,Trusz,Ostrow Wielkopolski,wielkopolskie,Poland
 2601519,SQ5ELK,Gosia, ,Warszawa,mazowieckie,Poland
-2601520,SP4BG,Krzysztof,Grzesik,Orneta,warminsko-mazurskie,Poland
-2601521,SP9MIT,Milosz,Ryba,Debno,malopolskie,Poland
+2601520,SP4BG,Krzysztof,Grzesik,Orneta,warmi?sko-mazurskie,Poland
+2601521,SP9MIT,Milosz,Ryba,Debno,ma?opolskie,Poland
 2601522,SP2RMZ,Remigiusz,Gruszka,Czemlewo,kujawsko-pomorskie,Poland
 2601523,SQ1EUG,Jacek,Jachnik,Szczecin,zachodniopomorskie,Poland
 2601524,SQ6OPL,Lukasz,,Dalachow,opolskie,Poland
-2601525,SP9ADG,Andrzej,Zajac,Dabrowa Gornicza,slaskie,Poland
-2601526,SQ6LJC,Leslaw,Karolak,Walbrzych,dolnoslaskie,Poland
-2601527,SP9NWG,Antoni,Painta,Piekary Slaskie,slaskie,Poland
-2601528,SP9GMD,Filip,Cichowski,Radzionkow,slaskie,Poland
-2601529,SP9MAJ,Robert,Korczynski,Andrychow,malopolskie,Poland
-2601530,SP7CZO,Przemyslaw,Bartnik,Ruda,slaskie,Poland
+2601525,SP9ADG,Andrzej,Zajac,Dabrowa Gornicza,?l?skie,Poland
+2601526,SQ6LJC,Leslaw,Karolak,Walbrzych,dolno?l?skie,Poland
+2601527,SP9NWG,Antoni,Painta,Piekary Slaskie,?l?skie,Poland
+2601528,SP9GMD,Filip,Cichowski,Radzionkow,?l?skie,Poland
+2601529,SP9MAJ,Robert,Korczynski,Andrychow,ma?opolskie,Poland
+2601530,SP7CZO,Przemyslaw,Bartnik,Ruda,?l?skie,Poland
 2601531,SP8CD,Karol,Zuk,Cicibor Duzy,lubelskie,Poland
 2601532,SQ3KD,Konrad,Dopierala,Pniewy,wielkopolskie,Poland
 2601533,SP3BLZ,Kamil,Sadowski,Szczaniec,lubuskie,Poland
 2601534,SP3FLY,Wieslaw,Karbowy,Turek,wielkopolskie,Poland
-2601535,SP9EFX,Piotr,Dziendziel,Miedzyswiec,slaskie,Poland
-2601536,SP9AJD,Zbigniew,Zalas,Czestochowa,slaskie,Poland
-2601537,SP6RK,Robert,Kozinski,Nowa Ruda,dolnoslaskie,Poland
-2601538,SQ6STK,Slawomir,Kitlas,Kamieniec Wroclawski,dolnoslaskie,Poland
-2601539,SP6ASM,Marcin,Wozniak,Nowa Wies Grodziska,dolnoslaskie,Poland
-2601540,SP9TGM,Marek,Smolinski,Tarnowskie Gory,slaskie,Poland
-2601541,SP6BRB,Mariusz,Mikolajczak,Wroclaw,dolnoslaskie,Poland
+2601535,SP9EFX,Piotr,Dziendziel,Miedzyswiec,?l?skie,Poland
+2601536,SP9AJD,Zbigniew,Zalas,Czestochowa,?l?skie,Poland
+2601537,SP6RK,Robert,Kozinski,Nowa Ruda,dolno?l?skie,Poland
+2601538,SQ6STK,Slawomir,Kitlas,Kamieniec Wroclawski,dolno?l?skie,Poland
+2601539,SP6ASM,Marcin,Wozniak,Nowa Wies Grodziska,dolno?l?skie,Poland
+2601540,SP9TGM,Marek,Smolinski,Tarnowskie Gory,?l?skie,Poland
+2601541,SP6BRB,Mariusz,Mikolajczak,Wroclaw,dolno?l?skie,Poland
 2601542,SQ2RAF,Rafal,Baranowski,Wejherowo,pomorskie,Poland
-2601543,SP3BBT,Adam,Szaj,Zielona Gora,lubuskie,Poland
+2601543,SP3BBT,Adam,Szaj,Zielona G?ra,lubuskie,Poland
 2601544,SP8BG,Wojciech,Witos,Chelm,lubelskie,Poland
-2601545,SQ4OLI,Tomasz,Gredzinski,Lubawa,warminsko-mazurskie,Poland
-2601546,SQ4OJD,Andrzej,Naus,Jesionowo,warminsko-mazurskie,Poland
-2601547,SQ4KOU,Arkadiusz,Stefanski,Kurzetnik,warminsko-mazurskie,Poland
-2601548,SP9DPZ,Dariusz, ,Zawiercie,slaskie,Poland
+2601545,SQ4OLI,Tomasz,Gredzinski,Lubawa,warmi?sko-mazurskie,Poland
+2601546,SQ4OJD,Andrzej,Naus,Jesionowo,warmi?sko-mazurskie,Poland
+2601547,SQ4KOU,Arkadiusz,Stefanski,Kurzetnik,warmi?sko-mazurskie,Poland
+2601548,SP9DPZ,Dariusz, ,Zawiercie,?l?skie,Poland
 2601549,SP3TW,Waldemar,Krol,Turek,wielkopolskie,Poland
-2601550,SP9IXD,Marcin,Sobczyk,Mikolow,slaskie,Poland
-2601551,SP7WMI,Piotr,Kopec,Lodz,lodzkie,Poland
+2601550,SP9IXD,Marcin,Sobczyk,Mikolow,?l?skie,Poland
+2601551,SP7WMI,Piotr,Kopec,Lodz,??dzkie,Poland
 2601552,SP6OZ,Piotr,Poluchowski,Opole,opolskie,Poland
 2601553,SP2LW,Szymon,Zalewski,Bydgoszcz,kujawsko-pomorskie,Poland
 2601554,SQ5Y,Lukasz,Hawryluk,Warszawa,mazowieckie,Poland
-2601555,SQ7EHC,Miroslaw,Paweloszek,Pabianice,lodzkie,Poland
+2601555,SQ7EHC,Miroslaw,Paweloszek,Pabianice,??dzkie,Poland
 2601556,SP3AQC,Piotr,Gorecki,Ostrowiec ,wielkopolskie,Poland
-2601557,SP6JL,Grzegorz,Gajda,Jelcz-Laskowice,dolnoslaskie,Poland
+2601557,SP6JL,Grzegorz,Gajda,Jelcz-Laskowice,dolno?l?skie,Poland
 2601558,SP1MAT,Mateusz,Bielak,Szczecin,zachodniopomorskie,Poland
 2601559,SP0V,Andrzej,  ,Warszawa,mazowieckie,Poland
 2601560,SP8MZA,Mariusz,Zamorski,Zyznow,podkarpackie,Poland
 2601561,SP5PRZ,Przemek,Socha,Warszawa,mazowieckie,Poland
-2601562,SQ6LAT,Marek,Przestrzelski,Wroclaw,dolnoslaskie,Poland
+2601562,SQ6LAT,Marek,Przestrzelski,Wroclaw,dolno?l?skie,Poland
 2601563,SP5KY,Pawel,O,Warszawa,mazowieckie,Poland
 2601564,SP3RBU,Agni Tristan,Kaczmarek,Zielona Gora,lubuskie,Poland
 2601565,SP3TRM,Maciej,Tatarkievvicz,Kazmierz,wielkopolskie,Poland
 2601566,3Z3K,Krystian,Murawinski,Stary Nakwasin,wielkopolskie,Poland
-2601567,SQ9BF,Boguslawa,Fabia,Biskupice,malopolskie,Poland
-2601568,SP9TDE,Marek, ,Zawiercie,slaskie,Poland
+2601567,SQ9BF,Boguslawa,Fabia,Biskupice,ma?opolskie,Poland
+2601568,SP9TDE,Marek, ,Zawiercie,?l?skie,Poland
 2601569,SQ5DTL,Grzegorz,Szpak,Radom,mazowieckie,Poland
 2601570,SQ3EJ,Jedrzej,Kubaczyk,Debsko,wielkopolskie,Poland
-2601571,SQ9KDV,Dariusz,Kasprzyk,Luszowice,malopolskie,Poland
-2601572,SP6MRF,Andrzej,Juszkiewicz,Wroclaw,dolnoslaskie,Poland
+2601571,SQ9KDV,Dariusz,Kasprzyk,Luszowice,ma?opolskie,Poland
+2601572,SP6MRF,Andrzej,Juszkiewicz,Wroclaw,dolno?l?skie,Poland
 2601573,SP3MPB,Marcin,Brzakala,Perzow,wielkopolskie,Poland
-2601574,SP7FM,Kamil,Walczak,Lodz,lodzkie,Poland
+2601574,SP7FM,Kamil,Walczak,Lodz,??dzkie,Poland
 2601575,SP5TWG,Jacek,Przychodzien,Zyczyn,mazowieckie,Poland
-2601576,SP6ASD,Tadeusz,Adamowicz,Wroclaw,dolnoslaskie,Poland
+2601576,SP6ASD,Tadeusz,Adamowicz,Wroclaw,dolno?l?skie,Poland
 2601577,SP3YPR,Club,Polish Amateur Radio Club,Gorzow Wlkp,lubuskie,Poland
 2601578,SP4AGX,Grzegorz,Krawiel,Bialystok,podlaskie,Poland
 2601579,SQ1AK,Andrzej,,Szczecin,zachodniopomorskie,Poland
 2601580,SP2PD,Piotr,Draszek,Gdansk,pomorskie,Poland
 2601581,SP88MM,Mateusz,Muzyk,Piotrowka,opolskie,Poland
 2601582,SQ5SDN,Jaroslaw,Szwabinski,Nowy Dwor Mazowiecki,mazowieckie,Poland
-2601583,SP6DGR,Arkadiusz,Krawczyk,Wieruszow city Wasosz,lodzkie,Poland
-2601584,SP9LIS,Jakub,Karpinski,Lisow,slaskie,Poland
+2601583,SP6DGR,Arkadiusz,Krawczyk,Wierusz?w city W?sosz,??dzkie,Poland
+2601584,SP9LIS,Jakub,Karpinski,Lisow,?l?skie,Poland
 2601585,SP5SRG,Siegiej,Kremianetski,Warszawa,mazowieckie,Poland
-2601586,SP6DBX,Daniel,Banaszewski,Jelenia Gora,dolnoslaskie,Poland
+2601586,SP6DBX,Daniel,Banaszewski,Jelenia Gora,dolno?l?skie,Poland
 2601587,SP5PSM,Piotr,Smazynski,Warszawa,mazowieckie,Poland
-2601588,SP9WFG,Wojciech,Gola,Gliwice,slaskie,Poland
+2601588,SP9WFG,Wojciech,Gola,Gliwice,?l?skie,Poland
 2601589,SP5SKJ,Stanislaw,Jasinski,Piaseczno,mazowieckie,Poland
 2601590,SO5AZ,Artur,Zukowski,Warszawa,mazowieckie,Poland
-2601591,SP9OQ,Leslaw,,Gliwice,slaskie,Poland
+2601591,SP9OQ,Leslaw,,Gliwice,?l?skie,Poland
 2601592,HF0TV,Konrad,Czaplicki,Grajewo,podlaskie,Poland
 2601593,SQ5KGO,Piotr,Kalczewiak,Minsk Mazowiecki,mazowieckie,Poland
-2601594,SP4JEU,Roman,Baginski,Ostroda,warminsko-mazurskie,Poland
+2601594,SP4JEU,Roman,Baginski,Ostroda,warmi?sko-mazurskie,Poland
 2601595,SP4MB,Marcin,,Bialystok,podlaskie,Poland
 2601597,SP4DKF,Dawid,Lewandowski,Bialystok,podlaskie,Poland
 2601598,SO5Q,Piotr,Grochowski,Piastow,mazowieckie,Poland
@@ -1586,8 +1586,8 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2602027,SQ2KLO,Krzysztof,,Wocawek,,Poland
 2602028,SP4KE,Jarek,,Nowe Miasto Lubawskie,kujawsko-pomorskie,Poland
 2602029,SQ2FRG,Marcin,Gorzynski,Inowroclaw,kujawsko-pomorskie,Poland
-2602030,SQ1GPI,Maciej,Kaszynski,Slupsk,pomorskie,Poland
-2602031,SQ2RBY,Grzegorz,Blonski-Kubiak ,Bydgoszcz,kujawsko-pomorskie,Poland
+2602030,SQ1GPI,Maciej,Kaszy?ski,S?upsk,pomorskie,Poland
+2602031,SQ2RBY,Grzegorz,B?onski-Kubiak ,Bydgoszcz,kujawsko-pomorskie,Poland
 2602033,SP2XDM,Michal,Lewczuk,Gdynia,pomorskie,Poland
 2602034,SQ2CDE,Marcin,,Pruszcz Gdanski,pomorskie,Poland
 2602035,SP2XDQ,Slawomir,,Tczew,,Poland
@@ -1769,15 +1769,15 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2603051,SP3VKK,Remigiusz,,Leszno,wielkopolskie,Poland
 2603052,SQ3IX,Anna,,Poznan,wielkopolskie,Poland
 2603053,SP3THA,Tomasz,,Gniezno,,Poland
-2603054,SP3NUV,Pawel,Jaskula,Kalisz,wielkopolskie,Poland
+2603054,SP3NUV,Pawel,Jasku?a,Kalisz,wielkopolskie,Poland
 2603055,SQ3EMX,Pawel,,Trzcinica,,Poland
 2603056,SQ3PCA,Krzysztof,,Poznan,,Poland
 2603057,SQ3HVH,Dariusz,,Witkowo,,Poland
 2603058,SQ3KKO,Jaroslaw,,Zielona Gora,,Poland
 2603059,SO3POL,Tomasz,,Ostrzeszow,,Poland
-2603060,SP3OCG,Grzegorz,Laskowski,Kolo,malopolskie,Poland
+2603060,SP3OCG,Grzegorz,Laskowski,Kolo,ma?opolskie,Poland
 2603061,SP3JP,Jan,,Zielona Gora,wielkopolskie,Poland
-2603062,SQ3TGN,Mariusz,Skopinski,Krobia,wielkopolskie,Poland
+2603062,SQ3TGN,Mariusz,Skopi?ski,Krobia,wielkopolskie,Poland
 2603063,SP3WWD,Dariusz,,Zielona Gora,,Poland
 2603064,SQ3KNL,Krzysztof,Wlazlak ,Ostrow Wielkopolski ,wielkopolskie,Poland
 2603065,SQ3NTO,Michal,Osyczka,Zielona Gora,wielkopolskie,Poland
@@ -1924,33 +1924,33 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2603212,SP3UQE,Piotr,,Kalisz,,Poland
 2603213,SP3DVO,Mariusz,,Ujscie,wielkopolskie,Poland
 2603214,SQ3TUT,Krzysztof,,Biedrusko,,Poland
-2604001,SQ4HRL,Przemyslaw,,Ostroda,warminsko-mazurskie,Poland
-2604004,SQ4IOI,Krzysztof,,Szczytno,warminsko-mazurskie,Poland
-2604005,SQ4AFJ,Krzysztof,Zukowski,Ketrzyn,warminsko-mazurskie,Poland
-2604006,SP4TWQ,Andrzej,,Szczytno,warminsko-mazurskie,Poland
-2604007,SQ4FAE,Krzysztof,Chris,Mragowo,warminsko-mazurskie,Poland
-2604008,SP4HXV,Andrzej,None,Konarzyce,warminsko-mazurskie,Poland
-2604009,SQ4FAF,Marek,,Mragowo,warminsko-mazurskie,Poland
-2604010,SP4WK,Wojciech,,Swietajno,warminsko-mazurskie,Poland
-2604011,SQ4INP,Piotr,,Olsztyn,warminsko-mazurskie,Poland
-2604012,SP4TVG,Andrzej,,Trkusek,warminsko-mazurskie,Poland
-2604013,SP4SKD,Karol,,Olecko,warminsko-mazurskie,Poland
-2604014,SP4SHL,Henryk,,Biskupiec,warminsko-mazurskie,Poland
-2604015,SQ4IOI,Krzysztof,,Szczytno,warminsko-mazurskie,Poland
+2604001,SQ4HRL,Przemyslaw,,Ostroda,warmi?sko-mazurskie,Poland
+2604004,SQ4IOI,Krzysztof,,Szczytno,warmi?sko-mazurskie,Poland
+2604005,SQ4AFJ,Krzysztof,Zukowski,Ketrzyn,warmi?sko-mazurskie,Poland
+2604006,SP4TWQ,Andrzej,,Szczytno,warmi?sko-mazurskie,Poland
+2604007,SQ4FAE,Krzysztof,Chris,Mragowo,warmi?sko-mazurskie,Poland
+2604008,SP4HXV,Andrzej,None,Konarzyce,warmi?sko-mazurskie,Poland
+2604009,SQ4FAF,Marek,,Mragowo,warmi?sko-mazurskie,Poland
+2604010,SP4WK,Wojciech,,Swietajno,warmi?sko-mazurskie,Poland
+2604011,SQ4INP,Piotr,,Olsztyn,warmi?sko-mazurskie,Poland
+2604012,SP4TVG,Andrzej,,Trkusek,warmi?sko-mazurskie,Poland
+2604013,SP4SKD,Karol,,Olecko,warmi?sko-mazurskie,Poland
+2604014,SP4SHL,Henryk,,Biskupiec,warmi?sko-mazurskie,Poland
+2604015,SQ4IOI,Krzysztof,,Szczytno,warmi?sko-mazurskie,Poland
 2604016,SQ4NJQ,Norbert,Chojnowski,Lomza,podlaskie,Poland
-2604017,SQ4KDE,Jaroslaw,Warcaba,Piatki Wielki,warminsko-mazurskie,Poland
+2604017,SQ4KDE,Jaroslaw,Warcaba,Piatki Wielki,warmi?sko-mazurskie,Poland
 2604018,SQ4KDF,Tomek,Kowalski,Goldap,podlaskie,Poland
 2604021,SQ4NYZ,Pawel,,Bialystok,podlaskie,Poland
-2604022,SQ4FAE,Krzysztof,Chris,Mragowo,warminsko-mazurskie,Poland
-2604023,SP4XQE,Jerzy,,Ketrzyn,warminsko-mazurskie,Poland
+2604022,SQ4FAE,Krzysztof,Chris,Mragowo,warmi?sko-mazurskie,Poland
+2604023,SP4XQE,Jerzy,,Ketrzyn,warmi?sko-mazurskie,Poland
 2604024,SQ4MUI,Adam,,Hajnowka,podlaskie,Poland
-2604025,SP4WK,Wojciech,,Swietajno,warminsko-mazurskie,Poland
-2604026,SP4XQS,Janusz,Fiedorowicz,Olsztyn,warminsko-mazurskie,Poland
-2604027,SQ4FXY,Andrzej,,Olsztyn,warminsko-mazurskie,Poland
-2604028,SQ4IOE,Mariusz,,Olsztyn,warminsko-mazurskie,Poland
+2604025,SP4WK,Wojciech,,Swietajno,warmi?sko-mazurskie,Poland
+2604026,SP4XQS,Janusz,Fiedorowicz,Olsztyn,warmi?sko-mazurskie,Poland
+2604027,SQ4FXY,Andrzej,,Olsztyn,warmi?sko-mazurskie,Poland
+2604028,SQ4IOE,Mariusz,,Olsztyn,warmi?sko-mazurskie,Poland
 2604030,SQ4INC,Piotr,,Olsztyn,,Poland
 2604031,SQ4GXA,Jan,Sidor,Punsk,podlaskie,Poland
-2604032,SQ4KLM,Marcin,Lebica,Braniewo,warminsko-mazurskie,Poland
+2604032,SQ4KLM,Marcin,Lebica,Braniewo,warmi?sko-mazurskie,Poland
 2604033,SP4XKB,Konrad,Czaplicki,Grajewo,podlaskie,Poland
 2604034,SQ4RSU,Bartlomiej,,Sokolka,,Poland
 2604035,SP4XKB,Konrad,Czaplicki,Grajewo,podlaskie,Poland
@@ -1962,25 +1962,25 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2604041,SP4HMU,Adam,Liberacki,Lubawa,podlaskie,Poland
 2604042,SP4B,Lukasz,,Wirwajdy,,Poland
 2604043,SQ4OAG,Boguslaw,Tichoniuk,Bialystok,podlaskie,Poland
-2604045,SP4KW,Karol,Wysocki,Olecko,warminsko-mazurskie,Poland
-2604046,SP4FDH,Michal,Sztachanski,Biala Piska,warminsko-mazurskie,Poland
-2604047,SP4QRP,Tomasz,Brzozowski,Ilawa,warminsko-mazurskie,Poland
-2604048,SP4TVO,Maciej,,Gizycko,warminsko-mazurskie,Poland
+2604045,SP4KW,Karol,Wysocki,Olecko,warmi?sko-mazurskie,Poland
+2604046,SP4FDH,Michal,Sztachanski,Biala Piska,warmi?sko-mazurskie,Poland
+2604047,SP4QRP,Tomasz,Brzozowski,Ilawa,warmi?sko-mazurskie,Poland
+2604048,SP4TVO,Maciej,,Gizycko,warmi?sko-mazurskie,Poland
 2604049,SQ4OC,Mateusz,None,Olecko,,Poland
-2604050,SP4OIS,Dariusz,Boruk,Augustow,warminsko-mazurskie,Poland
+2604050,SP4OIS,Dariusz,Boruk,Augustow,warmi?sko-mazurskie,Poland
 2604051,SQ4BJO,Karol,,Augustow,,Poland
-2604052,SQ4FXT,Jan,Gielazys,Postawelek 1,warminsko-mazurskie,Poland
+2604052,SQ4FXT,Jan,Gielazys,Postawelek 1,warmi?sko-mazurskie,Poland
 2604053,SQ4OZZ,Lukasz,,OSTRODA,,Poland
 2604054,SQ4HKP,Robert,SQ4HKP,PL,podlaskie,Poland
-2604055,SP4OIS,Dariusz,Boruk,Augustow,warminsko-mazurskie,Poland
+2604055,SP4OIS,Dariusz,Boruk,Augustow,warmi?sko-mazurskie,Poland
 2604056,SQ4IOR,Grzegorz,,Olecko,,Poland
 2604057,SQ4DRG,Jozef,,Bialystok,,Poland
 2604058,SP4RKZ,Przemek,,Lubawa,,Poland
 2604059,SP4J,Adam,,Sokolka,,Poland
 2604060,SQ4SGI,Arkadiusz,,Bialystok,,Poland
-2604061,SQ4PAP,Wojciech,,Orzysz,warminsko-mazurskie,Poland
+2604061,SQ4PAP,Wojciech,,Orzysz,warmi?sko-mazurskie,Poland
 2604062,SQ4KOP,Stanislaw,,Szczepankowo,,Poland
-2604063,SP4TOM,Tomasz,Brzozowski,Ilawa,warminsko-mazurskie,Poland
+2604063,SP4TOM,Tomasz,Brzozowski,Ilawa,warmi?sko-mazurskie,Poland
 2604064,SQ4KDC,Pawel,,Pisz,,Poland
 2604065,SO4ATA,Marek,,Lomza,podlaskie,Poland
 2604066,SP4RUD,Henryk,,Zambrow,podlaskie,Poland
@@ -1988,12 +1988,12 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2604068,SP4XBZ,Jaroslaw,,Bialystok,podlaskie,Poland
 2604069,SP4BU,Bartosz,,Dzialdowo,,Poland
 2604070,SQ4PKW,Kamil,,LOMZA,,Poland
-2604071,SP4AU,Andrzej,,Dzialdowo,warminsko-mazurskie,Poland
+2604071,SP4AU,Andrzej,,Dzialdowo,warmi?sko-mazurskie,Poland
 2604072,SP4TN,Tadeusz,,Lomza,,Poland
 2604073,SP4GJ,Grzegorz,,SUWALKI,,Poland
 2604074,SP4BF,Bartek,,Olsztyn,,Poland
 2604075,SP4BKE,Bogdan,,Lomza,,Poland
-2604077,SQ4RAB,Wojciech,,Reszel,warminsko-mazurskie,Poland
+2604077,SQ4RAB,Wojciech,,Reszel,warmi?sko-mazurskie,Poland
 2604078,SP4EIV,Krzysztof,,Korsze,,Poland
 2604079,SQ4JEN,Dominik,,Jasionowka,,Poland
 2604080,SQ4BJS,Miroslaw,,Giby,podlaskie,Poland
@@ -2009,7 +2009,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2604090,SQ4CD,Lucyna,,Bialystok,,Poland
 2604091,SQ4HKD,Maciej,None,Bialystok,,Poland
 2604092,SP4LVC,Bogdan,,Grajewo,,Poland
-2604093,SP4AC,Adam,,Lomza,warminsko-mazurskie,Poland
+2604093,SP4AC,Adam,,Lomza,warmi?sko-mazurskie,Poland
 2604094,SP4GED,Jozef,,Pisz,,Poland
 2604095,SP4MAZ,Klub,,Biala Piska,,Poland
 2604096,SQ4G,Grzegorz,,Bialystok,,Poland
@@ -2043,7 +2043,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2604126,SP5MBI,Bogdan,,Lidzbark,,Poland
 2604127,SP4WSG,Waldemar,,Grotowo,,Poland
 2604128,SP4AKA,Roman,,Karwica,,Poland
-2604129,SQ4MIK,Piotr,,Elblag,warminsko-mazurskie,Poland
+2604129,SQ4MIK,Piotr,,Elblag,warmi?sko-mazurskie,Poland
 2604130,SP4EB,Adam,,Elblag,,Poland
 2604131,SP4J,Adam,,Sokolka,,Poland
 2604132,SP4AD,Adrian,,Sokolka,,Poland
@@ -2052,7 +2052,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2604135,SP4API,Tomasz,,Bialystok,,Poland
 2604136,SQ4Q,Radek,,Bialystok,podlaskie,Poland
 2604137,SQ4HKP,Robert,SQ4HKP,PL,podlaskie,Poland
-2604138,SQ2DOL,Adam,,Elblag,warminsko-mazurskie,Poland
+2604138,SQ2DOL,Adam,,Elblag,warmi?sko-mazurskie,Poland
 2604139,SP4AX,Kacper,,Huta,,Poland
 2604140,SQ4EWA,Marian,,Bialystok,,Poland
 2604141,SQ4RO,Roman,,Krynice,,Poland
@@ -2065,12 +2065,12 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2604149,SP4CMH,Stanislaw,,Ketrzyn,,Poland
 2604150,SQ4NMR,Robert,,Mragowo,,Poland
 2604151,SQ4EME,Michal,,Szczytno,,Poland
-2604152,HF4M,Marian,,Lomza,warminsko-mazurskie,Poland
+2604152,HF4M,Marian,,Lomza,warmi?sko-mazurskie,Poland
 2604153,SQ4MST,Marek,,Lomza,,Poland
 2604154,SQ4CUH,Krzysztof,,Elk,,Poland
 2604155,3Z4S,Artur,,Sokoly,,Poland
 2604156,3Z4AI,Adam,,Nowe Racibory,podlaskie,Poland
-2604157,SP2WLF,Jakub,,Elblag,warminsko-mazurskie,Poland
+2604157,SP2WLF,Jakub,,Elblag,warmi?sko-mazurskie,Poland
 2604158,SQ4AVR,Andrzej,,Srodlesie,,Poland
 2604159,SQ4FFG,Wladyslaw,,Bialystok,,Poland
 2604160,SP4TBC,Bogdan,Czajkowski,Bialystok,podlaskie,Poland
@@ -2081,7 +2081,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2605003,SP5GDM,Jan,,Wierzbica,,Poland
 2605004,SP5TAV,Artur,,Warszawa,,Poland
 2605006,SQ5AGQ,Tomasz,,Warszawa,,Poland
-2605007,SP5QWK,Artur,Karolak,Lowicz,lodzkie,Poland
+2605007,SP5QWK,Artur,Karolak,Lowicz,??dzkie,Poland
 2605008,SQ5STX,Pawel,,Warszawa,,Poland
 2605009,SP5QWE,Marcin,,Warszawa,,Poland
 2605010,SQ5AKC,Krzysztof,,Huta Minska,mazowieckie,Poland
@@ -2223,7 +2223,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2605156,SP7VMX,Marcin,,Radom,,Poland
 2605157,SP5MG,Piotr,,Warszawa,,Poland
 2605158,SQ5PFF,Wojciech,,Warszawa,,Poland
-2605159,SQ5LNF,Marcin,Tomaszewski,Ilza,mazowieckie,Poland
+2605159,SQ5LNF,Marcin,Tomaszewski,I??a,mazowieckie,Poland
 2605160,SP5WRN,Radek,,Ciechanow,,Poland
 2605161,SQ5KHL,Jacek,,Warszawa,,Poland
 2605162,SQ5OUZ,Zbigniew,,Radom,,Poland
@@ -2378,7 +2378,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2605316,SQ5WF,Slawek,,Krzeseawice,,Poland
 2605317,SP5OXP,Tadeusz,,Warszawa,,Poland
 2605318,SO5EV,Przemyslaw,,Warszawa,,Poland
-2605319,SQ5HAJ,Remigiusz,Szeflinski,Wolomin,mazowieckie,Poland
+2605319,SQ5HAJ,Remigiusz,Szefli?ski,Wo?omin,mazowieckie,Poland
 2605320,SQ5BPX,Zdzislaw,,Plock,,Poland
 2605321,SP5LS,Marek,,Warszawa,,Poland
 2605322,SP5E,Krzysztof,,Warszawa,Mazowieckie,Poland
@@ -2533,7 +2533,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2605473,SP5VTV,Wojciech,,Grodzisk Mazowiecki,,Poland
 2605474,SP5DEJF,Dawid,,Ciechanow,,Poland
 2605475,SP5DEJF,Dawid,,Ciechanow,,Poland
-2605476,SP8WIP,Piotr,Pawlowski,Warszawa,mazowieckie,Poland
+2605476,SP8WIP,Piotr,Paw?owski,Warszawa,mazowieckie,Poland
 2605477,SP5RDB,Radek,,Mlawa,,Poland
 2605478,SP5NZZ,Tomek,,Nowy Dwor Maz.,,Poland
 2605479,SP5TP,Adam,,Piastow,,Poland
@@ -2568,10 +2568,10 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2605508,SQ5KOH,Olaf,,Warszawa,,Poland
 2605509,SP5TE,Mariusz,,Radzymin,,Poland
 2605555,SQ5TB,Boguslaw,Ciastek,Radom,mazowieckie,Poland
-2606001,SQ6ROK,Andrzej,,Wroclaw,dolnoslaskie,Poland
-2606002,SP6NCJ,Jacek,Diaczek,Olawa,dolnoslaskie,Poland
+2606001,SQ6ROK,Andrzej,,Wroclaw,dolno?l?skie,Poland
+2606002,SP6NCJ,Jacek,Diaczek,Olawa,dolno?l?skie,Poland
 2606004,SQ6JNY,Marcin,,Wroclaw,,Poland
-2606005,SP6NCJ,Jacek,Diaczek,Olawa,dolnoslaskie,Poland
+2606005,SP6NCJ,Jacek,Diaczek,Olawa,dolno?l?skie,Poland
 2606006,SQ6NTG,Wojciech,,Legnica,,Poland
 2606007,SQ6KIN,Adam,,Olesno,,Poland
 2606008,SQ6JAN,Janusz,K,Chroscice,opolskie,Poland
@@ -2579,9 +2579,9 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2606010,SQ6NET,Mateusz,,Wroclaw,,Poland
 2606011,SQ6KMM,Klaudiusz,Rutkowski,Krapkowice,opolskie,Poland
 2606013,SQ6WA,Krzysztof,,Sycow,,Poland
-2606014,SP6VXU,Jacek,,Wroclaw,dolnoslaskie,Poland
+2606014,SP6VXU,Jacek,,Wroclaw,dolno?l?skie,Poland
 2606015,SQ6KOA,Tomasz,,Goszcz,,Poland
-2606016,SQ6WF,Mariusz,Perlik,Mrozow,dolnoslaskie,Poland
+2606016,SQ6WF,Mariusz,Perlik,Mrozow,dolno?l?skie,Poland
 2606018,SQ6CNL,Karol,,Opolskie,,Poland
 2606019,SQ6OXK,Pawel,,Wrocaw,,Poland
 2606020,SQ6LJR,Sebastian,,Wroclaw,,Poland
@@ -2599,21 +2599,21 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2606032,SP6BJ,Bartlomiej,,Kedzierzyn-Kozle,,Poland
 2606033,SQ6OCZ,Robert,Czapski,Wroclaw,opolskie,Poland
 2606034,SQ6ILS,Bartosz,,Wroclaw,,Poland
-2606035,SP6LCA,Mariusz,Kwasnik,Legnica,dolnoslaskie,Poland
-2606036,SQ6POG,Pawel,Gomulka,Legnica,dolnoslaskie,Poland
-2606037,SO6AFT,Marek,,Wroclaw,dolnoslaskie,Poland
-2606038,SQ6POG,Pawel,Gomulka,Legnica,dolnoslaskie,Poland
-2606039,SP6VXU,Jacek,,Wroclaw,dolnoslaskie,Poland
+2606035,SP6LCA,Mariusz,Kwasnik,Legnica,dolno?l?skie,Poland
+2606036,SQ6POG,Pawel,Gomulka,Legnica,dolno?l?skie,Poland
+2606037,SO6AFT,Marek,,Wroclaw,dolno?l?skie,Poland
+2606038,SQ6POG,Pawel,Gomulka,Legnica,dolno?l?skie,Poland
+2606039,SP6VXU,Jacek,,Wroclaw,dolno?l?skie,Poland
 2606040,SQ6LAE,Jarek,,Legnica,,Poland
-2606041,SQ6MNN,Michal,Krzyszton,Komprachcice,opolskie,Poland
+2606041,SQ6MNN,Michal,Krzyszto?,Komprachcice,opolskie,Poland
 2606042,SP6BAT,Bartek,,Wroclaw,,Poland
 2606043,SP6VWX,Robert,,Miekinia,,Poland
 2606044,SP6TM,Marcin,,Wroclaw,,Poland
-2606045,SQ6ODL,Przemek,,Radziadz,dolnoslaskie,Poland
+2606045,SQ6ODL,Przemek,,Radziadz,dolno?l?skie,Poland
 2606046,SQ6GIT,Konrad,Smolak,Pisarzowice,opolskie,Poland
 2606047,SQ6PLA,Agnieszka,,Legnica,opolskie,Poland
 2606048,SQ6LAE,Jarek,,Legnica,,Poland
-2606049,SQ6KOE,Dawid,Linkowski,Swidnica,dolnoslaskie,Poland
+2606049,SQ6KOE,Dawid,Linkowski,?widnica,dolno?l?skie,Poland
 2606050,SQ6RR,Marcin,,Walbrzych,,Poland
 2606051,SQ6OMN,Mariusz,Nowacki,Lubin,opolskie,Poland
 2606052,SQ6JFB,Marek,,Wroclaw,,Poland
@@ -2621,21 +2621,21 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2606054,SP6TK,Tomasz,,Zielecice,opolskie,Poland
 2606055,SQ6KQL,Jerzy,,Wroclaw,opolskie,Poland
 2606056,SP6RSP,Krzysztof,,Swidnica,,Poland
-2606057,SQ6XL,Arek,,Wroclaw,dolnoslaskie,Poland
+2606057,SQ6XL,Arek,,Wroclaw,dolno?l?skie,Poland
 2606058,SQ6KLF,Krzysztof,,Wroclaw,opolskie,Poland
 2606059,SQ6NTF,Piotr,,Wroceaw,,Poland
 2606060,SQ6WX,Andrzej,,Wroclaw,,Poland
 2606061,SQ6SEB,Sebastian,,Opole,,Poland
 2606062,SQ6IUH,Jaroslaw,,Brzeg,,Poland
-2606063,SQ6WE,Michal,,Olawa,dolnoslaskie,Poland
+2606063,SQ6WE,Michal,,Olawa,dolno?l?skie,Poland
 2606064,SQ6OCZ,Robert,Czapski,Wroclaw,opolskie,Poland
 2606066,SQ6KOJ,Grzegorz,,Wroclaw,,Poland
 2606067,SQ6STD,Marcin,,Wroclaw,,Poland
 2606068,SQ6OXK,Pawel,,Wrocaw,,Poland
-2606069,SQ6ODL,Przemek,,Radziadz,dolnoslaskie,Poland
-2606070,SP6VXP,Andrzej,Piotrowski,Walbrzych,dolnoslaskie,Poland
+2606069,SQ6ODL,Przemek,,Radziadz,dolno?l?skie,Poland
+2606070,SP6VXP,Andrzej,Piotrowski,Walbrzych,dolno?l?skie,Poland
 2606071,SP6LHI,Jacek,,Opole,,Poland
-2606072,SP6H2O,Lukasz,None,Wroclaw,dolnoslaskie,Poland
+2606072,SP6H2O,Lukasz,None,Wroclaw,dolno?l?skie,Poland
 2606073,SQ6KXY,Michal,,Wroclaw,,Poland
 2606075,SP6SG,Slawek,,Wroclaw,,Poland
 2606076,SQ6KXW,Diana,,Wroclaw,,Poland
@@ -2651,43 +2651,43 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2606086,SQ6KIV,Krzysztof,,Opole,,Poland
 2606087,SP6RLH,Jaroslaw,,Pultusk,,Poland
 2606088,SO6IQY,Zbigniew,,Zarow,,Poland
-2606089,SQ6VP,Krzysztof,None,Wroclaw,dolnoslaskie,Poland
+2606089,SQ6VP,Krzysztof,None,Wroclaw,dolno?l?skie,Poland
 2606090,SQ6NSL,Radoslaw,,Wroclaw,,Poland
 2606091,SQ6MIK,Michal,,Wroclaw,,Poland
 2606092,SP6RLH,Jaroslaw,,Pultusk,,Poland
 2606093,SQ6STB,Wojciech,,Klodzko,,Poland
 2606094,SQ6MII,Krzysztof,,Bystrzyca Klodzka,,Poland
-2606095,SP6ICO,Robert,Kowalewski,Ratowice,dolnoslaskie,Poland
+2606095,SP6ICO,Robert,Kowalewski,Ratowice,dolno?l?skie,Poland
 2606096,SP6DIL,Eugeniusz,,Kepa,,Poland
 2606097,SQ6QQ,Miroslaw,,Prudnik,,Poland
-2606098,SQ6OXF,Fryderyk,,Wroclaw,dolnoslaskie,Poland
-2606099,SP6BRT,Ryszard,,Kalno,dolnoslaskie,Poland
-2606100,SQ6XL,Arek,,Wroclaw,dolnoslaskie,Poland
+2606098,SQ6OXF,Fryderyk,,Wroclaw,dolno?l?skie,Poland
+2606099,SP6BRT,Ryszard,,Kalno,dolno?l?skie,Poland
+2606100,SQ6XL,Arek,,Wroclaw,dolno?l?skie,Poland
 2606101,SQ6COX,Krzysztof,,Lubin,,Poland
-2606102,SN6MP,Mariusz,,Steblow,dolnoslaskie,Poland
+2606102,SN6MP,Mariusz,,Steblow,dolno?l?skie,Poland
 2606103,SQ6MEL,Marcel,,Wroclaw,,Poland
 2606104,SP6EK,Robert,,Opole,,Poland
 2606105,SP6QNP,Piotr,,Wroclaw,,Poland
 2606106,SQ6MNW,Sylwester,,Kedzierzyn-Kozle,,Poland
-2606107,SP6QKM,Marek,,Sobotka,dolnoslaskie,Poland
+2606107,SP6QKM,Marek,,Sobotka,dolno?l?skie,Poland
 2606108,SP6CZD,Cezary,,Zgorzelec,,Poland
 2606109,SP6TKI,Tomasz,,Jawor,,Poland
 2606110,SP6CZD,Cezary,,Zgorzelec,,Poland
 2606111,SQ6KQI,Daniel,,Katy Wroclawskie Smolec,,Poland
 2606112,SQ6GMO,Jacek,,Wroclaw,,Poland
-2606113,SP6LCA,Mariusz,Kwasnik,Legnica,dolnoslaskie,Poland
+2606113,SP6LCA,Mariusz,Kwasnik,Legnica,dolno?l?skie,Poland
 2606114,SQ6FHV,Sebastian,,Legnica,,Poland
-2606115,SP6AN,Andrzej,None,Wroclaw,dolnoslaskie,Poland
+2606115,SP6AN,Andrzej,None,Wroclaw,dolno?l?skie,Poland
 2606116,SQ6JFN,Piotr,,Legnica,,Poland
-2606117,SP6AA,Wieslaw,,Legnica,dolnoslaskie,Poland
+2606117,SP6AA,Wieslaw,,Legnica,dolno?l?skie,Poland
 2606118,SQ6POC,Przemyslaw,,Wroclaw,,Poland
 2606119,SQ6NDA,Janusz,,Brzeg,,Poland
 2606120,SQ6KMK,Krzysztof,,PRUDNIK,,Poland
-2606121,SP6RGZ,Roman,None,Olesnica,dolnoslaskie,Poland
-2606122,SN6MP,Mariusz,,Steblow,dolnoslaskie,Poland
-2606123,SO6TIR,Marcin,Walenczak,Olawa,dolnoslaskie,Poland
+2606121,SP6RGZ,Roman,None,Olesnica,dolno?l?skie,Poland
+2606122,SN6MP,Mariusz,,Steblow,dolno?l?skie,Poland
+2606123,SO6TIR,Marcin,Walenczak,O?awa,dolno?l?skie,Poland
 2606124,SP6TPY,Jerzy,,Glucholazy,,Poland
-2606125,SP6AN,Andrzej,None,Wroclaw,dolnoslaskie,Poland
+2606125,SP6AN,Andrzej,None,Wroclaw,dolno?l?skie,Poland
 2606126,SQ6SGT,Grzegorz,None,Brzeg,,Poland
 2606127,SQ6SEI,Marek,,Prudnik,,Poland
 2606128,SQ6JAR,Jarek,,Przywory opolskie,,Poland
@@ -2709,7 +2709,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2606144,SP6DRT,Maciej,,Domaszkow,,Poland
 2606145,SQ6CNW,Andrzej,,Przywory,opolskie,Poland
 2606146,SO6AFO,Marcin,,Strzegom,,Poland
-2606147,SQ6MS,Maciej,Zbrozek,Wroclaw,dolnoslaskie,Poland
+2606147,SQ6MS,Maciej,Zbrozek,Wroclaw,dolno?l?skie,Poland
 2606148,SP6HFE,Grzegorz,,Siechnice,,Poland
 2606149,SP6SMC,Andrzej,,Mokronos Gorny,,Poland
 2606150,SP6LUN,Andrzej,,Gogolin,,Poland
@@ -2724,14 +2724,14 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2606159,SO6G,Tadeusz,,Luboszyce,,Poland
 2606160,SP6SJ,Sebastian,,Lubin,,Poland
 2606161,SQ6RS,Radoslaw,,Lwowek Slaski,,Poland
-2606162,SP6V,Grzegorz,,Olawa,dolnoslaskie,Poland
+2606162,SP6V,Grzegorz,,O?awa,dolno?l?skie,Poland
 2606163,SP6X,Tomasz,,Namyslow,,Poland
 2606164,SQ6O,Anita,,Namyslow,,Poland
 2606165,SP6KAT,Krystian,,Lubin,,Poland
 2606166,SP6JIM,Ireneusz,,Jelenia Gora,,Poland
 2606167,SP6TOR,Sebastian,Czupkiewicz,Nysa,opolskie,Poland
 2606168,SQ6JNQ,Waldemar,,Wroclaw,,Poland
-2606169,SQ6OWM,Michal,,Chwaliszow,dolnoslaskie,Poland
+2606169,SQ6OWM,Michal,,Chwaliszow,dolno?l?skie,Poland
 2606170,SQ6ELU,Krzysztof,,Gryfow Slaski,,Poland
 2606171,SP6ZZ,Milosz,,Wlochy,,Poland
 2606172,SP6CAL,Jerzy,,Glogow,,Poland
@@ -2740,133 +2740,133 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2606175,SQ6OXH,Grzegorz,,Swidnica,,Poland
 2606176,SQ6KBZ,Andrzej,,Szczodre,,Poland
 2606177,SQ6JL,Patryk,,Strzelin,,Poland
-2606178,SQ6SFO,Jakub,Stepniewicz,Wroclaw,dolnoslaskie,Poland
+2606178,SQ6SFO,Jakub,Stepniewicz,Wroclaw,dolno?l?skie,Poland
 2606179,SP6ZT,Jerzy,,Wilczyce,,Poland
-2606180,SQ6NEF,Tomasz,Filipowicz,Wilkszyn,dolnoslaskie,Poland
+2606180,SQ6NEF,Tomasz,Filipowicz,Wilkszyn,dolno?l?skie,Poland
 2606181,SP6DK,Krzysztof,,Swidnica,,Poland
-2607002,SQ7SCC,Arek,,Lodz,lodzkie,Poland
-2607003,SQ7LRX,Adam,K,Lodz,lodzkie,Poland
-2607004,SQ7AYZ,Piotr,,Aleksandrow Lodzki,lodzkie,Poland
-2607005,SQ7OFD,Artur,,Lodz,lodzkie,Poland
-2607006,SQ7PFP,Marcin,,Lodz,lodzkie,Poland
-2607007,SQ7SCC,Arek,,Lodz,lodzkie,Poland
-2607009,SP7CC,Arek,,Lodz,lodzkie,Poland
-2607011,SQ7LRX,Adam,K,Lodz,lodzkie,Poland
-2607012,SQ7JHC,Lukasz,,Belchatow,lodzkie,Poland
-2607013,SP7BIX,Radomir,,Wielun,lodzkie,Poland
+2607002,SQ7SCC,Arek,,Lodz,??dzkie,Poland
+2607003,SQ7LRX,Adam,K,Lodz,??dzkie,Poland
+2607004,SQ7AYZ,Piotr,,Aleksandrow Lodzki,??dzkie,Poland
+2607005,SQ7OFD,Artur,,Lodz,??dzkie,Poland
+2607006,SQ7PFP,Marcin,,Lodz,??dzkie,Poland
+2607007,SQ7SCC,Arek,,Lodz,??dzkie,Poland
+2607009,SP7CC,Arek,,Lodz,??dzkie,Poland
+2607011,SQ7LRX,Adam,K,Lodz,??dzkie,Poland
+2607012,SQ7JHC,Lukasz,,Belchatow,??dzkie,Poland
+2607013,SP7BIX,Radomir,,Wielun,??dzkie,Poland
 2607014,SQ7LRD,Grzegorz,,Blaszki,,Poland
 2607015,SQ7LRD,Grzegorz,,Blaszki,,Poland
 2607016,SQ7OWY,Rafal,,Kuczw,,Poland
-2607017,SP7UKL,Cezary,,Lodz,lodzkie,Poland
-2607018,SQ7YLA,Monika,,Lodz,lodzkie,Poland
-2607019,SQ7PEL,Patryk,,Lodz,lodzkie,Poland
-2607020,SQ7OKL,Oskar,,Lodz,lodzkie,Poland
-2607021,SQ7FJB,Piotr,,Piotrkow Trybunalski,lodzkie,Poland
-2607022,SP7TUL,Klub,,Lodz,lodzkie,Poland
+2607017,SP7UKL,Cezary,,Lodz,??dzkie,Poland
+2607018,SQ7YLA,Monika,,Lodz,??dzkie,Poland
+2607019,SQ7PEL,Patryk,,Lodz,??dzkie,Poland
+2607020,SQ7OKL,Oskar,,Lodz,??dzkie,Poland
+2607021,SQ7FJB,Piotr,,Piotrkow Trybunalski,??dzkie,Poland
+2607022,SP7TUL,Klub,,Lodz,??dzkie,Poland
 2607023,SQ7PSQ,Wojciech,,Beczkow,,Poland
-2607024,SQ7OBG,Dariusz,,Kutno,lodzkie,Poland
-2607025,SQ7KHZ,Piotr,,Biala,lodzkie,Poland
-2607026,SQ7NHP,Emil,Krajewski,Lodz,lodzkie,Poland
+2607024,SQ7OBG,Dariusz,,Kutno,??dzkie,Poland
+2607025,SQ7KHZ,Piotr,,Biala,??dzkie,Poland
+2607026,SQ7NHP,Emil,Krajewski,Lodz,??dzkie,Poland
 2607027,SP7WMF,Marcin,,Lodz,,Poland
-2607028,SQ7OTH,Tomasz,,Kutno,lodzkie,Poland
-2607029,SP7WNA,Witek,,Aleksandrow Lodzki,lodzkie,Poland
+2607028,SQ7OTH,Tomasz,,Kutno,??dzkie,Poland
+2607029,SP7WNA,Witek,,Aleksandrow Lodzki,??dzkie,Poland
 2607030,SO7ABW,Daniel,,Sieradz,,Poland
 2607031,SQ7BLD,Piotr,,Lodz,,Poland
-2607032,SQ7RN,Zdzislaw,Kosowski,Kielce,swietokrzyskie,Poland
-2607033,SP7JB,Jaroslaw,Badek,Lodz,lodzkie,Poland
-2607034,SQ7TCW,Tomasz,,Zurawniki,swietokrzyskie,Poland
-2607035,SQ7NHR,Grzegorz,,Lodz,lodzkie,Poland
-2607036,SP7EP,Maciej,Herman,Piotrkow Trybunalski,lodzkie,Poland
-2607037,SP7LAK,Krzysztof,,Kutno,lodzkie,Poland
-2607038,SQ7RJX,Jacek,,Dzialoszyn,lodzkie,Poland
+2607032,SQ7RN,Zdzislaw,Kosowski,Kielce,?wi?tokrzyskie,Poland
+2607033,SP7JB,Jaroslaw,Badek,??d?,??dzkie,Poland
+2607034,SQ7TCW,Tomasz,,Zurawniki,?wi?tokrzyskie,Poland
+2607035,SQ7NHR,Grzegorz,,Lodz,??dzkie,Poland
+2607036,SP7EP,Maciej,Herman,Piotrk?w Trybunalski,??dzkie,Poland
+2607037,SP7LAK,Krzysztof,,Kutno,??dzkie,Poland
+2607038,SQ7RJX,Jacek,,Dzialoszyn,??dzkie,Poland
 2607039,SP7RDI,Roman,,Lodz,,Poland
 2607040,SP7B,Boguslaw,,Glowno,,Poland
-2607041,SQ7LQZ,Ryszard,Wozniak,Ruda,swietokrzyskie,Poland
+2607041,SQ7LQZ,Ryszard,Wozniak,Ruda,?wi?tokrzyskie,Poland
 2607042,SQ7FSE,Arek,,Skalbmierz,,Poland
 2607043,SQ7PGT,Tomasz,,Lodz,,Poland
-2607044,SQ7OTJ,Robert,,Lodz,lodzkie,Poland
+2607044,SQ7OTJ,Robert,,Lodz,??dzkie,Poland
 2607045,SQ7PGN,Adam,,Lodz,,Poland
 2607046,SQ7FSO,Krzysztof,,Busko-Zdroj,,Poland
-2607047,SQ7RKF,Tomasz,,Radomsko,lodzkie,Poland
-2607048,SP7V,Tomasz,Frankiewicz,Lodz,lodzkie,Poland
-2607049,SQ7ACP,Artur,Greficz,Tomaszow Mazowiecki,lodzkie,Poland
-2607051,SP7XIF,Tadeusz,Kusiak,Zgierz,lodzkie,Poland
-2607052,SQ7AGA,Agnieszka,,Zurawniki,swietokrzyskie,Poland
-2607054,SP7WNN,Marek,Turski,Lodz,lodzkie,Poland
-2607055,SO7BIT,Bartek,Papierski,Lodz,lodzkie,Poland
-2607056,SP7Q,Tomasz,Pabich,Lodz,lodzkie,Poland
-2607057,SP7XIF,Tadeusz,Kusiak,Zgierz,lodzkie,Poland
+2607047,SQ7RKF,Tomasz,,Radomsko,??dzkie,Poland
+2607048,SP7V,Tomasz,Frankiewicz,Lodz,??dzkie,Poland
+2607049,SQ7ACP,Artur,Greficz,Tomaszow Mazowiecki,??dzkie,Poland
+2607051,SP7XIF,Tadeusz,Kusiak,Zgierz,??dzkie,Poland
+2607052,SQ7AGA,Agnieszka,,Zurawniki,?wi?tokrzyskie,Poland
+2607054,SP7WNN,Marek,Turski,Lodz,??dzkie,Poland
+2607055,SO7BIT,Bartek,Papierski,Lodz,??dzkie,Poland
+2607056,SP7Q,Tomasz,Pabich,Lodz,??dzkie,Poland
+2607057,SP7XIF,Tadeusz,Kusiak,Zgierz,??dzkie,Poland
 2607059,SP7IM,Irek,,Konskie,,Poland
 2607060,SP7DAD,Andrzej,,Lodz,,Poland
-2607061,SP7KT,Esa,Holopainen,Komorniki,lodzkie,Poland
-2607062,SQ7SL,Lukasz,Schabowski,Busko Zdroj,swietokrzyskie,Poland
+2607061,SP7KT,Esa,Holopainen,Komorniki,??dzkie,Poland
+2607062,SQ7SL,Lukasz,Schabowski,Busko Zdroj,?wi?tokrzyskie,Poland
 2607063,SQ7JZW,Grzegorz,,Wrzaca,,Poland
-2607064,SP7FOY,Slawek,Sidor,Skierniewice,lodzkie,Poland
+2607064,SP7FOY,Slawek,Sidor,Skierniewice,??dzkie,Poland
 2607065,SQ7NNJ,Grzegorz,,Brzeziny,,Poland
 2607066,SQ7JZW,Grzegorz,,Wrzaca,,Poland
-2607067,SP7FXL,Lukasz,,Zgorsko,swietokrzyskie,Poland
-2607068,SP7GK,Grzegorz,Krupa,Busko-Zdroj,swietokrzyskie,Poland
+2607067,SP7FXL,Lukasz,,Zgorsko,?wi?tokrzyskie,Poland
+2607068,SP7GK,Grzegorz,Krupa,Busko-Zdroj,?wi?tokrzyskie,Poland
 2607069,SQ7NNJ,Grzegorz,,Brzeziny,,Poland
 2607070,SP7JYM,Mariusz,,Kania Gora,,Poland
-2607071,SP7BIX,Radomir,,Wielun,lodzkie,Poland
+2607071,SP7BIX,Radomir,,Wielun,??dzkie,Poland
 2607072,SP7HJR,Marcin,,Skaratki,,Poland
-2607073,SP7FXL,Lukasz,,Zgorsko,swietokrzyskie,Poland
-2607074,SQ7IKZ,Marcin,,Kielce,swietokrzyskie,Poland
+2607073,SP7FXL,Lukasz,,Zgorsko,?wi?tokrzyskie,Poland
+2607074,SQ7IKZ,Marcin,,Kielce,?wi?tokrzyskie,Poland
 2607075,SQ7RL,Ryszard,,Checiny,,Poland
 2607076,SQ7NSN,Michal,,Checiny,,Poland
-2607077,SP7X,Jaroslaw,Zielinski,Kutno,lodzkie,Poland
-2607078,SQ7KVB,Rafal,Wiezel,Kielce,swietokrzyskie,Poland
-2607079,SQ7RJO,Jacek,,Lodz,lodzkie,Poland
+2607077,SP7X,Jaroslaw,Zieli?ski,Kutno,??dzkie,Poland
+2607078,SQ7KVB,Rafal,Wiezel,Kielce,?wi?tokrzyskie,Poland
+2607079,SQ7RJO,Jacek,,Lodz,??dzkie,Poland
 2607080,SQ7MHP,Mariusz,,Kielce,,Poland
-2607081,SP7LAK,Krzysztof,,Kutno,lodzkie,Poland
+2607081,SP7LAK,Krzysztof,,Kutno,??dzkie,Poland
 2607082,SP7EM,Emil,,Weoszczowa,,Poland
-2607083,SP7IIX,Marian,,Kutno,lodzkie,Poland
-2607084,SP7XJI,Wlodzimierz,Wojcik,Lowicz,lodzkie,Poland
-2607085,SP7WNZ,Krzysztof,,Lodz,lodzkie,Poland
-2607086,SQ7RJZ,Jaroslaw,,Lodz,lodzkie,Poland
-2607087,SP7X,Jaroslaw,Zielinski,Kutno,lodzkie,Poland
-2607088,SP7KMP,Pawel,None,Zgierz,lodzkie,Poland
+2607083,SP7IIX,Marian,,Kutno,??dzkie,Poland
+2607084,SP7XJI,Wlodzimierz,W?jcik,?owicz,??dzkie,Poland
+2607085,SP7WNZ,Krzysztof,,Lodz,??dzkie,Poland
+2607086,SQ7RJZ,Jaroslaw,,Lodz,??dzkie,Poland
+2607087,SP7X,Jaroslaw,Zieli?ski,Kutno,??dzkie,Poland
+2607088,SP7KMP,Pawel,None,Zgierz,??dzkie,Poland
 2607089,SQ7FPH,Arek,,Kielce,,Poland
 2607090,SP7JBG,Jacek,,Wydrzyn,,Poland
 2607091,SP7JBG,Jacek,,Wydrzyn,,Poland
-2607092,SQ7IQV,Marcin,Biskupski,Lodz,lodzkie,Poland
+2607092,SQ7IQV,Marcin,Biskupski,Lodz,??dzkie,Poland
 2607093,SP7NHS,Miroslaw,,Zgierz,,Poland
-2607094,SQ7JS,Janusz,,Urbanice,lodzkie,Poland
-2607095,SP7UTO,Tomasz,Pokornowski,Sieradz,lodzkie,Poland
-2607097,SP7UDB,Mariusz,,Kielce,swietokrzyskie,Poland
-2607098,SQ7IQV,Marcin,Biskupski,Lodz,lodzkie,Poland
+2607094,SQ7JS,Janusz,,Urbanice,??dzkie,Poland
+2607095,SP7UTO,Tomasz,Pokornowski,Sieradz,??dzkie,Poland
+2607097,SP7UDB,Mariusz,,Kielce,?wi?tokrzyskie,Poland
+2607098,SQ7IQV,Marcin,Biskupski,Lodz,??dzkie,Poland
 2607099,SQ7PKP,Wojciech,,Zdunska Wola,,Poland
-2607100,SP7KS,Krzysztof,,Lodz,lodzkie,Poland
+2607100,SP7KS,Krzysztof,,Lodz,??dzkie,Poland
 2607101,SP7WTC,Jaroslaw,,Sieradz,,Poland
 2607102,SQ7MHR,Rafal,,Konieczno,,Poland
 2607103,SP7LB,Tomasz,,Bienidzice,,Poland
 2607104,SP7VUQ,Tomasz,,Kielce,,Poland
-2607105,SP7GJA,Pawel,STAWSKI,Lodz,lodzkie,Poland
-2607106,SQ7TBD,Wlodzimierz,,Busko-Zdroj,swietokrzyskie,Poland
+2607105,SP7GJA,Pawel,STAWSKI,Lodz,??dzkie,Poland
+2607106,SQ7TBD,Wlodzimierz,,Busko-Zdroj,?wi?tokrzyskie,Poland
 2607107,SQ7NHN,Marek,,Kutno,,Poland
 2607108,SQ7AIS,Marcin,,Pabianice,,Poland
 2607109,SP5RDH,Ryszard,,Lodz,,Poland
 2607110,SP7DX,Jacek,,Leczyca,,Poland
-2607111,SQ7PA,Pawel,,Lodz,lodzkie,Poland
-2607112,SQ7OTK,Marcin,,Lodz,lodzkie,Poland
+2607111,SQ7PA,Pawel,,Lodz,??dzkie,Poland
+2607112,SQ7OTK,Marcin,,Lodz,??dzkie,Poland
 2607113,SQ7BCE,Marcin,,Kielce,,Poland
 2607114,SP7VPR,Sebastian,,Konskie,,Poland
-2607115,SQ7OED,Krzysztof,,Kije,swietokrzyskie,Poland
-2607116,SQ7NLI,Tomasz,,Kije,swietokrzyskie,Poland
+2607115,SQ7OED,Krzysztof,,Kije,?wi?tokrzyskie,Poland
+2607116,SQ7NLI,Tomasz,,Kije,?wi?tokrzyskie,Poland
 2607117,SQ7EWZ,Mariusz,,Leczyca,,Poland
 2607118,SQ7FSX,Rafal,,Busko Zdroj,,Poland
 2607119,SQ7HJC,Krzysztof,,Belchow,,Poland
-2607120,SQ7OWV,Robert,Krepa,Wolka Gieraszowska,swietokrzyskie,Poland
+2607120,SQ7OWV,Robert,Krepa,Wolka Gieraszowska,?wi?tokrzyskie,Poland
 2607121,SP7AB,Piotr,,Porszewice,,Poland
-2607122,SP7MP,Maciej,Pob,Lodz,lodzkie,Poland
+2607122,SP7MP,Maciej,Pob,Lodz,??dzkie,Poland
 2607123,SQ7PSQ,Wojciech,,Beczkow,,Poland
-2607124,SP7ATE,Pawel,Zaton,Radomsko,lodzkie,Poland
+2607124,SP7ATE,Pawel,Zaton,Radomsko,??dzkie,Poland
 2607125,SQ7BFY,Adam,,Lodz,,Poland
-2607126,SQ7EQT,Slawomir,,Zbludowice,swietokrzyskie,Poland
+2607126,SQ7EQT,Slawomir,,Zbludowice,?wi?tokrzyskie,Poland
 2607127,SQ7OWS,Andrzej,,Mikulowice,,Poland
 2607128,SP7ELC,Wiktor,,Lowicz,,Poland
-2607129,SP7SZC,Marcin,,Lodz,lodzkie,Poland
-2607130,SP7TQ,Marcin,,Opoczno,lodzkie,Poland
+2607129,SP7SZC,Marcin,,?odz,??dzkie,Poland
+2607130,SP7TQ,Marcin,,Opoczno,??dzkie,Poland
 2607131,SQ7HQZ,Lukasz,,Busko-Zdroj,,Poland
 2607132,SP7IIY,Piotr,,Busko-Zdroj,,Poland
 2607133,SQ7OFM,Klaudiusz,,Pabianice,,Poland
@@ -2874,56 +2874,56 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2607135,SQ7IQT,Krzysztof,,Janow,,Poland
 2607136,SQ7HIK,Karol,None,Radom,,Poland
 2607137,SQ7SOP,Marcin,,Samborzec,,Poland
-2607138,SQ7PTE,Piotr,Kowalski,Koprzywnica,swietokrzyskie,Poland
-2607139,SP7UTO,Tomasz,Pokornowski,Sieradz,lodzkie,Poland
+2607138,SQ7PTE,Piotr,Kowalski,Koprzywnica,?wi?tokrzyskie,Poland
+2607139,SP7UTO,Tomasz,Pokornowski,Sieradz,??dzkie,Poland
 2607140,SP7ML,Mateusz,,Borowa Gora,,Poland
-2607141,SP7SUM,Adam,Szarata,Lodz,lodzkie,Poland
-2607142,SQ7JZF,Piotr,None,Lodz,lodzkie,Poland
+2607141,SP7SUM,Adam,Szarata,Lodz,??dzkie,Poland
+2607142,SQ7JZF,Piotr,None,Lodz,??dzkie,Poland
 2607143,SP7KO,Krzysztof,,Kutno,,Poland
-2607144,SQ7OBJ,Maciej,Walczak,Sadowka,lodzkie,Poland
-2607145,SP7TKM,Tomasz,,Drobnice,swietokrzyskie,Poland
+2607144,SQ7OBJ,Maciej,Walczak,Sad?wka,??dzkie,Poland
+2607145,SP7TKM,Tomasz,,Drobnice,?wi?tokrzyskie,Poland
 2607146,SQ7SWP,Pawel,,Skorocice,,Poland
 2607147,SP7CKU,Jozef,,Starachowice,,Poland
 2607148,SQ7CHR,Rafal,,Lodz,,Poland
-2607149,SQ7HJJ,Lukasz,Mizerski,Lodz,lodzkie,Poland
+2607149,SQ7HJJ,Lukasz,Mizerski,??d?,??dzkie,Poland
 2607150,SQ7OIP,Jacek,,Wygoda,,Poland
 2607151,SQ7NHY,Krzysztof,,Dzialoszyn,,Poland
 2607152,SQ7NUT,Krystian,,Belchatow,,Poland
 2607153,SQ7CL,Lukasz,,Podzamcze,,Poland
-2607154,SQ7HJE,Dariusz,,Rogozno,lodzkie,Poland
-2607155,SP7TKM,Tomasz,,Drobnice,swietokrzyskie,Poland
+2607154,SQ7HJE,Dariusz,,Rogozno,??dzkie,Poland
+2607155,SP7TKM,Tomasz,,Drobnice,?wi?tokrzyskie,Poland
 2607156,SP7MU,Marek,,Lodz,,Poland
 2607157,3Z7K,Jan,,Lodz,,Poland
 2607158,SP7OMX,Adam,,Konskie,,Poland
 2607159,SP7WTG,Mateusz,,Belchatow,,Poland
-2607160,SQ7FBA,Tomasz,,Kielce,swietokrzyskie,Poland
-2607161,SQ7ECZ,Szymon,,Starachowice,swietokrzyskie,Poland
-2607162,SP7SUM,Adam,Szarata,Lodz,lodzkie,Poland
+2607160,SQ7FBA,Tomasz,,Kielce,?wi?tokrzyskie,Poland
+2607161,SQ7ECZ,Szymon,,Starachowice,?wi?tokrzyskie,Poland
+2607162,SP7SUM,Adam,Szarata,Lodz,??dzkie,Poland
 2607163,SQ7CGR,Dariusz,,Zgierz,,Poland
 2607164,SP7RT,Konrad,,Staszw,,Poland
 2607165,SQ7XQ,Piotr,,Lodz,,Poland
 2607166,SQ7JZS,Janusz,,Wielun,,Poland
 2607167,SO7AFC,Maciek,,Kielce,,Poland
-2607169,SP7WJ,Wojciech,,Starachowice,swietokrzyskie,Poland
-2607170,SP7TSA,Slawomir,,Zajeziorze,swietokrzyskie,Poland
-2607171,SQ7OWP,Ryszard,,Ostrowiec Swietokrzyski,swietokrzyskie,Poland
+2607169,SP7WJ,Wojciech,,Starachowice,?wi?tokrzyskie,Poland
+2607170,SP7TSA,Slawomir,,Zajeziorze,?wi?tokrzyskie,Poland
+2607171,SQ7OWP,Ryszard,,Ostrowiec Swietokrzyski,?wi?tokrzyskie,Poland
 2607172,SP7PN,Piotr,,STARACHOWICE,,Poland
-2607173,SQ7RJX,Jacek,,Dzialoszyn,lodzkie,Poland
+2607173,SQ7RJX,Jacek,,Dzialoszyn,??dzkie,Poland
 2607174,SQ7NHY,Krzysztof,,Dzialoszyn,,Poland
 2607175,SQ7E,Piotr,,Kolonia Lobudzice,,Poland
-2607176,SQ7LQL,Dariusz,,Kielce,swietokrzyskie,Poland
-2607177,SP7RHA,Robert,Horynek,Lodz,lodzkie,Poland
+2607176,SQ7LQL,Dariusz,,Kielce,?wi?tokrzyskie,Poland
+2607177,SP7RHA,Robert,Horynek,Lodz,??dzkie,Poland
 2607178,SQ7BTK,Dariusz,,Lowicz,,Poland
 2607179,SQ7PAB,Adrian,,Pabianice,,Poland
-2607180,SQ7LQZ,Ryszard,Wozniak,Ruda,swietokrzyskie,Poland
+2607180,SQ7LQZ,Ryszard,Wozniak,Ruda,?wi?tokrzyskie,Poland
 2607182,SQ7KOT,Dariusz,,Gorno,,Poland
 2607183,SQ7RF,Robert,,Skierniewice,,Poland
 2607184,SQ7OVP,Krzysztof,,Rusiec,,Poland
 2607185,SQ7OWW,Beata,,Gruszka,,Poland
-2607186,SP5HZM,Grzegorz,,Kutno,lodzkie,Poland
+2607186,SP5HZM,Grzegorz,,Kutno,??dzkie,Poland
 2607187,SQ7WOJ,Wojciech,,Skierniewice,,Poland
 2607188,SP7TK,Tomasz,,Skierniewice,,Poland
-2607189,SQ7JS,Janusz,,Urbanice,lodzkie,Poland
+2607189,SQ7JS,Janusz,,Urbanice,??dzkie,Poland
 2607190,SP7CRR,Kazimierz,,Kielce,,Poland
 2607191,SQ7OEB,Lukasz,,Stopnica,,Poland
 2607192,SP7TW,Tomasz,,Lodz,,Poland
@@ -2934,55 +2934,55 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2607197,SP7XIE,Marcin,,Lodz,,Poland
 2607198,SP7TH,Tomasz,,Lipnik,,Poland
 2607199,SQ7NPA,Mateusz,,Kodrab,,Poland
-2607200,SP7TECH,Klub,,Lodz,lodzkie,Poland
-2607201,SP7PLO,Klub,Krotkofalarski,Lodz,lodzkie,Poland
-2607202,SP7TUL,Klub,,Lodz,lodzkie,Poland
+2607200,SP7TECH,Klub,,Lodz,??dzkie,Poland
+2607201,SP7PLO,Klub,Krotkofalarski,Lodz,??dzkie,Poland
+2607202,SP7TUL,Klub,,Lodz,??dzkie,Poland
 2607203,SQ7JHU,Adam,,Glowno,,Poland
 2607204,SP7CKH,Kazimierz,,Kutno,,Poland
 2607205,SQ7TBC,Damian,,Kielce,,Poland
-2607206,SQ7HJG,Krzysztof,,Lask,lodzkie,Poland
+2607206,SQ7HJG,Krzysztof,,Lask,??dzkie,Poland
 2607207,SQ7RKC,Krzysztof,,Wielun,,Poland
-2607208,SP7A,Piotr,,Pabianice,lodzkie,Poland
+2607208,SP7A,Piotr,,Pabianice,??dzkie,Poland
 2607209,SP7XJH,Michal,,Lodz,,Poland
-2607210,SP7TC,Tomasz,Chimiak,Budy Wolskie,lodzkie,Poland
+2607210,SP7TC,Tomasz,Chimiak,Budy Wolskie,??dzkie,Poland
 2607211,SP7F,Pawel,,Czastary,,Poland
 2607212,SP7MR,Robert,,Pinczow,,Poland
-2607213,SP7I,Jacek,Stefanski,Ostrowiec  Swietokrzyski,swietokrzyskie,Poland
+2607213,SP7I,Jacek,Stefanski,Ostrowiec  Swietokrzyski,?wi?tokrzyskie,Poland
 2607214,SP7MDMX,Maciej,,Zgierz,,Poland
 2607215,SQ7IQA,Krzysztof,,Buczek,,Poland
 2607216,SQ7EIS,Pawel,,Lask,,Poland
 2607217,SP7HDA,Marian,,Busko-Zdroj,,Poland
-2607218,SP7DAX,Stanislaw,,Skierniewice,lodzkie,Poland
-2607219,SP7TBU,Krzysztof,M,Busko Zdroj,swietokrzyskie,Poland
+2607218,SP7DAX,Stanislaw,,Skierniewice,??dzkie,Poland
+2607219,SP7TBU,Krzysztof,M,Busko Zdr?j,?wi?tokrzyskie,Poland
 2607220,SP7MDX,Maciej,,Lodz,,Poland
 2607221,SP7KW,Kamil,,Zgierz,,Poland
-2607222,SP7TECH,Klub,,Lodz,lodzkie,Poland
+2607222,SP7TECH,Klub,,Lodz,??dzkie,Poland
 2607223,SP7WZ,Waldemar,,Burzenin,,Poland
-2607224,SP7EPJ,Jakub,-,Pajeczno,lodzkie,Poland
+2607224,SP7EPJ,Jakub,-,Pajeczno,??dzkie,Poland
 2607225,SP7SDD,Sebastian,,Radomsko,,Poland
 2607226,SP7VVN,Jaroslaw,,Lodz,,Poland
-2607227,SQ7KGH,Karol,,Lodz,lodzkie,Poland
+2607227,SQ7KGH,Karol,,Lodz,??dzkie,Poland
 2607228,SO7AEN,Andrzej,,Busko-Zdroj,,Poland
 2607229,SQ7KW,Kamil,,Radomsko,,Poland
 2607230,SQ7SQ,Mateusz,,Podklucze,,Poland
-2607231,SP7EPJ,Jakub,-,Pajeczno,lodzkie,Poland
+2607231,SP7EPJ,Jakub,-,Pajeczno,??dzkie,Poland
 2607232,SP7FZS,Marek,,Lodz,,Poland
 2607233,SP7ATU,Piotr,,Samsonow,,Poland
-2607234,SP7DBW,Slawomir,,Lodz,lodzkie,Poland
+2607234,SP7DBW,Slawomir,,Lodz,??dzkie,Poland
 2607235,SP7ZHR,ZHP Lodz,,Lodz,,Poland
 2607236,SP5PG,Pawel,,Kutno,,Poland
-2608001,SP8WJS,Andrzej,,Rzeszow,podkarpackie,Poland
+2608001,SP8WJS,Andrzej,,Rzesz?w,podkarpackie,Poland
 2608002,SP8PG,Grzegorz,,Zamosc,,Poland
 2608003,SQ8LUN,Lukasz,None,Lublin,,Poland
 2608004,SQ8KMY,Robert,,Lublin,,Poland
-2608005,SP8MTA,Tomasz,,Piotrkow Trybunalski,lodzkie,Poland
+2608005,SP8MTA,Tomasz,,Piotrkow Trybunalski,??dzkie,Poland
 2608006,SQ8KJC,Agnieszka,,Milocin,,Poland
 2608007,SQ8NXM,Pawel,,Lublin,,Poland
 2608008,SP8QEO,Slawomir,Daczkowski,Chotylow,lubelskie,Poland
 2608009,SQ8OHR,Krzysztof,,Lublin,lubuskie,Poland
 2608010,SP8XXT,Jerzy,,Biala Podlaska,,Poland
 2608011,SP8KB,Kamil,,Czosnowka,lubelskie,Poland
-2608012,SP8WJS,Andrzej,,Rzeszow,podkarpackie,Poland
+2608012,SP8WJS,Andrzej,,Rzesz?w,podkarpackie,Poland
 2608013,SQ8AGI,Janusz,Janusz,Janowice,lubelskie,Poland
 2608014,SQ8DRQ,Daniel,,Pulawy,,Poland
 2608015,SQ8NYM,Piotr,,Rzeszow,,Poland
@@ -3015,7 +3015,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2608042,SQ8AL,Radek,,Krasnik,,Poland
 2608044,SQ8NXC,Mateusz,,Annopol,,Poland
 2608046,SP8NCG,Tomasz,,Lublin,,Poland
-2608047,SQ8JII,Adam,Sochacki,Pulawy,lubelskie,Poland
+2608047,SQ8JII,Adam,Sochacki,Pu?awy,lubelskie,Poland
 2608048,SQ8LAB,Dariusz,,Piotrowice,,Poland
 2608049,SQ8MFS,Radoslaw,,Krasnystaw,,Poland
 2608050,SQ8PKI,Marek,,Belzyce,,Poland
@@ -3035,7 +3035,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2608064,SQ8WN,Marcin,None,Lublin,,Poland
 2608065,SQ8LUI,Jolanta,,Zastawie,,Poland
 2608066,SP8MK,Kamil,,Lublin,,Poland
-2608067,SP8MTA,Tomasz,,Piotrkow Trybunalski,lodzkie,Poland
+2608067,SP8MTA,Tomasz,,Piotrkow Trybunalski,??dzkie,Poland
 2608068,SQ8ISD,Artur,,Swidnik,,Poland
 2608069,SO8BP,Miroslaw,,Biala Podlaska,,Poland
 2608070,SO8ABA,Miroslaw,,Biala Podlaska,,Poland
@@ -3133,242 +3133,242 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2608165,SP8KRIS,Krzysztof,,Deblin,,Poland
 2608168,SP8KRIS,Krzysztof,,Deblin,,Poland
 2608169,SP8LNG,Pawel,,Rzeszow,podkarpackie,Poland
-2609001,SQ9JTI,Lukasz,Parysz,Tarnow,malopolskie,Poland
-2609002,SQ9MUR,Maciek,,Tarnow,malopolskie,Poland
-2609003,SP9ACQ,Adam,Swiercz,Krakow,malopolskie,Poland
-2609004,SP9SVH,Krzysztof,Podgorski,Krakow,malopolskie,Poland
-2609005,SQ9VH,Zbigniew,Obert,Rybnik,slaskie,Poland
+2609001,SQ9JTI,Lukasz,Parysz,Tarnow,ma?opolskie,Poland
+2609002,SQ9MUR,Maciek,,Tarnow,ma?opolskie,Poland
+2609003,SP9ACQ,Adam,Swiercz,Krakow,ma?opolskie,Poland
+2609004,SP9SVH,Krzysztof,Podgorski,Krakow,ma?opolskie,Poland
+2609005,SQ9VH,Zbigniew,Obert,Rybnik,?l?skie,Poland
 2609006,SQ9IVH,Marek,,Zakopane,,Poland
-2609007,SQ9PCH,Tomasz,Koziol,Tarnow,malopolskie,Poland
-2609008,SQ9MEP,Maciej,Dziedzic,Krakow,malopolskie,Poland
-2609009,SP9UXY,Andrzej,,Gliwice,slaskie,Poland
-2609010,SQ9MYX,Piotr,Soltysik,Lipowa,malopolskie,Poland
+2609007,SQ9PCH,Tomasz,Koziol,Tarnow,ma?opolskie,Poland
+2609008,SQ9MEP,Maciej,Dziedzic,Krak?w,ma?opolskie,Poland
+2609009,SP9UXY,Andrzej,,Gliwice,?l?skie,Poland
+2609010,SQ9MYX,Piotr,So?tysik,Lipowa,ma?opolskie,Poland
 2609012,SP9DX,Mariusz,,Katowice,,Poland
-2609013,SP9UXT,Marek,,Katowice,slaskie,Poland
+2609013,SP9UXT,Marek,,Katowice,?l?skie,Poland
 2609014,SQ9DDA,Jakub,,Tarnow,,Poland
-2609015,SQ9CNN,Rafal,,Bedzin,slaskie,Poland
+2609015,SQ9CNN,Rafal,,Bedzin,?l?skie,Poland
 2609016,SP9VNR,Jerzy,,Krynica-Zdroj,,Poland
 2609017,SQ9JYT,Patryk,,Muszyna,,Poland
 2609018,SQ9AOT,Grzegorz,,Tarnow,,Poland
 2609019,SQ9SIM,Szymon,,Sosnowiec,,Poland
-2609020,SQ9GIN,Krzysztof,,Bedzin,slaskie,Poland
-2609021,SQ9NFI,Jaroslaw,Druzbinski,Zawiercie,slaskie,Poland
+2609020,SQ9GIN,Krzysztof,,Bedzin,?l?skie,Poland
+2609021,SQ9NFI,Jaroslaw,Druzbinski,Zawiercie,?l?skie,Poland
 2609022,SQ9NKU,Grzegorz,,Dabrowa Gornicza,,Poland
-2609023,SP9HYX,Jacek,,Krynica Zdroj,malopolskie,Poland
+2609023,SP9HYX,Jacek,,Krynica Zdroj,ma?opolskie,Poland
 2609024,SP9VQY,Anna,,Zabierzow,,Poland
-2609025,SP9CCD,Zdzislaw,Budzicz,Nowy Sacz,malopolskie,Poland
+2609025,SP9CCD,Zdzislaw,Budzicz,Nowy Sacz,ma?opolskie,Poland
 2609026,SP9L,Marek,,Trzetrzewina,,Poland
 2609027,SP9UOB,Tomasz,,Gliwice,,Poland
 2609028,SP9XWY,Tadeusz,,Tenczym,,Poland
 2609029,SQ9WNK,Jaromir,,Zator,,Poland
 2609030,SQ9IDT,Tomasz,,Bytom,,Poland
-2609031,SP9TTG,Piotr,,Czestochowa,slaskie,Poland
+2609031,SP9TTG,Piotr,,Czestochowa,?l?skie,Poland
 2609032,SP9XWM,Michal,,Krakow,,Poland
 2609033,SQ9NFE,Damian,,Jastrzbie Zdrj,,Poland
-2609034,SP9LVZ,Piotr,,Osiek,malopolskie,Poland
+2609034,SP9LVZ,Piotr,,Osiek,ma?opolskie,Poland
 2609035,SP0BASR,Piotr,,Wola,,Poland
 2609037,SO9EWI,Pawel,,Boguchwaowice,,Poland
 2609038,SP9WFH,Maciej,,Krakow,,Poland
 2609039,SP0MASR,Michal,,Krakow,,Poland
-2609040,SQ9DHP,Wojciech,None,RYCHWALD,slaskie,Poland
+2609040,SQ9DHP,Wojciech,None,RYCHWA?D,?l?skie,Poland
 2609041,SQ9DDL,Bogdan,,Chabowka,,Poland
 2609042,SQ9NFQ,Pawel,,Mylenice,,Poland
-2609043,SP9SCZ,Tomasz,,Krakow,malopolskie,Poland
-2609044,SQ9IWL,Piotr,,Mikolow,slaskie,Poland
+2609043,SP9SCZ,Tomasz,,Krakow,ma?opolskie,Poland
+2609044,SQ9IWL,Piotr,,Mikolow,?l?skie,Poland
 2609045,SP9AMG,Adrian,,Czechowice-Dziedzice,,Poland
-2609046,SQ9DEO,Dominik,Bednarowski,Brzesko,malopolskie,Poland
+2609046,SQ9DEO,Dominik,Bednarowski,Brzesko,ma?opolskie,Poland
 2609047,SQ9MLF,Krzysztof,,Gliwice,,Poland
 2609048,SP9KPK,Klub,,Gliczarow Gorny,,Poland
-2609049,SP9MQU,Eugeniusz,,Katowice,slaskie,Poland
-2609050,SP9RK,Robert,Klimanek,Ruda Slaska,slaskie,Poland
+2609049,SP9MQU,Eugeniusz,,Katowice,?l?skie,Poland
+2609050,SP9RK,Robert,Klimanek,Ruda ?l?ska,?l?skie,Poland
 2609051,SP9GNP,Wieslaw,,Chelmek,,Poland
 2609052,SP9HWD,Marian,,Bytom,,Poland
 2609053,SQ9ZAX,Robert,,Tarnow,,Poland
-2609054,SP9WP,Wojciech,Peteja,Ruda Slaska,slaskie,Poland
-2609055,SQ9JDO,Andrzej,,Krakow,malopolskie,Poland
-2609057,SP9SVP,Witold,Kurowski,Krakow,malopolskie,Poland
-2609058,SP9VOM,Robert,Jurkowski,Gostwica,malopolskie,Poland
-2609059,SQ9SBE,Lukasz,Lesinski,Bytom,slaskie,Poland
+2609054,SP9WP,Wojciech,Peteja,Ruda Slaska,?l?skie,Poland
+2609055,SQ9JDO,Andrzej,,Krakow,ma?opolskie,Poland
+2609057,SP9SVP,Witold,Kurowski,Krakow,ma?opolskie,Poland
+2609058,SP9VOM,Robert,Jurkowski,Gostwica,ma?opolskie,Poland
+2609059,SQ9SBE,Lukasz,Lesinski,Bytom,?l?skie,Poland
 2609060,SP9LC,Tomasz,,Mikolow,,Poland
 2609061,SQ9IWS,Mateusz,,Imielin,,Poland
 2609062,SP9RPL,Maciej,,Krakow,,Poland
-2609063,SP9FHL,Galuba,Henryk,Krakow,malopolskie,Poland
-2609064,SP9JKB,Marek,Malecki,Kozy,malopolskie,Poland
+2609063,SP9FHL,Galuba,Henryk,Krakow,ma?opolskie,Poland
+2609064,SP9JKB,Marek,Malecki,Kozy,ma?opolskie,Poland
 2609065,SQ9JXE,Radoslaw,,Bielsko-Biala,,Poland
-2609066,SP9UXT,Marek,,Katowice,slaskie,Poland
-2609067,SQ9SBE,Lukasz,Lesinski,Bytom,slaskie,Poland
+2609066,SP9UXT,Marek,,Katowice,?l?skie,Poland
+2609067,SQ9SBE,Lukasz,Lesinski,Bytom,?l?skie,Poland
 2609068,SQ9OJS,Stanislaw,,Chelmek,,Poland
-2609069,SP9RG,Jacek,Przybylo,Katowice,slaskie,Poland
+2609069,SP9RG,Jacek,Przyby?o,Katowice,?l?skie,Poland
 2609070,SQ9NKW,Tymek,,Bielsko-Biala,,Poland
 2609071,SQ9OUK,Waldemar,Onisko,Czerwionka-Leszczyny,,Poland
 2609072,SP9ONC,Miroslaw,,Kozy,,Poland
 2609073,SQ9ONZ,Tomasz,,Zabrze,,Poland
-2609074,SQ9NKP,Piotr,,Ruda Laska,slaskie,Poland
-2609075,SQ9MEE,Andrzej,Pasiut,Dziewin,slaskie,Poland
-2609076,SQ9JXU,Michal,,Bytom,slaskie,Poland
-2609077,SQ9JXW,Jakub,Kasprzycki,Czestochowa,slaskie,Poland
+2609074,SQ9NKP,Piotr,,Ruda Laska,?l?skie,Poland
+2609075,SQ9MEE,Andrzej,Pasiut,Dziewin,?l?skie,Poland
+2609076,SQ9JXU,Michal,,Bytom,?l?skie,Poland
+2609077,SQ9JXW,Jakub,Kasprzycki,Cz?stochowa,?l?skie,Poland
 2609078,SQ9JDN,Slawek,,Libiaz,,Poland
-2609079,SQ9OKR,Jacek,Jasinski,Bukowona,malopolskie,Poland
-2609080,SP9DV,Bogdan,,Koniakow,slaskie,Poland
-2609081,SQ9MZA,Marcin,Zajac,Rajcza,slaskie,Poland
+2609079,SQ9OKR,Jacek,Jasinski,Bukowona,ma?opolskie,Poland
+2609080,SP9DV,Bogdan,,Koniakow,?l?skie,Poland
+2609081,SQ9MZA,Marcin,Zajac,Rajcza,?l?skie,Poland
 2609082,SQ9ZAY,Michal,,Niepoeomice,,Poland
-2609083,SQ9KED,Piotr,Cudok,Rybnik,slaskie,Poland
-2609084,SP9WUO,Mariusz,,Krakow,malopolskie,Poland
-2609085,SP9HLP,Hieronim,,Czestochowa,slaskie,Poland
+2609083,SQ9KED,Piotr,Cudok,Rybnik,?l?skie,Poland
+2609084,SP9WUO,Mariusz,,Krakow,ma?opolskie,Poland
+2609085,SP9HLP,Hieronim,,Czestochowa,?l?skie,Poland
 2609086,SQ9OL,Rafal,,Tarnow,,Poland
-2609087,SQ9DO,Krzysztof,Potocki,Krakow,malopolskie,Poland
+2609087,SQ9DO,Krzysztof,Potocki,Krakow,ma?opolskie,Poland
 2609088,SP9VVO,Tomasz,,Tarnow,,Poland
 2609089,SQ9CHW,Adam,,Nowy Targ,,Poland
 2609090,SQ9OKU,Jozef,,Krakow,,Poland
-2609091,SQ9OZE,Krzysztof,None,Cianowice,malopolskie,Poland
-2609092,SP9SVE,Kazimierz,,Krakow,malopolskie,Poland
-2609093,SP9VRW,Adam,,Krakow,malopolskie,Poland
-2609094,SP9VJ,Bohdan,Trych,Czestochowa,slaskie,Poland
-2609095,SQ9APY,Zbigniew,Choroba,Szczucin,malopolskie,Poland
+2609091,SQ9OZE,Krzysztof,None,Cianowice,ma?opolskie,Poland
+2609092,SP9SVE,Kazimierz,,Krakow,ma?opolskie,Poland
+2609093,SP9VRW,Adam,,Krakow,ma?opolskie,Poland
+2609094,SP9VJ,Bohdan,Trych,Czestochowa,?l?skie,Poland
+2609095,SQ9APY,Zbigniew,Choroba,Szczucin,ma?opolskie,Poland
 2609096,SQ9NOO,Marcin,,Cieszyn,,Poland
 2609097,SQ9MUP,Andrzej,,Podee,,Poland
 2609098,SQ9RPX,Marcin,,Krakow,,Poland
-2609099,SQ9GAT,Andrzej,,Cieszyn,slaskie,Poland
+2609099,SQ9GAT,Andrzej,,Cieszyn,?l?skie,Poland
 2609100,SQ9LBT,Tomasz,,Zory,,Poland
 2609101,SQ9OZM,Marcin,,Dobczyce,,Poland
 2609102,SQ9NKH,Lukasz,,Zakrzowiec,,Poland
-2609103,SQ9OKR,Jacek,Jasinski,Bukowona,malopolskie,Poland
-2609104,SP9SVH,Krzysztof,Podgorski,Krakow,malopolskie,Poland
-2609105,SP9WZO,Bronislaw,Kus,Cieszyn,slaskie,Poland
+2609103,SQ9OKR,Jacek,Jasinski,Bukowona,ma?opolskie,Poland
+2609104,SP9SVH,Krzysztof,Podgorski,Krakow,ma?opolskie,Poland
+2609105,SP9WZO,Bronislaw,Kus,Cieszyn,?l?skie,Poland
 2609106,SQ9ZAY,Michal,,Niepoeomice,,Poland
-2609107,SQ9PG,Pawel,None,Lubomierz,malopolskie,Poland
-2609108,SP9MAX,Andrzej,Lacheta,Krakow,malopolskie,Poland
+2609107,SQ9PG,Pawel,None,Lubomierz,ma?opolskie,Poland
+2609108,SP9MAX,Andrzej,Lacheta,Krakow,ma?opolskie,Poland
 2609109,SP9CLQ,Andrzej,,Krakw,,Poland
-2609110,SP9MAT,Bozena,Lacheta,Krakow,malopolskie,Poland
+2609110,SP9MAT,Bozena,Lacheta,Krakow,ma?opolskie,Poland
 2609111,SP9VFD,Rafal,,Rokiciny Podhalanskie,,Poland
 2609112,SQ9IAB,Rafal,,Wieliczka,,Poland
-2609113,SP9CPZ,Krzysztof,,Rabka Zdroj,malopolskie,Poland
+2609113,SP9CPZ,Krzysztof,,Rabka Zdroj,ma?opolskie,Poland
 2609114,SP9Q,Piotr,,Zawoja,,Poland
-2609115,SQ9APX,Jan,,Tarnow,slaskie,Poland
-2609116,SP9SVE,Kazimierz,,Krakow,malopolskie,Poland
+2609115,SQ9APX,Jan,,Tarnow,?l?skie,Poland
+2609116,SP9SVE,Kazimierz,,Krakow,ma?opolskie,Poland
 2609117,SO9ADV,Robert,,Raciechowice,,Poland
 2609118,SP9SVJ,Bogdan,,Dobczyce,,Poland
-2609119,SQ9NFI,Jaroslaw,Druzbinski,Zawiercie,slaskie,Poland
-2609120,SP9APJ,Przemek,Rozkrut,Biertowice,malopolskie,Poland
-2609121,SQ9MPK,Krzysztof,Kijak,Ostrowy nad Oksza,slaskie,Poland
+2609119,SQ9NFI,Jaroslaw,Druzbinski,Zawiercie,?l?skie,Poland
+2609120,SP9APJ,Przemek,Rozkrut,Biertowice,ma?opolskie,Poland
+2609121,SQ9MPK,Krzysztof,Kijak,Ostrowy nad Oksza,?l?skie,Poland
 2609122,SQ9KFZ,Mariusz,,Czestochowa,,Poland
 2609123,SQ9IAW,Wieslaw,,Krakow,,Poland
-2609124,SQ9RHX,Damian,Golonka,Blachownia,slaskie,Poland
-2609125,SQ9RPO,Janusz,Chwalek,Gromnik,malopolskie,Poland
+2609124,SQ9RHX,Damian,Golonka,Blachownia,?l?skie,Poland
+2609125,SQ9RPO,Janusz,Chwalek,Gromnik,ma?opolskie,Poland
 2609126,SQ9KCR,Patryk,,Krakow,,Poland
-2609127,SP9DOM,Dominik,Molenda,Krakow,malopolskie,Poland
+2609127,SP9DOM,Dominik,Molenda,Krak?w,ma?opolskie,Poland
 2609128,SP9WAT,Sebastian,,Wieliczka,,Poland
 2609129,SP9WRK,Wojciech,,Krakow,,Poland
-2609130,SQ9T,Mariusz,,Wegrzce Wielkie,slaskie,Poland
+2609130,SQ9T,Mariusz,,W?grzce Wielkie,?l?skie,Poland
 2609131,SP9HE,Roman,,Czerwionka-Leszczyny,,Poland
 2609132,SQ9FQO,Henryk,,Skomielna Czarna,,Poland
 2609133,SQ9KFP,Konrad,,Czstochowa,,Poland
-2609134,SQ9GK,Pawel,Mackowicz,Myslenice,slaskie,Poland
+2609134,SQ9GK,Pawel,Mackowicz,My?lenice,?l?skie,Poland
 2609135,SP9HP,Patryk,,Tychy,,Poland
 2609136,SQ9BEJ,Stanislaw,Glita,Bielsko Biala,podkarpackie,Poland
 2609137,SQ9SWN,Szymon,,Czestochowa,,Poland
 2609138,SQ9DXF,Adam,,Katowice,,Poland
-2609139,SQ9OJR,Lukasz,Kazek,Bratucice,slaskie,Poland
+2609139,SQ9OJR,Lukasz,Kazek,Bratucice,?l?skie,Poland
 2609140,SQ9MYC,Marcin,Czajkowski,Makow Podhalanski,podkarpackie,Poland
 2609141,SQ9IAW,Wieslaw,,Krakow,,Poland
-2609142,SP9TL,Tomasz,Loba,Katowice,slaskie,Poland
-2609143,SP90EA,Janusz,,Syrynia,slaskie,Poland
-2609144,SP9PZ,Piotr,Zabinski,Krakow,malopolskie,Poland
-2609145,SQ9SMC,Wojciech,Stacherczak,Blachownia,slaskie,Poland
+2609142,SP9TL,Tomasz,Loba,Katowice,?l?skie,Poland
+2609143,SP90EA,Janusz,,Syrynia,?l?skie,Poland
+2609144,SP9PZ,Piotr,?abi?ski,Krak?w,ma?opolskie,Poland
+2609145,SQ9SMC,Wojciech,Stacherczak,Blachownia,?l?skie,Poland
 2609146,SP9K,Slawomir,,Gdow,,Poland
 2609147,SP9EPO,Lukasz,,Wodzislaw Slaski,,Poland
 2609148,SP9AHW,Leszek,,Bielsko-Biala,,Poland
 2609149,SP9VRO,Ryszard,,Zakopane,,Poland
 2609150,SP9RQD,Robert,,Krakow,,Poland
-2609151,SP9ADH,Jerzy,Zalewski,Igolomia,malopolskie,Poland
-2609153,SP9EV,Jozef,Bielec,Zakopane,podkarpackie,Poland
+2609151,SP9ADH,Jerzy,Zalewski,Igolomia,ma?opolskie,Poland
+2609153,SP9EV,J?zef,Bielec,Zakopane,podkarpackie,Poland
 2609154,SP9MIR,Miroslaw,,Zaborze,,Poland
-2609155,SQ9RHT,Konrad,,Biala,slaskie,Poland
+2609155,SQ9RHT,Konrad,,Biala,?l?skie,Poland
 2609156,SP9YJC,Mateusz,,Imielin,,Poland
 2609157,SQ9KFM,Marek,,Czestochowa,,Poland
 2609158,SP9XWB,Kazik,,Krakow,,Poland
-2609159,SQ9PNJ,Lukasz,Pasierbek,Janowice,slaskie,Poland
+2609159,SQ9PNJ,Lukasz,Pasierbek,Janowice,?l?skie,Poland
 2609160,SP9JSF,Jozef,,Syrynia,,Poland
 2609161,SP9BSR,Tadeusz,Batko,Myslenice,podkarpackie,Poland
 2609162,SO9BAD,Marcin,,Tarnowskie Gory,,Poland
 2609163,SQ9WDZ,Tomasz,,Krakow,,Poland
-2609164,SP9RVI,Tomasz,Wurcel,Zabrze,slaskie,Poland
-2609165,SP9RVB,Mariusz,,Dabrowa Gornicza,slaskie,Poland
-2609166,SP9O,Mariusz,Zielinski,Wieprz,podkarpackie,Poland
+2609164,SP9RVI,Tomasz,Wurcel,Zabrze,?l?skie,Poland
+2609165,SP9RVB,Mariusz,,Dabrowa Gornicza,?l?skie,Poland
+2609166,SP9O,Mariusz,Zieli?ski,Wieprz,podkarpackie,Poland
 2609167,SQ9WRT,Marcin,,Czstochowa,,Poland
-2609169,SQ9SPR,Tomasz,Adamczyk,Radziechowy,slaskie,Poland
-2609170,SQ9AC,Marcin,Deren,Bielsko Biala,podkarpackie,Poland
+2609169,SQ9SPR,Tomasz,Adamczyk,Radziechowy,?l?skie,Poland
+2609170,SQ9AC,Marcin,Deren,Bielsko Bia?a,podkarpackie,Poland
 2609171,SP9WTE,Tomasz,,Tarnow,,Poland
 2609172,SP9WTG,Andrzej,,Jodlowka-Walki,,Poland
 2609173,SP9RWS,Rafal,,Katowice,,Poland
 2609174,SQ9JDS,Marcin,,Kalwaria Zebrzydowska,,Poland
-2609175,SQ9JDO,Andrzej,,Krakow,malopolskie,Poland
+2609175,SQ9JDO,Andrzej,,Krakow,ma?opolskie,Poland
 2609176,SQ9IVN,Jozef,Pogwizd,Slomka,podkarpackie,Poland
-2609177,SP9SVP,Witold,Kurowski,Krakow,malopolskie,Poland
-2609179,SQ9KPK,Lukasz,None,Dabrowa Gornicza,slaskie,Poland
+2609177,SP9SVP,Witold,Kurowski,Krakow,ma?opolskie,Poland
+2609179,SQ9KPK,Lukasz,None,Dabrowa Gornicza,?l?skie,Poland
 2609180,SQ9KRF,Grzegorz,,Bedzin,,Poland
 2609181,SQ9ITL,Rafal,,Wilkowice,,Poland
-2609182,SQ9WTF,Wiktor,,Krakow,malopolskie,Poland
+2609182,SQ9WTF,Wiktor,,Krakow,ma?opolskie,Poland
 2609183,SP9XZA,Zbigniew,,Biery,,Poland
-2609184,SP9TR,Tadeusz,Zdebel,Laziska Gorne,podkarpackie,Poland
-2609186,SP9RQA,Krzysztof,Piecuch,Gorlice,malopolskie,Poland
-2609187,SQ9JXF,Marek,,Zywiec,slaskie,Poland
+2609184,SP9TR,Tadeusz,Zdebel,?aziska Gorne,podkarpackie,Poland
+2609186,SP9RQA,Krzysztof,Piecuch,Gorlice,ma?opolskie,Poland
+2609187,SQ9JXF,Marek,,Zywiec,?l?skie,Poland
 2609188,SP9RRS,Alek,,Krakow,,Poland
-2609189,SP9JTZ,Piotr,Jurzak,Bielsko Biala,podkarpackie,Poland
+2609189,SP9JTZ,Piotr,Jurzak,Bielsko Bia?a,podkarpackie,Poland
 2609190,HF9P,Piotr,,Katowice,,Poland
-2609191,SQ9MTY,Bartlomiej,Gondecki,Zawiercie,slaskie,Poland
-2609192,SP9RJ,Remigiusz,Jablonski,Pszczyna,slaskie,Poland
-2609193,SQ9YH,Natalia,Kaniczek,Bielsko Biala,podkarpackie,Poland
+2609191,SQ9MTY,Bartlomiej,Gondecki,Zawiercie,?l?skie,Poland
+2609192,SP9RJ,Remigiusz,Jablonski,Pszczyna,?l?skie,Poland
+2609193,SQ9YH,Natalia,Kaniczek,Bielsko Bia?a,podkarpackie,Poland
 2609194,SQ9NRR,Zdzislaw,,Wieprz,,Poland
 2609195,SP9WH,Wojtek,,Krakow,,Poland
 2609196,SP9KL,Ludwik,,Piekary Slaskie,,Poland
 2609197,SQ9DIQ,Mariusz,,Wodzislaw Slaski,,Poland
 2609198,SQ9FIL,Miroslaw,,Woniki,,Poland
-2609199,SP9RTK,Zbigniew,,Herby,slaskie,Poland
+2609199,SP9RTK,Zbigniew,,Herby,?l?skie,Poland
 2609200,SP9TTV,Tomasz,,Koszcin,,Poland
 2609201,SP9WTS,Krzysztof,,Wieliczka,,Poland
-2609202,SP9SCO,Patrik,Molka,Nowy Sacz,malopolskie,Poland
+2609202,SP9SCO,Patrik,Molka,Nowy Sacz,ma?opolskie,Poland
 2609203,SP9DRM,Lukasz,,Grodkowice,,Poland
-2609204,SP9EMF,Arek,Orlicki,Andrychow,malopolskie,Poland
+2609204,SP9EMF,Arek,Orlicki,Andrychow,ma?opolskie,Poland
 2609205,SP9AB,Andrzej,,Modlniczka,,Poland
 2609206,SP9PEW,Klub,,Lubliniec,,Poland
 2609207,SQ9UU,Jacek,,Czestochowa,,Poland
 2609208,SP9WTS,Krzysztof,,Wieliczka,,Poland
 2609209,SQ9ZBL,Lukasz,,Wadowice,,Poland
-2609211,SP9WTC,Robert,Smoter,Krynica Zdroj,malopolskie,Poland
+2609211,SP9WTC,Robert,Smoter,Krynica Zdroj,ma?opolskie,Poland
 2609212,SP9USB,Kamil,,Niepolomice,,Poland
 2609213,SP9LP,Lukasz,,Bestwina,,Poland
 2609214,SQ9RT,Piotr,,Krakow,,Poland
-2609215,SP9GS,Stanislaw,,Bielsko-Biala,slaskie,Poland
+2609215,SP9GS,Stanislaw,,Bielsko-Biala,?l?skie,Poland
 2609216,SQ9KFO,Robert,,Dabrowa Gornicza,,Poland
-2609217,SQ9GIN,Krzysztof,,Bedzin,slaskie,Poland
+2609217,SQ9GIN,Krzysztof,,Bedzin,?l?skie,Poland
 2609218,SP9IKN,Wojciech,,Zakopane,,Poland
 2609219,SQ9UDT,Michal,,Czestochowa,,Poland
 2609220,SQ9TVN,Tomasz,,Czestochowa,,Poland
 2609221,SP9RAF,Rafal,,Bielsko-Biaea,,Poland
 2609222,SQ9ZBL,Lukasz,,Wadowice,,Poland
 2609223,SP9BSK,Michal,,Makow Podhalaski,,Poland
-2609224,SQ9PRL,Szczepan,Strzelecki,Rybnik,slaskie,Poland
-2609226,SQ9IWI,Jacek,Domagala,Gliwice,slaskie,Poland
+2609224,SQ9PRL,Szczepan,Strzelecki,Rybnik,?l?skie,Poland
+2609226,SQ9IWI,Jacek,Domagala,Gliwice,?l?skie,Poland
 2609227,SP9P,Wojciech,,Gliwice,,Poland
-2609228,SQ9MPK,Krzysztof,Kijak,Ostrowy nad Oksza,slaskie,Poland
-2609229,SP9WTC,Robert,Smoter,Krynica Zdroj,malopolskie,Poland
+2609228,SQ9MPK,Krzysztof,Kijak,Ostrowy nad Oksza,?l?skie,Poland
+2609229,SP9WTC,Robert,Smoter,Krynica Zdroj,ma?opolskie,Poland
 2609230,SQ9RIM,Marcin,,Zebrzydowice,,Poland
 2609231,SP9NUW,Konrad,,Krakw,,Poland
-2609232,SP9CIH,Marcin,,Andrychow,malopolskie,Poland
+2609232,SP9CIH,Marcin,,Andrychow,ma?opolskie,Poland
 2609233,SQ9APP,Igor,,Krakow,,Poland
 2609234,SP9IVE,Rafal,,Kleczany,,Poland
-2609235,SQ9MAS,Alan,Szyda,Jastrzebie Zdroj,slaskie,Poland
-2609236,SQ9MUR,Maciek,,Tarnow,malopolskie,Poland
+2609235,SQ9MAS,Alan,Szyda,Jastrzebie Zdroj,?l?skie,Poland
+2609236,SQ9MUR,Maciek,,Tarnow,ma?opolskie,Poland
 2609237,SQ9KR,Robert,,Cisownica,,Poland
-2609238,SP9MOV,Krzysztof,,Michalowice,malopolskie,Poland
-2609239,SQ9MAS,Alan,Szyda,Jastrzebie Zdroj,slaskie,Poland
-2609240,SQ9IWI,Jacek,Domagala,Gliwice,slaskie,Poland
+2609238,SP9MOV,Krzysztof,,Michalowice,ma?opolskie,Poland
+2609239,SQ9MAS,Alan,Szyda,Jastrzebie Zdroj,?l?skie,Poland
+2609240,SQ9IWI,Jacek,Domagala,Gliwice,?l?skie,Poland
 2609241,SP9RNS,Klub,,Nowy Sacz,,Poland
 2609242,SQ9JYE,Slawomir,,Piwniczna Zdrj,,Poland
-2609244,SQ9MEZ,Zbigniew,zibbi,Kamienica,malopolskie,Poland
+2609244,SQ9MEZ,Zbigniew,zibbi,Kamienica,ma?opolskie,Poland
 2609245,SP9TAR,Jerzy,,Krakow,,Poland
-2609246,SP9EDI,Pawel,,Krakow,malopolskie,Poland
+2609246,SP9EDI,Pawel,,Krakow,ma?opolskie,Poland
 2609247,SQ9MDD,Ryszard,,Istebna,,Poland
 2609248,SQ9MLH,Oliwer,,Klobuck,,Poland
 2609249,SP9KRK,Krzysztof,,Krakow,,Poland
@@ -3380,32 +3380,32 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2609255,SQ9RZM,Lukasz,,Krakow,,Poland
 2609256,SQ9GOL,Piotr,,Krakow,,Poland
 2609257,SQ9OKC,Andrzej,,Ruda Slaska,,Poland
-2609258,SQ9PG,Pawel,None,Lubomierz,malopolskie,Poland
+2609258,SQ9PG,Pawel,None,Lubomierz,ma?opolskie,Poland
 2609259,SQ9RZM,Lukasz,,Krakow,,Poland
 2609260,SQ9JYM,Bartosz,,Muszyna,,Poland
 2609261,SQ9WDZ,Tomasz,,Krakow,,Poland
 2609262,SP9TOM,Tomek,,Niepolomice,,Poland
 2609263,SQ9S,Adam,,Pszow,,Poland
 2609264,SP9KRK,Krzysztof,,Krakow,,Poland
-2609265,SQ9JKG,Zenon,,Raciborz,slaskie,Poland
+2609265,SQ9JKG,Zenon,,Raciborz,?l?skie,Poland
 2609266,SP9N,Andrzej,,Lukow Slaski,,Poland
-2609267,SP9JCS,Henryk,,Lubomia,malopolskie,Poland
+2609267,SP9JCS,Henryk,,Lubomia,ma?opolskie,Poland
 2609268,SQ9ATZ,Pawel,,Krakow,,Poland
 2609269,SQ9RFK,Romuald,,Krakow,,Poland
 2609270,SQ9V,Wieslaw,,Rydultowy,,Poland
 2609271,SQ9KR,Robert,,Cisownica,,Poland
 2609272,SQ9POD,Lukasz,,Laziska Gorne,,Poland
 2609273,SP9OYB,Janusz,,Limanowa,,Poland
-2609274,SQ9OKT,Marcin,Kowalik,Kasina Wielka,malopolskie,Poland
+2609274,SQ9OKT,Marcin,Kowalik,Kasina Wielka,ma?opolskie,Poland
 2609275,SO9ADV,Robert,,Raciechowice,,Poland
 2609276,SP9PWM,Piotr,,Pila Koscielecka,,Poland
 2609277,SQ9KQP,Piotr,,Czstochowa,,Poland
-2609278,SP9BIG,Robert,Nizinski,Zielonki,malopolskie,Poland
+2609278,SP9BIG,Robert,Nizinski,Zielonki,ma?opolskie,Poland
 2609279,SP9TWP,Jozef,,Dabrowa Gornicza,,Poland
 2609280,SP9ZEA,Janusz,,SYRYNIA,,Poland
 2609281,SP9SOI,Krzysztof,,Katowice,,Poland
-2609282,SQ9PBS,Wojtek,,Krakow,malopolskie,Poland
-2609283,SQ9WKI,Dariusz,None,Czaniec,slaskie,Poland
+2609282,SQ9PBS,Wojtek,,Krakow,ma?opolskie,Poland
+2609283,SQ9WKI,Dariusz,None,Czaniec,?l?skie,Poland
 2609284,SP9GRF,Jan,,Trzebinia,,Poland
 2609285,SO9AHM,Grzegorz,,Piekary Slaskie,,Poland
 2609287,SP9DVQ,Andrzej,,Pszow,,Poland
@@ -3413,21 +3413,21 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2609289,SP9FUN,Pawel,,Nowy Sacz,,Poland
 2609290,SQ9PPN,Robert,,Katowice,,Poland
 2609291,SQ9OND,Maciej,,Nowy Sacz,,Poland
-2609292,SQ9OJV,Dariusz,Orzechowski,Maciejowa,malopolskie,Poland
+2609292,SQ9OJV,Dariusz,Orzechowski,Maciejowa,ma?opolskie,Poland
 2609293,SQ9FWX,Karol,,Maciejowa,,Poland
 2609294,SP9VOG,Wladyslaw,,Stadla,,Poland
 2609295,SO9AHG,Grzegorz,,Orzesze,,Poland
 2609296,SP9STN,Jacek,,Bielsko Biala,,Poland
 2609297,SQ9OZA,Andrzej,,Chrzanow,,Poland
 2609298,SQ9NKX,Mateusz,,Zawiercie,,Poland
-2609299,SP9APJ,Przemek,Rozkrut,Biertowice,malopolskie,Poland
-2609300,SP9UVG,Gustaw,,Myslowice,slaskie,Poland
-2609301,SP9JKL,Jerzy,Szustak,Myszkow,slaskie,Poland
+2609299,SP9APJ,Przemek,Rozkrut,Biertowice,ma?opolskie,Poland
+2609300,SP9UVG,Gustaw,,Myslowice,?l?skie,Poland
+2609301,SP9JKL,Jerzy,Szustak,Myszk?w,?l?skie,Poland
 2609302,SQ9KRC,Szymon,,Wodzislaw Slaski,,Poland
-2609303,SP9WTN,Tomasz,Kret,Sekowa,malopolskie,Poland
+2609303,SP9WTN,Tomasz,Kret,Sekowa,ma?opolskie,Poland
 2609304,SP9Z,Jacek,,Sosnowiec,,Poland
 2609305,SP9BCH,Jan,,NIEPOLOMICE,,Poland
-2609306,SP9EUN,Tomasz,,Bielsko-Biala,slaskie,Poland
+2609306,SP9EUN,Tomasz,,Bielsko-Biala,?l?skie,Poland
 2609308,SP9KA,Krzysztof,,Seopnice,,Poland
 2609309,SQ9NJ,Jan,,Rybnik,,Poland
 2609310,SQ9PQC,Mariusz,,Zywiec,,Poland
@@ -3435,19 +3435,19 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2609313,SQ9AOF,Adam,,Krzeszowice,,Poland
 2609314,SP9RVP,Roman,,Frydek,,Poland
 2609315,SQ9BDL,Czeslaw,,Myslowice,,Poland
-2609316,SQ9DXT,Jan,Madecki,Zebrzydowice,slaskie,Poland
+2609316,SQ9DXT,Jan,Madecki,Zebrzydowice,?l?skie,Poland
 2609317,SP9VUV,Andrzej,,Krakow,,Poland
-2609318,SP9WZO,Bronislaw,Kus,Cieszyn,slaskie,Poland
+2609318,SP9WZO,Bronislaw,Kus,Cieszyn,?l?skie,Poland
 2609319,SQ9JYT,Patryk,,Muszyna,,Poland
 2609320,SP9CJM,Jacek,,Bochnia,,Poland
 2609321,SP9SCI,Klub,,Cieszyn,,Poland
-2609322,SP0CSR,Klub,Siec Ratunkowa,Cieszyn,podkarpackie,Poland
+2609322,SP0CSR,Klub,Sie? Ratunkowa,Cieszyn,podkarpackie,Poland
 2609323,SP9MQT,Andrzej,,Cieszyn,,Poland
-2609324,SQ9KFW,Miroslaw,Kulawik,Myszkow,slaskie,Poland
+2609324,SQ9KFW,Miroslaw,Kulawik,Myszkow,?l?skie,Poland
 2609325,SP9CZG,Wlodzimierz,,Katowice,,Poland
 2609326,SP9AMF,Igor,,Bielsko-Biaea,,Poland
-2609328,SQ9HHO,Zbigniew,Labinowicz,Raciborz,slaskie,Poland
-2609329,SQ9MLW,Robert,Anytone AT-D878UVII,Bielsko-Biala,slaskie,Poland
+2609328,SQ9HHO,Zbigniew,Labinowicz,Raciborz,?l?skie,Poland
+2609329,SQ9MLW,Robert,Anytone AT-D878UVII,Bielsko-Biala,?l?skie,Poland
 2609330,SQ9LFQ,Jozef,,Mordarka,,Poland
 2609331,SP9KWR,Rafal,,Kwapinka,,Poland
 2609332,SP9CLU,Darek,,Cykarzew Polnocny,,Poland
@@ -3464,24 +3464,24 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2609344,SP9BP,Piotr,,Bystra,,Poland
 2609345,SQ9DDD,Maciek,,Wieliczka,,Poland
 2609346,SQ9OKP,Kamil,,Nowy Sacz,,Poland
-2609347,SQ9IUB,Kamil,,Krakow,malopolskie,Poland
+2609347,SQ9IUB,Kamil,,Krakow,ma?opolskie,Poland
 2609348,SP9ITW,Ireneusz,,Gilowice,,Poland
 2609349,SP9CF,Adam,,Gliwice,,Poland
 2609350,SP9SA,Leszek,,Dabrowa Grnicza,,Poland
 2609351,SP9EJP,Piotr,,Knurow,,Poland
-2609352,SQ9AOX,Wojciech,,Tarnow,malopolskie,Poland
+2609352,SQ9AOX,Wojciech,,Tarnow,ma?opolskie,Poland
 2609353,SQ9KCN,Eryk,,Krakow,,Poland
-2609354,SO9W,Arkadiusz,K,Bielsko-Biala,slaskie,Poland
+2609354,SO9W,Arkadiusz,K,Bielsko-Biala,?l?skie,Poland
 2609355,SQ9OUJ,Cezary,,Tarnowskie Gry,,Poland
 2609356,SQ9FMR,Jozef,,Tarnowskie Gory,,Poland
 2609357,SQ9JYW,Michal,Wasowicz,Kleczany,podkarpackie,Poland
 2609358,SO9EWJ,Adam,,Pinczyce,,Poland
 2609359,SP9OYO,Stanislaw,,Wietrzychowice,,Poland
-2609360,SP9KB,Krzysztof,Braszko,Bytom,slaskie,Poland
-2609361,SQ9OZL,Danuta,,Krakow,malopolskie,Poland
+2609360,SP9KB,Krzysztof,Braszko,Bytom,?l?skie,Poland
+2609361,SQ9OZL,Danuta,,Krakow,ma?opolskie,Poland
 2609362,SP9WZT,Jerzy,,Zywiec,,Poland
-2609363,SP9IDA,Lukasz,Broda,Krakow,malopolskie,Poland
-2609364,SQ9VGX,Lukasz,,Chrzanow,slaskie,Poland
+2609363,SP9IDA,Lukasz,Broda,Krakow,ma?opolskie,Poland
+2609364,SQ9VGX,Lukasz,,Chrzanow,?l?skie,Poland
 2609365,SQ9FQM,Norbert,,Krakow,,Poland
 2609366,SQ9PUZ,Kuba,,Tarnow,,Poland
 2609367,SP9JKR,Jerzy,,Lusina,,Poland
@@ -3493,29 +3493,29 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2609374,SP9KL,Ludwik,,Piekary Slaskie,,Poland
 2609375,SQ9GRZ,Grzegorz,,Rajbrot,,Poland
 2609376,SP9CPR,Rafal,,Brzezie,,Poland
-2609377,SQ9EZG,Michal, ,Nowy Sacz,malopolskie,Poland
+2609377,SQ9EZG,Michal, ,Nowy Sacz,ma?opolskie,Poland
 2609378,SQ9RFM,Wojciech,,Wegrzce,,Poland
 2609380,SP9CM,Walery,,Krakow,,Poland
 2609381,SQ9MOA,Marcin,,Krakw,,Poland
-2609382,SP9EUH,Eugeniusz,,Rybnik,slaskie,Poland
-2609383,SP9AP,Artur,None,Krakow,malopolskie,Poland
+2609382,SP9EUH,Eugeniusz,,Rybnik,?l?skie,Poland
+2609383,SP9AP,Artur,None,Krakow,ma?opolskie,Poland
 2609384,SQ9HHV,Maciej,,Raciborz,,Poland
 2609385,SQ9AOF,Adam,,Krzeszowice,,Poland
-2609386,SQ9MEZ,Zbigniew,zibbi,Kamienica,malopolskie,Poland
+2609386,SQ9MEZ,Zbigniew,zibbi,Kamienica,ma?opolskie,Poland
 2609387,SP9DPM,Dariusz,,Nowy Sacz,,Poland
-2609388,SQ9KMZ,Marcin,Krawczyk,Zurada,malopolskie,Poland
+2609388,SQ9KMZ,Marcin,Krawczyk,Zurada,ma?opolskie,Poland
 2609389,SP9CKS,Andrzej,,Cieszyn,,Poland
 2609391,SQ9AOG,Alek,,Zagorze,,Poland
 2609392,SP9ETA,Marek,,Krakow,,Poland
 2609393,SP9AFC,Pawel,,Gorzow,,Poland
-2609394,SP9SSD,Andrzej,Zimonczyk,Czerwionka - Leszczyny,slaskie,Poland
-2609395,SQ9PPU,Grzegorz,Orzeszek,Stanica,slaskie,Poland
+2609394,SP9SSD,Andrzej,Zimo?czyk,Czerwionka - Leszczyny,?l?skie,Poland
+2609395,SQ9PPU,Grzegorz,Orzeszek,Stanica,?l?skie,Poland
 2609396,SQ9KQN,Rafal,,Siemianowice Sl.,,Poland
-2609397,SP9OZI,Krzysztof,None,Zabierzow,slaskie,Poland
-2609398,SP9SRS,Krzysztof,,Ruda Slaska,slaskie,Poland
+2609397,SP9OZI,Krzysztof,None,Zabierzow,?l?skie,Poland
+2609398,SP9SRS,Krzysztof,,Ruda Slaska,?l?skie,Poland
 2609400,SQ9NKR,Rafal,,Krzanowice,,Poland
 2609401,SP9AX,Robert,,Chrzanow,,Poland
-2609402,SP9XLM,Tomasz,Kulka,Sosnowiec,slaskie,Poland
+2609402,SP9XLM,Tomasz,Kulka,Sosnowiec,?l?skie,Poland
 2609403,SQ9LFP,Mariusz,,Podole-Gorowa,,Poland
 2609404,SP9JMR,Marcin,,Rybarzowice,,Poland
 2609405,SQ9ONG,Grzegorz,,Proszowice,,Poland
@@ -3523,11 +3523,11 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2609407,SP9PJ,Piotr,,Chorzow,,Poland
 2609409,SP9FWQ,Arkadiusz,,Rybna,,Poland
 2609410,SP9AK,Arkadiusz,,Krakow,,Poland
-2609411,SN9DX,Lukasz,Lesinski,Bytom,slaskie,Poland
+2609411,SN9DX,Lukasz,Lesinski,Bytom,?l?skie,Poland
 2609412,SP9MI,Miroslaw,,Bielsko-Biala,,Poland
 2609413,SP9VS,Jordan,,Ruda Slaska,,Poland
-2609414,SP9DFP,Stanislaw,,Raciborz,slaskie,Poland
-2609415,SP9SRS,Krzysztof,,Ruda Slaska,slaskie,Poland
+2609414,SP9DFP,Stanislaw,,Raciborz,?l?skie,Poland
+2609415,SP9SRS,Krzysztof,,Ruda Slaska,?l?skie,Poland
 2609416,SP9NSS,Leszek,,Dobczyce,,Poland
 2609417,SQ9ORZ,Mieczyslaw,,Porabka,,Poland
 2609418,SP9QSQ,Mariusz,,Zywiec,,Poland
@@ -3537,11 +3537,11 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2609422,SP9SP,Piotr,Es,Katowice,,Poland
 2609423,SP9WTA,Jozef,,Krynica-Zdroj,,Poland
 2609424,SQ9KFY,Damian,None,Katowice,,Poland
-2609425,SP9ODT,Adam,,Nowy Sacz,malopolskie,Poland
+2609425,SP9ODT,Adam,,Nowy Sacz,ma?opolskie,Poland
 2609426,SO9J,Jerzy,,Wieliczka,,Poland
 2609427,SP9UMM,Jozef,,Nowy Sacz,,Poland
 2609428,SP9XK,Krzysztof,,Krakow,,Poland
-2609429,SQ9KIL,Dariusz,Pcionek,Krakow,malopolskie,Poland
+2609429,SQ9KIL,Dariusz,Pcionek,Krakow,ma?opolskie,Poland
 2609430,SQ9RIE,Renata,,Janowice,,Poland
 2609431,SQ9OKF,Bartosz,,Krakw,,Poland
 2609432,SQ9IVD,Lukasz,,Nowy Sacz,,Poland
@@ -3549,81 +3549,81 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2609434,SQ9RHZ,Michal,,Katowice,,Poland
 2609436,SQ9RFG,Grzegorz,,Nawojowa,,Poland
 2609437,SP9XCC,Krzysztof,,Ledziny,,Poland
-2609438,SP9OZZ,Tadeusz,None,Swietochlowice,slaskie,Poland
-2609439,SP9MEQ,Pawel,Motyczko,Zagorze,malopolskie,Poland
+2609438,SP9OZZ,Tadeusz,None,Swietochlowice,?l?skie,Poland
+2609439,SP9MEQ,Pawel,Motyczko,Zagorze,ma?opolskie,Poland
 2609440,SP9BW,Tomasz,,Mazancowice,,Poland
-2609441,SP9CH,Grzegorz,,Orzesze,slaskie,Poland
+2609441,SP9CH,Grzegorz,,Orzesze,?l?skie,Poland
 2609442,SQ9DEM,Marcin,,Plesna,,Poland
 2609443,SP9WPO,Piotr,,Smykow,,Poland
 2609444,SP9F,Flavio,,Krakow,,Poland
 2609445,SP9TPL,Krzysztof,,Wolbrom,,Poland
 2609446,SP9SDH,Stefan,,Rybnik,,Poland
 2609447,SP9KK,Kazimierz,,Mecina,,Poland
-2609448,SQ9LBI,Bronislaw,,Zory,slaskie,Poland
+2609448,SQ9LBI,Bronislaw,,Zory,?l?skie,Poland
 2609449,SP9TNK,Ryszard,,ZORY,,Poland
 2609450,SO9DZP,Bartosz,,Krakow,,Poland
 2609451,SQ9RHO,Michal,,Ruda Slaska,,Poland
 2609452,SP9ETW,Marek,,Gorki Wielkie,,Poland
 2609453,SP9UO,Marek,,Przystajn,,Poland
-2609454,SP9TED,Tadeusz,Magura-Witkowski,Krakow,malopolskie,Poland
+2609454,SP9TED,Tadeusz,Magura-Witkowski,Krakow,ma?opolskie,Poland
 2609455,SP9JAL,Jakub,,Krakow,,Poland
 2609456,SP9TNK,Ryszard,,ZORY,,Poland
-2609457,SP9XWW,Slawomir,Komenda,Niepolomice,malopolskie,Poland
+2609457,SP9XWW,Slawomir,Komenda,Niepolomice,ma?opolskie,Poland
 2609458,SP9MTJ,Michal,,Szarow,,Poland
 2609459,SP9UOJ,Piotr,None,Tarnow,,Poland
-2609460,SQ9LM,Lukasz,,Krakow,malopolskie,Poland
+2609460,SQ9LM,Lukasz,,Krakow,ma?opolskie,Poland
 2609461,SP9NSA,Piotr,,Nowy Sacz,,Poland
 2609462,SQ9KEE,Lukasz,,Jaworzno,,Poland
 2609463,SP9NG,Andrzej,,Kleczany,,Poland
 2609464,SP9WTV,Jakub,,Krakow,,Poland
-2609465,SP9CSE,Alek,,Krakow,malopolskie,Poland
+2609465,SP9CSE,Alek,,Krakow,ma?opolskie,Poland
 2609466,SQ9BDJ,Maciej,,Tomice,,Poland
 2609467,SP9VND,Maciej,,Krakow,,Poland
 2609468,SQ9RNU,Michal,,Stara Wies,,Poland
 2609469,SP9MIB,Piotr,,Zrebice Pierwsze,,Poland
 2609470,SQ9DKV,Leszek,,Krakow,,Poland
 2609471,SQ9JDS,Marcin,,Kalwaria Zebrzydowska,,Poland
-2609472,SP9EA,Andrzej,Eliasz,Jaworzno,slaskie,Poland
-2609473,SQ9MTY,Bartlomiej,Gondecki,Zawiercie,slaskie,Poland
-2609474,SP9AZF,Xavier,Rajda,Kozy,slaskie,Poland
-2609475,SQ9ORN,Dominik,Cyran,Katowice,slaskie,Poland
+2609472,SP9EA,Andrzej,Eliasz,Jaworzno,?l?skie,Poland
+2609473,SQ9MTY,Bartlomiej,Gondecki,Zawiercie,?l?skie,Poland
+2609474,SP9AZF,Xavier,Rajda,Kozy,?l?skie,Poland
+2609475,SQ9ORN,Dominik,Cyran,Katowice,?l?skie,Poland
 2609476,SQ9RSC,Robert,,Olsztyn k/Czestochowy,,Poland
-2609477,SQ9WOW,Miroslaw,Marcol,Marklowice,slaskie,Poland
+2609477,SQ9WOW,Miroslaw,Marcol,Marklowice,?l?skie,Poland
 2609478,SP9PAW,Pawel,,Krakow,,Poland
 2609479,SP9OFM,Wojciech,,Wieliczka,,Poland
 2609480,SQ9ORT,Kazimierz,,Jaworzno,,Poland
 2609481,SP9GM,Grzegorz,,Ustron,podkarpackie,Poland
 2609482,SP9TDF,Krzysztof,,Krakow,,Poland
-2609483,SP9DLM,Dariusz,Michalski,Ruda Slaska,slaskie,Poland
+2609483,SP9DLM,Dariusz,Michalski,Ruda Slaska,?l?skie,Poland
 2609484,SN9W,Mateusz,,Podzamcze,,Poland
 2609485,SQ9LPO,Blazej,,Gorki Wielkie,,Poland
 2609486,SQ9NOC,Zdzislaw,,Giebultow,,Poland
 2609487,SQ9OKQ,Rafal,None,Babice,,Poland
-2609488,SQ9KIL,Dariusz,Pcionek,Krakow,malopolskie,Poland
+2609488,SQ9KIL,Dariusz,Pcionek,Krakow,ma?opolskie,Poland
 2609489,SQ9GPS,Lubomir,,Solarnia,,Poland
 2609490,SQ9IAQ,Mariusz,,Krakow,,Poland
 2609491,SP9DWV,Zygmunt,,Cieszyn,,Poland
 2609492,SP9KMS,Konrad,,Tarnow,,Poland
 2609493,SP9HYT,Teofil,,Tychy,,Poland
-2609494,SQ9LM,Lukasz,,Krakow,malopolskie,Poland
+2609494,SQ9LM,Lukasz,,Krakow,ma?opolskie,Poland
 2609495,SQ9NOU,Krzysztof,,Cieszyn,,Poland
 2609496,SP9GUH,Jan,,Bielsko-Biala,,Poland
 2609497,SQ9IAQ,Mariusz,,Krakow,,Poland
 2609498,SP9OYT,Mariusz,,Lowczowek,,Poland
-2609500,SP9UVG,Gustaw,,Myslowice,slaskie,Poland
-2609501,SP9EA,Andrzej,Eliasz,Jaworzno,slaskie,Poland
+2609500,SP9UVG,Gustaw,,Myslowice,?l?skie,Poland
+2609501,SP9EA,Andrzej,Eliasz,Jaworzno,?l?skie,Poland
 2609502,SQ9CXE,Mariusz,,Sosnowiec,,Poland
-2609503,SP9AJM,Alojzy,Smajdor,Nowy Sacz,malopolskie,Poland
+2609503,SP9AJM,Alojzy,Smajdor,Nowy Sacz,ma?opolskie,Poland
 2609504,SP9PW,Pawel,,Katowice,,Poland
 2609505,SQ9BOR,Krzysztof,,Piekary Slaskie,,Poland
 2609506,SQ9JYM,Bartosz,,Muszyna,,Poland
 2609507,SP9MIG,Mateusz,,Krakow,,Poland
 2609508,SP9PAP,Piotr,,Krakow,,Poland
-2609509,SP9MEQ,Pawel,Motyczko,Zagorze,malopolskie,Poland
+2609509,SP9MEQ,Pawel,Motyczko,Zagorze,ma?opolskie,Poland
 2609510,SQ9PDK,Damian,,Krakow,,Poland
 2609511,SO9GH,Rafal,None,Sosnowiec,,Poland
-2609512,SP9AWP,Wojciech,,Tarnowskie Gory,slaskie,Poland
+2609512,SP9AWP,Wojciech,,Tarnowskie Gory,?l?skie,Poland
 2609513,SP9GM,Grzegorz,,Ustron,podkarpackie,Poland
 2609514,SQ9MYQ,Michal,,Gliwice,,Poland
-2609516,SP9TKW,Marek,,Glogoczow,slaskie,Poland
+2609516,SP9TKW,Marek,,Glogoczow,?l?skie,Poland
 2609517,SP9BGS,Jerzy,,Katowice,,Poland
