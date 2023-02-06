@@ -968,7 +968,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2600992,SP7ARAB,Jacek,Arabski,Lodz,??dzkie,Poland
 2600993,SP9AOX,Wojciech,,Tarnow,ma?opolskie,Poland
 2600994,SQ2ODE,Mariusz,Stefaniak,Chelmno,kujawsko-pomorskie,Poland
-2600995,SP9POL,Marcin,Kapron,Krakow,ma?opolskie,Poland
+2600995,SP9POL,Marcin,,Krakow,ma?opolskie,Poland
 2600996,SP8IRQ,Rafal,Rychlicki ,Dzierzkowice,lubelskie,Poland
 2600997,SP7CC,Arek,,Lodz,??dzkie,Poland
 2600998,SQ2RAD,Adrian,Wozniak,Gdynia,pomorskie,Poland
@@ -1555,8 +1555,13 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2601593,SQ5KGO,Piotr,Kalczewiak,Minsk Mazowiecki,mazowieckie,Poland
 2601594,SP4JEU,Roman,Baginski,Ostroda,warmi?sko-mazurskie,Poland
 2601595,SP4MB,Marcin,,Bialystok,podlaskie,Poland
+2601596,SP8UKE,Mikolaj,Michalski,Podgrodzie,podkarpackie,Poland
 2601597,SP4DKF,Dawid,Lewandowski,Bialystok,podlaskie,Poland
 2601598,SO5Q,Piotr,Grochowski,Piastow,mazowieckie,Poland
+2601599,SP2LTN,Tomasz,Wandowski,Tczew,pomorskie,Poland
+2601600,SQ2MA,Mariusz,Andrukiewicz,Gdynia,pomorskie,Poland
+2601601,SP1LEON,Slawomir,Leoniak,Katy,zachodniopomorskie,Poland
+2601602,SQ5JRV,Mariusz,Dwurzynski,Warszawa,mazowieckie,Poland
 2601999,SP5VEQ,Tomasz,Brejnak,Warszawa,mazowieckie,Poland
 2602001,SP2WGN,Maciej,,Gdansk,,Poland
 2602002,SP2FRN,Sebastian,Eferenovich,Gdynia,pomorskie,Poland
@@ -1940,6 +1945,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2604016,SQ4NJQ,Norbert,Chojnowski,Lomza,podlaskie,Poland
 2604017,SQ4KDE,Jaroslaw,Warcaba,Piatki Wielki,warmi?sko-mazurskie,Poland
 2604018,SQ4KDF,Tomek,Kowalski,Goldap,podlaskie,Poland
+2604020,SP4KDK,Adam,Gajczewski,Paslek,warmi?sko-mazurskie,Poland
 2604021,SQ4NYZ,Pawel,,Bialystok,podlaskie,Poland
 2604022,SQ4FAE,Krzysztof,Chris,Mragowo,warmi?sko-mazurskie,Poland
 2604023,SP4XQE,Jerzy,,Ketrzyn,warmi?sko-mazurskie,Poland
@@ -3150,7 +3156,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2609016,SP9VNR,Jerzy,,Krynica-Zdroj,,Poland
 2609017,SQ9JYT,Patryk,,Muszyna,,Poland
 2609018,SQ9AOT,Grzegorz,,Tarnow,,Poland
-2609019,SQ9SIM,Szymon,,Sosnowiec,,Poland
+2609019,SQ9SIM,Szymon,Ostrowski,Sosnowiec,?l?skie,Poland
 2609020,SQ9GIN,Krzysztof,,Bedzin,?l?skie,Poland
 2609021,SQ9NFI,Jaroslaw,Druzbinski,Zawiercie,?l?skie,Poland
 2609022,SQ9NKU,Grzegorz,,Dabrowa Gornicza,,Poland
