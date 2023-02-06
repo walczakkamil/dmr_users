@@ -53,7 +53,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2600053,SQ9PQC,Mariusz,,Zywiec,,Poland
 2600054,SQ3HXR,Mariusz,,Chodziez,,Poland
 2600055,SP3MFF,Zenon,,Lubasz,,Poland
-2600056,SP9ORD,Rafal,None,Krzeszowice,,Poland
+2600056,SP9ORD,Rafal,None,Krzeszowice,malopolskie,Poland
 2600057,SP5XEP,Marek,,Warszawa,,Poland
 2600058,SP9EKG,Krystian,,Chorzow,,Poland
 2600059,SP9WA,Artur,,Midzybrodzie Zywieckie,slaskie,Poland
@@ -1529,7 +1529,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2601567,SQ9BF,Boguslawa,Fabia,Biskupice,malopolskie,Poland
 2601568,SP9TDE,Marek, ,Zawiercie,slaskie,Poland
 2601569,SQ5DTL,Grzegorz,Szpak,Radom,mazowieckie,Poland
-2601570,SQ3EJ,Jedrzej,Kubaczyk,Debsko,wielkopolskie,Poland
+2601570,SQ3EJ,Jedrzej, ,Debsko,wielkopolskie,Poland
 2601571,SQ9KDV,Dariusz,Kasprzyk,Luszowice,malopolskie,Poland
 2601572,SP6MRF,Andrzej,Juszkiewicz,Wroclaw,dolnoslaskie,Poland
 2601573,SP3MPB,Marcin,Brzakala,Perzow,wielkopolskie,Poland
