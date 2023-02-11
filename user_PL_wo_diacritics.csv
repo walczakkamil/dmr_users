@@ -1489,7 +1489,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2601527,SP9NWG,Antoni,Painta,Piekary Slaskie,slaskie,Poland
 2601528,SP9GMD,Filip,Cichowski,Radzionkow,slaskie,Poland
 2601529,SP9MAJ,Robert,Korczynski,Andrychow,malopolskie,Poland
-2601530,SP7CZO,Przemyslaw,Bartnik,Ruda,slaskie,Poland
+2601530,SP7CZO,Przemyslaw,Bartnik,Gidle,slaskie,Poland
 2601531,SP8CD,Karol,Zuk,Cicibor Duzy,lubelskie,Poland
 2601532,SQ3KD,Konrad,Dopierala,Pniewy,wielkopolskie,Poland
 2601533,SP3BLZ,Kamil,Sadowski,Szczaniec,lubuskie,Poland
@@ -1566,6 +1566,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2601604,SP7TKN,Marcin,Rusin,Staporkow,swietokrzyskie,Poland
 2601605,SP6PT,Piotr,Trojniak,Stary Wielislaw,dolnoslaskie,Poland
 2601606,SO9DXR,Jakub,Kesik,Krzepice,slaskie,Poland
+2601607,SQ5V,Lukasz,Widawski,Konstancin-Jeziorna,mazowieckie,Poland
 2601999,SP5VEQ,Tomasz,Brejnak,Warszawa,mazowieckie,Poland
 2602001,SP2WGN,Maciej,,Gdansk,,Poland
 2602002,SP2FRN,Sebastian,Eferenovich,Gdynia,pomorskie,Poland
