@@ -1568,6 +1568,8 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2601606,SO9DXR,Jakub,Kesik,Krzepice,slaskie,Poland
 2601607,SQ5V,Lukasz,Widawski,Konstancin-Jeziorna,mazowieckie,Poland
 2601608,SP9GBA,Grzegorz,Banczerowski,Gliwice,slaskie,Poland
+2601609,SP1EVF,Artur,Kwietniewski,Szczecin,zachodniopomorskie,Poland
+2601610,SP2WIE,Marek,Szczypinski,Gdansk,pomorskie,Poland
 2601999,SP5VEQ,Tomasz,Brejnak,Warszawa,mazowieckie,Poland
 2602001,SP2WGN,Maciej,,Gdansk,,Poland
 2602002,SP2FRN,Sebastian,Eferenovich,Gdynia,pomorskie,Poland
@@ -3458,6 +3460,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2609324,SQ9KFW,Miroslaw,Kulawik,Myszkow,slaskie,Poland
 2609325,SP9CZG,Wlodzimierz,,Katowice,,Poland
 2609326,SP9AMF,Igor,,Bielsko-Biaea,,Poland
+2609327,SQ9JKL,Tomek,Jeromin,Zaborze,slaskie,Poland
 2609328,SQ9HHO,Zbigniew,Labinowicz,Raciborz,slaskie,Poland
 2609329,SQ9MLW,Robert,Anytone AT-D878UVII,Bielsko-Biala,slaskie,Poland
 2609330,SQ9LFQ,Jozef,,Mordarka,,Poland
