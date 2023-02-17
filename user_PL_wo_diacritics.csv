@@ -1574,6 +1574,10 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2601611,SP4NLG,Flavio,Stradolini,Bialystok,podlaskie,Poland
 2601612,SP8UFM,Tomasz,Skrzydlo,Lublin,lubelskie,Poland
 2601613,3Z9AM,Daniel,Poznanski,Krakow,malopolskie,Poland
+2601614,SP5TUP,Michal,Jarzabkowski,Piaseczno,mazowieckie,Poland
+2601615,SP3BCU,Bartosz, ,Pleszew,wielkopolskie,Poland
+2601616,SP7BFO,Tomasz,Nawrocki,Bedon Przykoscielny,lodzkie,Poland
+2601617,SP2MZW,Michal,Zietara,Kruszwica,kujawsko-pomorskie,Poland
 2601999,SP5VEQ,Tomasz,Brejnak,Warszawa,mazowieckie,Poland
 2602001,SP2WGN,Maciej,,Gdansk,,Poland
 2602002,SP2FRN,Sebastian,Eferenovich,Gdynia,pomorskie,Poland
@@ -2361,6 +2365,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2605280,SQ5IZY,Daniel,,Jesionka,,Poland
 2605281,SQ5JUF,Hubert,,Warszawa,,Poland
 2605282,SQ5IT,Mateusz,,Warszawa,mazowieckie,Poland
+2605283,SQ5CZP,Przemyslaw,Majchrzak,Gostynin,mazowieckie,Poland
 2605284,SP5WWY,Michal,,Warszawa,,Poland
 2605285,SQ5PWF,Michal,,Radom,mazowieckie,Poland
 2605286,SP5XAY,Ludwik,,Warszawa,,Poland
