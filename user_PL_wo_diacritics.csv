@@ -42,6 +42,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2600041,SP8SIB,Dariusz,,Rudna Mala,podkarpackie,Poland
 2600042,SQ5BUJ,Jan,Bialczak,Marynin,mazowieckie,Poland
 2600043,SP7IGI,Igor,,Kurozweki,,Poland
+2600044,SP8OBT,Ryszard,Wiktor,Rzeszow,podkarpackie,Poland
 2600045,SQ5FLO,Wojciech,,Kampinos,,Poland
 2600046,SP2VTN,Cezary,,Kuznica,,Poland
 2600047,SP9BTW,Marek,,Krakow,,Poland
@@ -1578,6 +1579,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2601615,SP3BCU,Bartosz, ,Pleszew,wielkopolskie,Poland
 2601616,SP7BFO,Tomasz,Nawrocki,Bedon Przykoscielny,lodzkie,Poland
 2601617,SP2MZW,Michal,Zietara,Kruszwica,kujawsko-pomorskie,Poland
+2601618,SP4DJ,Dariusz,Jatkowski,Bialystok,podlaskie,Poland
 2601999,SP5VEQ,Tomasz,Brejnak,Warszawa,mazowieckie,Poland
 2602001,SP2WGN,Maciej,,Gdansk,,Poland
 2602002,SP2FRN,Sebastian,Eferenovich,Gdynia,pomorskie,Poland
@@ -2897,7 +2899,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2607135,SQ7IQT,Krzysztof,,Janow,,Poland
 2607136,SQ7HIK,Karol,None,Radom,,Poland
 2607137,SQ7SOP,Marcin,,Samborzec,,Poland
-2607138,SQ7PTE,Piotr,Kowalski,Koprzywnica,swietokrzyskie,Poland
+2607138,SQ7PTE,Piotr,Kolacki,Koprzywnica,swietokrzyskie,Poland
 2607139,SP7UTO,Tomasz,Pokornowski,Sieradz,lodzkie,Poland
 2607140,SP7ML,Mateusz,,Borowa Gora,,Poland
 2607141,SP7SUM,Adam,Szarata,Lodz,lodzkie,Poland
