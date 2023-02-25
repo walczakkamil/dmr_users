@@ -1379,6 +1379,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2601415,SP8MBO,Michal,Bosek,Markowa,podkarpackie,Poland
 2601416,SQ7BFI,Marcin,Iwanski,Opoczno,lodzkie,Poland
 2601417,SP5TZP,Piotr,Tyborowski,Jozefoslaw,mazowieckie,Poland
+2601418,SP3QDM,Tomasz,Mankowski,Grodzisk Wielkopolski,wielkopolskie,Poland
 2601419,SQ4PS,Pawel,Dabrowski,Lomza,podlaskie,Poland
 2601420,SP9DDB,Dawid,Baran,Dabrowa Gornicza,slaskie,Poland
 2601421,SO5WI,Wiktor,Starzak,Bialystok,podlaskie,Poland
@@ -1584,6 +1585,8 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2601621,SP7QHH,Sebastian,Kubiak,Winnica,mazowieckie,Poland
 2601622,SP5PS,Krzysztof,Malec,Chotomow,mazowieckie,Poland
 2601623,SQ5KL,Krzysztof,Lewandowski,Warszawa,mazowieckie,Poland
+2601624,SQ2GCO,Zbigniew,Mozdzonek,Malbork,pomorskie,Poland
+2601625,SP3QYC,Tomasz,Pawlicki,Srem,wielkopolskie,Poland
 2601999,SP5VEQ,Tomasz,Brejnak,Warszawa,mazowieckie,Poland
 2602001,SP2WGN,Maciej,,Gdansk,,Poland
 2602002,SP2FRN,Sebastian,Eferenovich,Gdynia,pomorskie,Poland
