@@ -1475,7 +1475,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2601511,SP2LCN,Tomasz,Hrycuniak,Bydgoszcz,kujawsko-pomorskie,Poland
 2601512,SQ9NOF,Boguslaw,Adamowicz,Bukowno,slaskie,Poland
 2601513,SP8TN,Grzegorz,Drzymala,Tuszow Narodowy,podkarpackie,Poland
-2601514,SP4SR,Slawomir,Romejko,Olsztyn,warminsko-mazurskie,Poland
+2601514,SP4SR,Slawomir,R,Olsztyn,warminsko-mazurskie,Poland
 2601515,SQ3LUNA,Luna,Swiatek,Poznan,wielkopolskie,Poland
 2601516,SQ3MP,Michal,P,Mosina,wielkopolskie,Poland
 2601517,SP1TER,Piotr,Ziemlewski,Darlowo,zachodniopomorskie,Poland
@@ -1587,6 +1587,10 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2601623,SQ5KL,Krzysztof,Lewandowski,Warszawa,mazowieckie,Poland
 2601624,SQ2GCO,Zbigniew,Mozdzonek,Malbork,pomorskie,Poland
 2601625,SP3QYC,Tomasz,Pawlicki,Srem,wielkopolskie,Poland
+2601626,SP5IPO,Jacek,Poswiata,Zabki,mazowieckie,Poland
+2601627,SP8KBI,Kazimierz,Bialy,Lublin,lubelskie,Poland
+2601628,SP6FU,Marcin,Kowalicki,Srebrna Gora,dolnoslaskie,Poland
+2601629,SP1BAT,Jakub,Gendig,Polanow,zachodniopomorskie,Poland
 2601999,SP5VEQ,Tomasz,Brejnak,Warszawa,mazowieckie,Poland
 2602001,SP2WGN,Maciej,,Gdansk,,Poland
 2602002,SP2FRN,Sebastian,Eferenovich,Gdynia,pomorskie,Poland
