@@ -228,6 +228,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2600233,SP9JW,Jaroslaw,,Rabka-Zdroj,malopolskie,Poland
 2600234,SP1DOZ,Slawomir,,Szczecin,,Poland
 2600235,SP6ZOLW,Zbigniew,Gorczycki,Wroclaw,dolnoslaskie,Poland
+2600236,HF2Y,Maciej,aka Mac,Gdynia,pomorskie,Poland
 2600237,SP6F,Pawel,,Wroclaw,dolnoslaskie,Poland
 2600238,SP6JGD,Slawomir,,Dabrowica,,Poland
 2600239,SQ9FMP,Artur,,Zawiercie,,Poland
@@ -241,6 +242,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2600247,SP5MIT,Jan,,Lomianki,,Poland
 2600248,SQ6UV,Tomasz,,Bardo,,Poland
 2600249,SP8UEL,Mariusz,,Zagorz,,Poland
+2600250,HF2Y,Maciej,aka Mac,Gdynia,pomorskie,Poland
 2600251,SP8JT,Leszek,,Polskowola,,Poland
 2600252,SP7CGH,Piotr,,Piotrkow Trybunalski,,Poland
 2600253,SQ9KOT,Mateusz,,Krakow,,Poland
@@ -1592,6 +1594,15 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2601630,SQ5GVY,Andrzej,Modrzewski,Pultusk,mazowieckie,Poland
 2601631,SQ6RDN,Mariusz,Czeczko,Boleslawiec,slaskie,Poland
 2601632,SP9VFE,Piotr,Ostapowicz,Krakow,malopolskie,Poland
+2601633,SP2BRP,Krystian,Olszewski,Elblag,warminsko-mazurskie,Poland
+2601634,SQ9LX,Igor,C,Krakow,malopolskie,Poland
+2601635,SQ5R,Piotr,Ojdana,Warszawa,mazowieckie,Poland
+2601636,SP9MUF,Piotr,Mis,Krakow,malopolskie,Poland
+2601637,SP7JS,Jacek,Stawnicki,Busko Zdroj,swietokrzyskie,Poland
+2601638,SP7VLM,Grzegorz,Koper,Warszawa,mazowieckie,Poland
+2601639,SP9IGO,Michal,Adamicki,Czestochowa,slaskie,Poland
+2601640,SP8XXX,Jerzy,Cieszynski,Handzlowka,podkarpackie,Poland
+2601641,SP6DEF,Adrian,Laskowski,Brzeg Dolny,dolnoslaskie,Poland
 2601999,SP5VEQ,Tomasz,Brejnak,Warszawa,mazowieckie,Poland
 2602001,SP2WGN,Maciej,,Gdansk,,Poland
 2602002,SP2FRN,Sebastian,Eferenovich,Gdynia,pomorskie,Poland
@@ -1608,6 +1619,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2602013,SP2FOP,Piotr,Nowak,Gdynia,pomorskie,Poland
 2602014,SQ2PVG,Pawel,,Chelmica-Cukrownia,,Poland
 2602015,SP1GDK,Radek,,Szczecin,zachodniopomorskie,Poland
+2602016,SQ2KLT,Kamil,Michalak,Juncewo,kujawsko-pomorskie,Poland
 2602017,SQ2ICT,Tomasz,,Bydgoszcz,,Poland
 2602018,SP2SWA,Arek,,Wloclawek,,Poland
 2602019,SP2JAR,Tomasz,,Bydgoszcz,,Poland
