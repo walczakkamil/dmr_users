@@ -228,7 +228,6 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2600233,SP9JW,Jaroslaw,,Rabka-Zdroj,malopolskie,Poland
 2600234,SP1DOZ,Slawomir,,Szczecin,,Poland
 2600235,SP6ZOLW,Zbigniew,Gorczycki,Wroclaw,dolnoslaskie,Poland
-2600236,HF2Y,Maciej,aka Mac,Gdynia,pomorskie,Poland
 2600237,SP6F,Pawel,,Wroclaw,dolnoslaskie,Poland
 2600238,SP6JGD,Slawomir,,Dabrowica,,Poland
 2600239,SQ9FMP,Artur,,Zawiercie,,Poland
@@ -242,7 +241,6 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2600247,SP5MIT,Jan,,Lomianki,,Poland
 2600248,SQ6UV,Tomasz,,Bardo,,Poland
 2600249,SP8UEL,Mariusz,,Zagorz,,Poland
-2600250,HF2Y,Maciej,aka Mac,Gdynia,pomorskie,Poland
 2600251,SP8JT,Leszek,,Polskowola,,Poland
 2600252,SP7CGH,Piotr,,Piotrkow Trybunalski,,Poland
 2600253,SQ9KOT,Mateusz,,Krakow,,Poland
@@ -1767,6 +1765,8 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2602168,SP2RAW,Remigiusz,,Bydgoszcz,,Poland
 2602169,SQ2RSE,Roberto,,Mezowo,,Poland
 2602170,SP2RZ,Robert,,Gdansk,,Poland
+2602222,HF2Y,Maciej,aka Mac,Gdynia,pomorskie,Poland
+2602552,HF2Y,Maciej,aka Mac,Gdynia,pomorskie,Poland
 2603001,SQ3CLK,Michal,,Poznan,,Poland
 2603002,SQ3GJH,Chrystian,Jasiczak,Srem,wielkopolskie,Poland
 2603003,SP3WBY,Artur,,Poznan,,Poland
