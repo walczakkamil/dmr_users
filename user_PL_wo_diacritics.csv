@@ -1601,6 +1601,10 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2601639,SP9IGO,Michal,Adamicki,Czestochowa,slaskie,Poland
 2601640,SP8XXX,Jerzy,Cieszynski,Handzlowka,podkarpackie,Poland
 2601641,SP6DEF,Adrian,Laskowski,Brzeg Dolny,dolnoslaskie,Poland
+2601642,SP5OLB,Andrzej,sp5olb,Otwcok,mazowieckie,Poland
+2601643,SQ9SQ,Andrzej,Slezak,Wieliczka,malopolskie,Poland
+2601644,SQ5I,Izabella,Szumska,Warszawa,mazowieckie,Poland
+2601645,SQ5J,Piotr,Skarpetowski,Blizne Laszczynskiego,mazowieckie,Poland
 2601999,SP5VEQ,Tomasz,Brejnak,Warszawa,mazowieckie,Poland
 2602001,SP2WGN,Maciej,,Gdansk,,Poland
 2602002,SP2FRN,Sebastian,Eferenovich,Gdynia,pomorskie,Poland
@@ -2283,7 +2287,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2605168,SP5QWA,Piotr,Michalczyk,Legionowo,mazowieckie,Poland
 2605169,SP5XEZ,Piotr,,Warszawa,,Poland
 2605170,SQ5DVU,Sebastian,,Nadarzyn,,Poland
-2605171,SQ5JUP,Piotr,,Blizne Laszczynskiego,mazowieckie,Poland
+2605171,SQ5JUP,Piotr,Skarpetowski,Blizne Laszczynskiego,mazowieckie,Poland
 2605172,SQ5LNL,Marcin,,Zielonka,,Poland
 2605173,SP5MP,Michal,,Plock,mazowieckie,Poland
 2605174,SQ5WR,Witold,Rojek,Grodzisk Mazowiecki,mazowieckie,Poland
@@ -2481,7 +2485,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2605370,SP5EKE,Bartlomiej,,Warszawa,,Poland
 2605371,SP5ISF,Jozef,,Zielonka,,Poland
 2605372,SP5UHX,Barbara,,Warszawa,,Poland
-2605373,SP5ELA,Zygmunt,,Warszawa,,Poland
+2605373,SP5ELA,Zygmunt,Szumski,Warszawa,mazowieckie,Poland
 2605374,SQ5STS,Pawel,,Dziechciniec,,Poland
 2605375,SP5WE,Filip,,Warszawa,,Poland
 2605376,SP5JI,Czeslaw,Grembowski,Ozarow Mazowiecki,mazowieckie,Poland
