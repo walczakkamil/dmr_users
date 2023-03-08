@@ -1612,6 +1612,10 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2601650,HF5TON,Marcin,Przybylski,Warszawa,mazowieckie,Poland
 2601651,SQ8SIM,Szymon,Wasag,Biszcza,lubelskie,Poland
 2601652,SQ4S,Kamil,Sielachowski,Bialystok,podlaskie,Poland
+2601653,SP5CUD,Tomasz,Cudny,Chotomow,mazowieckie,Poland
+2601654,SP9TIM,Tomasz,Kozlowski,Krakow,malopolskie,Poland
+2601655,SQ5GGG,Tomasz,Krysa,Warszawa,mazowieckie,Poland
+2601656,SQ6PLE,Ireneusz,Czapski,Grzybowo,zachodniopomorskie,Poland
 2601999,SP5VEQ,Tomasz,Brejnak,Warszawa,mazowieckie,Poland
 2602001,SP2WGN,Maciej,,Gdansk,,Poland
 2602002,SP2FRN,Sebastian,Eferenovich,Gdynia,pomorskie,Poland
@@ -2934,6 +2938,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2607135,SQ7IQT,Krzysztof,,Janow,,Poland
 2607136,SQ7HIK,Karol,None,Radom,,Poland
 2607137,SQ7SOP,Marcin,,Samborzec,,Poland
+2607138,SQ7PTE,Piotr,Kolacki,Koprzywnica,swietokrzyskie,Poland
 2607139,SP7UTO,Tomasz,Pokornowski,Sieradz,lodzkie,Poland
 2607140,SP7ML,Mateusz,,Borowa Gora,,Poland
 2607141,SP7SUM,Adam,Szarata,Lodz,lodzkie,Poland
