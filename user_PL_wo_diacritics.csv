@@ -1626,6 +1626,9 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2601664,SQ5APK,Piotr,Klimas,Warszawa,mazowieckie,Poland
 2601665,SQ9FCI,Zenon,Tomasiak,Piwniczna Zdroj,malopolskie,Poland
 2601667,SQ5PC,Jerzy,Narozniak,Podolszyn Nowy,mazowieckie,Poland
+2601668,SQ3EYR,Kazimierz,Kryger,Szamocin,wielkopolskie,Poland
+2601669,SQ9AW,Konrad,Sikorski,Tarnow,malopolskie,Poland
+2601670,SQ4Z,Mateusz,Beta,Susz,warminsko-mazurskie,Poland
 2601999,SP5VEQ,Tomasz,Brejnak,Warszawa,mazowieckie,Poland
 2602001,SP2WGN,Maciej,,Gdansk,,Poland
 2602002,SP2FRN,Sebastian,Eferenovich,Gdynia,pomorskie,Poland
@@ -2001,7 +2004,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2604005,SQ4AFJ,Krzysztof,Zukowski,Ketrzyn,warminsko-mazurskie,Poland
 2604006,SP4TWQ,Andrzej,,Szczytno,warminsko-mazurskie,Poland
 2604007,SQ4FAE,Krzysztof,Chris,Mragowo,warminsko-mazurskie,Poland
-2604008,SP4HXV,Andrzej,None,Konarzyce,warminsko-mazurskie,Poland
+2604008,SP4HXV,Andrzej,Sarnacki,Konarzyce,podlaskie,Poland
 2604009,SQ4FAF,Marek,,Mragowo,warminsko-mazurskie,Poland
 2604010,SP4WK,Wojciech,,Swietajno,warminsko-mazurskie,Poland
 2604011,SQ4INP,Piotr,,Olsztyn,warminsko-mazurskie,Poland
