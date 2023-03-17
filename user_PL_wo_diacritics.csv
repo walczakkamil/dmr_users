@@ -1625,6 +1625,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2601663,SP67K,Jaroslaw,Konowalski,Opole,opolskie,Poland
 2601664,SQ5APK,Piotr,Klimas,Warszawa,mazowieckie,Poland
 2601665,SQ9FCI,Zenon,Tomasiak,Piwniczna Zdroj,malopolskie,Poland
+2601666,SP7DNG,Janusz,Stasiak,Zgierz,lodzkie,Poland
 2601667,SQ5PC,Jerzy,Narozniak,Podolszyn Nowy,mazowieckie,Poland
 2601668,SQ3EYR,Kazimierz,Kryger,Szamocin,wielkopolskie,Poland
 2601669,SQ9AW,Konrad,Sikorski,Tarnow,malopolskie,Poland
@@ -1637,6 +1638,8 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2601676,SP7XJX,Leszek,Slojewki,Lodz,lodzkie,Poland
 2601677,SP1ASH,Aleksander,,,podlaskie,Poland
 2601678,SP3AC,Krzysztof,Silcer,Nowa Sol,lubuskie,Poland
+2601679,SP8PN,Mariusz,Pazdzior,Piaski,lubelskie,Poland
+2601680,SP9DS,Dominik,Szymanski,Krakow,malopolskie,Poland
 2601999,SP5VEQ,Tomasz,Brejnak,Warszawa,mazowieckie,Poland
 2602001,SP2WGN,Maciej,,Gdansk,,Poland
 2602002,SP2FRN,Sebastian,Eferenovich,Gdynia,pomorskie,Poland
