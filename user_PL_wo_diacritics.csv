@@ -1327,12 +1327,12 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2601364,SQ8BWH,Pawel,Holys,Wolka Labunska,lubelskie,Poland
 2601365,SP9THC,Lukasz,Biernat,Wola Kiedrzynska   CZESTOCHOWA  ,slaskie,Poland
 2601366,SQ7GB,Bartosz,Grzyb,Busko Zdroj,swietokrzyskie,Poland
-2601367,SP66B,Marcin,Wach,Opole,opolskie,Poland
+2601367,SP66B,Marcin, , ,opolskie,Poland
 2601368,SP2ELO,Marcin,Ulanowicz,Gdansk,pomorskie,Poland
 2601369,SQ5AK,Adam,Kotarbinski,Stefanowo,mazowieckie,Poland
 2601370,SP6WLA,Wladyslaw,Kedzierski,Polkowice,dolnoslaskie,Poland
 2601371,SP5ALD,Maciej,Woch,Siedlce,mazowieckie,Poland
-2601372,SP9CXD,Adam,Gornicki,Raciborz,slaskie,Poland
+2601372,SP9CXD,Adam, ,Raciborz,slaskie,Poland
 2601373,SP5JDJ,Jakub,Drabik,Szydlowiec,mazowieckie,Poland
 2601374,SP7WST,Mateusz,Widerkiewicz,Lodz,lodzkie,Poland
 2601375,SP9CCW,Szymon,Fortuna,Krakow,malopolskie,Poland
@@ -1616,7 +1616,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2601654,SP9TIM,Tomasz,Kozlowski,Krakow,malopolskie,Poland
 2601655,SQ5GGG,Tomasz,Krysa,Warszawa,mazowieckie,Poland
 2601656,SQ6PLE,Ireneusz,Czapski,Grzybowo,zachodniopomorskie,Poland
-2601657,SP6HB,Marcin,Wach,Opole,opolskie,Poland
+2601657,SP6HB,Marcin, , ,opolskie,Poland
 2601658,SP5WSL,Janusz ,Ka,Warszawa,mazowieckie,Poland
 2601659,SN5AK,Andrzej,Kalicki,Kobylka,mazowieckie,Poland
 2601660,SP7DAM,Arkadiusz,Matczak,Lodz,lodzkie,Poland
@@ -1641,9 +1641,10 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2601679,SP8PN,Mariusz,Pazdzior,Piaski,lubelskie,Poland
 2601680,SP9DS,Dominik,Szymanski,Krakow,malopolskie,Poland
 2601681,SQ9LUK,Lukasz,Swidzinski,Krakow,malopolskie,Poland
-2601682,SP8LLM,Jakub,Marciniec,Grodzisko Dolne,podkarpackie,Poland
+2601682,SP8LLM,Jakub,,Grodzisko Dolne,podkarpackie,Poland
 2601683,SP9LI,Krzysztof,Lipczynski,Krakow Malopolska ,malopolskie,Poland
 2601684,SP6DJA,Pawel,Slowik,Mecinka,dolnoslaskie,Poland
+2601685,SQ9KPG,Grzegorz,Padowski,Bytom,slaskie,Poland
 2601999,SP5VEQ,Tomasz,Brejnak,Warszawa,mazowieckie,Poland
 2602001,SP2WGN,Maciej,,Gdansk,,Poland
 2602002,SP2FRN,Sebastian,Eferenovich,Gdynia,pomorskie,Poland
