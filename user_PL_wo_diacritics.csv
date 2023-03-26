@@ -1453,7 +1453,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2601491,SP1CLM,Kamil,NOWACKI,Szczecinek,zachodniopomorskie,Poland
 2601492,SP7AR,Arkadiusz,Rybak,Sieradz,lodzkie,Poland
 2601493,SP7PA,Pawel, ,Sarnowek Maly,swietokrzyskie,Poland
-2601494,SP5WX,Adam,Trabka,Warszawa,mazowieckie,Poland
+2601494,SP5WX,Adam,T,Warszawa,mazowieckie,Poland
 2601495,SQ1DEX,Kamil,Gruczek,Swinoujscie,zachodniopomorskie,Poland
 2601496,SQ8EP,Zdzislaw,Zdik,Swidnik,lubelskie,Poland
 2601497,SP3SOT,Marek,Sotek,Pila,wielkopolskie,Poland
@@ -1651,6 +1651,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2601689,SP9WZC,Szymon,Palgan,Kasina Wielka,malopolskie,Poland
 2601690,SQ5JS,Jakub,Skorka,Zabki,mazowieckie,Poland
 2601691,SQ5TGZ,Tomasz,ZYCH,Marki,mazowieckie,Poland
+2601692,SP4ADZ,Damian,Grzyb,Jazwiny ,podkarpackie,Poland
 2601999,SP5VEQ,Tomasz,Brejnak,Warszawa,mazowieckie,Poland
 2602001,SP2WGN,Maciej,,Gdansk,,Poland
 2602002,SP2FRN,Sebastian,Eferenovich,Gdynia,pomorskie,Poland
