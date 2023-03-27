@@ -1469,7 +1469,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2601507,SQ6NLZ,Grzegorz,Bundziow,Cerekwica,dolnoslaskie,Poland
 2601508,SP9WZU,Rafal,Blachlinski,Bytom,slaskie,Poland
 2601509,SP4LD,Leszek,Dzienis,WASILKOW,podlaskie,Poland
-2601510,SP8ZAL,Bernd,Ultralight,Grodkow,opolskie,Poland
+2601510,SP8ZAL,Bernd,Joris,Grodkow,opolskie,Poland
 2601511,SP2LCN,Tomasz,Hrycuniak,Bydgoszcz,kujawsko-pomorskie,Poland
 2601512,SQ9NOF,Boguslaw,Adamowicz,Bukowno,slaskie,Poland
 2601513,SP8TN,Grzegorz,Drzymala,Tuszow Narodowy,podkarpackie,Poland
@@ -1653,6 +1653,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2601691,SQ5TGZ,Tomasz,ZYCH,Marki,mazowieckie,Poland
 2601692,SP4ADZ,Damian,Grzyb,Jazwiny ,podkarpackie,Poland
 2601693,SP7ET,Artur,Giemza,Ostrowiec Swietokrzyski,swietokrzyskie,Poland
+2601694,SP2LOL,Dawid,Dziamski,Biesowice,pomorskie,Poland
 2601999,SP5VEQ,Tomasz,Brejnak,Warszawa,mazowieckie,Poland
 2602001,SP2WGN,Maciej,,Gdansk,,Poland
 2602002,SP2FRN,Sebastian,Eferenovich,Gdynia,pomorskie,Poland
