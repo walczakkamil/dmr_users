@@ -1654,6 +1654,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2601692,SP4ADZ,Damian,Grzyb,Jazwiny ,podkarpackie,Poland
 2601693,SP7ET,Artur,Giemza,Ostrowiec Swietokrzyski,swietokrzyskie,Poland
 2601694,SP2LOL,Dawid,Dziamski,Biesowice,pomorskie,Poland
+2601695,SQ7DSP,Artur,Maciag,Gidle,lodzkie,Poland
 2601999,SP5VEQ,Tomasz,Brejnak,Warszawa,mazowieckie,Poland
 2602001,SP2WGN,Maciej,,Gdansk,,Poland
 2602002,SP2FRN,Sebastian,Eferenovich,Gdynia,pomorskie,Poland
@@ -3447,7 +3448,6 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2609223,SP9BSK,Michal,,Makow Podhalaski,,Poland
 2609224,SQ9PRL,Szczepan,Strzelecki,Rybnik,slaskie,Poland
 2609226,SQ9IWI,Jacek,Domagala,Gliwice,slaskie,Poland
-2609227,SP9P,Wojciech,None,Gliwice,,Poland
 2609228,SQ9MPK,Krzysztof,Kijak,Ostrowy nad Oksza,slaskie,Poland
 2609229,SP9WTC,Robert,Smoter,Krynica Zdroj,malopolskie,Poland
 2609230,SQ9RIM,Marcin,,Zebrzydowice,,Poland
