@@ -587,7 +587,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2600601,SQ2AGA,Agnieszka,,Bydgoszcz,kujawsko-pomorskie,Poland
 2600602,SQ6JNH,Janusz,Pasnik,Wroclaw,dolnoslaskie,Poland
 2600603,SP9OKO,Kacper,Sokolowski,Krakow,malopolskie,Poland
-2600604,SP1ARE,Arkadiusz,Orlowski,Wiartel,warminsko-mazurskie,Poland
+2600604,SP1ARE,Arkadiusz,Orlowski,Szczecinek,zachodniopomorskie,Poland
 2600605,SQ8OY,Mariusz,,Cracov,malopolskie,Poland
 2600606,SP7WM,Wojciech,Marczynski,Leczyca,lodzkie,Poland
 2600607,SP1WR,Marek,Wiaderek,Ryman,zachodniopomorskie,Poland
@@ -1661,6 +1661,9 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2601699,SQ5IXI,Marek,Radziszewski,Warszawa,mazowieckie,Poland
 2601701,SP3BMJ,Jacek,Kotelec,Zielona Gora,lubuskie,Poland
 2601702,SP9MCN,Marcin,Piaseczny,Krakow,malopolskie,Poland
+2601703,SP6QNH,Ryszard,Cywinski,Wroclaw,dolnoslaskie,Poland
+2601704,SP5WS,Pawel,Bareja,Siedlce,mazowieckie,Poland
+2601705,SQ6MIE,Lukasz,Brzostek,Ziebice,dolnoslaskie,Poland
 2601999,SP5VEQ,Tomasz,Brejnak,Warszawa,mazowieckie,Poland
 2602001,SP2WGN,Maciej,,Gdansk,,Poland
 2602002,SP2FRN,Sebastian,Eferenovich,Gdynia,pomorskie,Poland
@@ -2837,7 +2840,6 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2606167,SP6TOR,Sebastian,Czupkiewicz,Nysa,opolskie,Poland
 2606168,SQ6JNQ,Waldemar,,Wroclaw,,Poland
 2606169,SQ6OWM,Michal,,Chwaliszow,dolnoslaskie,Poland
-2606170,SQ6ELU,Krzysztof,None,Gryfow Slaski,,Poland
 2606171,SP6ZZ,Milosz,,Wlochy,,Poland
 2606172,SP6CAL,Jerzy,,Glogow,,Poland
 2606173,SP6DLO,Slawomir,,Wroclaw,,Poland
