@@ -973,7 +973,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2600996,SP8IRQ,Rafal,Rychlicki ,Dzierzkowice,lubelskie,Poland
 2600997,SP7CC,Arek,,Lodz,lodzkie,Poland
 2600998,SQ2RAD,Adrian,Wozniak,Gdynia,pomorskie,Poland
-2600999,SP7TECH,Klub,,Lodz,lodzkie,Poland
+2600999,SP7TECH,Klub,Techniczny,Lodz,lodzkie,Poland
 2601000,SP0RP,Klub,Fundacja,Czestochowa,slaskie,Poland
 2601001,SP1XNE,Maciek,,Szczecin,zachodniopomorskie,Poland
 2601002,SQ1TAO,Krzysztof,,Szczecin,zachodniopomorskie,Poland
@@ -1659,6 +1659,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2601697,SQ9SFC,Michal,Waclawek,Jaworzno,slaskie,Poland
 2601698,SP9AWA,Lukasz,Henski,Rybnik,slaskie,Poland
 2601699,SQ5IXI,Marek,Radziszewski,Warszawa,mazowieckie,Poland
+2601700,SP7FJX,Zbigniew,Hajnrych,Sieradz,lodzkie,Poland
 2601701,SP3BMJ,Jacek,Kotelec,Zielona Gora,lubuskie,Poland
 2601702,SP9MCN,Marcin,Piaseczny,Krakow,malopolskie,Poland
 2601703,SP6QNH,Ryszard,Cywinski,Wroclaw,dolnoslaskie,Poland
@@ -1829,8 +1830,8 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2602168,SP2RAW,Remigiusz,,Bydgoszcz,,Poland
 2602169,SQ2RSE,Roberto,,Mezowo,,Poland
 2602170,SP2RZ,Robert,,Gdansk,,Poland
-2602222,HF2Y,Maciej,aka Mac,Gdynia,pomorskie,Poland
-2602552,HF2Y,Maciej,aka Mac,Gdynia,pomorskie,Poland
+2602222,HF2Y,Maciej,,Gdynia,pomorskie,Poland
+2602552,HF2Y,Maciej,,Gdynia,pomorskie,Poland
 2603001,SQ3CLK,Michal,,Poznan,,Poland
 2603002,SQ3GJH,Chrystian,Jasiczak,Srem,wielkopolskie,Poland
 2603003,SP3WBY,Artur,,Poznan,,Poland
@@ -3042,7 +3043,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2607197,SP7XIE,Marcin,,Lodz,,Poland
 2607198,SP7TH,Tomasz,,Lipnik,,Poland
 2607199,SQ7NPA,Mateusz,,Kodrab,,Poland
-2607200,SP7TECH,Klub,,Lodz,lodzkie,Poland
+2607200,SP7TECH,Klub,Techniczny,Lodz,lodzkie,Poland
 2607201,SP7PLO,Klub,Krotkofalarski,Lodz,lodzkie,Poland
 2607202,SP7TUL,Klub,,Lodz,lodzkie,Poland
 2607203,SQ7JHU,Adam,,Glowno,,Poland
@@ -3064,7 +3065,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2607219,SP7TBU,Krzysztof,M,Busko Zdroj,swietokrzyskie,Poland
 2607220,SP7MDX,Maciej,,Lodz,,Poland
 2607221,SP7KW,Kamil,,Zgierz,,Poland
-2607222,SP7TECH,Klub,,Lodz,lodzkie,Poland
+2607222,SP7TECH,Klub,Techniczny,Lodz,lodzkie,Poland
 2607223,SP7WZ,Waldemar,,Burzenin,,Poland
 2607224,SP7EPJ,Jakub,-,Pajeczno,lodzkie,Poland
 2607225,SP7SDD,Sebastian,,Radomsko,,Poland
@@ -3079,6 +3080,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2607234,SP7DBW,Slawomir,,Lodz,lodzkie,Poland
 2607235,SP7ZHR,ZHP Lodz,,Lodz,,Poland
 2607236,SP5PG,Pawel,,Kutno,,Poland
+2608001,SP8WJS,Andrzej,,Rzeszow,podkarpackie,Poland
 2608002,SP8PG,Grzegorz,,Zamosc,,Poland
 2608003,SQ8LUN,Lukasz,None,Lublin,,Poland
 2608004,SQ8KMY,Robert,,Lublin,,Poland
@@ -3089,6 +3091,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2608009,SQ8OHR,Krzysztof,,Lublin,lubuskie,Poland
 2608010,SP8XXT,Jerzy,,Biala Podlaska,,Poland
 2608011,SP8KB,Kamil,,Czosnowka,lubelskie,Poland
+2608012,SP8WJS,Andrzej,,Rzeszow,podkarpackie,Poland
 2608013,SQ8AGI,Janusz,Janusz,Janowice,lubelskie,Poland
 2608014,SQ8DRQ,Daniel,,Pulawy,,Poland
 2608015,SQ8NYM,Piotr,,Rzeszow,,Poland
