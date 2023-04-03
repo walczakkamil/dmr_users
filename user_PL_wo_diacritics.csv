@@ -1453,7 +1453,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2601491,SP1CLM,Kamil,NOWACKI,Szczecinek,zachodniopomorskie,Poland
 2601492,SP7AR,Arkadiusz,Rybak,Sieradz,lodzkie,Poland
 2601493,SP7PA,Pawel, ,Sarnowek Maly,swietokrzyskie,Poland
-2601494,SP5WX,Adam,T,Warszawa,mazowieckie,Poland
+2601494,SP5WX,Adam,,Warszawa,mazowieckie,Poland
 2601495,SQ1DEX,Kamil,Gruczek,Swinoujscie,zachodniopomorskie,Poland
 2601496,SQ8EP,Zdzislaw,Zdik,Swidnik,lubelskie,Poland
 2601497,SP3SOT,Marek,Sotek,Pila,wielkopolskie,Poland
