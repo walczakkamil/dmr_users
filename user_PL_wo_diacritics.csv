@@ -1666,6 +1666,10 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2601704,SP5WS,Pawel,Bareja,Siedlce,mazowieckie,Poland
 2601705,SQ6MIE,Lukasz,Brzostek,Ziebice,dolnoslaskie,Poland
 2601706,SP1RPK,Rafal,Kreja,Stargard,zachodniopomorskie,Poland
+2601708,SP2WAL,Waldek,Mis,Gdansk,pomorskie,Poland
+2601709,SP3OCC,Tadeusz,Trebacz,Golina,wielkopolskie,Poland
+2601710,SP2AAD,Artur,Dytkiewicz,Gzin,pomorskie,Poland
+2601711,SP6TKP,Karol,Paduch,Jelenia Gora,dolnoslaskie,Poland
 2601999,SP5VEQ,Tomasz,Brejnak,Warszawa,mazowieckie,Poland
 2602001,SP2WGN,Maciej,,Gdansk,,Poland
 2602002,SP2FRN,Sebastian,Eferenovich,Gdynia,pomorskie,Poland
@@ -2609,6 +2613,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2605436,SQ5BLN,Marcin,,Pultusk,,Poland
 2605437,SP5TBX,Tomasz,,Warszawa,,Poland
 2605438,HF5DX,Piotr,,Budy Grzybek,,Poland
+2605439,SP5XAQ,Pawel,Jaworowski,Drezewo,mazowieckie,Poland
 2605440,SQ5SAA,Jan,,Warszawa,,Poland
 2605441,SQ5MJA,Artur,,Radom,,Poland
 2605442,SQ5CJZ,Robert,,Pruszkow,,Poland
