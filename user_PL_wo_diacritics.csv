@@ -839,7 +839,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2600862,SP5TSA,Marcin,Stanczyk,Warszawa,mazowieckie,Poland
 2600863,SQ5FSO,Pawel,Granat,Warszawa ,mazowieckie,Poland
 2600864,SP3DAN,Daniel,Eksner,Brzezno,wielkopolskie,Poland
-2600865,SP7MAK,Marcin,Kowalik,Lodz,lodzkie,Poland
+2600865,SP7MAK,Marcin,K,Lodz,lodzkie,Poland
 2600866,SQ2JYJ,Grzegorz,Kosmider,Inowroclaw,kujawsko-pomorskie,Poland
 2600867,SP6TO,Lukasz,Abucki,Jelcz Laskowice ,dolnoslaskie,Poland
 2600868,SP3SC,Pawel,L,WLKP,wielkopolskie,Poland
@@ -1670,6 +1670,8 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2601709,SP3OCC,Tadeusz,Trebacz,Golina,wielkopolskie,Poland
 2601710,SP2AAD,Artur,Dytkiewicz,Gzin,pomorskie,Poland
 2601711,SP6TKP,Karol,Paduch,Jelenia Gora,dolnoslaskie,Poland
+2601712,SP9EX,Filip,L,Kozy,slaskie,Poland
+2601713,SQ3TSM,Tomasz,Strawczynski,Miloslaw,wielkopolskie,Poland
 2601999,SP5VEQ,Tomasz,Brejnak,Warszawa,mazowieckie,Poland
 2602001,SP2WGN,Maciej,,Gdansk,,Poland
 2602002,SP2FRN,Sebastian,Eferenovich,Gdynia,pomorskie,Poland
