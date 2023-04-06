@@ -1265,7 +1265,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2601300,SQ3SHC,Stanislaw,,Plewiska,wielkopolskie,Poland
 2601301,SQ2PAX,Damian,Ziemba,Stanislawka,kujawsko-pomorskie,Poland
 2601302,SP5LOG,Michal,Biernacki,Kazun Bielany,mazowieckie,Poland
-2601303,SQ3TGRS,Karol,Cichonski,Boduszewo,wielkopolskie,Poland
+2601303,HF3T,Karol,Cichonski,Boduszewo,wielkopolskie,Poland
 2601304,SP9MAC,Maciej,Mierzwa,Gorlice,malopolskie,Poland
 2601305,SP1JMF,Michal,Preyzner,Stargard,zachodniopomorskie,Poland
 2601306,SQ6CYS,Marcin,,Krapkowice,opolskie,Poland
@@ -1586,7 +1586,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2601624,SQ2GCO,Zbigniew,Mozdzonek,Malbork,pomorskie,Poland
 2601625,SP3QYC,Tomasz,Pawlicki,Srem,wielkopolskie,Poland
 2601626,SP5IPO,Jacek,Poswiata,Zabki,mazowieckie,Poland
-2601627,SP8KBI,Kazimierz,Bialy,Lublin,lubelskie,Poland
+2601627,SP8KBI,Kazimierz, ,Lublin,lubelskie,Poland
 2601628,SP6FU,Marcin,Kowalicki,Srebrna Gora,dolnoslaskie,Poland
 2601629,SP1BAT,Jakub,Gendig,Polanow,zachodniopomorskie,Poland
 2601630,SQ5GVY,Andrzej,Modrzewski,Pultusk,mazowieckie,Poland
