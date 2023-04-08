@@ -1673,6 +1673,8 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2601712,SP9EX,Filip,L,Kozy,slaskie,Poland
 2601713,SQ3TSM,Tomasz,Strawczynski,Miloslaw,wielkopolskie,Poland
 2601714,SQ3TGO,Zbigniew,Budka,Russocice,wielkopolskie,Poland
+2601715,SQ9NFY,Maksymilian,Dutka,Szczawa,malopolskie,Poland
+2601716,SQ5KGN,Michal,FALL,POLAND,mazowieckie,Poland
 2601999,SP5VEQ,Tomasz,Brejnak,Warszawa,mazowieckie,Poland
 2602001,SP2WGN,Maciej,,Gdansk,,Poland
 2602002,SP2FRN,Sebastian,Eferenovich,Gdynia,pomorskie,Poland
@@ -2274,7 +2276,6 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2605084,SQ5SDI,Tomasz,,Nowy Dwr Mazowiecki,,Poland
 2605085,SQ5SP,Szymon,None,Warszawa,mazowieckie,Poland
 2605086,SQ5H,Henryk,,Augustowek,,Poland
-2605087,SQ5MBM,Jacek,None,Warszawa,,Poland
 2605088,SQ8KJF,Krzysztof,,Lublin,,Poland
 2605089,SP5WLZ,Lukasz,Niedzielski,Warszawa,mazowieckie,Poland
 2605091,SQ5OMU,Konrad,,Warszawa,,Poland
@@ -2702,6 +2703,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2606014,SP6VXU,Jacek,,Wroclaw,dolnoslaskie,Poland
 2606015,SQ6KOA,Tomasz,,Goszcz,,Poland
 2606016,SQ6WF,Mariusz,Perlik,Mrozow,dolnoslaskie,Poland
+2606017,SQ3SKY,Pawel,,Glogow,dolnoslaskie,Poland
 2606018,SQ6CNL,Karol,,Opolskie,,Poland
 2606019,SQ6OXK,Pawel,,Wrocaw,,Poland
 2606020,SQ6LJR,Sebastian,,Wroclaw,,Poland
@@ -2929,7 +2931,6 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2607072,SP7HJR,Marcin,,Skaratki,,Poland
 2607073,SP7FXL,Lukasz,,Zgorsko,swietokrzyskie,Poland
 2607074,SQ7IKZ,Marcin,,Kielce,swietokrzyskie,Poland
-2607075,SQ7RL,Ryszard,None,Checiny,,Poland
 2607076,SQ7NSN,Michal,,Checiny,,Poland
 2607077,SP7X,Jaroslaw,Zielinski,Kutno,lodzkie,Poland
 2607078,SQ7KVB,Rafal,Wiezel,Kielce,swietokrzyskie,Poland
