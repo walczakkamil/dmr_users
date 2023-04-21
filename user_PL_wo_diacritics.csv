@@ -243,7 +243,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2600249,SP8UEL,Mariusz,,Zagorz,,Poland
 2600251,SP8JT,Leszek,,Polskowola,,Poland
 2600252,SP7CGH,Piotr,,Piotrkow Trybunalski,,Poland
-2600253,SQ9KOT,Mateusz,,Krakow,,Poland
+2600253,SQ9KOT,Mateusz,None,Krakow,malopolskie,Poland
 2600254,SQ8IJR,Jacek,,Rzeszow,,Poland
 2600256,SQ7FGI,Pawel,,Kielce,,Poland
 2600257,SP9KS,Krystian,,Bielsko-Biala,,Poland
@@ -3400,7 +3400,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2609135,SP9HP,Patryk,,Tychy,,Poland
 2609136,SQ9BEJ,Stanislaw,Glita,Bielsko Biala,podkarpackie,Poland
 2609137,SQ9SWN,Szymon,,Czestochowa,,Poland
-2609138,SQ9DXF,Adam,,Katowice,,Poland
+2609138,SQ9DXF,Adam,None,Katowice,,Poland
 2609139,SQ9OJR,Lukasz,Kazek,Bratucice,slaskie,Poland
 2609140,SQ9MYC,Marcin,Czajkowski,Makow Podhalanski,podkarpackie,Poland
 2609141,SQ9IAW,Wieslaw,,Krakow,,Poland
