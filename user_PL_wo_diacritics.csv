@@ -1676,6 +1676,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2601715,SQ9NFY,Maksymilian,Dutka,Szczawa,malopolskie,Poland
 2601716,SQ5KGN,Michal,Fall,Zuromin,mazowieckie,Poland
 2601717,SQ8IQ,Piotr,Jadwizyc,Pulawy,lubelskie,Poland
+2601718,SP6ASC,Adam,Niessner,Wroclaw,dolnoslaskie,Poland
 2601719,SP9KSK,Klaudiusz,Slowikowski,Staniatki,malopolskie,Poland
 2601720,SP1ALW,Lukasz,K,Szczecin,zachodniopomorskie,Poland
 2601721,SP8PLC,Jakub,Szynkarczuk,Zamosc,lubelskie,Poland
@@ -1688,10 +1689,17 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2601728,SP1VIG,Ireneusz,Gladysz,Lipiany,zachodniopomorskie,Poland
 2601729,SP9PET,Julian,Szymanski,Krakow,malopolskie,Poland
 2601730,SP9PAN,Wieslaw,Kadlubiec,Bielsko-Biala,slaskie,Poland
-2601731,SP9TDC,Piotr ,Osowski,Tarnowskie Gory ,slaskie,Poland
+2601731,SP9TDC,Piotr ,Tarnowskie Gory ,Tarnowskie Gory ,slaskie,Poland
 2601732,SQ5PR,Przemyslaw,M,Warszawa,mazowieckie,Poland
 2601733,SP4SRT,Daniel,Tarasiuk,Lapy,podlaskie,Poland
 2601734,SP5GPS,Stanislaw,Szczepanik,Blonie,mazowieckie,Poland
+2601735,SP5DKJ,Dominik,Dominik,Wyszogrod,mazowieckie,Poland
+2601736,SP5GB,Grzegorz,B,Latchorzew,mazowieckie,Poland
+2601737,SP9HRF,Artur,Wiercioch,Tychy,slaskie,Poland
+2601738,SQ9NRG,Pawel,Jacyna,Gliwice,slaskie,Poland
+2601739,SP7FMB,Zenon,Skiba,Lodz,lodzkie,Poland
+2601740,SQ9SKG,Szymon,Karkowski,Gliwice,slaskie,Poland
+2601741,SQ9FME,Marcin,F,Zabrze,slaskie,Poland
 2601999,SP5VEQ,Tomasz,Brejnak,Warszawa,mazowieckie,Poland
 2602001,SP2WGN,Maciej,,Gdansk,,Poland
 2602002,SP2FRN,Sebastian,Eferenovich,Gdynia,pomorskie,Poland
