@@ -243,7 +243,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2600249,SP8UEL,Mariusz,,Zagorz,,Poland
 2600251,SP8JT,Leszek,,Polskowola,,Poland
 2600252,SP7CGH,Piotr,,Piotrkow Trybunalski,,Poland
-2600253,SQ9KOT,Mateusz,None,Krakow,malopolskie,Poland
+2600253,SQ9KOT,Mateusz,Bassa,Krakow,malopolskie,Poland
 2600254,SQ8IJR,Jacek,,Rzeszow,,Poland
 2600256,SQ7FGI,Pawel,,Kielce,,Poland
 2600257,SP9KS,Krystian,,Bielsko-Biala,,Poland
@@ -1701,6 +1701,8 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2601740,SQ9SKG,Szymon,Karkowski,Gliwice,slaskie,Poland
 2601741,SQ9FME,Marcin,F,Zabrze,slaskie,Poland
 2601742,SP7RAQ,Slawomir,Raczynski,Lodz,lodzkie,Poland
+2601743,SQ9DI,Witold,Pietrzak,Raciborz,slaskie,Poland
+2601744,SP9LEH,Leszek,Cichon,Krakow,malopolskie,Poland
 2601999,SP5VEQ,Tomasz,Brejnak,Warszawa,mazowieckie,Poland
 2602001,SP2WGN,Maciej,,Gdansk,,Poland
 2602002,SP2FRN,Sebastian,Eferenovich,Gdynia,pomorskie,Poland
@@ -2946,7 +2948,6 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2607061,SP7KT,Esa,Holopainen,Komorniki,lodzkie,Poland
 2607062,SQ7SL,Lukasz,Schabowski,Busko Zdroj,swietokrzyskie,Poland
 2607063,SQ7JZW,Grzegorz,,Wrzaca,,Poland
-2607064,SP7FOY,Slawek,Sidor,Skierniewice,lodzkie,Poland
 2607065,SQ7NNJ,Grzegorz,,Brzeziny,,Poland
 2607066,SQ7JZW,Grzegorz,,Wrzaca,,Poland
 2607067,SP7FXL,Lukasz,,Zgorsko,swietokrzyskie,Poland
@@ -3506,7 +3507,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2609240,SQ9IWI,Jacek,Domagala,Gliwice,slaskie,Poland
 2609241,SP9RNS,Klub,,Nowy Sacz,,Poland
 2609242,SQ9JYE,Slawomir,,Piwniczna Zdrj,,Poland
-2609244,SQ9MEZ,Zbigniew,zibbi,Kamienica,malopolskie,Poland
+2609244,SQ9MEZ,Zbigniew,,Kamienica,malopolskie,Poland
 2609245,SP9TAR,Jerzy,,Krakow,,Poland
 2609246,SP9EDI,Pawel,,Krakow,malopolskie,Poland
 2609247,SQ9MDD,Ryszard,,Istebna,,Poland
@@ -3642,7 +3643,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2609383,SP9AP,Artur,None,Krakow,malopolskie,Poland
 2609384,SQ9HHV,Maciej,,Raciborz,,Poland
 2609385,SQ9AOF,Adam,,Krzeszowice,,Poland
-2609386,SQ9MEZ,Zbigniew,zibbi,Kamienica,malopolskie,Poland
+2609386,SQ9MEZ,Zbigniew,,Kamienica,malopolskie,Poland
 2609387,SP9DPM,Dariusz,,Nowy Sacz,,Poland
 2609388,SQ9KMZ,Marcin,Krawczyk,Zurada,malopolskie,Poland
 2609389,SP9CKS,Andrzej,,Cieszyn,,Poland
