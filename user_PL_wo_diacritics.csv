@@ -364,7 +364,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2600377,SQ2RCB,Andrzej,,Torun,,Poland
 2600378,SP4DW,Dawid,,Olecko,,Poland
 2600379,SQ9LCX,Miroslaw,,Krakow,,Poland
-2600380,SP7ZHP,ZHP Lodz,,Lodz,,Poland
+2600380,SP7ZHP,ZHP Lodz,,Lodz,lodzkie,Poland
 2600381,SP6OOL,Robert,,Borki Wielkie,,Poland
 2600382,SP8WW,Wojciech,,Paszowa,,Poland
 2600383,SQ7OFB,Andrzej,,Pruszkow,,Poland
@@ -1703,6 +1703,9 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2601742,SP7RAQ,Slawomir,Raczynski,Lodz,lodzkie,Poland
 2601743,SQ9DI,Witold,Pietrzak,Raciborz,slaskie,Poland
 2601744,SP9LEH,Leszek,Cichon,Krakow,malopolskie,Poland
+2601745,SP8PRZ,Klub,PZK 18 Oddzial Terenowy W Rzeszowie,Rzeszow,podkarpackie,Poland
+2601746,SO3AJS,Tomasz,Szurgot,Powiercie,wielkopolskie,Poland
+2601747,SP9AQG,Erkin,Mercan,Krakow,malopolskie,Poland
 2601999,SP5VEQ,Tomasz,Brejnak,Warszawa,mazowieckie,Poland
 2602001,SP2WGN,Maciej,,Gdansk,,Poland
 2602002,SP2FRN,Sebastian,Eferenovich,Gdynia,pomorskie,Poland
