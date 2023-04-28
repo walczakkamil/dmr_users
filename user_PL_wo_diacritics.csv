@@ -987,7 +987,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2601010,SQ1JGC,Agnieszka,,Stargard,,Poland
 2601011,SQ1EUY,Jerzy,,Szczecin,zachodniopomorskie,Poland
 2601013,SP1XNE,Maciek,,Szczecin,zachodniopomorskie,Poland
-2601014,SP1AZ,Albin,,Swinoujcie,zachodniopomorskie,Poland
+2601014,SP1AZ,Albin,Zmitrowicz,Swinoujcie,zachodniopomorskie,Poland
 2601015,SQ1PQQ,Mariusz,,Swinoujscie,zachodniopomorskie,Poland
 2601016,SQ1JWJ,Iwona,,Szczecin,zachodniopomorskie,Poland
 2601017,SP1ADR,Adrian,,Dziwnw,,Poland
@@ -1708,6 +1708,8 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2601747,SP9AQG,Erkin,Mercan,Krakow,malopolskie,Poland
 2601748,SQ5RAD,Radomir,Mazon,Michalow Grabina,mazowieckie,Poland
 2601749,SP5GLA,Lukasz,Gladysz,Warszawa,mazowieckie,Poland
+2601750,SP6BMD,Dariusz,Borodzicz,Czerwona Woda,dolnoslaskie,Poland
+2601751,SP3DAT,Szymon,WIECZOREK,CHOJNIKI,wielkopolskie,Poland
 2601999,SP5VEQ,Tomasz,Brejnak,Warszawa,mazowieckie,Poland
 2602001,SP2WGN,Maciej,,Gdansk,,Poland
 2602002,SP2FRN,Sebastian,Eferenovich,Gdynia,pomorskie,Poland
@@ -3416,7 +3418,6 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2609135,SP9HP,Patryk,,Tychy,,Poland
 2609136,SQ9BEJ,Stanislaw,Glita,Bielsko Biala,podkarpackie,Poland
 2609137,SQ9SWN,Szymon,,Czestochowa,,Poland
-2609138,SQ9DXF,Adam,None,Katowice,,Poland
 2609139,SQ9OJR,Lukasz,Kazek,Bratucice,slaskie,Poland
 2609140,SQ9MYC,Marcin,Czajkowski,Makow Podhalanski,podkarpackie,Poland
 2609141,SQ9IAW,Wieslaw,,Krakow,,Poland
