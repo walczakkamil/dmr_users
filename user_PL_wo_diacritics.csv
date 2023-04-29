@@ -543,7 +543,6 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2600556,SP9FTW,Walenty,Jacak,Szczawnica,malopolskie,Poland
 2600557,SQ9MLC,Leszek,Matacz,Bytom,slaskie,Poland
 2600558,SP6TPX,Roman,Wyrobek,Chorzow,slaskie,Poland
-2600559,SQ3SWJ,Andrzej,Cichosz,Myjomice,wielkopolskie,Poland
 2600560,SQ8SKD,Dawid,Skros,Chelm,lubelskie,Poland
 2600561,SP2WAN,Mateusz,Wantoch-Rekowski,Pruszcz Gdanski,pomorskie,Poland
 2600562,SP2REK,Pawel,Wantoch-Rekowski,Pruszcz Gdanski,pomorskie,Poland
@@ -754,7 +753,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2600775,SP5ARW,Piotr,Sitek,Warszawa,mazowieckie,Poland
 2600777,SP7CC,Arek,,Lodz,lodzkie,Poland
 2600778,SP4DIR,Michal,Jasionowicz,Olsztyn,warminsko-mazurskie,Poland
-2600779,SQ9C,Michal, ,Krakow,malopolskie,Poland
+2600779,SP9H,Michal, Lukasiak,Krakow,malopolskie,Poland
 2600780,SP9XDS,Daniel,Sokol,Jaworzno,slaskie,Poland
 2600781,SP2XD,Jerzy,,Torun,kujawsko-pomorskie,Poland
 2600782,SP8BAR,Maciej,Barszczak,Nienadowa,podkarpackie,Poland
