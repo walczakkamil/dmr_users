@@ -1637,7 +1637,6 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2601676,SP7XJX,Leszek,Slojewki,Lodz,lodzkie,Poland
 2601677,SP1ASH,Aleksander,,,podlaskie,Poland
 2601678,SP3AC,Krzysztof,Silcer,Nowa Sol,lubuskie,Poland
-2601679,SP8PN,Mariusz,Pazdzior,Piaski,lubelskie,Poland
 2601680,SP9DS,Dominik,Szymanski,Krakow,malopolskie,Poland
 2601681,SQ9LUK,Lukasz,Swidzinski,Krakow,malopolskie,Poland
 2601682,SP8LLM,Jakub,,Grodzisko Dolne,podkarpackie,Poland
@@ -1665,6 +1664,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2601704,SP5WS,Pawel,Bareja,Siedlce,mazowieckie,Poland
 2601705,SQ6MIE,Lukasz,Brzostek,Ziebice,dolnoslaskie,Poland
 2601706,SP1RPK,Rafal,Kreja,Stargard,zachodniopomorskie,Poland
+2601707,SP7BIKE,Maciej,Krzyzanowski,Lodz,lodzkie,Poland
 2601708,SP2WAL,Waldek,Mis,Gdansk,pomorskie,Poland
 2601709,SP3OCC,Tadeusz,Trebacz,Golina,wielkopolskie,Poland
 2601710,SP2AAD,Artur,Dytkiewicz,Gzin,pomorskie,Poland
