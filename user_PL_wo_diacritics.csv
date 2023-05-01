@@ -3363,6 +3363,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2609079,SQ9OKR,Jacek,Jasinski,Bukowona,malopolskie,Poland
 2609080,SP9DV,Bogdan,,Koniakow,slaskie,Poland
 2609081,SQ9MZA,Marcin,Zajac,Rajcza,slaskie,Poland
+2609082,SQ9ZAY,Michal,Matusik,Niepolomice,malopolskie,Poland
 2609083,SQ9KED,Piotr,Cudok,Rybnik,slaskie,Poland
 2609084,SP9WUO,Mariusz,,Krakow,malopolskie,Poland
 2609085,SP9HLP,Hieronim,,Czestochowa,slaskie,Poland
@@ -3386,6 +3387,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2609103,SQ9OKR,Jacek,Jasinski,Bukowona,malopolskie,Poland
 2609104,SP9SVH,Krzysztof,Podgorski,Krakow,malopolskie,Poland
 2609105,SP9WZO,Bronislaw,Kus,Cieszyn,slaskie,Poland
+2609106,SQ9ZAY,Michal,Matusik,Niepolomice,malopolskie,Poland
 2609107,SQ9PG,Pawel,None,Lubomierz,malopolskie,Poland
 2609108,SP9MAX,Andrzej,Lacheta,Krakow,malopolskie,Poland
 2609109,SP9CLQ,Andrzej,,Krakw,,Poland
