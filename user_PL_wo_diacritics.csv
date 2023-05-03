@@ -1710,7 +1710,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2601750,SP6BMD,Dariusz,Borodzicz,Czerwona Woda,dolnoslaskie,Poland
 2601751,SP3DAT,Szymon,WIECZOREK,CHOJNIKI,wielkopolskie,Poland
 2601752,SP3ODA,Mateusz,Mlynowski,Poznan,wielkopolskie,Poland
-2601753,SQ9KCP,Konrad,Chrzanowski,Krakow,malopolskie,Poland
+2601753,SQ9KCP,Konrad, ,Krakow,malopolskie,Poland
 2601754,SP1TRX,Tomasz,Ratajczak,Wapnica,zachodniopomorskie,Poland
 2601999,SP5VEQ,Tomasz,Brejnak,Warszawa,mazowieckie,Poland
 2602001,SP2WGN,Maciej,,Gdansk,,Poland
@@ -1739,7 +1739,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2602024,SP2MMX,Monika,,Szubin,kujawsko-pomorskie,Poland
 2602025,SP2GG,Grzegorz,,Szubin,kujawsko-pomorskie,Poland
 2602026,SP2GCH,Jacek,Grzona,Chojnice,pomorskie,Poland
-2602027,SQ2KLO,Krzysztof,,Wocawek,,Poland
+2602027,SQ2KLO,Krzysztof,None,Wloclawek,kujawsko-pomorskie,Poland
 2602028,SP4KE,Jarek,,Nowe Miasto Lubawskie,kujawsko-pomorskie,Poland
 2602029,SQ2FRG,Marcin,Gorzynski,Inowroclaw,kujawsko-pomorskie,Poland
 2602030,SQ1GPI,Maciej,Kaszynski,Slupsk,pomorskie,Poland
@@ -1791,7 +1791,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2602079,SQ2OTR,Robert,,Debrzno,,Poland
 2602080,SP2KOW,Witold,,Bydgoszcz,,Poland
 2602081,SQ2HCZ,Slawek,,Bydgoszcz,,Poland
-2602082,SQ2KLO,Krzysztof,,Wocawek,,Poland
+2602082,SQ2KLO,Krzysztof,None,Wloclawek,kujawsko-pomorskie,Poland
 2602083,SP2BRO,Jerzy,,Kwidzyn,,Poland
 2602084,SP2IM,Anna,,Bydgoszcz,kujawsko-pomorskie,Poland
 2602085,SP2TDI,Janusz,,Bydgoszcz,,Poland
@@ -2025,7 +2025,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2603155,HF3MDW,Klub,,Dabcze,,Poland
 2603156,SP3KKV,Piotr,,Sulecin,,Poland
 2603157,SQ3KNR,Krzysztof,None,Pila,wielkopolskie,Poland
-2603158,SO3D,Damian,,Gorzow,lubuskie,Poland
+2603158,SO3D,Damian, ,Gorzow,lubuskie,Poland
 2603159,SQ3NQA,Bartek,,Konin,,Poland
 2603160,SP3MAX,Przemek,,Poznan,,Poland
 2603161,SQ3NQA,Bartek,,Konin,,Poland
@@ -2297,7 +2297,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2605067,SQ5LTT,Andrzej,,Warszawa,,Poland
 2605068,SQ5OVI,Pawel,,Warszawa,,Poland
 2605069,SP5YAM,Klub,,Komorow,,Poland
-2605070,SQ5ABZ,Halina,,Komorow,,Poland
+2605070,SQ5ABZ,Halina,None,Komorow,mazowieckie,Poland
 2605072,SQ5SCR,Mariusz,,Warszawa,,Poland
 2605073,SQ5PTN,Przemyslaw,,Jaktorow,mazowieckie,Poland
 2605074,SQ5PGI,Marcin,,WARSAW,,Poland
@@ -2486,7 +2486,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2605265,SQ5PFI,Andrzej,,Siedlce,,Poland
 2605266,SQ5CZL,Robert,,Gabin,mazowieckie,Poland
 2605267,SP5TZD,Tomasz,,Lomianki,,Poland
-2605268,SQ5SUI,Jacek,,Dabrowka Nagorna,,Poland
+2605268,SQ5SUI,Jacek,,Dabrowka Nagorna,mazowieckie,Poland
 2605269,SP5ATA,Aleksander,,Izabelin B,,Poland
 2605270,SQ5TDR,Jacek,,Warszawa,mazowieckie,Poland
 2605272,SP5VFC,Tadeusz,,Warszawa,,Poland
@@ -3028,7 +3028,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2607134,SO7AML,Marek,,Lodz,,Poland
 2607135,SQ7IQT,Krzysztof,,Janow,,Poland
 2607136,SQ7HIK,Karol,None,Radom,,Poland
-2607137,SQ7SOP,Marcin,,Samborzec,,Poland
+2607137,SQ7SOP,Marcin,None,Samborzec,mazowieckie,Poland
 2607138,SQ7PTE,Piotr,Kolacki,Koprzywnica,swietokrzyskie,Poland
 2607139,SP7UTO,Tomasz,Pokornowski,Sieradz,lodzkie,Poland
 2607140,SP7ML,Mateusz,,Borowa Gora,,Poland
