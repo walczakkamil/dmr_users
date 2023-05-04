@@ -288,7 +288,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2600298,SQ9HH,Manuel,,Warszawa,,Poland
 2600299,SO5RF,Mariusz,,Jozefow,,Poland
 2600301,SP9ODT,Adam,,Nowy Sacz,malopolskie,Poland
-2600302,SP4MK,Marcin,,Kleosin,,Poland
+2600302,SP4MK,Marcin,Kopa,Kleosin,podlaskie,Poland
 2600303,SP3MR,Rafal,,Robakowo,,Poland
 2600304,SQ7BCN,Marek,,Ostrowiec Swietokrzy,,Poland
 2600305,SP4TRB,Rafal,,Bialystok,,Poland
@@ -1603,7 +1603,6 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2601642,SP5OLB,Andrzej,sp5olb,Otwcok,mazowieckie,Poland
 2601643,SQ9SQ,Andrzej,Slezak,Wieliczka,malopolskie,Poland
 2601644,SQ5I,Izabella,Szumska,Warszawa,mazowieckie,Poland
-2601645,SQ5J,Piotr,Skarpetowski,Blizne Laszczynskiego,mazowieckie,Poland
 2601646,SP5PGD,Piotr,Grajda,Zielonka,mazowieckie,Poland
 2601647,SO6XL,Andrzej,Gab,Sadowa,mazowieckie,Poland
 2601648,SP6KE,Jacek,Zweifler,Buczyny,lubuskie,Poland
@@ -1712,6 +1711,8 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2601752,SP3ODA,Mateusz,Mlynowski,Poznan,wielkopolskie,Poland
 2601753,SQ9KCP,Konrad, ,Krakow,malopolskie,Poland
 2601754,SP1TRX,Tomasz,Ratajczak,Wapnica,zachodniopomorskie,Poland
+2601755,SP9HAL,Slawomir,Moryc,Ruda Slaska,slaskie,Poland
+2601756,SQ3AT,Krzysztof,Silcer,Nowa Sol,lubuskie,Poland
 2601999,SP5VEQ,Tomasz,Brejnak,Warszawa,mazowieckie,Poland
 2602001,SP2WGN,Maciej,,Gdansk,,Poland
 2602002,SP2FRN,Sebastian,Eferenovich,Gdynia,pomorskie,Poland
