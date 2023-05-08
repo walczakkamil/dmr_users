@@ -622,7 +622,6 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2600639,HF3DWD,Robert,,Konotop,lubuskie,Poland
 2600640,SP6OWV,Grzegorz,Marczek,Strzegom,dolnoslaskie,Poland
 2600641,SQ7KHW,Michal,Kucinski,Lodz,lodzkie,Poland
-2600642,SP3EAT,Andrzej,Mackowiak,Poznan,wielkopolskie,Poland
 2600643,SP5JG,Marek,Mlynarczyk,Warszawa,mazowieckie,Poland
 2600644,SQ9JDH,Dariusz,Wilkus,Maruszyna,malopolskie,Poland
 2600645,SQ8KO,Krzysztof,Owsiany,Sanok,podkarpackie,Poland
@@ -1718,6 +1717,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2601759,SP9TH,Marek,Landuch,Zabrze,slaskie,Poland
 2601760,SQ2GB,Grzegorz,Borozynski,Bydgoszcz,kujawsko-pomorskie,Poland
 2601761,SN9AB,Michal,K,Dzianisz,malopolskie,Poland
+2601762,SP7GTU,Pawel,Turczynski,Ostrowiec Swietokrzyski,swietokrzyskie,Poland
 2601999,SP5VEQ,Tomasz,Brejnak,Warszawa,mazowieckie,Poland
 2602001,SP2WGN,Maciej,,Gdansk,,Poland
 2602002,SP2FRN,Sebastian,Eferenovich,Gdynia,pomorskie,Poland
@@ -3294,7 +3294,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2608165,SP8KRIS,Krzysztof,,Deblin,,Poland
 2608168,SP8KRIS,Krzysztof,,Deblin,,Poland
 2608169,SP8LNG,Pawel,,Rzeszow,podkarpackie,Poland
-2609001,SQ9JTI,Lukasz,Parysz,Tarnow,malopolskie,Poland
+2609001,SQ9JTI,Lukasz,P,Warszawa,mazowieckie,Poland
 2609002,SQ9MUR,Maciek,,Tarnow,malopolskie,Poland
 2609003,SP9ACQ,Adam,Swiercz,Krakow,malopolskie,Poland
 2609004,SP9SVH,Krzysztof,Podgorski,Krakow,malopolskie,Poland
