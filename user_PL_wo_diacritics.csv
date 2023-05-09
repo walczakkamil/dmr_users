@@ -1718,6 +1718,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2601760,SQ2GB,Grzegorz,Borozynski,Bydgoszcz,kujawsko-pomorskie,Poland
 2601761,SN9AB,Michal,K,Dzianisz,malopolskie,Poland
 2601762,SP7GTU,Pawel,Turczynski,Ostrowiec Swietokrzyski,swietokrzyskie,Poland
+2601763,SQ7KK,Krzysztof,Chalubiec,Sandomierz,swietokrzyskie,Poland
 2601999,SP5VEQ,Tomasz,Brejnak,Warszawa,mazowieckie,Poland
 2602001,SP2WGN,Maciej,,Gdansk,,Poland
 2602002,SP2FRN,Sebastian,Eferenovich,Gdynia,pomorskie,Poland
@@ -1767,7 +1768,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2602047,SQ2DEF,Damian,,Bydgoszcz,,Poland
 2602048,SP1NQN,Tadeusz,,Siemianice,,Poland
 2602049,SP2TFV,Dariusz,,Gdansk,pomorskie,Poland
-2602050,SP2QVS,Piotr,,Wrocki,,Poland
+2602050,SP2PZ,Piotr,Zydziak,Wrocki,pomorskie,Poland
 2602052,SP2A,Leszek,,Gdynia,,Poland
 2602053,SP2TMK,Tomasz,,Bydgoszcz,,Poland
 2602054,SQ2MTG,Blazej,,Banino,pomorskie,Poland
@@ -2492,7 +2493,6 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2605265,SQ5PFI,Andrzej,,Siedlce,,Poland
 2605266,SQ5CZL,Robert,,Gabin,mazowieckie,Poland
 2605267,SP5TZD,Tomasz,,Lomianki,,Poland
-2605268,SQ5SUI,Jacek,,Dabrowka Nagorna,mazowieckie,Poland
 2605269,SP5ATA,Aleksander,,Izabelin B,,Poland
 2605270,SQ5TDR,Jacek,,Warszawa,mazowieckie,Poland
 2605272,SP5VFC,Tadeusz,,Warszawa,,Poland
@@ -2626,7 +2626,6 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2605401,SQ5BIK,Andrzej,,Pruszkow,,Poland
 2605402,SP5VIW,Wlodek,,Warszawa,mazowieckie,Poland
 2605403,SP5ADF,Zbigniew,,Warszawa,,Poland
-2605404,SQ5D,Wojciech,,Legionowo,mazowieckie,Poland
 2605405,SP5CJG,Pawel,,Warszawa,mazowieckie,Poland
 2605406,SP5TIR,Tomasz,,Warszawa,mazowieckie,Poland
 2605407,SP5QAD,Marcin,,Piaseczno,,Poland
