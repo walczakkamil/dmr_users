@@ -1194,7 +1194,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2601229,SP9WZB,Edward,Lerch,Knurow,slaskie,Poland
 2601230,SP9MCZ,Ryszard,Suslik,Oswiecim,malopolskie,Poland
 2601231,SP9WOO,Lukasz,Kwiek,Tarnow,malopolskie,Poland
-2601232,3Z0E,Eustachy,,Szczecin,zachodniopomorskie,Poland
+2601232,3Z0E,Eustachy,Sen,Szczecin,zachodniopomorskie,Poland
 2601233,SQ6ADI,Adrian,Czarkowski,Glogow,dolnoslaskie,Poland
 2601234,SQ2EEY,Krystian,Lukaszewicz,Jaromierz,pomorskie,Poland
 2601235,SP5RNB,Jaroslaw,Rucinski,Warszawa,mazowieckie,Poland
@@ -1720,6 +1720,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2601762,SP7GTU,Pawel,Turczynski,Ostrowiec Swietokrzyski,swietokrzyskie,Poland
 2601763,SQ7KK,Krzysztof,Chalubiec,Sandomierz,swietokrzyskie,Poland
 2601764,SP9JMZ,Patryk,Kuzmicz,Wegrzce,malopolskie,Poland
+2601765,SP9VOU,Mariusz,Kowalik,Gorlice,malopolskie,Poland
 2601999,SP5VEQ,Tomasz,Brejnak,Warszawa,mazowieckie,Poland
 2602001,SP2WGN,Maciej,,Gdansk,,Poland
 2602002,SP2FRN,Sebastian,Eferenovich,Gdynia,pomorskie,Poland
