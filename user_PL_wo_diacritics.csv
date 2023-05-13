@@ -1602,6 +1602,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2601642,SP5OLB,Andrzej,sp5olb,Otwcok,mazowieckie,Poland
 2601643,SQ9SQ,Andrzej,Slezak,Wieliczka,malopolskie,Poland
 2601644,SQ5I,Izabella,Szumska,Warszawa,mazowieckie,Poland
+2601645,SQ5J,Piotr,Skarpetowski,Blizne Laszczynskiego,mazowieckie,Poland
 2601646,SP5PGD,Piotr,Grajda,Zielonka,mazowieckie,Poland
 2601647,SO6XL,Andrzej,Gab,Sadowa,mazowieckie,Poland
 2601648,SP6KE,Jacek,Zweifler,Buczyny,lubuskie,Poland
@@ -1725,6 +1726,8 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2601767,SP8SOB,Tomasz,Sobczynski,Wiazownica,podkarpackie,Poland
 2601768,SP9FLP,Tomasz,Baranski,Konary,malopolskie,Poland
 2601769,SP6GJY,Andrzej,Siuda,Bielany Wroclawskie,dolnoslaskie,Poland
+2601770,SP9UMA,Pawel,,Wieliczka,malopolskie,Poland
+2601771,SP2STK,Arek,Stuka,Gniewkowo,kujawsko-pomorskie,Poland
 2601999,SP5VEQ,Tomasz,Brejnak,Warszawa,mazowieckie,Poland
 2602001,SP2WGN,Maciej,,Gdansk,,Poland
 2602002,SP2FRN,Sebastian,Eferenovich,Gdynia,pomorskie,Poland
