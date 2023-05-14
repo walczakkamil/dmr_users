@@ -1728,6 +1728,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2601769,SP6GJY,Andrzej,Siuda,Bielany Wroclawskie,dolnoslaskie,Poland
 2601770,SP9UMA,Pawel,,Wieliczka,malopolskie,Poland
 2601771,SP2STK,Arek,Stuka,Gniewkowo,kujawsko-pomorskie,Poland
+2601772,SP6U,Rafal,Jakimow,Olawa,dolnoslaskie,Poland
 2601999,SP5VEQ,Tomasz,Brejnak,Warszawa,mazowieckie,Poland
 2602001,SP2WGN,Maciej,,Gdansk,,Poland
 2602002,SP2FRN,Sebastian,Eferenovich,Gdynia,pomorskie,Poland
@@ -2759,7 +2760,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2606020,SQ6LJR,Sebastian,,Wroclaw,,Poland
 2606021,SQ6JAR,Jarek,,Przywory opolskie,,Poland
 2606022,SQ6KQK,Katarzyna,,Wroclaw,,Poland
-2606023,3Z6AET,Robert,,Wroceaw,,Poland
+2606023,3Z6AET,Robert,,Wroclaw,dolnoslaskie,Poland
 2606025,SP6QNP,Piotr,,Wroclaw,,Poland
 2606026,SP6B,Krystian,,Jelenia Gora,dolnoslaskie,Poland
 2606028,SQ6DXP,Pawel,,Opole,,Poland
