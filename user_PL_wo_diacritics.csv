@@ -857,7 +857,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2600882,SP2FNR,Dominik,Marszalek,Gdansk,pomorskie,Poland
 2600883,SP6LTP,Zbigniew,Bakalarczyk,Swidnica,dolnoslaskie,Poland
 2600884,SP4TW,Tomasz,Wasiewski,Lomza,podlaskie,Poland
-2600885,SP4BL,Bartosz,Gerlowski,Gielczyn,podlaskie,Poland
+2600885,SP4BL,Bartosz,Gerlowski,Lomza,podlaskie,Poland
 2600886,SQ5RGW,Jacek,Kutkowski,Lipinki,mazowieckie,Poland
 2600887,SP4EBD,Edmund,Belkowski,Bialystok,podlaskie,Poland
 2600888,SQ7PGP,Michal,Nawrocki,Sieradz,lodzkie,Poland
@@ -1729,6 +1729,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2601770,SP9UMA,Pawel,,Wieliczka,malopolskie,Poland
 2601771,SP2STK,Arek,Stuka,Gniewkowo,kujawsko-pomorskie,Poland
 2601772,SP6U,Rafal,Jakimow,Olawa,dolnoslaskie,Poland
+2601773,SQ4MK,Mariusz,Kaminski,Lomza,podlaskie,Poland
 2601999,SP5VEQ,Tomasz,Brejnak,Warszawa,mazowieckie,Poland
 2602001,SP2WGN,Maciej,,Gdansk,,Poland
 2602002,SP2FRN,Sebastian,Eferenovich,Gdynia,pomorskie,Poland
