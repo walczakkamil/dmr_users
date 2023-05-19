@@ -1732,6 +1732,8 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2601774,SP9VON,Robert,Hebda,Krakow,malopolskie,Poland
 2601775,SP7AND,Andrzej,Sojkowski,Lodz,lodzkie,Poland
 2601776,SP9SYS,Pawel,Torbus,Krakow,malopolskie,Poland
+2601778,SO9U,Piotr,Szczurkowski,Andrychow,malopolskie,Poland
+2601779,SQ8KFM,Robert,Nasciszewski,Malawa,podkarpackie,Poland
 2601999,SP5VEQ,Tomasz,Brejnak,Warszawa,mazowieckie,Poland
 2602001,SP2WGN,Maciej,,Gdansk,,Poland
 2602002,SP2FRN,Sebastian,Eferenovich,Gdynia,pomorskie,Poland
@@ -2768,7 +2770,6 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2606026,SP6B,Krystian,,Jelenia Gora,dolnoslaskie,Poland
 2606028,SQ6DXP,Pawel,,Opole,,Poland
 2606029,SQ6VRS,Radoslaw,Wojtyla,Nysa,opolskie,Poland
-2606030,SP6AIF,Arek,,Nysa,opolskie,Poland
 2606031,SP6DWA,Grzegorz,Grenda ,Nysa,opolskie,Poland
 2606032,SP6BJ,Bartlomiej,,Kedzierzyn-Kozle,,Poland
 2606033,SQ6OCZ,Robert,Czapski,Wroclaw,opolskie,Poland
