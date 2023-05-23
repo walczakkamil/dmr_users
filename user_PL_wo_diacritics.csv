@@ -1736,6 +1736,8 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2601780,SP1UJU,Leszek,Juralowicz,Smoldzino,pomorskie,Poland
 2601781,SQ5RP,Pawel,R,Warszawa,mazowieckie,Poland
 2601782,SP4CW,Andrzej,Rudobielski,Bialystok,podlaskie,Poland
+2601783,SP8MKF,Mateusz,Augustynski,Niemce,lubelskie,Poland
+2601784,SP9SPM,Szymon,,Niepolomice,malopolskie,Poland
 2601999,SP5VEQ,Tomasz,Brejnak,Warszawa,mazowieckie,Poland
 2602001,SP2WGN,Maciej,,Gdansk,,Poland
 2602002,SP2FRN,Sebastian,Eferenovich,Gdynia,pomorskie,Poland
@@ -2320,7 +2322,6 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2605067,SQ5LTT,Andrzej,,Warszawa,,Poland
 2605068,SQ5OVI,Pawel,,Warszawa,,Poland
 2605069,SP5YAM,Klub,,Komorow,,Poland
-2605070,SQ5ABZ,Halina,None,Komorow,mazowieckie,Poland
 2605072,SQ5SCR,Mariusz,,Warszawa,,Poland
 2605073,SQ5PTN,Przemyslaw,,Jaktorow,mazowieckie,Poland
 2605074,SQ5PGI,Marcin,,WARSAW,,Poland
