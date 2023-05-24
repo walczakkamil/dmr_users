@@ -1738,6 +1738,8 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2601782,SP4CW,Andrzej,Rudobielski,Bialystok,podlaskie,Poland
 2601783,SP8MKF,Mateusz,Augustynski,Niemce,lubelskie,Poland
 2601784,SP9SPM,Szymon,,Niepolomice,malopolskie,Poland
+2601785,SP9OTA,Piotr,Szczurkowski,Andrychow,malopolskie,Poland
+2601786,SQ5EMA,Agnieszka,Elwertowska,Warszawa,mazowieckie,Poland
 2601999,SP5VEQ,Tomasz,Brejnak,Warszawa,mazowieckie,Poland
 2602001,SP2WGN,Maciej,,Gdansk,,Poland
 2602002,SP2FRN,Sebastian,Eferenovich,Gdynia,pomorskie,Poland
@@ -2045,7 +2047,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2603151,SQ3GJT,Krzysztof,,Wyrzysk,wielkopolskie,Poland
 2603152,SQ3BMI,Boguslaw,,Gorzow Wlkp,,Poland
 2603153,SP3HVE,Jaroslaw,,Ostrzeszow,wielkopolskie,Poland
-2603154,SP3OW,Miroslaw,,Ostrow Wlkp,,Poland
+2603154,SP3OW,Miroslaw,,Ostrow Wlkp,wielkopolskie,Poland
 2603155,HF3MDW,Klub,,Dabcze,,Poland
 2603156,SP3KKV,Piotr,,Sulecin,,Poland
 2603157,SQ3KNR,Krzysztof,None,Pila,wielkopolskie,Poland
@@ -3104,7 +3106,6 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2607192,SP7TW,Tomasz,,Lodz,,Poland
 2607193,SP7SZK,Piotr,,Lodz,,Poland
 2607194,SO7AMG,Andrzej,,Strzelce Wielkie,,Poland
-2607195,SP7RJ,Zenon,,Modliszewice,,Poland
 2607196,SQ7FSZ,Tomasz,,Starachowice,,Poland
 2607197,SP7XIE,Marcin,,Lodz,,Poland
 2607198,SP7TH,Tomasz,,Lipnik,,Poland
