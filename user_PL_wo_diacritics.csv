@@ -1740,6 +1740,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2601784,SP9SPM,Szymon,,Niepolomice,malopolskie,Poland
 2601785,SP9OTA,Piotr,Szczurkowski,Andrychow,malopolskie,Poland
 2601786,SQ5EMA,Agnieszka,Elwertowska,Warszawa,mazowieckie,Poland
+2601787,SP6ZLD,Klub,CKZiU Legnica,Legnica,dolnoslaskie,Poland
 2601999,SP5VEQ,Tomasz,Brejnak,Warszawa,mazowieckie,Poland
 2602001,SP2WGN,Maciej,,Gdansk,,Poland
 2602002,SP2FRN,Sebastian,Eferenovich,Gdynia,pomorskie,Poland
@@ -1910,11 +1911,9 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2603004,SQ3OOE,Wojciech,,Poznan,wielkopolskie,Poland
 2603005,SP3WBY,Artur,,Poznan,,Poland
 2603006,SQ3XBG,Piotr,,Poznan,,Poland
-2603007,SP3VSS,Artur,,Poznan,wielkopolskie,Poland
 2603008,SP3WWI,Jerzy,,Gorzow,wielkopolskie,Poland
 2603009,SP3JAB,Bogdan,,Rawicz,wielkopolskie,Poland
 2603010,SP3WBQ,Konrad,,Poznan,,Poland
-2603011,SP3VSS,Artur,,Poznan,wielkopolskie,Poland
 2603012,SP3SXU,Roman,,Poznan,,Poland
 2603013,SQ3VSS,Wioletta,,Poznan,,Poland
 2603014,SQ3POU,Marcin,,Miedzychod,,Poland
@@ -3443,6 +3442,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2609135,SP9HP,Patryk,,Tychy,,Poland
 2609136,SQ9BEJ,Stanislaw,Glita,Bielsko Biala,podkarpackie,Poland
 2609137,SQ9SWN,Szymon,,Czestochowa,,Poland
+2609138,SQ9DXF,Adam,None,Katowice,slaskie,Poland
 2609139,SQ9OJR,Lukasz,Kazek,Bratucice,slaskie,Poland
 2609140,SQ9MYC,Marcin,Czajkowski,Makow Podhalanski,podkarpackie,Poland
 2609141,SQ9IAW,Wieslaw,,Krakow,,Poland
