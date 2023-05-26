@@ -1408,7 +1408,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2601449,SP3LM,Maksymilian,Prokopowicz,Zagan,lubuskie,Poland
 2601450,SQ9PKW,Andrzej,Golebiewski,Czarny Dunajec,malopolskie,Poland
 2601451,SQ3KNO,Andrzej,Andrzejewski,Opalenica,wielkopolskie,Poland
-2601452,SQ9ONP,Krzysztof ,Gazdzicki,Gliwice,slaskie,Poland
+2601452,SQ9ONP,Krzysztof ,G               ,Gliwice,slaskie,Poland
 2601453,SQ7JZQ,Tomasz,Wrobel,Dabkowice Dolne,lodzkie,Poland
 2601454,SN6ZDA,ZHP Wroclaw,Radio Club Polish Scout,Wroclaw,dolnoslaskie,Poland
 2601455,SP6ZHP,ZHP Wroclaw,Radio Club Polish Scout,Wroclaw,dolnoslaskie,Poland
@@ -1731,6 +1731,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2601774,SP9VON,Robert,Hebda,Krakow,malopolskie,Poland
 2601775,SP7AND,Andrzej,Sojkowski,Lodz,lodzkie,Poland
 2601776,SP9SYS,Pawel,Torbus,Krakow,malopolskie,Poland
+2601777,SQ7OTI,Mariusz,Serafin,Skierniewice,lodzkie,Poland
 2601778,SO9U,Piotr,Szczurkowski,Andrychow,malopolskie,Poland
 2601779,SQ8KFM,Robert,Nasciszewski,Malawa,podkarpackie,Poland
 2601780,SP1UJU,Leszek,Juralowicz,Smoldzino,pomorskie,Poland
@@ -1741,6 +1742,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2601785,SP9OTA,Piotr,Szczurkowski,Andrychow,malopolskie,Poland
 2601786,SQ5EMA,Agnieszka,Elwertowska,Warszawa,mazowieckie,Poland
 2601787,SP6ZLD,Klub,CKZiU Legnica,Legnica,dolnoslaskie,Poland
+2601788,SQ7OCJ,Jacek,Kreczmer,96 100  Skierniewice,lodzkie,Poland
 2601999,SP5VEQ,Tomasz,Brejnak,Warszawa,mazowieckie,Poland
 2602001,SP2WGN,Maciej,,Gdansk,,Poland
 2602002,SP2FRN,Sebastian,Eferenovich,Gdynia,pomorskie,Poland
