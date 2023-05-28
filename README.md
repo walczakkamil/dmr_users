@@ -17,5 +17,5 @@ DMR users without diacritics
 [pl]: <https://github.com/walczakkamil/dmr_users/blob/main/user_PL_wo_diacritics.csv>
 
 
-### author 
-by SP7FM
+## author 
+SP7FM
