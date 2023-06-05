@@ -1750,6 +1750,8 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2601793,SP2HER,Sylwester,Herber,Gdansk,pomorskie,Poland
 2601794,SP9MHE,Michal,Helinski,Dabrowa Gornicza,slaskie,Poland
 2601795,SP9GC,Grzegorz,Ciepiela,Krakow,malopolskie,Poland
+2601796,SQ2AJS,Waldemar,Szymanski,NOWY DWOR GDANSKI,pomorskie,Poland
+2601797,SP9LK,Lukasz,Kiljanek,Krakow,malopolskie,Poland
 2601999,SP5VEQ,Tomasz,Brejnak,Warszawa,mazowieckie,Poland
 2602001,SP2WGN,Maciej,,Gdansk,,Poland
 2602002,SP2FRN,Sebastian,Eferenovich,Gdynia,pomorskie,Poland
@@ -2146,7 +2148,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2604033,SP4XKB,Konrad,Czaplicki,Grajewo,podlaskie,Poland
 2604034,SQ4RSU,Bartlomiej,,Sokolka,,Poland
 2604035,SP4XKB,Konrad,Czaplicki,Grajewo,podlaskie,Poland
-2604036,SP4WRZ,Irek,,Bialowieza,,Poland
+2604036,SP4WRZ,Irek,Zacharewicz,Bialowieza,podlaskie,Poland
 2604037,SP4RZA,Andrzej,,Bialystok,podlaskie,Poland
 2604038,SP4E,Wojtek,,Jonkowo,,Poland
 2604039,SQ4MUI,Adam,,Hajnowka,podlaskie,Poland
