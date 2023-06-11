@@ -161,7 +161,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2600162,SQ8SBS,Stanislaw,,Jaslo,,Poland
 2600164,SP3UKK,Piotr,,Poznan,,Poland
 2600165,SP7JD,Zygmunt,Orzechowski,Zofiowka,lodzkie,Poland
-2600166,SQ1EUJ,Jacek,,Miedzyzdroje,,Poland
+2600166,SQ1EUJ,Jacek,Musial,Miedzyzdroje,zachodniopomorskie,Poland
 2600167,SN5W,Klub,,Otwock,,Poland
 2600168,SP73VOT,Klub,,Warszawa,,Poland
 2600169,SQ6MPA,Przemek,,Jelenia Gora,,Poland
@@ -1758,6 +1758,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2601802,SP9EXE,Lukasz,Kula,Czestochowa,slaskie,Poland
 2601803,SN8B,Robert,Banasiak,Jelenia Gora,dolnoslaskie,Poland
 2601804,SQ6RDQ,Tomasz,Rydz,Szczytna,dolnoslaskie,Poland
+2601805,SQ6PI,Pawel,,Zabkowice Slaskie ,dolnoslaskie,Poland
 2601999,SP5VEQ,Tomasz,Brejnak,Warszawa,mazowieckie,Poland
 2602001,SP2WGN,Maciej,,Gdansk,,Poland
 2602002,SP2FRN,Sebastian,Eferenovich,Gdynia,pomorskie,Poland
