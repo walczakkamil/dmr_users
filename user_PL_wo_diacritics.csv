@@ -1383,7 +1383,6 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2601426,SP9MPZ,Marcin,Placzek,Krakow,malopolskie,Poland
 2601427,SP9DPD,Adam,Wrobel,Ruda Slaska,slaskie,Poland
 2601428,SO9S,Adrian, ,Chorzow,slaskie,Poland
-2601429,SQ4OZO,Marcin,Mazur,Olsztyn,warminsko-mazurskie,Poland
 2601430,SP2OMO,Daniel,Da,Domatowo,pomorskie,Poland
 2601431,SN8KR,Kacper,Raczka,Jaslo,podkarpackie,Poland
 2601432,SQ7KLK,Krzysztof,Klatka,Skierniewice,lodzkie,Poland
@@ -1765,6 +1764,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2601810,SP9LZU,Dariusz,Misniakiewicz,Katowice,slaskie,Poland
 2601811,SP6GKI,Krzysztof,Grazdan,Glucholazy,opolskie,Poland
 2601812,SP3ERO,Rafal,Piotrowski,Gorzow Wlkp,lubuskie,Poland
+2601813,SQ5SAZ,Bartosz,Pracz,Warsaw,mazowieckie,Poland
 2601999,SP5VEQ,Tomasz,Brejnak,Warszawa,mazowieckie,Poland
 2602001,SP2WGN,Maciej,,Gdansk,,Poland
 2602002,SP2FRN,Sebastian,Eferenovich,Gdynia,pomorskie,Poland
@@ -2982,6 +2982,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2607036,SP7EP,Maciej,Herman,Piotrkow Trybunalski,lodzkie,Poland
 2607037,SP7LAK,Krzysztof,,Kutno,lodzkie,Poland
 2607038,SQ7RJX,Jacek,,Dzialoszyn,lodzkie,Poland
+2607039,SP7RDI,Roman,,Lodz,lodzkie,Poland
 2607040,SP7B,Boguslaw,,Glowno,,Poland
 2607041,SQ7LQZ,Ryszard,Wozniak,Ruda,swietokrzyskie,Poland
 2607042,SQ7FSE,Arek,,Skalbmierz,,Poland
