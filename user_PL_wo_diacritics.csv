@@ -1699,7 +1699,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2601745,SP8PRZ,Klub,PZK 18 Oddzial Terenowy W Rzeszowie,Rzeszow,podkarpackie,Poland
 2601746,SO3AJS,Tomasz,Szurgot,Powiercie,wielkopolskie,Poland
 2601747,SP9AQG,Erkin,Mercan,Krakow,malopolskie,Poland
-2601748,SQ5RAD,Radomir,Mazon,Michalow Grabina,mazowieckie,Poland
+2601748,SP5RR,Radomir,Mazon,Michalow Grabina,mazowieckie,Poland
 2601749,SP5GLA,Lukasz,Gladysz,Warszawa,mazowieckie,Poland
 2601750,SP6BMD,Dariusz,Borodzicz,Czerwona Woda,dolnoslaskie,Poland
 2601751,SP3DAT,Szymon,WIECZOREK,CHOJNIKI,wielkopolskie,Poland
@@ -1764,7 +1764,9 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2601810,SP9LZU,Dariusz,Misniakiewicz,Katowice,slaskie,Poland
 2601811,SP6GKI,Krzysztof,Grazdan,Glucholazy,opolskie,Poland
 2601812,SP3ERO,Rafal,Piotrowski,Gorzow Wlkp,lubuskie,Poland
-2601813,SQ5SAZ,Bartosz,Pracz,Warsaw,mazowieckie,Poland
+2601813,SQ5SAZ,Bartosz,Pracz,Salbiny,mazowieckie,Poland
+2601814,SP6HDK,Sebastian,Kiel,Kuznica Katowska,opolskie,Poland
+2601815,SP9LJE,Janusz,Szlosarczyk,Olesno,opolskie,Poland
 2601999,SP5VEQ,Tomasz,Brejnak,Warszawa,mazowieckie,Poland
 2602001,SP2WGN,Maciej,,Gdansk,,Poland
 2602002,SP2FRN,Sebastian,Eferenovich,Gdynia,pomorskie,Poland
