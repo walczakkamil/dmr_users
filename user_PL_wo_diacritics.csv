@@ -908,7 +908,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2600934,SP3QDU,Henryk,Pawlak,Ostrow Wlkp,wielkopolskie,Poland
 2600935,SP6KH,Kamil,Hofman,Jelcz Laskowice,dolnoslaskie,Poland
 2600936,SQ2HEG,Bogdan,Gorzynski,Elblag,warminsko-mazurskie,Poland
-2600937,SP9EP,Pawel,Mr,Cisownica,slaskie,Poland
+2600937,SP9EP,Pawel,,Cisownica,slaskie,Poland
 2600938,SP8OWL,Piotr,Kirczuk,Swidnik,lubelskie,Poland
 2600939,SQ7EHG,Michal,Blaszczyk,Sieradz,lodzkie,Poland
 2600940,SQ8TDI,Tomasz,Kurczyk,Debica,podkarpackie,Poland
@@ -1744,7 +1744,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2601790,SP6AZL,Krzysztof,Kranc,Prudnik,opolskie,Poland
 2601791,SP9PN,Piotr,Nesnal,Krakow,malopolskie,Poland
 2601792,SP9TD,Tadeusz,Domider,Bielsko Biala,slaskie,Poland
-2601793,SP2HER,Sylwester,Herber,Gdansk,pomorskie,Poland
+2601793,SP2HER,Sylwester,,Gdansk,pomorskie,Poland
 2601794,SP9MHE,Michal,Helinski,Dabrowa Gornicza,slaskie,Poland
 2601795,SP9GC,Grzegorz,Ciepiela,Krakow,malopolskie,Poland
 2601796,SQ2AJS,Waldemar,Szymanski,NOWY DWOR GDANSKI,pomorskie,Poland
@@ -1767,6 +1767,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2601813,SQ5SAZ,Bartosz,Pracz,Salbiny,mazowieckie,Poland
 2601814,SP6HDK,Sebastian,Kiel,Kuznica Katowska,opolskie,Poland
 2601815,SP9LJE,Janusz,Szlosarczyk,Olesno,opolskie,Poland
+2601816,SP9OWL,Monika, ,Chorzow,slaskie,Poland
 2601999,SP5VEQ,Tomasz,Brejnak,Warszawa,mazowieckie,Poland
 2602001,SP2WGN,Maciej,,Gdansk,,Poland
 2602002,SP2FRN,Sebastian,Eferenovich,Gdynia,pomorskie,Poland
@@ -2862,7 +2863,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2606091,SQ6MIK,Michal,,Wroclaw,,Poland
 2606092,SP6RLH,Jaroslaw,,Pultusk,,Poland
 2606093,SQ6STB,Wojciech,,Klodzko,,Poland
-2606094,SQ6MII,Krzysztof,,Bystrzyca Klodzka,,Poland
+2606094,SQ6MII,Krzysztof,Bernacki,Bystrzyca Klodzka,dolnoslaskie,Poland
 2606095,SP6ICO,Robert,Kowalewski,Ratowice,dolnoslaskie,Poland
 2606096,SP6DIL,Eugeniusz,,Kepa,,Poland
 2606097,SQ6QQ,Miroslaw,,Prudnik,,Poland
