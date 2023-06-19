@@ -1256,7 +1256,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2601294,SP8BK,Karolina,Blach,Lublin,lubelskie,Poland
 2601295,SO5LAR,Rafal,Latkowski,Warszawa,mazowieckie,Poland
 2601296,SP3BMW,Grzegorz,Kuncik,Miedzyrzecz,lubuskie,Poland
-2601297,3Z9VI,Tomasz,Matuszewski,Klecza Dolna,malopolskie,Poland
+2601297,3Z9VI,Tomasz,Matuszewski,Wadowice,malopolskie,Poland
 2601299,SP9JS,Janusz,Sliwa,Gorlice,malopolskie,Poland
 2601300,SQ3SHC,Stanislaw,,Plewiska,wielkopolskie,Poland
 2601301,SQ2PAX,Damian,Ziemba,Stanislawka,kujawsko-pomorskie,Poland
@@ -1768,6 +1768,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2601814,SP6HDK,Sebastian,Kiel,Kuznica Katowska,opolskie,Poland
 2601815,SP9LJE,Janusz,Szlosarczyk,Olesno,opolskie,Poland
 2601816,SP9OWL,Monika, ,Chorzow,slaskie,Poland
+2601817,SQ2RO,Rafal,Ozga,Rumia,pomorskie,Poland
 2601999,SP5VEQ,Tomasz,Brejnak,Warszawa,mazowieckie,Poland
 2602001,SP2WGN,Maciej,,Gdansk,,Poland
 2602002,SP2FRN,Sebastian,Eferenovich,Gdynia,pomorskie,Poland
@@ -2680,7 +2681,6 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2605409,SQ5PTZ,Piotr,,Warszawa,,Poland
 2605410,SP5XEM,Konrad,,Warszawa,,Poland
 2605411,SP5TAZ,Zdzislaw,,Przasnysz,,Poland
-2605412,SO5MAX,Maciej,None,Grabowo,,Poland
 2605413,SP5KMG,Maciek,,Wyrozby-Konaty,,Poland
 2605414,SQ5ISG,Adam,,Radom,,Poland
 2605415,SQ5GN,Krzysztof,,Warszawa,,Poland
