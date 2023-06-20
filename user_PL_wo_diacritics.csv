@@ -185,7 +185,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2600187,SQ9POL,Slawek,Czelusniak,Pila,wielkopolskie,Poland
 2600188,SQ9MDK,Artur,,Czstochowa,,Poland
 2600189,SQ5IRZ,Grzegorz,Tomczyk,Radom,mazowieckie,Poland
-2600190,SP7ENZ,Dariusz,,Zbludowice,,Poland
+2600190,SP7ENZ,Dariusz,,Zbludowice,swietokrzyskie,Poland
 2600191,HF9MW,Milosz,,Katowice,,Poland
 2600192,SQ9DJJ,Marcin,,Krakow,,Poland
 2600193,SP4ATYB,Artur,,Suwalki,podlaskie,Poland
@@ -1036,11 +1036,13 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2601066,SQ1OHF,Edward,,Szczecin,zachodniopomorskie,Poland
 2601068,SP1WSR,Andrzej,Laczmanski,Szczecin,zachodniopomorskie,Poland
 2601069,SP1NKF,Jacek,,Charzyno,zachodniopomorskie,Poland
+2601070,SQ6SGV,Zbyszek,Kochalski,Praszka,opolskie,Poland
 2601071,SQ1KSG,Patryk,,Miroslawiec,zachodniopomorskie,Poland
 2601072,SO1AAD,Adrian,,Pyrzyce,,Poland
 2601073,SQ1PSF,Marcin,,Szczecin,,Poland
 2601074,SQ1PTO,Jakub,,Miroslawiec Gorny,,Poland
 2601075,SQ1PSG,Marcin,,Szczecin,,Poland
+2601077,SP3SPE,Bartosz,N,Poznan,wielkopolskie,Poland
 2601078,SP1ODY,Kazimierz,,Szczecin,,Poland
 2601079,SQ1GQM,Grzegorz,,Szczecin,,Poland
 2601080,SQ1KSG,Patryk,,Miroslawiec,zachodniopomorskie,Poland
@@ -1560,7 +1562,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2601605,SP6PT,Piotr,Trojniak,Stary Wielislaw,dolnoslaskie,Poland
 2601606,SO9DXR,Jakub,Kesik,Krzepice,slaskie,Poland
 2601607,SQ5V,Lukasz,Widawski,Konstancin-Jeziorna,mazowieckie,Poland
-2601608,SP9GBA,Grzegorz,,Gliwice,slaskie,Poland
+2601608,SQ9GBA,Grzegorz,,Gliwice,slaskie,Poland
 2601609,SP1EVF,Artur,Kwietniewski,Szczecin,zachodniopomorskie,Poland
 2601610,SP2WIE,Marek,Szczypinski,Gdansk,pomorskie,Poland
 2601611,SP4NLG,Flavio,Stradolini,Bialystok,podlaskie,Poland
@@ -1769,6 +1771,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2601815,SP9LJE,Janusz,Szlosarczyk,Olesno,opolskie,Poland
 2601816,SP9OWL,Monika, ,Chorzow,slaskie,Poland
 2601817,SQ2RO,Rafal,Ozga,Rumia,pomorskie,Poland
+2601819,SP5GAD,Ksawery,Konewko,Warszawa,mazowieckie,Poland
 2601999,SP5VEQ,Tomasz,Brejnak,Warszawa,mazowieckie,Poland
 2602001,SP2WGN,Maciej,,Gdansk,,Poland
 2602002,SP2FRN,Sebastian,Eferenovich,Gdynia,pomorskie,Poland
