@@ -1771,10 +1771,14 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2601815,SP9LJE,Janusz,Szlosarczyk,Olesno,opolskie,Poland
 2601816,SP9OWL,Monika, ,Chorzow,slaskie,Poland
 2601817,SQ2RO,Rafal,Ozga,Rumia,pomorskie,Poland
+2601818,SP7KP,Karol,Pietrzyk,Sarbice Pierwsze,swietokrzyskie,Poland
 2601819,SP5GAD,Ksawery,Konewko,Warszawa,mazowieckie,Poland
 2601820,SP2IWL,Wieslaw,Nieradka,Lubicz Torun,kujawsko-pomorskie,Poland
 2601821,SP9GH,Henryk,Gajowski,Zabrze,slaskie,Poland
 2601822,SP5EO,Piotr,Raduj,Warszawa,mazowieckie,Poland
+2601823,HF2J,Jan,Szumiec,Warszawa,mazowieckie,Poland
+2601824,SQ9DT,Tomasz,Debowski,Katowice,slaskie,Poland
+2601825,SP3SEB,Sebastian,Pachla,Poznan,wielkopolskie,Poland
 2601999,SP5VEQ,Tomasz,Brejnak,Warszawa,mazowieckie,Poland
 2602001,SP2WGN,Maciej,,Gdansk,,Poland
 2602002,SP2FRN,Sebastian,Eferenovich,Gdynia,pomorskie,Poland
@@ -2373,7 +2377,6 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2605085,SQ5SP,Szymon,None,Warszawa,mazowieckie,Poland
 2605086,SQ5H,Henryk,,Augustowek,,Poland
 2605087,SQ5MBM,Jacek,,Warszawa,mazowieckie,Poland
-2605088,SQ8KJF,Krzysztof,None,Lublin,lubelskie,Poland
 2605089,SP5WLZ,Lukasz,Niedzielski,Warszawa,mazowieckie,Poland
 2605091,SQ5OMU,Konrad,,Warszawa,,Poland
 2605092,SQ7BCZ,Rafal,,RADOM,,Poland
@@ -2391,7 +2394,6 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2605105,SQ8ISD,Artur,,Swidnik,,Poland
 2605106,SQ5AZZ,Dariusz,,Zuromin,,Poland
 2605107,SP5AZZ,Damian,,Zuromin,,Poland
-2605108,SQ8KJK,Artur,None,Lublin,lubelskie,Poland
 2605109,SQ5AZZ,Dariusz,,Zuromin,,Poland
 2605110,SP5AZZ,Damian,,Zuromin,,Poland
 2605111,SQ5HUE,Sebastian,,Warszawa,,Poland
