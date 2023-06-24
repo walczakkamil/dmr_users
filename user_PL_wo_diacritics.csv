@@ -1779,6 +1779,11 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2601823,HF2J,Jan,Szumiec,Warszawa,mazowieckie,Poland
 2601824,SQ9DT,Tomasz,Debowski,Katowice,slaskie,Poland
 2601825,SP3SEB,Sebastian,Pachla,Poznan,wielkopolskie,Poland
+2601826,SQ5NE,Natasza,Cuch,Warsaw,mazowieckie,Poland
+2601827,SQ8RH,Pawel,Beben,Strzyzow,podkarpackie,Poland
+2601828,SQ3ME,Marcel,Szewc,Ciecierzyce,lubuskie,Poland
+2601829,SP9PRR,Klub,Krotkofalarski przy Osp W Siedliskach,Kuznia Raciborska,slaskie,Poland
+2601830,SQ7ZTV,Jakub,Sakowicz,Lodz,lodzkie,Poland
 2601999,SP5VEQ,Tomasz,Brejnak,Warszawa,mazowieckie,Poland
 2602001,SP2WGN,Maciej,,Gdansk,,Poland
 2602002,SP2FRN,Sebastian,Eferenovich,Gdynia,pomorskie,Poland
@@ -3260,7 +3265,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2608078,SQ8KMZ,Lukasz,,Borki,,Poland
 2608079,SQ8TCX,Piotr,S,Rzeszow,podkarpackie,Poland
 2608080,SQ5CJS,Slawek,,Lukow,,Poland
-2608081,SP8GON,Grzegorz,,Lublin,,Poland
+2608081,SP8GON,Grzegorz,,Lublin,lubelskie,Poland
 2608082,SQ8DFK,Tomasz,,Rowne,,Poland
 2608083,SQ8AQX,Robert,,Chorzelow,,Poland
 2608084,SQ8PIP,Michal,,Lublin,,Poland
