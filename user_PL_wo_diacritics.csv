@@ -1784,6 +1784,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2601828,SQ3ME,Marcel,Szewc,Ciecierzyce,lubuskie,Poland
 2601829,SP9PRR,Klub,Krotkofalarski przy Osp W Siedliskach,Kuznia Raciborska,slaskie,Poland
 2601830,SQ7ZTV,Jakub,Sakowicz,Lodz,lodzkie,Poland
+2601831,SP6RM,Mykola,Rozvadovskyi,Wroclaw,dolnoslaskie,Poland
 2601999,SP5VEQ,Tomasz,Brejnak,Warszawa,mazowieckie,Poland
 2602001,SP2WGN,Maciej,,Gdansk,,Poland
 2602002,SP2FRN,Sebastian,Eferenovich,Gdynia,pomorskie,Poland
@@ -2739,7 +2740,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2605456,SP5PIO,Piotr,,Wisniew,,Poland
 2605457,SP5BK,Krzysztof,,Ciechanow,,Poland
 2605458,SP5BJ,Kuba,,Ciechanow,,Poland
-2605459,SQ7HQF,Daniel,,Lomianki,mazowieckie,Poland
+2605459,SP5DS,Daniel,Siek,Lomianki,mazowieckie,Poland
 2605460,SQ5MWU,Maciej,None,Warszawa,mazowieckie,Poland
 2605461,SQ5NBK,Oskar,,Warszawa,,Poland
 2605462,SP5XTY,Dariusz,,Nasielsk,,Poland
@@ -3234,7 +3235,6 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2608047,SQ8JII,Adam,Sochacki,Pulawy,lubelskie,Poland
 2608048,SQ8LAB,Dariusz,,Piotrowice,,Poland
 2608049,SQ8MFS,Radoslaw,,Krasnystaw,,Poland
-2608050,SQ8PKI,Marek,None,Belzyce,,Poland
 2608051,SP8IZA,Wojciech,,Nadwiolanka,,Poland
 2608052,SP8IJK,Jacek,,Grabanow,lubelskie,Poland
 2608053,SQ8W,Wojciech,,Lubatowa,,Poland
