@@ -1740,7 +1740,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2601784,SP9SPM,Szymon,,Niepolomice,malopolskie,Poland
 2601785,SP9OTA,Piotr,Szczurkowski,Andrychow,malopolskie,Poland
 2601786,SQ5EMA,Agnieszka,Elwertowska,Warszawa,mazowieckie,Poland
-2601787,SP6ZLD,Klub,CKZiU Legnica,,dolnoslaskie,Poland
+2601787,SP6ZLD,Klub,Krotkofalarski,Legnica,dolnoslaskie,Poland
 2601788,SQ7OCJ,Jacek,Kreczmer,Skierniewice,lodzkie,Poland
 2601789,SO9ML,Marcin,Lapkowski,Rybnik,slaskie,Poland
 2601790,SP6AZL,Krzysztof,Kranc,Prudnik,opolskie,Poland
@@ -1785,6 +1785,8 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2601829,SP9PRR,Klub,Krotkofalarski przy Osp W Siedliskach,Kuznia Raciborska,slaskie,Poland
 2601830,SQ7ZTV,Jakub,Sakowicz,Lodz,lodzkie,Poland
 2601831,SP6RM,Mykola,Rozvadovskyi,Wroclaw,dolnoslaskie,Poland
+2601832,SP9UNM,Michal,Gorka,Kluczbork,opolskie,Poland
+2601833,HF9MTR,Maciej,Bisaga,Makow Podhalanski,malopolskie,Poland
 2601999,SP5VEQ,Tomasz,Brejnak,Warszawa,mazowieckie,Poland
 2602001,SP2WGN,Maciej,,Gdansk,,Poland
 2602002,SP2FRN,Sebastian,Eferenovich,Gdynia,pomorskie,Poland
