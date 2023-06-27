@@ -825,7 +825,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2600851,SP5NEL,Konrad,Serowiecki,Warszawa,mazowieckie,Poland
 2600852,SP6ONA,Magdalena,,Milkowice,dolnoslaskie,Poland
 2600853,SP6DMR,Franciszek,Nysa,Zlotoglowice,opolskie,Poland
-2600854,SQ5RDF,Pawel,Biernacki,Krakow,,Poland
+2600854,HF4BSD,Pawel,Biernacki,Krakow,malopolskie,Poland
 2600855,SP8ABT,Piotr,Perec,Rzeszow,podkarpackie,Poland
 2600856,SP8KM,Mariusz,Kania,39 207 Brzeznica,podkarpackie,Poland
 2600857,SP3BAH,Mariusz,Brzezowski,Strzelce Krajenskie,lubuskie,Poland
@@ -1026,7 +1026,6 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2601056,SQ1OHF,Edward,,Szczecin,zachodniopomorskie,Poland
 2601057,SP1UJW,Wojciech,,Dygowo,zachodniopomorskie,Poland
 2601058,SQ1GU,Andrzej,Gorczynski,Kolobrzeg ,zachodniopomorskie,Poland
-2601059,SQ1NT,Leszek,Karkut,Kolobrzeg,zachodniopomorskie,Poland
 2601060,SQ1WO,Wojciech,Zielinski,Szczecin,zachodniopomorskie,Poland
 2601061,SQ1BHQ,Piotr,Siedlarz,Trzebiez,zachodniopomorskie,Poland
 2601062,SP1IT,Tomasz,,Szczecin,zachodniopomorskie,Poland
@@ -1766,7 +1765,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2601810,SP9LZU,Dariusz,Misniakiewicz,Katowice,slaskie,Poland
 2601811,SP6GKI,Krzysztof,Grazdan,Glucholazy,opolskie,Poland
 2601812,SP3ERO,Rafal,Piotrowski,Gorzow Wlkp,lubuskie,Poland
-2601813,SQ5SAZ,Bartosz,Pracz,Salbiny,mazowieckie,Poland
+2601813,SQ5SAZ,Bartosz,  ,Warszaw,mazowieckie,Poland
 2601814,SP6HDK,Sebastian,Kiel,Kuznica Katowska,opolskie,Poland
 2601815,SP9LJE,Janusz,Szlosarczyk,Olesno,opolskie,Poland
 2601816,SP9OWL,Monika, ,Chorzow,slaskie,Poland
@@ -1786,7 +1785,9 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2601830,SQ7ZTV,Jakub,Sakowicz,Lodz,lodzkie,Poland
 2601831,SP6RM,Mykola,Rozvadovskyi,Wroclaw,dolnoslaskie,Poland
 2601832,SP9UNM,Michal,Gorka,Kluczbork,opolskie,Poland
-2601833,HF9MTR,Maciej,Bisaga,Makow Podhalanski,malopolskie,Poland
+2601833,HF9MTR,Maciej,Master,Makow Podhalanski,malopolskie,Poland
+2601834,SP2EKO,Andrzej,Sowa,Kwidzyn,pomorskie,Poland
+2601835,SP9WCB,Wojciech,Hartman,Bytom,slaskie,Poland
 2601999,SP5VEQ,Tomasz,Brejnak,Warszawa,mazowieckie,Poland
 2602001,SP2WGN,Maciej,,Gdansk,,Poland
 2602002,SP2FRN,Sebastian,Eferenovich,Gdynia,pomorskie,Poland
