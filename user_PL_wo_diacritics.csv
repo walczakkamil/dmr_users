@@ -220,7 +220,6 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2600225,SQ2EJF,Dominik,Wasowicz,Gdynia,pomorskie,Poland
 2600226,SN5K,Dawid,,Warszawa,mazowieckie,Poland
 2600227,SP9EN,Lukasz,,Myslowice,,Poland
-2600228,SQ6BBG,Piotr,None,Wroclaw,dolnoslaskie,Poland
 2600229,SP9TA,Tomasz,,Krakow,,Poland
 2600230,SP2CEL,Damian,,Bydgoszcz,,Poland
 2600231,SQ5BPD,Piotr,,Mlawa,,Poland
@@ -1074,7 +1073,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2601108,SP1WWS,Tadeusz,,Debno,,Poland
 2601109,SO1Z,Krzysztof,,Stargard,,Poland
 2601110,SQ1M,Kamil,,Bielkowo,,Poland
-2601111,SP1IMJ,Szczepan,,Stargard,,Poland
+2601111,SP1IMJ,Szczepan,,Stargard,zachodniopomorskie,Poland
 2601112,SQ1NXP,Marcin,,Szczecin,,Poland
 2601113,SQ1GQV,Karol,,Walcz,,Poland
 2601114,SP1FM,Maciej,,Kolobrzeg,,Poland
@@ -1789,6 +1788,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2601834,SP2EKO,Andrzej,Sowa,Kwidzyn,pomorskie,Poland
 2601835,SP9WCB,Wojciech,Hartman,Bytom,slaskie,Poland
 2601836,SP7OQX,Krzysztof,Marchlewski,Zuromin,mazowieckie,Poland
+2601837,SQ3TCG,Tomasz,Cholys,Kalisz,wielkopolskie,Poland
 2601999,SP5VEQ,Tomasz,Brejnak,Warszawa,mazowieckie,Poland
 2602001,SP2WGN,Maciej,,Gdansk,,Poland
 2602002,SP2FRN,Sebastian,Eferenovich,Gdynia,pomorskie,Poland
