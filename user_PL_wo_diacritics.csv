@@ -299,7 +299,6 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2600311,SP0R,Robert,,Lublin,,Poland
 2600312,SP7BR,Bartosz,,Lodz,,Poland
 2600313,SP0K,Krystyna,,Lublin,,Poland
-2600314,SQ2PVB,Benedykt,,Bydgoszcz,kujawsko-pomorskie,Poland
 2600315,SP7NPZ,Wojciech,,Lodz,,Poland
 2600316,SP9RPS,Krzysztof,Strug,Wieliczka,malopolskie,Poland
 2600317,SP5SWR,Robert,,Ciechanow,,Poland
@@ -501,7 +500,6 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2600516,SP8UZI,Janusz,Kaszycki,Sanok,podkarpackie,Poland
 2600517,SP5XMD,Maciej,Nowak,Warszawa,mazowieckie,Poland
 2600518,HF4ALL,Marcin,,,,Poland
-2600519,SQ6POE,Jan,Malek,Zabkowice Slaskie,dolnoslaskie,Poland
 2600520,SQ6ILJ,Jakub,Burdka,Wroclaw,dolnoslaskie,Poland
 2600521,SP6MAW,Mariusz,Wojcik,Glogow,dolnoslaskie,Poland
 2600522,SP7WQZ,Zdzislaw,Miernik ,Suchedniow,swietokrzyskie,Poland
@@ -1793,6 +1791,9 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2601839,SQ6MIG,Malgorzata,Brzostek,Ziebice,dolnoslaskie,Poland
 2601840,SP5AWO,Adam,Wrobel,Warszawa,mazowieckie,Poland
 2601841,SP7SAX,Marek,Maciejewski,Lodz,lodzkie,Poland
+2601842,SP2GNZ,Rafal,Gaszczyk,Gdansk,pomorskie,Poland
+2601843,SP5ROM,Romuald,Baranowski,Plock,mazowieckie,Poland
+2601844,SP8KZI,Mateusz,Kuzniar,Rzeszow,podkarpackie,Poland
 2601999,SP5VEQ,Tomasz,Brejnak,Warszawa,mazowieckie,Poland
 2602001,SP2WGN,Maciej,,Gdansk,,Poland
 2602002,SP2FRN,Sebastian,Eferenovich,Gdynia,pomorskie,Poland
@@ -1905,7 +1906,6 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2602115,SP2SJ,Marcin,,Bydgoszcz,,Poland
 2602116,SQ2DPM,Marek,,Gdynia,,Poland
 2602117,SP2ABC,Sebastian,,Bydgoszcz,,Poland
-2602118,SQ2WPD,Krzysztof,,Bydgoszcz,kujawsko-pomorskie,Poland
 2602119,SP2EG,Przemek,,Gdansk,pomorskie,Poland
 2602120,SP2GDA,Piotr,,Pruszcz Gdaski,pomorskie,Poland
 2602121,SP2EG,Przemek,,Gdansk,pomorskie,Poland
@@ -2146,7 +2146,6 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2603200,SP3VSC,Jacek,,Konin,,Poland
 2603201,SP3FTO,Jacek,,Czempin,,Poland
 2603202,SP3RAD,Zbigniew,Zibi,Rawicz,wielkopolskie,Poland
-2603203,SO3JAB,Alicja,,Rawicz,wielkopolskie,Poland
 2603204,SQ3OOK,Slawomir,,Ostrow Wielkopolski,,Poland
 2603205,SP3FDZ,Przemyslaw,,Przychow,,Poland
 2603206,SP3T,Dawid,,Lowecin,,Poland
@@ -2867,7 +2866,6 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2606072,SP6H2O,Lukasz,None,Wroclaw,dolnoslaskie,Poland
 2606073,SQ6KXY,Michal,,Wroclaw,,Poland
 2606075,SP6SG,Slawek,,Wroclaw,,Poland
-2606076,SQ6KXW,Diana,,Wroclaw,dolnoslaskie,Poland
 2606077,SP5MBX,Andrzej,,Legnica,,Poland
 2606078,SQ6KPO,Pawel,,Strzegom,,Poland
 2606079,SQ6WW,Marek,,Wroclaw,,Poland
