@@ -1796,6 +1796,8 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2601844,SP8KZI,Mateusz,Kuzniar,Rzeszow,podkarpackie,Poland
 2601845,SQ4RD,Robert,Dekarz,Monki,podlaskie,Poland
 2601846,SP5ROB,Robert, ,Warszawa,mazowieckie,Poland
+2601847,SP7ADG,Dzmitry,Akulich,Lodz,lodzkie,Poland
+2601848,SQ6ELB,Maciej,Baran,WROCLAW,dolnoslaskie,Poland
 2601999,SP5VEQ,Tomasz,Brejnak,Warszawa,mazowieckie,Poland
 2602001,SP2WGN,Maciej,,Gdansk,,Poland
 2602002,SP2FRN,Sebastian,Eferenovich,Gdynia,pomorskie,Poland
@@ -2927,7 +2929,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2606133,SQ6LJY,Marek,,Milosna,,Poland
 2606134,SP6MR,Michal,,Wroclaw,,Poland
 2606135,SQ6KOA,Tomasz,,Goszcz,,Poland
-2606136,SP6RAM,Jozef,,Praszka,,Poland
+2606136,SP6RAM,Jozef,,Praszka,dolnoslaskie,Poland
 2606137,SP6AGD,Leszek,,Brzeg,,Poland
 2606138,SQ6PNO,Przemek,,Gora,,Poland
 2606139,SP6WZC,Michal,,Brzeg,,Poland
