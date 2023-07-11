@@ -235,7 +235,6 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2600242,SQ2KTK,Dariusz,,Reda,,Poland
 2600243,SP9LDE,Roman,,Swietochlowice,,Poland
 2600244,SP5LXR,Tomasz,,Legarda,,Poland
-2600245,SP1DPA,Waldemar,,Szczecin,zachodniopomorskie,Poland
 2600246,SP0DP,Daniel,,Lukow,,Poland
 2600247,SP5MIT,Jan,,Lomianki,,Poland
 2600248,SQ6UV,Tomasz,,Bardo,,Poland
@@ -1804,6 +1803,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2601852,SP9VIK,Jakub,Holubinka,Zabrze,slaskie,Poland
 2601853,HF7FT,Marek,Tynenski,Lodz,lodzkie,Poland
 2601854,SP9BLD,Katarzyna,,Krakow,malopolskie,Poland
+2601855,SP1RKB,Rajmund,Reszkowski,Machowino,pomorskie,Poland
 2601999,SP5VEQ,Tomasz,Brejnak,Warszawa,mazowieckie,Poland
 2602001,SP2WGN,Maciej,,Gdansk,,Poland
 2602002,SP2FRN,Sebastian,Eferenovich,Gdynia,pomorskie,Poland
@@ -2825,6 +2825,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2606020,SQ6LJR,Sebastian,,Wroclaw,,Poland
 2606021,SQ6JAR,Jarek,,Przywory opolskie,,Poland
 2606022,SQ6KQK,Katarzyna,,Wroclaw,,Poland
+2606023,3Z6AET,Robert,Czapski,Wroclaw,dolnoslaskie,Poland
 2606025,SP6QNP,Piotr,,Wroclaw,,Poland
 2606026,SP6B,Krystian,,Jelenia Gora,dolnoslaskie,Poland
 2606028,SQ6DXP,Pawel,,Opole,,Poland
