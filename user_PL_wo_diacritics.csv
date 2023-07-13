@@ -1737,7 +1737,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2601786,SQ5EMA,Agnieszka,Elwertowska,Warszawa,mazowieckie,Poland
 2601787,SP6ZLD,Klub,Krotkofalarski,Legnica,dolnoslaskie,Poland
 2601788,SQ7OCJ,Jacek,Kreczmer,Skierniewice,lodzkie,Poland
-2601789,SO9ML,Marcin,Lapkowski,Rybnik,slaskie,Poland
+2601789,SO9ML,Marcin,L,Rybnik,slaskie,Poland
 2601790,SP6AZL,Krzysztof,Kranc,Prudnik,opolskie,Poland
 2601791,SP9PN,Piotr,Nesnal,Krakow,malopolskie,Poland
 2601792,SP9TD,Tadeusz,Domider,Bielsko Biala,slaskie,Poland
@@ -1808,6 +1808,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2601857,SQ9USB,Michal,Gawlicki,Gliwice,slaskie,Poland
 2601858,SP5DOT,Karol,Matusiak,Kobylka,mazowieckie,Poland
 2601859,SQ9JWK,Jakub,Wisniewski,Krakow,malopolskie,Poland
+2601860,3Z3AP,Robert,Cybulski,Jozefoslaw,mazowieckie,Poland
 2601999,SP5VEQ,Tomasz,Brejnak,Warszawa,mazowieckie,Poland
 2602001,SP2WGN,Maciej,,Gdansk,,Poland
 2602002,SP2FRN,Sebastian,Eferenovich,Gdynia,pomorskie,Poland
@@ -2651,7 +2652,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2605347,SQ5RZS,Sebastian,,Warszawa,,Poland
 2605348,SP5SJR,Robert,None,Zielonka,mazowieckie,Poland
 2605349,SQ5LAB,Dariusz,None,Konstancin-Jeziorna,mazowieckie,Poland
-2605350,SQ5IRH,Daniel,,Ostroleka,,Poland
+2605350,SQ5IRH,Daniel,,Ostroleka,mazowieckie,Poland
 2605351,SP5MJ,Marek,,Warszawa,,Poland
 2605352,SO5TC,Tymon,,Warszawa,,Poland
 2605353,SP5PK,Piotr,,Chotomow,,Poland
