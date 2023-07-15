@@ -350,7 +350,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2600365,SP9QLJ,Krzysztof,,Dabrowa Gornicza,,Poland
 2600366,SQ9OLO,Aleksander,,Cieszyn,,Poland
 2600367,SP8OS,Bogumil,,Biezdziadka,,Poland
-2600368,SQ5OMV,Dariusz,,Wiktorow,,Poland
+2600368,SQ5OMV,Dariusz,Niegowski,Wiktorow,mazowieckie,Poland
 2600369,SP5DC,Seweryn,,Plock,,Poland
 2600370,SQ5DA,Artur,Derebecki,Czerwinsk,mazowieckie,Poland
 2600371,SP7VLS,Krzysztof,,Lodz,,Poland
@@ -1814,6 +1814,10 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2601864,SQ5JAK,Sebastian ,Cywinski ,Warszawa ,mazowieckie,Poland
 2601865,SP6OLA,Slawomir ,Golebiewski,Brzeg,opolskie,Poland
 2601866,SP8KZW,Igor,Krzywicki,Lublin,lubelskie,Poland
+2601867,SP9WFM,Aleksander,Pawelczyk,Chorzow,slaskie,Poland
+2601868,SP2KW,Krzysztof ,Wyczalkowski ,Wloclawek,kujawsko-pomorskie,Poland
+2601869,SQ2WKJ,Piotr,Sobota,Bydgoszcz,kujawsko-pomorskie,Poland
+2601870,3Z2T,Marek,Runge,Bydgoszcz,kujawsko-pomorskie,Poland
 2601999,SP5VEQ,Tomasz,Brejnak,Warszawa,mazowieckie,Poland
 2602001,SP2WGN,Maciej,,Gdansk,,Poland
 2602002,SP2FRN,Sebastian,Eferenovich,Gdynia,pomorskie,Poland
@@ -1904,7 +1908,6 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2602092,SP2BP,Pawel,,Michalin,,Poland
 2602093,SQ2LKS,Robert,,Torun,,Poland
 2602094,SQ2OMA,Marcin,,Wloclawek,,Poland
-2602095,SP2BYI,Aneta,,Wloclawek,kujawsko-pomorskie,Poland
 2602096,SP2EMB,Mateusz,,Bydgoszcz,,Poland
 2602097,SQ2EES,Stanislaw,,Gdansk,,Poland
 2602098,SQ2LXA,Pawel,,Wloclawek,,Poland
