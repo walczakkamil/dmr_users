@@ -236,7 +236,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2600243,SP9LDE,Roman,,Swietochlowice,,Poland
 2600244,SP5LXR,Tomasz,,Legarda,,Poland
 2600246,SP0DP,Daniel,,Lukow,,Poland
-2600247,SP5MIT,Jan,,Lomianki,,Poland
+2600247,SP5MIT,Jan,,Lomianki,mazowieckie,Poland
 2600248,SQ6UV,Tomasz,,Bardo,,Poland
 2600249,SP8UEL,Mariusz,,Zagorz,,Poland
 2600251,SP8JT,Leszek,,Polskowola,,Poland
@@ -661,7 +661,6 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2600688,SP3CMX,Mieczyslaw,Czarnecki,Gorzow Wielkopolski,lubuskie,Poland
 2600689,SQ9DDY,Janusz,Sikorski,Mochnaczka,malopolskie,Poland
 2600690,SP3OKS,Slawomir ,Krysztofowicz,Posada,wielkopolskie,Poland
-2600691,SQ8IFF,Konrad,Komada,Lublin,lubelskie,Poland
 2600692,SP4AGA,Agnieszka,Sztachanska,Biala Piska,warminsko-mazurskie,Poland
 2600693,SQ3SWA,Artur,Makowski,Chodziez,wielkopolskie,Poland
 2600694,SP5RST,Robert,Siwiec,Olszewnica Stara,mazowieckie,Poland
@@ -1805,7 +1804,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2601855,SP1RKB,Rajmund,Reszkowski,Machowino,pomorskie,Poland
 2601856,SQ5SQ,Sebastian,Miller,Warszawa,mazowieckie,Poland
 2601857,SQ9USB,Michal,Gawlicki,Gliwice,slaskie,Poland
-2601858,SP5DOT,Karol,Matusiak,Kobylka,mazowieckie,Poland
+2601858,SP5DOT,Karol,SP5DOT,Kobylka,mazowieckie,Poland
 2601859,SQ9JWK,Jakub,Wisniewski,Krakow,malopolskie,Poland
 2601860,3Z3AP,Robert,Cybulski,Jozefoslaw,mazowieckie,Poland
 2601861,SP9KNS,Artur ,Rosiek ,Lazy,malopolskie,Poland
@@ -1818,6 +1817,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2601868,SP2KW,Krzysztof ,Wyczalkowski ,Wloclawek,kujawsko-pomorskie,Poland
 2601869,SQ2WKJ,Piotr,Sobota,Bydgoszcz,kujawsko-pomorskie,Poland
 2601870,3Z2T,Marek,Runge,Bydgoszcz,kujawsko-pomorskie,Poland
+2601871,SP5UAF,Tomasz,Barbachowski,Sulejowek,mazowieckie,Poland
 2601999,SP5VEQ,Tomasz,Brejnak,Warszawa,mazowieckie,Poland
 2602001,SP2WGN,Maciej,,Gdansk,,Poland
 2602002,SP2FRN,Sebastian,Eferenovich,Gdynia,pomorskie,Poland
@@ -3203,7 +3203,6 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2607225,SP7SDD,Sebastian,,Radomsko,,Poland
 2607226,SP7VVN,Jaroslaw,,Lodz,,Poland
 2607227,SQ7KGH,Karol,,Lodz,lodzkie,Poland
-2607228,SO7AEN,Andrzej,,Busko-Zdroj,swietokrzyskie,Poland
 2607229,SQ7KW,Kamil,,Radomsko,,Poland
 2607230,SQ7SQ,Mateusz,,Podklucze,,Poland
 2607231,SP7EPJ,Jakub,-,Pajeczno,lodzkie,Poland
@@ -3819,7 +3818,6 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2609465,SP9CSE,Alek,,Krakow,malopolskie,Poland
 2609466,SQ9BDJ,Maciej,,Tomice,,Poland
 2609467,SP9VND,Maciej,,Krakow,,Poland
-2609468,SQ9RNU,Michal,,Stara Wies,slaskie,Poland
 2609469,SP9MIB,Piotr,,Zrebice Pierwsze,,Poland
 2609470,SQ9DKV,Leszek,,Krakow,,Poland
 2609471,SQ9JDS,Marcin,,Kalwaria Zebrzydowska,,Poland
