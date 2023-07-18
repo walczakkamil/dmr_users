@@ -1820,6 +1820,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2601871,SP5UAF,Tomasz,Barbachowski,Sulejowek,mazowieckie,Poland
 2601872,SP1AKU,Arek,Czak,Lipiany,,Poland
 2601873,SQ7DAR,Dariusz,Lubecki,Kielce,swietokrzyskie,Poland
+2601874,SP5LW,Lukasz,Wlodarczyk,Warszawa,mazowieckie,Poland
 2601999,SP5VEQ,Tomasz,Brejnak,Warszawa,mazowieckie,Poland
 2602001,SP2WGN,Maciej,,Gdansk,,Poland
 2602002,SP2FRN,Sebastian,Eferenovich,Gdynia,pomorskie,Poland
@@ -1900,7 +1901,6 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2602081,SQ2HCZ,Slawek,,Bydgoszcz,,Poland
 2602083,SP2BRO,Jerzy,,Kwidzyn,,Poland
 2602084,SP2IM,Anna,,Bydgoszcz,kujawsko-pomorskie,Poland
-2602085,SP2TDI,Janusz,,Bydgoszcz,kujawsko-pomorskie,Poland
 2602086,SQ2SM,Sebastian,,Bydgoszcz,,Poland
 2602087,SP2HSA,Slawomir,,Torun,kujawsko-pomorskie,Poland
 2602088,SQ2CET,Tadeusz,Niebieszczanski,Wejherowo,pomorskie,Poland
@@ -2007,6 +2007,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2603027,SP3WXI,Krzysztof,,Poznan,wielkopolskie,Poland
 2603028,SQ3EMX,Pawel,,Trzcinica,,Poland
 2603029,SP3KT,Kacper,,Gorzow,,Poland
+2603030,SP3LDY,Waldemar,Lastowski,Gorzow Wielkopolski,lubuskie,Poland
 2603031,SQ3KC,Przemek,,Sulecinek,,Poland
 2603032,SP3JJ,Jaroslaw,,Leszno,,Poland
 2603033,SP3WWZ,Wojciech,,Poznan,,Poland
@@ -3386,7 +3387,6 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2609010,SQ9MYX,Piotr,Soltysik,Lipowa,malopolskie,Poland
 2609012,SP9DX,Mariusz,,Katowice,,Poland
 2609013,SP9UXT,Marek,,Katowice,slaskie,Poland
-2609014,SQ9DDA,Jakub,,Tarnow,podkarpackie,Poland
 2609015,SQ9CNN,Rafal,,Bedzin,slaskie,Poland
 2609016,SP9VNR,Jerzy,,Krynica-Zdroj,,Poland
 2609017,SQ9JYT,Patryk,,Muszyna,,Poland
