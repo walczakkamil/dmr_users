@@ -1822,9 +1822,10 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2601873,SQ7DAR,Dariusz,Lubecki,Kielce,swietokrzyskie,Poland
 2601874,SP5LW,Lukasz,Wlodarczyk,Warszawa,mazowieckie,Poland
 2601875,SQ9PL,Slawomir,Smolka,Pszow,slaskie,Poland
+2601876,SP9RIK,Piotr, ,Krakow,malopolskie,Poland
 2601877,SP7UNR,Rafal,Serafin,Checiny,swietokrzyskie,Poland
 2601878,SP4DEB,Romuald,Czech,Grabowka,podlaskie,Poland
-2601879,SP6HT,Tomasz,Ch,Legnica,dolnoslaskie,Poland
+2601879,SP6HT,Tomasz,,Legnica,dolnoslaskie,Poland
 2601999,SP5VEQ,Tomasz,Brejnak,Warszawa,mazowieckie,Poland
 2602001,SP2WGN,Maciej,,Gdansk,,Poland
 2602002,SP2FRN,Sebastian,Eferenovich,Gdynia,pomorskie,Poland
