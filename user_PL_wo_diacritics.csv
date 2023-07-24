@@ -1054,7 +1054,6 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2601094,SQ1NXO,Lukasz,,Szczecin,,Poland
 2601095,SP3HUG,Marcin,Graj,Pila,wielkopolskie,Poland
 2601096,SP1MT,Marek,,Borne Sulinowo,,Poland
-2601097,SQ1KW,Krzysztof,,Kolobrzeg,zachodniopomorskie,Poland
 2601098,SP1EC,Krzysztof,,Szczecin,,Poland
 2601099,SP11A,Cezary,,Stargard,,Poland
 2601100,SP1ADT,Andrzej,,Zlocieniec,,Poland
@@ -1577,7 +1576,6 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2601627,SP8KBI,Kazimierz, ,Lublin,lubelskie,Poland
 2601628,SP6FU,Marcin,Kowalicki,Srebrna Gora,dolnoslaskie,Poland
 2601629,SP1BAT,Jakub,Gendig,Polanow,zachodniopomorskie,Poland
-2601630,SQ5GVY,Andrzej,Modrzewski,Pultusk,mazowieckie,Poland
 2601631,SQ6RDN,Mariusz,Czeczko,Boleslawiec,slaskie,Poland
 2601632,SP9VFE,Piotr,Ostapowicz,Krakow,malopolskie,Poland
 2601633,SP2BRP,Krystian,Olszewski,Elblag,warminsko-mazurskie,Poland
@@ -1830,6 +1828,8 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2601881,SP6BD,Tomasz,Wojtasiewicz,Wroclaw,dolnoslaskie,Poland
 2601882,SP57A,Aleksander,Kaweczynski,Warszawa,mazowieckie,Poland
 2601883,SP7TPC,Tomasz,Cierpial,Lodz,lodzkie,Poland
+2601884,SP3MKR,Krzysztof,Mrowka,Lubasz,wielkopolskie,Poland
+2601885,SP9MHZ,Kamil,Truchel,Zory,slaskie,Poland
 2601999,SP5VEQ,Tomasz,Brejnak,Warszawa,mazowieckie,Poland
 2602001,SP2WGN,Maciej,,Gdansk,,Poland
 2602002,SP2FRN,Sebastian,Eferenovich,Gdynia,pomorskie,Poland
@@ -1910,6 +1910,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2602081,SQ2HCZ,Slawek,,Bydgoszcz,,Poland
 2602083,SP2BRO,Jerzy,,Kwidzyn,,Poland
 2602084,SP2IM,Anna,,Bydgoszcz,kujawsko-pomorskie,Poland
+2602085,SP2TDI,Janusz,,Bydgoszcz,kujawsko-pomorskie,Poland
 2602086,SQ2SM,Sebastian,,Bydgoszcz,,Poland
 2602087,SP2HSA,Slawomir,,Torun,kujawsko-pomorskie,Poland
 2602088,SQ2CET,Tadeusz,Niebieszczanski,Wejherowo,pomorskie,Poland
@@ -2689,7 +2690,6 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2605363,SP5UHX,Barbara,,Warszawa,,Poland
 2605364,SQ5JRZ,Bartek,,Warsaw,,Poland
 2605365,SO5AJG,Janusz,,Warszawa,mazowieckie,Poland
-2605366,SQ5JUV,Krzysztof,,Garwolin,mazowieckie,Poland
 2605367,SQ5PTN,Przemyslaw,,Jaktorow,mazowieckie,Poland
 2605368,SQ5FLD,Henryk,,Lyse,,Poland
 2605369,SQ5VJA,Jarek,,Warszawa,mazowieckie,Poland
