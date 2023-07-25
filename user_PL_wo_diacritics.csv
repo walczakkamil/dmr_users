@@ -1830,6 +1830,10 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2601883,SP7TPC,Tomasz,Cierpial,Lodz,lodzkie,Poland
 2601884,SP3MKR,Krzysztof,Mrowka,Lubasz,wielkopolskie,Poland
 2601885,SP9MHZ,Kamil,Truchel,Zory,slaskie,Poland
+2601886,SP5MSZ,Maciej,Szulc,Kotorydz,mazowieckie,Poland
+2601887,SP2OVH,Adam,Bieganski,Reda,,Poland
+2601889,SQ3DAB,Miroslaw,Przybylski,Dabie,wielkopolskie,Poland
+2601890,SP2LMK,Lukasz,Kusmierek,Bydgoszcz,kujawsko-pomorskie,Poland
 2601999,SP5VEQ,Tomasz,Brejnak,Warszawa,mazowieckie,Poland
 2602001,SP2WGN,Maciej,,Gdansk,,Poland
 2602002,SP2FRN,Sebastian,Eferenovich,Gdynia,pomorskie,Poland
@@ -1843,7 +1847,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2602010,SQ2OSG,Krzysztof,,Torun,kujawsko-pomorskie,Poland
 2602011,SQ2LXX,Mariusz,,Torun,,Poland
 2602012,SQ5MBG,Wojciech,,Cisie,mazowieckie,Poland
-2602013,SP2FOP,Piotr,Nowak,Gdynia,pomorskie,Poland
+2602013,SP2FOP,Piotr,Little John,Gdynia,pomorskie,Poland
 2602014,SQ2PVG,Pawel,,Chelmica-Cukrownia,,Poland
 2602015,SP1GDK,Radek,,Szczecin,zachodniopomorskie,Poland
 2602016,SQ2KLT,Kamil,Michalak,Juncewo,kujawsko-pomorskie,Poland
@@ -2365,7 +2369,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2605021,SQ5GLU,Radek,,Warsaw,,Poland
 2605022,SP5FBJ,Marcin,,Warszawa,,Poland
 2605023,SP5QWV,Jaroslaw,,Kobylka,,Poland
-2605024,SQ5MJF,Michal,,Warszawa,,Poland
+2605024,SQ5MJF,Michal,,Warszawa,mazowieckie,Poland
 2605025,SQ5MRB,Roman,P,Pruszkow,mazowieckie,Poland
 2605026,SQ5AKC,Krzysztof,,Huta Minska,mazowieckie,Poland
 2605027,SP5QIR,Artur,,Sochaczew,mazowieckie,Poland
@@ -2915,7 +2919,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2606091,SQ6MIK,Michal,,Wroclaw,,Poland
 2606092,SP6RLH,Jaroslaw,,Pultusk,,Poland
 2606093,SQ6STB,Wojciech,,Klodzko,,Poland
-2606094,SQ6MII,Krzysztof,Bernacki,Bystrzyca Klodzka,dolnoslaskie,Poland
+2606094,SQ6MII,Krzysztof,,Bystrzyca Klodzka,dolnoslaskie,Poland
 2606095,SP6ICO,Robert,Kowalewski,Ratowice,dolnoslaskie,Poland
 2606096,SP6DIL,Eugeniusz,,Kepa,,Poland
 2606097,SQ6QQ,Miroslaw,,Prudnik,,Poland
