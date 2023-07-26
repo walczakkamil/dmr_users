@@ -1539,7 +1539,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2601590,SO5AZ,Artur,Zukowski,Warszawa,mazowieckie,Poland
 2601591,SP9OQ,Leslaw,,Gliwice,slaskie,Poland
 2601592,HF0TV,Konrad,Czaplicki,Grajewo,podlaskie,Poland
-2601593,SQ5KGO,Piotr,Kalczewiak,Minsk Mazowiecki,mazowieckie,Poland
+2601593,SQ5KGO,Piotr,Kalczewiak,Warszawa,mazowieckie,Poland
 2601594,SP4JEU,Roman,Baginski,Ostroda,warminsko-mazurskie,Poland
 2601595,SP4MB,Marcin,,Bialystok,podlaskie,Poland
 2601596,SP8UKE,Mikolaj,Michalski,Podgrodzie,podkarpackie,Poland
@@ -1824,7 +1824,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2601877,SP7UNR,Rafal,Serafin,Checiny,swietokrzyskie,Poland
 2601878,SP4DEB,Romuald,Czech,Grabowka,podlaskie,Poland
 2601879,SP6HT,Tomasz,,Legnica,dolnoslaskie,Poland
-2601880,SP9IO,Rafal,Mikrut,Krakow,malopolskie,Poland
+2601880,SP9IO,Rafal,SP9IO,Krakow,malopolskie,Poland
 2601881,SP6BD,Tomasz,Wojtasiewicz,Wroclaw,dolnoslaskie,Poland
 2601882,SP57A,Aleksander,Kaweczynski,Warszawa,mazowieckie,Poland
 2601883,SP7TPC,Tomasz,Cierpial,Lodz,lodzkie,Poland
