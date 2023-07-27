@@ -1518,7 +1518,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2601569,SQ5DTL,Grzegorz,Szpak,Radom,mazowieckie,Poland
 2601570,SQ3EJ,Jedrzej, ,Debsko,wielkopolskie,Poland
 2601571,SQ9KDV,Dariusz,Kasprzyk,Luszowice,malopolskie,Poland
-2601572,SP6MRF,Andrzej,Juszkiewicz,Wroclaw,dolnoslaskie,Poland
+2601572,SP6MRF,Andrzej,Juszkiewicz,Warszawa,mazowieckie,Poland
 2601573,SP3MPB,Marcin,Brzakala,Perzow,wielkopolskie,Poland
 2601574,SP7FM,Kamil,Walczak,Lodz,lodzkie,Poland
 2601575,SP5TWG,Jacek,Przychodzien,Zyczyn,mazowieckie,Poland
@@ -1834,6 +1834,13 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2601887,SP2OVH,Adam,Bieganski,Reda,,Poland
 2601889,SQ3DAB,Miroslaw,Przybylski,Dabie,wielkopolskie,Poland
 2601890,SP2LMK,Lukasz,Kusmierek,Bydgoszcz,kujawsko-pomorskie,Poland
+2601891,SP2XDD,Kamil,Stawiarski,Wejherowo,pomorskie,Poland
+2601892,SP9MT,Tomasz,Jagla,Sosnowiec,slaskie,Poland
+2601893,SP5CYC,Przemyslaw,Stezycki,Warszawa,mazowieckie,Poland
+2601894,SQ5BJ,Jan,Michna,Warszawa,mazowieckie,Poland
+2601895,SP6JQF,Zenon,Szklarz,Wroclaw,dolnoslaskie,Poland
+2601896,SQ3FZ,Dawid,Konarczak,Zielona Gora,lubuskie,Poland
+2601897,SP7BRM,Rafal,Moskal,Skarzysko Kamienna,swietokrzyskie,Poland
 2601999,SP5VEQ,Tomasz,Brejnak,Warszawa,mazowieckie,Poland
 2602001,SP2WGN,Maciej,,Gdansk,,Poland
 2602002,SP2FRN,Sebastian,Eferenovich,Gdynia,pomorskie,Poland
