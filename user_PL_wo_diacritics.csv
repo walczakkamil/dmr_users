@@ -1834,6 +1834,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2601885,SP9MHZ,Kamil,Truchel,Zory,slaskie,Poland
 2601886,SP5MSZ,Maciej,Szulc,Kotorydz,mazowieckie,Poland
 2601887,SP2OVH,Adam,Bieganski,Reda,,Poland
+2601888,SP7IUH,Ryszard,Owczarek,Sieradz,lodzkie,Poland
 2601889,SQ3DAB,Miroslaw,Przybylski,Dabie,wielkopolskie,Poland
 2601890,SP2LMK,Lukasz,Kusmierek,Bydgoszcz,kujawsko-pomorskie,Poland
 2601891,SP2XDD,Kamil,Stawiarski,Wejherowo,pomorskie,Poland
@@ -1845,6 +1846,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2601897,SP7BRM,Rafal,Moskal,Skarzysko Kamienna,swietokrzyskie,Poland
 2601898,SP0Q,Zdzislaw,Sliwa,Niemcz,kujawsko-pomorskie,Poland
 2601899,SP5WQW,Marcin,,Warszawa,mazowieckie,Poland
+2601901,SQ2LP,Leszek,Pawlicki,Bydgoszcz,kujawsko-pomorskie,Poland
 2601999,SP5VEQ,Tomasz,Brejnak,Warszawa,mazowieckie,Poland
 2602001,SP2WGN,Maciej,,Gdansk,,Poland
 2602002,SP2FRN,Sebastian,Eferenovich,Gdynia,pomorskie,Poland
