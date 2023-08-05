@@ -1827,7 +1827,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2601878,SP4DEB,Romuald,Czech,Grabowka,podlaskie,Poland
 2601879,SP6HT,Tomasz,,Legnica,dolnoslaskie,Poland
 2601880,SP9IO,Rafal,,Krakow,malopolskie,Poland
-2601881,SP6BD,Tomasz,Wojtasiewicz,Wroclaw,dolnoslaskie,Poland
+2601881,SP6BD,Tomasz,Thomas Wojtasiewicz,Wroclaw,dolnoslaskie,Poland
 2601882,SP57A,Aleksander,Kaweczynski,Warszawa,mazowieckie,Poland
 2601883,SP7TPC,Tomasz,Cierpial,Lodz,lodzkie,Poland
 2601884,SP3MKR,Krzysztof,Mrowka,Lubasz,wielkopolskie,Poland
@@ -1850,6 +1850,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2601902,SQ4KBF,Przemyslaw,Milewski,Turosn Koscielna,podlaskie,Poland
 2601903,SP9AMP,Aleksander,Puchala,Sosnowiec,slaskie,Poland
 2601904,SP5WEB,Piotr,Naglowski,Lomianki,mazowieckie,Poland
+2601905,SP4JEY,Krzysztof,Lewicki,Bronczany,podlaskie,Poland
 2601999,SP5VEQ,Tomasz,Brejnak,Warszawa,mazowieckie,Poland
 2602001,SP2WGN,Maciej,,Gdansk,,Poland
 2602002,SP2FRN,Sebastian,Eferenovich,Gdynia,pomorskie,Poland
