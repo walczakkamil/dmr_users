@@ -1851,6 +1851,8 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2601903,SP9AMP,Aleksander,Puchala,Sosnowiec,slaskie,Poland
 2601904,SP5WEB,Piotr,Naglowski,Lomianki,mazowieckie,Poland
 2601905,SP4JEY,Krzysztof,Lewicki,Bronczany,podlaskie,Poland
+2601906,SQ5MBR,Andrzej,Wieladek,Warszawa,mazowieckie,Poland
+2601907,SQ1BVZ,Wojciech,Truszkowski,Slupsk,zachodniopomorskie,Poland
 2601999,SP5VEQ,Tomasz,Brejnak,Warszawa,mazowieckie,Poland
 2602001,SP2WGN,Maciej,,Gdansk,,Poland
 2602002,SP2FRN,Sebastian,Eferenovich,Gdynia,pomorskie,Poland
@@ -2217,7 +2219,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2604004,SQ4IOI,Krzysztof,,Szczytno,warminsko-mazurskie,Poland
 2604005,SQ4AFJ,Krzysztof,Zukowski,Ketrzyn,warminsko-mazurskie,Poland
 2604006,SP4TWQ,Andrzej,,Szczytno,warminsko-mazurskie,Poland
-2604007,SQ4FAE,Krzysztof,Chris,Mragowo,warminsko-mazurskie,Poland
+2604007,SQ4FAE,Krzysztof,,Mragowo,warminsko-mazurskie,Poland
 2604008,SP4HXV,Andrzej,Sarnacki,Konarzyce,podlaskie,Poland
 2604009,SQ4FAF,Marek,,Mragowo,warminsko-mazurskie,Poland
 2604010,SP4WK,Wojciech,,Swietajno,warminsko-mazurskie,Poland
@@ -2229,9 +2231,10 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2604016,SQ4NJQ,Norbert,Chojnowski,Lomza,podlaskie,Poland
 2604017,SQ4KDE,Jaroslaw,Warcaba,Piatki Wielki,warminsko-mazurskie,Poland
 2604018,SQ4KDF,Tomek,Kowalski,Goldap,podlaskie,Poland
+2604019,SP4OIQ,Kazimierz,,Elk,podlaskie,Poland
 2604020,SP4KDK,Adam,Gajczewski,Paslek,warminsko-mazurskie,Poland
 2604021,SQ4NYZ,Pawel,,Bialystok,podlaskie,Poland
-2604022,SQ4FAE,Krzysztof,Chris,Mragowo,warminsko-mazurskie,Poland
+2604022,SQ4FAE,Krzysztof,,Mragowo,warminsko-mazurskie,Poland
 2604023,SP4XQE,Jerzy,,Ketrzyn,warminsko-mazurskie,Poland
 2604024,SQ4MUI,Adam,,Hajnowka,podlaskie,Poland
 2604025,SP4WK,Wojciech,,Swietajno,warminsko-mazurskie,Poland
@@ -2242,7 +2245,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2604031,SQ4GXA,Jan,Sidor,Punsk,podlaskie,Poland
 2604032,SQ4KLM,Marcin,Lebica,Braniewo,warminsko-mazurskie,Poland
 2604033,SP4XKB,Konrad,Czaplicki,Grajewo,podlaskie,Poland
-2604034,SQ4RSU,Bartlomiej,,Sokolka,,Poland
+2604034,SQ4RSU,Bartlomiej,,Sokolka,podlaskie,Poland
 2604035,SP4XKB,Konrad,Czaplicki,Grajewo,podlaskie,Poland
 2604036,SP4WRZ,Irek,Zacharewicz,Bialowieza,podlaskie,Poland
 2604037,SP4RZA,Andrzej,,Bialystok,podlaskie,Poland
@@ -2250,7 +2253,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2604039,SQ4MUI,Adam,,Hajnowka,podlaskie,Poland
 2604040,SQ4HRR,Wojciech,,Nowe Miasto Lubawski,podlaskie,Poland
 2604041,SP4HMU,Adam,Liberacki,Lubawa,podlaskie,Poland
-2604042,SP4B,Lukasz,,Wirwajdy,,Poland
+2604042,SP4B,Lukasz,,Wirwajdy,podlaskie,Poland
 2604043,SQ4OAG,Boguslaw,Tichoniuk,Bialystok,podlaskie,Poland
 2604045,SP4KW,Karol,Wysocki,Olecko,warminsko-mazurskie,Poland
 2604046,SP4FDH,Michal,Sztachanski,Biala Piska,warminsko-mazurskie,Poland
@@ -2304,7 +2307,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2604095,SP4MAZ,Klub,,Biala Piska,,Poland
 2604096,SQ4G,Grzegorz,,Bialystok,,Poland
 2604097,SP4FEU,Dariusz,,Koplany,podlaskie,Poland
-2604098,SQ4RSU,Bartlomiej,,Sokolka,,Poland
+2604098,SQ4RSU,Bartlomiej,,Sokolka,podlaskie,Poland
 2604099,SQ4AVH,Anatol,,Sobolewo,,Poland
 2604100,HF4U,Paulina,,Bialystok,,Poland
 2604101,SP4NKQ,Eugeniusz,,Bialystok,,Poland
@@ -3571,7 +3574,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2609167,SQ9WRT,Marcin,,Czstochowa,,Poland
 2609169,SQ9SPR,Tomasz,Adamczyk,Radziechowy,slaskie,Poland
 2609170,SQ9AC,Marcin,Deren,Bielsko Biala,podkarpackie,Poland
-2609171,SP9WTE,Tomasz,,Tarnow,,Poland
+2609171,SP9WTE,Tomasz,,Tarnow,malopolskie,Poland
 2609172,SP9WTG,Andrzej,,Jodlowka-Walki,,Poland
 2609173,SP9RWS,Rafal,,Katowice,,Poland
 2609174,SQ9JDS,Marcin,,Kalwaria Zebrzydowska,,Poland
