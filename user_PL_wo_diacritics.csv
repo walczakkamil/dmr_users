@@ -318,7 +318,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2600333,SQ7OCI,Piotr,,Lodz,lodzkie,Poland
 2600334,SP8KRET,Lukasz,,Lublin,,Poland
 2600335,SQ3EYG,Hieronim,,Chodziez,wielkopolskie,Poland
-2600336,SP6BRZ,Dariusz,None,Brzeg,,Poland
+2600336,SP6BRZ,Dariusz,Kulawinek,Brzeg,dolnoslaskie,Poland
 2600337,SP9WLC,Tomasz,,Rybnik,,Poland
 2600338,SQ8ESQ,Jakub,,Bilgoraj,,Poland
 2600339,SQ9BTI,Marcin,,Krakow,malopolskie,Poland
@@ -1852,7 +1852,10 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2601904,SP5WEB,Piotr,Naglowski,Lomianki,mazowieckie,Poland
 2601905,SP4JEY,Krzysztof,Lewicki,Bronczany,podlaskie,Poland
 2601906,SQ5MBR,Andrzej,Wieladek,Warszawa,mazowieckie,Poland
-2601907,SQ1BVZ,Wojciech,Truszkowski,Slupsk,zachodniopomorskie,Poland
+2601907,SQ1BVZ,Wojciech,Truszkowski,Slupsk,pomorskie,Poland
+2601908,SP2BCZ,Bartosz,Czerwiec,Mogilno,kujawsko-pomorskie,Poland
+2601909,SP2PRJ,Piotr,Jarosz,Strzelno,kujawsko-pomorskie,Poland
+2601910,SP6BK,Kazimierz,BILMON,Olesnice,dolnoslaskie,Poland
 2601999,SP5VEQ,Tomasz,Brejnak,Warszawa,mazowieckie,Poland
 2602001,SP2WGN,Maciej,,Gdansk,,Poland
 2602002,SP2FRN,Sebastian,Eferenovich,Gdynia,pomorskie,Poland
