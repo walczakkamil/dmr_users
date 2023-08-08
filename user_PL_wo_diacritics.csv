@@ -318,7 +318,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2600333,SQ7OCI,Piotr,,Lodz,lodzkie,Poland
 2600334,SP8KRET,Lukasz,,Lublin,,Poland
 2600335,SQ3EYG,Hieronim,,Chodziez,wielkopolskie,Poland
-2600336,SP6BRZ,Dariusz,Kulawinek,Brzeg,dolnoslaskie,Poland
+2600336,SP6BRZ,Dariusz, ,Brzeg,opolskie,Poland
 2600337,SP9WLC,Tomasz,,Rybnik,,Poland
 2600338,SQ8ESQ,Jakub,,Bilgoraj,,Poland
 2600339,SQ9BTI,Marcin,,Krakow,malopolskie,Poland
@@ -1855,7 +1855,11 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2601907,SQ1BVZ,Wojciech,Truszkowski,Slupsk,pomorskie,Poland
 2601908,SP2BCZ,Bartosz,Czerwiec,Mogilno,kujawsko-pomorskie,Poland
 2601909,SP2PRJ,Piotr,Jarosz,Strzelno,kujawsko-pomorskie,Poland
-2601910,SP6BK,Kazimierz,BILMON,Olesnice,dolnoslaskie,Poland
+2601910,SP6BK,Kazimierz,Bilmon,Olesnica,dolnoslaskie,Poland
+2601911,SQ8GUP,Waclaw,Moskal,Jaslo,podkarpackie,Poland
+2601912,SP3VDC,Dariusz,D,Poznan,wielkopolskie,Poland
+2601913,SP8SZ,Sebastian,Zwanski,Rzeszow,podkarpackie,Poland
+2601914,SP2BM,Marek,Bruski,Slesin,kujawsko-pomorskie,Poland
 2601999,SP5VEQ,Tomasz,Brejnak,Warszawa,mazowieckie,Poland
 2602001,SP2WGN,Maciej,,Gdansk,,Poland
 2602002,SP2FRN,Sebastian,Eferenovich,Gdynia,pomorskie,Poland
@@ -3526,7 +3530,6 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2609114,SP9Q,Piotr,,Zawoja,,Poland
 2609115,SQ9APX,Jan,,Tarnow,slaskie,Poland
 2609116,SP9SVE,Kazimierz,,Krakow,malopolskie,Poland
-2609117,SO9ADV,Robert,,Raciechowice,slaskie,Poland
 2609118,SP9SVJ,Bogdan,,Dobczyce,,Poland
 2609119,SQ9NFI,Jaroslaw,Druzbinski,Zawiercie,slaskie,Poland
 2609120,SP9APJ,Przemek,Rozkrut,Biertowice,malopolskie,Poland
@@ -3674,7 +3677,6 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2609272,SQ9POD,Lukasz,,Laziska Gorne,,Poland
 2609273,SP9OYB,Janusz,,Limanowa,,Poland
 2609274,SQ9OKT,Marcin,Kowalik,Kasina Wielka,malopolskie,Poland
-2609275,SO9ADV,Robert,,Raciechowice,slaskie,Poland
 2609276,SP9PWM,Piotr,,Pila Koscielecka,,Poland
 2609277,SQ9KQP,Piotr,,Czstochowa,,Poland
 2609278,SP9BIG,Robert,Nizinski,Zielonki,malopolskie,Poland
