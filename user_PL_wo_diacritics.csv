@@ -1781,7 +1781,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2601832,SP9UNM,Michal,Gorka,Kluczbork,opolskie,Poland
 2601833,HF9MTR,Maciej,Master,Makow Podhalanski,malopolskie,Poland
 2601834,SP2EKO,Andrzej,Sowa,Kwidzyn,pomorskie,Poland
-2601835,SP9WCB,Wojciech,Hartman,Bytom,slaskie,Poland
+2601835,SP9WCB,Wojciech,H,Bytom,slaskie,Poland
 2601836,SP7OQX,Krzysztof,Marchlewski,Zuromin,mazowieckie,Poland
 2601837,SQ3TCG,Tomasz,Cholys,Kalisz,wielkopolskie,Poland
 2601838,SQ2BC,Karol,Zroslak,Kobylarnia,kujawsko-pomorskie,Poland
@@ -1858,7 +1858,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2601910,SP6BK,Kazimierz,Bilmon,Olesnica,dolnoslaskie,Poland
 2601911,SQ8GUP,Waclaw,Moskal,Jaslo,podkarpackie,Poland
 2601912,SP3VDC,Dariusz,D,Poznan,wielkopolskie,Poland
-2601913,SP8SZ,Sebastian,Zwanski,Rzeszow,podkarpackie,Poland
+2601913,SP8SZ,Sebastian,Z,KO10AA,podkarpackie,Poland
 2601914,SP2BM,Marek,Bruski,Slesin,kujawsko-pomorskie,Poland
 2601999,SP5VEQ,Tomasz,Brejnak,Warszawa,mazowieckie,Poland
 2602001,SP2WGN,Maciej,,Gdansk,,Poland
@@ -3260,7 +3260,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2608002,SP8PG,Grzegorz,,Zamosc,lubelskie,Poland
 2608003,SQ8LUN,Lukasz,None,Lublin,,Poland
 2608004,SQ8KMY,Robert,,Lublin,,Poland
-2608005,SP8MTA,Tomasz,,Piotrkow Trybunalski,lodzkie,Poland
+2608005,SP8MTA,Tomasz, ,Piotrkow Trybunalski,lodzkie,Poland
 2608006,SQ8KJC,Agnieszka,,Milocin,,Poland
 2608007,SQ8NXM,Pawel,,Lublin,,Poland
 2608008,SP8QEO,Slawomir,Daczkowski,Chotylow,lubelskie,Poland
@@ -3320,7 +3320,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2608064,SQ8WN,Marcin,None,Lublin,,Poland
 2608065,SQ8LUI,Jolanta,,Zastawie,,Poland
 2608066,SP8MK,Kamil,,Lublin,,Poland
-2608067,SP8MTA,Tomasz,,Piotrkow Trybunalski,lodzkie,Poland
+2608067,SP8MTA,Tomasz, ,Piotrkow Trybunalski,lodzkie,Poland
 2608068,SQ8ISD,Artur,,Swidnik,,Poland
 2608069,SO8BP,Miroslaw,,Biala Podlaska,,Poland
 2608070,SO8ABA,Miroslaw,,Biala Podlaska,,Poland
