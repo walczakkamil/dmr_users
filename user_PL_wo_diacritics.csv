@@ -1859,6 +1859,8 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2601917,SQ5AWA,Janusz,Antczak,Krzynowloga Mala,mazowieckie,Poland
 2601918,SP2DO,Dariusz,Obojski,Gdynia,pomorskie,Poland
 2601919,SP2WIT,Witold,Obojski,Gdynia,pomorskie,Poland
+2601920,SN0OP,Tomasz,Grzeszczak,Swinoujscie,zachodniopomorskie,Poland
+2601921,SO1BJ,Bartosz,Jonca,Borne Sulinowo,zachodniopomorskie,Poland
 2601999,SP5VEQ,Tomasz,Brejnak,Warszawa,mazowieckie,Poland
 2602001,SP2WGN,Maciej,,Gdansk,,Poland
 2602002,SP2FRN,Sebastian,Eferenovich,Gdynia,pomorskie,Poland
@@ -2898,7 +2900,6 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2606043,SP6VWX,Robert,,Miekinia,,Poland
 2606044,SP6TM,Marcin,,Wroclaw,,Poland
 2606045,SQ6ODL,Przemek,,Radziadz,dolnoslaskie,Poland
-2606046,SQ6GIT,Konrad,Smolak,Pisarzowice,opolskie,Poland
 2606047,SQ6PLA,Agnieszka,,Legnica,opolskie,Poland
 2606048,SQ6LAE,Jarek,,Legnica,,Poland
 2606049,SQ6KOE,Dawid,Linkowski,Swidnica,dolnoslaskie,Poland
