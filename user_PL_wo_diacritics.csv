@@ -1861,6 +1861,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2601919,SP2WIT,Witold,Obojski,Gdynia,pomorskie,Poland
 2601920,SN0OP,Tomasz,Grzeszczak,Swinoujscie,zachodniopomorskie,Poland
 2601921,SO1BJ,Bartosz,Jonca,Borne Sulinowo,zachodniopomorskie,Poland
+2601922,SQ3TOM,Przemyslaw,Cichocki,Pecna,wielkopolskie,Poland
 2601999,SP5VEQ,Tomasz,Brejnak,Warszawa,mazowieckie,Poland
 2602001,SP2WGN,Maciej,,Gdansk,,Poland
 2602002,SP2FRN,Sebastian,Eferenovich,Gdynia,pomorskie,Poland
@@ -2210,6 +2211,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2603200,SP3VSC,Jacek,,Konin,,Poland
 2603201,SP3FTO,Jacek,,Czempin,,Poland
 2603202,SP3RAD,Zbigniew,Zibi,Rawicz,wielkopolskie,Poland
+2603203,SO3JAB,Alicja,,Rawicz,wielkopolskie,Poland
 2603204,SQ3OOK,Slawomir,,Ostrow Wielkopolski,,Poland
 2603205,SP3FDZ,Przemyslaw,,Przychow,,Poland
 2603206,SP3T,Dawid,,Lowecin,,Poland
