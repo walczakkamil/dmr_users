@@ -1868,6 +1868,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2601926,SQ5NBT,Andrzej,Niewiadomski,Warszawa,mazowieckie,Poland
 2601927,SQ5SSP,Marcin,Lukasik,Warszawa,mazowieckie,Poland
 2601928,SQ9PXB,Mateusz,Szczygiel,Krakow,malopolskie,Poland
+2601929,SQ5NAO,Joanna,Matuszewicz,Zabki,mazowieckie,Poland
 2601999,SP5VEQ,Tomasz,Brejnak,Warszawa,mazowieckie,Poland
 2602001,SP2WGN,Maciej,,Gdansk,,Poland
 2602002,SP2FRN,Sebastian,Eferenovich,Gdynia,pomorskie,Poland
@@ -2023,7 +2024,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2602166,SQ2ICE,Arek,,Lowin,,Poland
 2602168,SP2RAW,Remigiusz,,Bydgoszcz,,Poland
 2602169,SQ2RSE,Roberto,,Mezowo,,Poland
-2602170,SP2RZ,Robert,,Gdansk,,Poland
+2602170,SP2RZ,Robert,Zawistowski,Gdansk,pomorskie,Poland
 2602222,HF2Y,Maciej,,Gdynia,pomorskie,Poland
 2602552,HF2Y,Maciej,,Gdynia,pomorskie,Poland
 2603001,SQ3CLK,Michal,,Poznan,,Poland
