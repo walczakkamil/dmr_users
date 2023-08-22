@@ -2437,7 +2437,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2605057,SP5PKK,Piotr,,Grodzisk Mazowiecki,,Poland
 2605058,SQ7EHO,Lukasz,,Skierniewice,,Poland
 2605059,SP8QER,Radoslaw,,Parczew,lubelskie,Poland
-2605060,SP5XHC,Adam,,Warszawa,,Poland
+2605060,SP5XHC,Adam,None,Warszawa,,Poland
 2605061,SQ5PJ,Patryk,Jasinski,Zielonka,mazowieckie,Poland
 2605063,SP5XMX,Jerzy,,Warszawa,,Poland
 2605064,SQ5SDM,Marcin,,Warszawa,,Poland
@@ -3463,7 +3463,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2609038,SP9WFH,Maciej,,Krakow,,Poland
 2609039,SP0MASR,Michal,,Krakow,,Poland
 2609040,SQ9DHP,Wojciech,None,RYCHWALD,slaskie,Poland
-2609041,SQ9DDL,Bogdan,,Chabowka,,Poland
+2609041,SQ9DDL,Bogdan,,Chabowka,podkarpackie,Poland
 2609042,SQ9NFQ,Pawel,,Mylenice,,Poland
 2609043,SP9SCZ,Tomasz,,Krakow,malopolskie,Poland
 2609044,SQ9IWL,Piotr,,Mikolow,slaskie,Poland
