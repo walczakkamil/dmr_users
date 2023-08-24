@@ -1867,9 +1867,13 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2601925,SQ5MJM,Jacek,Wozniak,Warszawa,mazowieckie,Poland
 2601926,SQ5NBT,Andrzej,Niewiadomski,Warszawa,mazowieckie,Poland
 2601927,SQ5SSP,Marcin,Lukasik,Warszawa,mazowieckie,Poland
-2601928,SQ9PXB,Mateusz,Szczygiel,Krakow,malopolskie,Poland
+2601928,SQ9PXB,Mateusz,Szczygiel,Krakow,,Poland
 2601929,SQ5NAO,Joanna,Matuszewicz,Zabki,mazowieckie,Poland
 2601930,SP9FUC,Jerzy,Kolorz,Pszow,slaskie,Poland
+2601931,SP5GTI,Janusz,Szewera,Warszawa,mazowieckie,Poland
+2601932,SQ4FFU,Robert,Marcinkiewicz,Bialystok,podlaskie,Poland
+2601933,SP2WDH,Piotr, ,Gdansk,pomorskie,Poland
+2601934,SP8BOW,Bartosz,,Rudnik,podkarpackie,Poland
 2601999,SP5VEQ,Tomasz,Brejnak,Warszawa,mazowieckie,Poland
 2602001,SP2WGN,Maciej,,Gdansk,,Poland
 2602002,SP2FRN,Sebastian,Eferenovich,Gdynia,pomorskie,Poland
@@ -2740,7 +2744,6 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2605373,SP5ELA,Zygmunt,Szumski,Warszawa,mazowieckie,Poland
 2605374,SQ5STS,Pawel,,Dziechciniec,,Poland
 2605375,SP5WE,Filip,,Warszawa,,Poland
-2605376,SP5JI,Czeslaw,Grembowski,Ozarow Mazowiecki,mazowieckie,Poland
 2605377,SP5OXB,Andrzej,,Warszawa,,Poland
 2605378,SP5TSS,Artur,,Radom,,Poland
 2605379,SP5KE,Marek,,Warszawa,,Poland
