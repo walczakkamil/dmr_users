@@ -353,6 +353,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2600370,SQ5DA,Artur,Derebecki,Czerwinsk,mazowieckie,Poland
 2600371,SP7VLS,Krzysztof,,Lodz,,Poland
 2600372,SP9LIV,Krystian,,Orzesze,,Poland
+2600373,SP2LMA,Miroslaw,Lewandowski,Gdansk,pomorskie,Poland
 2600375,SQ9TM,Marek,,Pcim,malopolskie,Poland
 2600376,HF9CW,Stella,,Brzusnik,mazowieckie,Poland
 2600377,SQ2RCB,Andrzej,,Torun,,Poland
@@ -456,7 +457,6 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2600475,SP6IZU,Hubert,,Wroclaw,dolnoslaskie,Poland
 2600476,SP3VN,Jacek,,Poznan,wielkopolskie,Poland
 2600477,SP9ERY,Aleksander,,Katowice,slaskie,Poland
-2600478,SP2CHY,Wojciech,,Mosty,pomorskie,Poland
 2600479,SQ8KJJ,Krzysztof,,Biala Podlaska,lubelskie,Poland
 2600481,SP9TMK,Michal,,Bielsko-Biala,malopolskie,Poland
 2600482,SP1RWX,Rafal,,Lobez,zachodniopomorskie,Poland
@@ -517,7 +517,6 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2600538,SP6MLT,Andrzej,Lukowiak,Wroclaw,dolnoslaskie,Poland
 2600539,SQ9RIF,Janusz,Filary,Rybnik,slaskie,Poland
 2600540,SQ6IYD,Mariusz,Warchal,Lubin,dolnoslaskie,Poland
-2600541,SQ5PS,Pawel,,Nadarzyn,mazowieckie,Poland
 2600542,SQ5AGD,Agnieszka,,Pruszkow,mazowieckie,Poland
 2600543,SQ9APO,Jacek,Tobiasz,Szarow,malopolskie,Poland
 2600544,SP7ZEG,Piotr,Zegota,Lodz,lodzkie,Poland
@@ -1874,6 +1873,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2601932,SQ4FFU,Robert,Marcinkiewicz,Bialystok,podlaskie,Poland
 2601933,SP2WDH,Piotr, ,Gdansk,pomorskie,Poland
 2601934,SP8BOW,Bartosz,,Rudnik,podkarpackie,Poland
+2601935,SP5RDD,Dariusz,Safarzynski,Warszawa,mazowieckie,Poland
 2601999,SP5VEQ,Tomasz,Brejnak,Warszawa,mazowieckie,Poland
 2602001,SP2WGN,Maciej,,Gdansk,,Poland
 2602002,SP2FRN,Sebastian,Eferenovich,Gdynia,pomorskie,Poland
@@ -2579,7 +2579,6 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2605205,SQ5SKB,Karol,,Jozefowice,mazowieckie,Poland
 2605206,SQ5SDL,Piotr,,Legionowo,,Poland
 2605207,SP5OSP,Michal,Wojciechowski,Celinow,mazowieckie,Poland
-2605208,SQ5B,Mariusz,,Warszawa,mazowieckie,Poland
 2605209,SQ5ALQ,Piotr,,Leszno,mazowieckie,Poland
 2605210,SQ5RJK,Dariusz,,Warszawa,,Poland
 2605211,SQ5H,Henryk,,Augustowek,,Poland
@@ -2792,7 +2791,6 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2605424,SP5HIN,Krzysztof,,Warszawa,,Poland
 2605425,SP7FNU,Piotr,,Marki,,Poland
 2605426,SQ9NKF,Krystian,,Dziekanow Lesny,,Poland
-2605427,SQ5PGG,Mariusz,,Radom,mazowieckie,Poland
 2605428,SP5XMY,Dariusz,,Pelchocin,,Poland
 2605429,SP5UUD,Andrzej,,Drazdzewo,,Poland
 2605430,SP5TD,Tomasz,,Warszawa,,Poland
