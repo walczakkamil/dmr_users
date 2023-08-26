@@ -672,7 +672,6 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2600703,SQ8NQW,Marek,Wos,Terliczka,podkarpackie,Poland
 2600704,SQ7RAI,Artur,Janus,Opoczno,lodzkie,Poland
 2600705,SQ9JDR,Janusz,Pietruszkiewicz,Mloszowa,malopolskie,Poland
-2600706,SQ2PPL,Sebastian,Labuda,Nowa Wies Leborska,pomorskie,Poland
 2600707,SP7PGK,Klub,OT 15,Lodz,lodzkie,Poland
 2600708,SQ7HJX,Przemek,Balinski,Wlodzimierzow,lodzkie,Poland
 2600709,SP8LNK,Stanislaw,Krupa,Lezajsk,podkarpackie,Poland
@@ -1874,6 +1873,8 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2601933,SP2WDH,Piotr, ,Gdansk,pomorskie,Poland
 2601934,SP8BOW,Bartosz,,Rudnik,podkarpackie,Poland
 2601935,SP5RDD,Dariusz,Safarzynski,Warszawa,mazowieckie,Poland
+2601936,SP6VS,Wiktor,S,Opole,opolskie,Poland
+2601937,SP3TUD,Jaroslaw,Ratajczak,Niemczyn,wielkopolskie,Poland
 2601999,SP5VEQ,Tomasz,Brejnak,Warszawa,mazowieckie,Poland
 2602001,SP2WGN,Maciej,,Gdansk,,Poland
 2602002,SP2FRN,Sebastian,Eferenovich,Gdynia,pomorskie,Poland
@@ -2579,6 +2580,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2605205,SQ5SKB,Karol,,Jozefowice,mazowieckie,Poland
 2605206,SQ5SDL,Piotr,,Legionowo,,Poland
 2605207,SP5OSP,Michal,Wojciechowski,Celinow,mazowieckie,Poland
+2605208,SQ5B,Mariusz,Chrzanowski,Warszawa,mazowieckie,Poland
 2605209,SQ5ALQ,Piotr,,Leszno,mazowieckie,Poland
 2605210,SQ5RJK,Dariusz,,Warszawa,,Poland
 2605211,SQ5H,Henryk,,Augustowek,,Poland
