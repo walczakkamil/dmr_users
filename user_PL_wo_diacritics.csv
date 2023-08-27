@@ -1873,7 +1873,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2601933,SP2WDH,Piotr, ,Gdansk,pomorskie,Poland
 2601934,SP8BOW,Bartosz,,Rudnik,podkarpackie,Poland
 2601935,SP5RDD,Dariusz,Safarzynski,Warszawa,mazowieckie,Poland
-2601936,SP6VS,Wiktor,S,Opole,opolskie,Poland
+2601936,SP6VS,Wiktor,Stefanowicz,Opole,opolskie,Poland
 2601937,SP3TUD,Jaroslaw,Ratajczak,Niemczyn,wielkopolskie,Poland
 2601999,SP5VEQ,Tomasz,Brejnak,Warszawa,mazowieckie,Poland
 2602001,SP2WGN,Maciej,,Gdansk,,Poland
@@ -2996,7 +2996,6 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2606129,SP6SK,Slawomir,,Lubin,,Poland
 2606130,SP6DNP,Tadeusz,,Legnica,,Poland
 2606131,SQ6RDZ,Wojciech,,Wroclaw,,Poland
-2606132,SP6MRC,Tadeusz,,Prudnik,,Poland
 2606133,SQ6LJY,Marek,,Milosna,,Poland
 2606134,SP6MR,Michal,,Wroclaw,,Poland
 2606135,SQ6KOA,Tomasz,,Goszcz,,Poland
@@ -3063,7 +3062,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2607020,SQ7OKL,Oskar,,Lodz,lodzkie,Poland
 2607021,SQ7FJB,Piotr,,Piotrkow Trybunalski,lodzkie,Poland
 2607022,SP7TUL,Klub,,Lodz,lodzkie,Poland
-2607023,SQ7PSQ,Wojciech,,Beczkow,,Poland
+2607023,SQ7PSQ,Wojciech,Lizner,Beczkow,swietokrzyskie,Poland
 2607024,SQ7OBG,Dariusz,,Kutno,lodzkie,Poland
 2607025,SQ7KHZ,Piotr,,Biala,lodzkie,Poland
 2607026,SQ7NHP,Emil,Krajewski,Lodz,lodzkie,Poland
@@ -3158,7 +3157,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2607120,SQ7OWV,Robert,Krepa,Wolka Gieraszowska,swietokrzyskie,Poland
 2607121,SP7AB,Piotr,,Porszewice,,Poland
 2607122,SP7MP,Maciej,Pob,Lodz,lodzkie,Poland
-2607123,SQ7PSQ,Wojciech,,Beczkow,,Poland
+2607123,SQ7PSQ,Wojciech,Lizner,Beczkow,swietokrzyskie,Poland
 2607124,SP7ATE,Pawel,Zaton,Radomsko,lodzkie,Poland
 2607125,SQ7BFY,Adam,,Lodz,,Poland
 2607126,SQ7EQT,Slawomir,,Zbludowice,swietokrzyskie,Poland
