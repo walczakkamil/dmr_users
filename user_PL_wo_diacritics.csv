@@ -1791,7 +1791,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2601850,SP9SZW,Szymon,Wolniewicz,Czestochowa,slaskie,Poland
 2601851,SQ5ID,Igor,Dzikiewicz,Kuflew,mazowieckie,Poland
 2601852,SP9VIK,Jakub,Holubinka,Zabrze,slaskie,Poland
-2601853,HF7FT,Marek,Tynenski,Lodz,lodzkie,Poland
+2601853,HF7FT,Marek,Tyne,Lodz,lodzkie,Poland
 2601854,SP9BLD,Katarzyna,,Krakow,malopolskie,Poland
 2601855,SP1RKB,Rajmund,Reszkowski,Machowino,pomorskie,Poland
 2601856,SQ5SQ,Sebastian,Miller,Warszawa,mazowieckie,Poland
@@ -1875,6 +1875,12 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2601935,SP5RDD,Dariusz,Safarzynski,Warszawa,mazowieckie,Poland
 2601936,SP6VS,Wiktor,Stefanowicz,Opole,opolskie,Poland
 2601937,SP3TUD,Jaroslaw,Ratajczak,Niemczyn,wielkopolskie,Poland
+2601938,SQ7IZA,Izabela,Bobrowska,Radkow,swietokrzyskie,Poland
+2601939,SP8PMM,Piotr,Makarski,Lublin,lubelskie,Poland
+2601940,SP5SKY,Marcin,Przybylski,Jozefow,mazowieckie,Poland
+2601941,SQ5UE,Ireneusz,Wisniewski,Minsk Mazowiecki,mazowieckie,Poland
+2601942,SQ6KIP,Tomasz,Osinski,Brzezce ,opolskie,Poland
+2601943,SQ5MRT,Tomasz,Blaszczak,Pruszkow,mazowieckie,Poland
 2601999,SP5VEQ,Tomasz,Brejnak,Warszawa,mazowieckie,Poland
 2602001,SP2WGN,Maciej,,Gdansk,,Poland
 2602002,SP2FRN,Sebastian,Eferenovich,Gdynia,pomorskie,Poland
@@ -2012,6 +2018,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2602143,SP2RXY,Dorota,,Torun,,Poland
 2602145,SP2KRZ,Krzysztof,,Bydgoszcz,,Poland
 2602147,SP2WDV,Zbigniew,,Starogard Gdanski,,Poland
+2602148,SQ2TAC,Pawel,Z,Reda,pomorskie,Poland
 2602151,SP2ALT,Wojciech,,Chojnice,,Poland
 2602152,SP2HCA,Alan,,Gdansk,,Poland
 2602153,SP2LQP,Piotr,,Chojnice,kujawsko-pomorskie,Poland
