@@ -1771,7 +1771,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2601830,SQ7ZTV,Jakub,Sakowicz,Lodz,lodzkie,Poland
 2601831,SP6RM,Mykola,Rozvadovskyi,Wroclaw,dolnoslaskie,Poland
 2601832,SP9UNM,Michal,Gorka,Kluczbork,opolskie,Poland
-2601833,HF9MTR,Maciej,Master,Makow Podhalanski,malopolskie,Poland
+2601833,HF9MTR,Maciej,Bisaga,Makow Podhalanski,malopolskie,Poland
 2601834,SP2EKO,Andrzej,Sowa,Kwidzyn,pomorskie,Poland
 2601835,SP9WCB,Wojciech,H,Bytom,slaskie,Poland
 2601836,SP7OQX,Krzysztof,Marchlewski,Zuromin,mazowieckie,Poland
@@ -1881,6 +1881,9 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2601941,SQ5UE,Ireneusz,Wisniewski,Minsk Mazowiecki,mazowieckie,Poland
 2601942,SQ6KIP,Tomasz,Osinski,Brzezce ,opolskie,Poland
 2601943,SQ5MRT,Tomasz,Blaszczak,Pruszkow,mazowieckie,Poland
+2601944,SP5XEW,Marek,,Warszawa,mazowieckie,Poland
+2601945,SP9XI,Zygmunt,Ptak,Jurgow,malopolskie,Poland
+2601946,SP2LFD,Grzegorz,Malkiewicz,Biale Blota,kujawsko-pomorskie,Poland
 2601999,SP5VEQ,Tomasz,Brejnak,Warszawa,mazowieckie,Poland
 2602001,SP2WGN,Maciej,,Gdansk,,Poland
 2602002,SP2FRN,Sebastian,Eferenovich,Gdynia,pomorskie,Poland
@@ -2947,6 +2950,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2606071,SP6LHI,Jacek,,Opole,,Poland
 2606072,SP6H2O,Lukasz,None,Wroclaw,dolnoslaskie,Poland
 2606073,SQ6KXY,Michal,,Wroclaw,,Poland
+2606074,SP6PF,Peter,None,Zabierzow,,Poland
 2606075,SP6SG,Slawek,,Wroclaw,,Poland
 2606077,SP5MBX,Andrzej,,Legnica,,Poland
 2606078,SQ6KPO,Pawel,,Strzegom,,Poland
