@@ -166,7 +166,6 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2600169,SQ6MPA,Przemek,,Jelenia Gora,,Poland
 2600170,SQ2LYQ,Przemyslaw,,Piotrkow Trybunalski,,Poland
 2600171,SP5GNI,Miroslaw,,Warszawa,,Poland
-2600172,SQ5MBG,Wojciech,,Cisie,mazowieckie,Poland
 2600173,SP5WCK,Janusz,,Sokolow Podlaski,,Poland
 2600174,SQ5EKU,Robert,None,Karczew,mazowieckie,Poland
 2600175,SP6FCS,Jaroslaw,,Wroclaw,dolnoslaskie,Poland
@@ -1884,6 +1883,8 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2601944,SP5XEW,Marek,,Warszawa,mazowieckie,Poland
 2601945,SP9XI,Zygmunt,Ptak,Jurgow,malopolskie,Poland
 2601946,SP2LFD,Grzegorz,Malkiewicz,Biale Blota,kujawsko-pomorskie,Poland
+2601947,SP9RED,Anna,Batko,Tychy,slaskie,Poland
+2601948,SP9APE,Michal,Zurawski,Katowice,slaskie,Poland
 2601999,SP5VEQ,Tomasz,Brejnak,Warszawa,mazowieckie,Poland
 2602001,SP2WGN,Maciej,,Gdansk,,Poland
 2602002,SP2FRN,Sebastian,Eferenovich,Gdynia,pomorskie,Poland
@@ -1896,7 +1897,6 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2602009,SQ4AFR,Daniel,,Suwalki,podlaskie,Poland
 2602010,SQ2OSG,Krzysztof,,Torun,kujawsko-pomorskie,Poland
 2602011,SQ2LXX,Mariusz,,Torun,,Poland
-2602012,SQ5MBG,Wojciech,,Cisie,mazowieckie,Poland
 2602013,SP2FOP,Piotr,Little John,Gdynia,pomorskie,Poland
 2602014,SQ2PVG,Pawel,,Chelmica-Cukrownia,,Poland
 2602015,SP1GDK,Radek,,Szczecin,zachodniopomorskie,Poland
@@ -2950,7 +2950,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2606071,SP6LHI,Jacek,,Opole,,Poland
 2606072,SP6H2O,Lukasz,None,Wroclaw,dolnoslaskie,Poland
 2606073,SQ6KXY,Michal,,Wroclaw,,Poland
-2606074,SP6PF,Peter,None,Zabierzow,,Poland
+2606074,SP6PF,Peter,Frohlich,Zabierzow,opolskie,Poland
 2606075,SP6SG,Slawek,,Wroclaw,,Poland
 2606077,SP5MBX,Andrzej,,Legnica,,Poland
 2606078,SQ6KPO,Pawel,,Strzegom,,Poland
@@ -3552,6 +3552,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2609114,SP9Q,Piotr,,Zawoja,,Poland
 2609115,SQ9APX,Jan,,Tarnow,slaskie,Poland
 2609116,SP9SVE,Kazimierz,,Krakow,malopolskie,Poland
+2609117,SO9ADV,Robert,Satola,Raciechowice,slaskie,Poland
 2609118,SP9SVJ,Bogdan,,Dobczyce,,Poland
 2609119,SQ9NFI,Jaroslaw,Druzbinski,Zawiercie,slaskie,Poland
 2609120,SP9APJ,Przemek,Rozkrut,Biertowice,malopolskie,Poland
@@ -3699,6 +3700,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2609272,SQ9POD,Lukasz,,Laziska Gorne,,Poland
 2609273,SP9OYB,Janusz,,Limanowa,,Poland
 2609274,SQ9OKT,Marcin,Kowalik,Kasina Wielka,malopolskie,Poland
+2609275,SO9ADV,Robert,Satola,Raciechowice,slaskie,Poland
 2609276,SP9PWM,Piotr,,Pila Koscielecka,,Poland
 2609277,SQ9KQP,Piotr,,Czstochowa,,Poland
 2609278,SP9BIG,Robert,Nizinski,Zielonki,malopolskie,Poland
