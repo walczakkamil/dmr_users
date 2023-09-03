@@ -371,7 +371,6 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2600389,SP9MQU,Eugeniusz,,Katowice,slaskie,Poland
 2600390,SP7SMF,Marek,,Mirkow,lodzkie,Poland
 2600391,SP9PKS,Klub,,Mikolow,,Poland
-2600392,SP3IS,Jerzy,None,Poznan,,Poland
 2600393,SP1GAL,Krzysztof,,Smolecin,,Poland
 2600394,SQ5MOG,Wojciech,,Pruszynek,,Poland
 2600395,SQ7FBP,Mariusz,,Busko-Zdroj,,Poland
@@ -899,7 +898,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2600934,SP3QDU,Henryk,Pawlak,Ostrow Wlkp,wielkopolskie,Poland
 2600935,SP6KH,Kamil,Hofman,Jelcz Laskowice,dolnoslaskie,Poland
 2600936,SQ2HEG,Bogdan,Gorzynski,Elblag,warminsko-mazurskie,Poland
-2600937,SP9EP,Pawel,,Cisownica,slaskie,Poland
+2600937,SP9EP,Pawel,Mr,Cisownica,,Poland
 2600938,SP8OWL,Piotr,Kirczuk,Swidnik,lubelskie,Poland
 2600939,SQ7EHG,Michal,Blaszczyk,Sieradz,lodzkie,Poland
 2600940,SQ8TDI,Tomasz,Kurczyk,Debica,podkarpackie,Poland
@@ -1893,6 +1892,8 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2601952,SQ8BS,Bartosz,Surowiec,Podleszany,podkarpackie,Poland
 2601953,SQ8NA,Mateusz,Mastej,Kielnarowa,podkarpackie,Poland
 2601954,SP9EUR,Grzegorz,M,Krakow,malopolskie,Poland
+2601955,SQ8RKR,Mateusz,Krezalek,Kobylany,lubelskie,Poland
+2601956,SP5XZG,Jan,,Warszawa,mazowieckie,Poland
 2601999,SP5VEQ,Tomasz,Brejnak,Warszawa,mazowieckie,Poland
 2602001,SP2WGN,Maciej,,Gdansk,,Poland
 2602002,SP2FRN,Sebastian,Eferenovich,Gdynia,pomorskie,Poland
@@ -2112,7 +2113,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2603063,SP3WWD,Dariusz,,Zielona Gora,,Poland
 2603064,SQ3KNL,Krzysztof,Wlazlak ,Ostrow Wielkopolski ,wielkopolskie,Poland
 2603065,SQ3NTO,Michal,Osyczka,Zielona Gora,wielkopolskie,Poland
-2603066,SQ3OPH,Pawel,,Swarzedz,,Poland
+2603066,SQ3OPH,Pawel,Nawrot,Jasin,wielkopolskie,Poland
 2603067,SP3IZN,Krzysztof,,Poznan,,Poland
 2603068,SQ3MQD,Andrzej, ,Lubsko,lubuskie,Poland
 2603069,SP3ANL,Andrzej,,Poznan,,Poland
@@ -3376,7 +3377,6 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2608094,SQ8FEU,Pawel,,Rzeszow,,Poland
 2608096,SQ8KMR,Romek,None,Lublin,,Poland
 2608097,SQ8MFO,Grzegorz,,Zagrze,,Poland
-2608098,SQ8WTC,Jakub,None,Lancut,,Poland
 2608099,SP8B,Bogdan,,Rzeszow,,Poland
 2608100,SP8SMA,Sebastian,,Blizne,,Poland
 2608101,SP8MFG,Michal,,Rzeczyca,,Poland
@@ -3899,7 +3899,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2609478,SP9PAW,Pawel,,Krakow,,Poland
 2609479,SP9OFM,Wojciech,,Wieliczka,,Poland
 2609480,SQ9ORT,Kazimierz,,Jaworzno,,Poland
-2609481,SP9GM,Grzegorz,,Ustron,podkarpackie,Poland
+2609481,SP9GM,Grzegorz,Mazurek,Ustron,slaskie,Poland
 2609482,SP9TDF,Krzysztof,,Krakow,,Poland
 2609483,SP9DLM,Dariusz,Michalski,Ruda Slaska,slaskie,Poland
 2609484,SN9W,Mateusz,,Podzamcze,,Poland
@@ -3919,7 +3919,6 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2609498,SP9OYT,Mariusz,,Lowczowek,,Poland
 2609500,SP9UVG,Gustaw,,Myslowice,slaskie,Poland
 2609501,SP9EA,Andrzej,Eliasz,Jaworzno,slaskie,Poland
-2609502,SQ9CXE,Mariusz,None,Sosnowiec,,Poland
 2609503,SP9AJM,Alojzy,Smajdor,Nowy Sacz,malopolskie,Poland
 2609504,SP9PW,Pawel,,Katowice,,Poland
 2609505,SQ9BOR,Krzysztof,,Piekary Slaskie,,Poland
@@ -3930,7 +3929,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2609510,SQ9PDK,Damian,,Krakow,,Poland
 2609511,SO9GH,Rafal,None,Sosnowiec,,Poland
 2609512,SP9AWP,Wojciech,,Tarnowskie Gory,slaskie,Poland
-2609513,SP9GM,Grzegorz,,Ustron,podkarpackie,Poland
+2609513,SP9GM,Grzegorz,Mazurek,Ustron,slaskie,Poland
 2609514,SQ9MYQ,Michal,,Gliwice,,Poland
 2609516,SP9TKW,Marek,,Glogoczow,slaskie,Poland
 2609517,SP9BGS,Jerzy,,Katowice,,Poland
