@@ -1838,6 +1838,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2601897,SP7BRM,Rafal,Moskal,Skarzysko Kamienna,swietokrzyskie,Poland
 2601898,SP0Q,Zdzislaw,Sliwa,Niemcz,kujawsko-pomorskie,Poland
 2601899,SP5WQW,Marcin,,Warszawa,mazowieckie,Poland
+2601900,SP7SE,Marcin,Rzepecki,Szynkielow ,lodzkie,Poland
 2601901,SQ2LP,Leszek,Pawlicki,Bydgoszcz,kujawsko-pomorskie,Poland
 2601902,SQ4KBF,Przemyslaw,Milewski,Turosn Koscielna,podlaskie,Poland
 2601903,SP9AMP,Aleksander,Puchala,Sosnowiec,slaskie,Poland
@@ -1894,6 +1895,9 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2601954,SP9EUR,Grzegorz,M,Krakow,malopolskie,Poland
 2601955,SQ8RKR,Mateusz,Krezalek,Kobylany,lubelskie,Poland
 2601956,SP5XZG,Jan,,Warszawa,mazowieckie,Poland
+2601957,SP2KZ,Krzysztof ,Zaorski,Maszlowo ,pomorskie,Poland
+2601958,SQ2TMC,Tomasz,Mackowski,Nowy Dzialyn,kujawsko-pomorskie,Poland
+2601959,SQ3POV,Dariusz,Kerber,Swarzedz,wielkopolskie,Poland
 2601999,SP5VEQ,Tomasz,Brejnak,Warszawa,mazowieckie,Poland
 2602001,SP2WGN,Maciej,,Gdansk,,Poland
 2602002,SP2FRN,Sebastian,Eferenovich,Gdynia,pomorskie,Poland
