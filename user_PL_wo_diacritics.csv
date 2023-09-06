@@ -1297,6 +1297,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2601347,SP2VIM,Szymon,Kempny,Gdansk,pomorskie,Poland
 2601348,SP9KON,Lukasz,Konieczny,Swietochlowice,slaskie,Poland
 2601349,SP7CWZ,Jan,Maniecki,Lodz,lodzkie,Poland
+2601350,SP7EVG,Krzysztof,Olczak,Lodz,lodzkie,Poland
 2601351,SP9MPX,Michal,Peterek,Katowice,slaskie,Poland
 2601352,SQ6MIF,Jerzy,Brzostek,Ziebice,dolnoslaskie,Poland
 2601353,SP7MME,Rafal,Biernacki,Lodz,lodzkie,Poland
@@ -1898,6 +1899,9 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2601957,SP2KZ,Krzysztof ,Zaorski,Maszlowo ,pomorskie,Poland
 2601958,SQ2TMC,Tomasz,Mackowski,Nowy Dzialyn,kujawsko-pomorskie,Poland
 2601959,SQ3POV,Dariusz,Kerber,Swarzedz,wielkopolskie,Poland
+2601960,SQ6GGI,Daniel,Zmarlak,Zabkowice Slaskie,dolnoslaskie,Poland
+2601961,SP7POR,Marcin,Sliwinski,Lowicz,lodzkie,Poland
+2601962,SP5AH,Piotr,Lutynski,Warszawa,mazowieckie,Poland
 2601999,SP5VEQ,Tomasz,Brejnak,Warszawa,mazowieckie,Poland
 2602001,SP2WGN,Maciej,,Gdansk,,Poland
 2602002,SP2FRN,Sebastian,Eferenovich,Gdynia,pomorskie,Poland
