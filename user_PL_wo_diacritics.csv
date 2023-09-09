@@ -1374,6 +1374,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2601426,SP9MPZ,Marcin,Placzek,Krakow,malopolskie,Poland
 2601427,SP9DPD,Adam,Wrobel,Ruda Slaska,slaskie,Poland
 2601428,SO9S,Adrian, ,Chorzow,slaskie,Poland
+2601429,SQ4OZO,Marcin,Mazur,Olsztyn,warminsko-mazurskie,Poland
 2601430,SP2OMO,Daniel,Da,Domatowo,pomorskie,Poland
 2601431,SN8KR,Kacper,Raczka,Jaslo,podkarpackie,Poland
 2601432,SQ7KLK,Krzysztof,Klatka,Skierniewice,lodzkie,Poland
@@ -1636,7 +1637,6 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2601694,SP2LOL,Dawid,Dziamski,Biesowice,pomorskie,Poland
 2601695,SQ7DSP,Artur,Maciag,Gidle,lodzkie,Poland
 2601696,SP3SXS,Marek,Bejczak,Chodziez,wielkopolskie,Poland
-2601697,SQ9SFC,Michal,Waclawek,Jaworzno,slaskie,Poland
 2601698,SP9AWA,Lukasz,Henski,Rybnik,slaskie,Poland
 2601699,SQ5IXI,Marek,Radziszewski,Warszawa,mazowieckie,Poland
 2601700,SP7FJX,Zbigniew,Hajnrych,Sieradz,lodzkie,Poland
@@ -1905,6 +1905,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2601963,SP2MJP,Marek,Piosik,Gdansk,pomorskie,Poland
 2601964,SP7PLE,Artur,Gatarek,Radomsko,lodzkie,Poland
 2601965,SP9ADC,Adam,Chwirut,Gliwice,slaskie,Poland
+2601966,SP1AMM,Maciej,Dabrowski,Swidwin,zachodniopomorskie,Poland
 2601999,SP5VEQ,Tomasz,Brejnak,Warszawa,mazowieckie,Poland
 2602001,SP2WGN,Maciej,,Gdansk,,Poland
 2602002,SP2FRN,Sebastian,Eferenovich,Gdynia,pomorskie,Poland
@@ -3691,7 +3692,6 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2609247,SQ9MDD,Ryszard,,Istebna,,Poland
 2609248,SQ9MLH,Oliwer,,Klobuck,,Poland
 2609249,SP9KRK,Krzysztof,,Krakow,,Poland
-2609250,SO9ARC,Robert,None,Krakow,,Poland
 2609251,SP9KN,Przemek,,Myszkow,,Poland
 2609252,SQ9MYB,Maciek,None,Makow Podhalanski,,Poland
 2609253,SQ9DHS,Adam,,Jastrzebie Zdroj,,Poland
@@ -3838,7 +3838,6 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2609403,SQ9LFP,Mariusz,,Podole-Gorowa,,Poland
 2609404,SP9JMR,Marcin,,Rybarzowice,,Poland
 2609405,SQ9ONG,Grzegorz,,Proszowice,,Poland
-2609406,SQ9CWN,Rafal,None,Tychy,,Poland
 2609407,SP9PJ,Piotr,,Chorzow,,Poland
 2609409,SP9FWQ,Arkadiusz,,Rybna,,Poland
 2609410,SP9AK,Arkadiusz,,Krakow,,Poland
