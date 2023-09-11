@@ -1908,6 +1908,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2601966,SP1AMM,Maciej,Dabrowski,Swidwin,zachodniopomorskie,Poland
 2601967,SP5RFL,Rafal,Czeczotka,Warszawa,mazowieckie,Poland
 2601968,SP6PAT,Patryk,Szymczak,Wroclaw,dolnoslaskie,Poland
+2601969,SP6KBU,Piotr,Knap,Dobromierz,dolnoslaskie,Poland
 2601999,SP5VEQ,Tomasz,Brejnak,Warszawa,mazowieckie,Poland
 2602001,SP2WGN,Maciej,,Gdansk,,Poland
 2602002,SP2FRN,Sebastian,Eferenovich,Gdynia,pomorskie,Poland
@@ -2439,6 +2440,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2605017,SP5RDU,Wojciech,,Brwinw,,Poland
 2605018,SP5RDU,Wojciech,,Brwinw,,Poland
 2605019,SQ5OMO,Marcin,Urbanski,Marki,mazowieckie,Poland
+2605020,SQ5CJZ,Robert,Ojrzynski,Pruszkow,mazowieckie,Poland
 2605021,SQ5GLU,Radek,,Warsaw,,Poland
 2605022,SP5FBJ,Marcin,,Warszawa,,Poland
 2605023,SP5QWV,Jaroslaw,,Kobylka,,Poland
@@ -2836,6 +2838,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2605439,SP5XAQ,Pawel,Jaworowski,Drezewo,mazowieckie,Poland
 2605440,SQ5SAA,Jan,,Warszawa,,Poland
 2605441,SQ5MJA,Artur,,Radom,,Poland
+2605442,SQ5CJZ,Robert,Ojrzynski,Pruszkow,mazowieckie,Poland
 2605443,SQ5LTE,Slawomir,,Radzymin,,Poland
 2605444,SP5G,Robert,,Warszawa,,Poland
 2605445,SP5MXT,Tadeusz,,Ostroleka,,Poland
