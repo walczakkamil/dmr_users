@@ -408,7 +408,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2600427,SP2PR,Pawel,,Torun,,Poland
 2600428,SP9DLK,Wojciech,,Piekary Slaskie,,Poland
 2600429,SQ5MRD,Mikolaj,,Sochaczew,,Poland
-2600430,SP1ITU,Rudiger,,Utonie,,Poland
+2600430,SP1ITU,Rudiger,Stingel,Utonie,zachodniopomorskie,Poland
 2600431,SQ3OPF,Pawel,,Uzarzewo,,Poland
 2600432,SP9SNG,Zbigniew,,Dabrowa Gornicza,,Poland
 2600433,SP3UCC,Janusz,,Blotnica,wielkopolskie,Poland
@@ -1911,6 +1911,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2601969,SP6KBU,Piotr,Knap,Dobromierz,dolnoslaskie,Poland
 2601970,SP6SPL,Jakub,Brach,Wroclaw,dolnoslaskie,Poland
 2601971,SQ6KAT,Przemek,Katulski,Wroclaw,dolnoslaskie,Poland
+2601972,SP1PMY,Klub,Mysliborski Klub Lacznosci Polskiego Zwiazku Krotkofalowcow,Mysliborz,zachodniopomorskie,Poland
 2601999,SP5VEQ,Tomasz,Brejnak,Warszawa,mazowieckie,Poland
 2602001,SP2WGN,Maciej,,Gdansk,,Poland
 2602002,SP2FRN,Sebastian,Eferenovich,Gdynia,pomorskie,Poland
@@ -2403,7 +2404,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2604137,SQ4HKP,Robert,SQ4HKP,PL,podlaskie,Poland
 2604138,SQ2DOL,Adam,,Elblag,warminsko-mazurskie,Poland
 2604139,SP4AX,Kacper,,Huta,,Poland
-2604140,SQ4EWA,Marian,,Bialystok,,Poland
+2604140,SQ4EWA,Marian,,Bialystok,podlaskie,Poland
 2604141,SQ4RO,Roman,,Krynice,,Poland
 2604142,SQ4JEE,Andrzej,,Izbiszcze,,Poland
 2604143,SP3UW,Igor,   ,Pila,wielkopolskie,Poland
