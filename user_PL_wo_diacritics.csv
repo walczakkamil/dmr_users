@@ -1914,6 +1914,12 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2601972,SP1PMY,Klub,Mysliborski Klub Lacznosci Polskiego Zwiazku Krotkofalowcow,Mysliborz,zachodniopomorskie,Poland
 2601973,SP9UA,Andrii,Patola,Zabrze,slaskie,Poland
 2601974,SP9MJM,Jaroslaw,Pawlak,Ruda Slaska,slaskie,Poland
+2601975,SP9WKM,Michal,,Nowy Sacz,malopolskie,Poland
+2601976,SP5ONE,Bartlomiej,Kwiatkowski,Kosumce,mazowieckie,Poland
+2601978,SP6MDX,Rajmund,Komosinski,Jedlina Zdroj,dolnoslaskie,Poland
+2601979,SP1JJY,Stefan,Jaworski,Mysliborz,zachodniopomorskie,Poland
+2601980,SQ9PDE,Przemyslaw,Wojtala,Zawiercie,slaskie,Poland
+2601981,SQ2SKI,Piotr,Ziembikiewicz,Torun,kujawsko-pomorskie,Poland
 2601999,SP5VEQ,Tomasz,Brejnak,Warszawa,mazowieckie,Poland
 2602001,SP2WGN,Maciej,,Gdansk,,Poland
 2602002,SP2FRN,Sebastian,Eferenovich,Gdynia,pomorskie,Poland
@@ -3906,6 +3912,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2609465,SP9CSE,Alek,,Krakow,malopolskie,Poland
 2609466,SQ9BDJ,Maciej,,Tomice,,Poland
 2609467,SP9VND,Maciej,,Krakow,,Poland
+2609468,SQ9RNU,Michal,,Stara Wies,slaskie,Poland
 2609469,SP9MIB,Piotr,,Zrebice Pierwsze,,Poland
 2609470,SQ9DKV,Leszek,,Krakow,,Poland
 2609471,SQ9JDS,Marcin,,Kalwaria Zebrzydowska,,Poland
