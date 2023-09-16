@@ -1,11 +1,11 @@
 RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2600001,SQ7LRX,Adam,K,Lodz,lodzkie,Poland
-2600002,SQ7SCC,Arek,,Lodz,lodzkie,Poland
+2600002,SQ7SCC,Arek,,Lodz,,Poland
 2600003,SP9UXY,Andrzej,,Gliwice,slaskie,Poland
 2600004,SQ7AYZ,Piotr,,Aleksandrow Lodzki,lodzkie,Poland
 2600005,SQ7OFD,Artur,,Lodz,lodzkie,Poland
 2600006,SQ7JHC,Lukasz,,Belchatow,lodzkie,Poland
-2600007,SQ7SCC,Arek,,Lodz,lodzkie,Poland
+2600007,SQ7SCC,Arek,,Lodz,,Poland
 2600008,SP5QWK,Artur,Karolak,Lowicz,lodzkie,Poland
 2600009,SP7AM,Grzegorz,,Opatow,swietokrzyskie,Poland
 2600010,SP7UKL,Cezary,,Lodz,lodzkie,Poland
@@ -665,7 +665,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2600697,SQ6ADD,Dawid,,Swidnica,dolnoslaskie,Poland
 2600698,SQ7LQT,Zbigniew ,,,,Poland
 2600699,SP9OUV,Jacek,Nowak,Bielsko Biala,slaskie,Poland
-2600700,SP7CC,Arek,,Lodz,lodzkie,Poland
+2600700,SP7CC,Arek,,Lodz,,Poland
 2600701,SP7ELO,Bartosz,,Lowicz,lodzkie,Poland
 2600702,SQ2KAK,Mariusz,,Bydgoszcz,kujawsko-pomorskie,Poland
 2600703,SQ8NQW,Marek,Wos,Terliczka,podkarpackie,Poland
@@ -740,7 +740,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2600773,SQ9LFB,Andrzej,Michalski,Nowy Sacz,malopolskie,Poland
 2600774,SP3PDA,Adam,Witkowski,Sulecinek,wielkopolskie,Poland
 2600775,SP5ARW,Piotr,Sitek,Warszawa,mazowieckie,Poland
-2600777,SP7CC,Arek,,Lodz,lodzkie,Poland
+2600777,SP7CC,Arek,,Lodz,,Poland
 2600778,SP4DIR,Michal,Jasionowicz,Olsztyn,warminsko-mazurskie,Poland
 2600779,SP9H,Michal, Lukasiak,Krakow,malopolskie,Poland
 2600780,SP9XDS,Daniel,Sokol,Jaworzno,slaskie,Poland
@@ -957,7 +957,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2600994,SQ2ODE,Mariusz,Stefaniak,Chelmno,kujawsko-pomorskie,Poland
 2600995,SP9POL,Marcin,,Krakow,malopolskie,Poland
 2600996,SP8IRQ,Rafal,Rychlicki ,Dzierzkowice,lubelskie,Poland
-2600997,SP7CC,Arek,,Lodz,lodzkie,Poland
+2600997,SP7CC,Arek,,Lodz,,Poland
 2600998,SQ2RAD,Adrian,Wozniak,Gdynia,pomorskie,Poland
 2600999,SP7TECH,Klub,Techniczny,Lodz,lodzkie,Poland
 2601000,SP0RP,Klub,Fundacja,Czestochowa,slaskie,Poland
@@ -1916,6 +1916,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2601974,SP9MJM,Jaroslaw,Pawlak,Ruda Slaska,slaskie,Poland
 2601975,SP9WKM,Michal,,Nowy Sacz,malopolskie,Poland
 2601976,SP5ONE,Bartlomiej,Kwiatkowski,Kosumce,mazowieckie,Poland
+2601977,SP7WJR,Janusz,Wrobel,Rawa Mazowiecka,lodzkie,Poland
 2601978,SP6MDX,Rajmund,Komosinski,Jedlina Zdroj,dolnoslaskie,Poland
 2601979,SP1JJY,Stefan,Jaworski,Mysliborz,zachodniopomorskie,Poland
 2601980,SQ9PDE,Przemyslaw,Wojtala,Zawiercie,slaskie,Poland
@@ -3088,13 +3089,13 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2606178,SQ6SFO,Jakub,Stepniewicz,Wroclaw,dolnoslaskie,Poland
 2606180,SQ6NEF,Tomasz,Filipowicz,Wilkszyn,dolnoslaskie,Poland
 2606181,SP6DK,Krzysztof,,Swidnica,,Poland
-2607002,SQ7SCC,Arek,,Lodz,lodzkie,Poland
+2607002,SQ7SCC,Arek,,Lodz,,Poland
 2607003,SQ7LRX,Adam,K,Lodz,lodzkie,Poland
 2607004,SQ7AYZ,Piotr,,Aleksandrow Lodzki,lodzkie,Poland
 2607005,SQ7OFD,Artur,,Lodz,lodzkie,Poland
 2607006,SQ7PFP,Marcin,,Lodz,lodzkie,Poland
-2607007,SQ7SCC,Arek,,Lodz,lodzkie,Poland
-2607009,SP7CC,Arek,,Lodz,lodzkie,Poland
+2607007,SQ7SCC,Arek,,Lodz,,Poland
+2607009,SP7CC,Arek,,Lodz,,Poland
 2607011,SQ7LRX,Adam,K,Lodz,lodzkie,Poland
 2607012,SQ7JHC,Lukasz,,Belchatow,lodzkie,Poland
 2607013,SP7BIX,Radomir,,Wielun,lodzkie,Poland
