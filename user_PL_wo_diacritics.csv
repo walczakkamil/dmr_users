@@ -1663,7 +1663,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2601721,SP8PLC,Jakub,Szynkarczuk,Zamosc,lubelskie,Poland
 2601722,SP3WAL,Waldemar,Michalak,Nochowo,wielkopolskie,Poland
 2601723,SQ8NVC,Wieslaw,Koleczek,Hucisko Jawornickie,podkarpackie,Poland
-2601724,SQ9SMI,Daniel,Jaskolski,Ruda Slaska,slaskie,Poland
+2601724,SQ9SMI,Daniel,J,Chorzow,slaskie,Poland
 2601725,SQ2CPA,Damian,Osiecki,Tonin,kujawsko-pomorskie,Poland
 2601726,SQ6NDL,Grzegorz,Nawrat,Strzelce Opolskie,opolskie,Poland
 2601727,SP6MGI,Marcin,,Jelenia Gora,,Poland
@@ -1929,6 +1929,10 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2601987,SP9ONE,Marcin, ,Krakow,malopolskie,Poland
 2601989,SP3WBW,Wlodzimierz,Chodor,Poznan,wielkopolskie,Poland
 2601990,SP9SAP,Pawel,Sapeta,Jaworzno,slaskie,Poland
+2601991,SP2ECM,Kacper,Musial,Gdynia,pomorskie,Poland
+2601992,SP6WAF,Zenon,Karczmarczyk,Zdzieszowice,opolskie,Poland
+2601993,SP0PQB,Jacek,,,,Poland
+2601994,SP5GW,Andrzej,Mazur,Otwock,mazowieckie,Poland
 2601999,SP5VEQ,Tomasz,Brejnak,Warszawa,mazowieckie,Poland
 2602001,SP2WGN,Maciej,,Gdansk,,Poland
 2602002,SP2FRN,Sebastian,Eferenovich,Gdynia,pomorskie,Poland
@@ -2386,7 +2390,6 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2604100,HF4U,Paulina,,Bialystok,,Poland
 2604101,SP4NKQ,Eugeniusz,,Bialystok,,Poland
 2604102,SP4JLT,Tomasz,,Bialystok,,Poland
-2604103,SQ4IOB,Jaroslaw,,Lejdy,podlaskie,Poland
 2604104,SQ4A,Adam,,Bialystok,,Poland
 2604105,SP4MC,Marek,,Bialystok,,Poland
 2604106,SP4HMS,Stanislaw,,Badle,podlaskie,Poland
