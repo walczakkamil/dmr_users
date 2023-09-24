@@ -369,7 +369,6 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2600387,SP9MOM,Maciej,,Gliwice,,Poland
 2600388,SP9TT,Tadeusz,,Tarnowskie Gory,,Poland
 2600389,SP9MQU,Eugeniusz,,Katowice,slaskie,Poland
-2600390,SP7SMF,Marek,,Mirkow,lodzkie,Poland
 2600391,SP9PKS,Klub,,Mikolow,,Poland
 2600393,SP1GAL,Krzysztof,,Smolecin,,Poland
 2600394,SQ5MOG,Wojciech,,Pruszynek,,Poland
@@ -378,7 +377,6 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2600397,SP5BOB,Rafal,,Sedek,,Poland
 2600398,SP7HO,Jacek,,Zyrardow,mazowieckie,Poland
 2600399,SO5DZ,Przemyslaw,,Nowy Dwor Mazowiecki,,Poland
-2600400,SP7SMF,Marek,,Mirkow,lodzkie,Poland
 2600401,HF9ZHP,ZHP Bedzin,Klub Harcerski,Bedzin,slaskie,Poland
 2600402,SP5RAK,Robert,,Warszawa,,Poland
 2600403,SP6DG,Dawid,,Skokowa,,Poland
@@ -460,7 +458,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2600481,SP9TMK,Michal,,Bielsko-Biala,malopolskie,Poland
 2600482,SP1RWX,Rafal,,Lobez,zachodniopomorskie,Poland
 2600483,SP2SKL,Jakub,,Gdansk,pomorskie,Poland
-2600484,SQ6KQE,Adrian,,Jelenia Gora,dolnoslaskie,Poland
+2600484,SQ6KQE,Adrian,Zodz,Jelenia Gora,dolnoslaskie,Poland
 2600485,SQ4FAU,Zdzislaw,,Bielsk Podlaski,podlaskie,Poland
 2600486,SP0MM,Michal,Brennek,Warszawa,Mazowieckie,Poland
 2600487,SQ5DAL,Leszek,,Gora Kalwaria,mazowieckie,Poland
@@ -1001,7 +999,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2601040,HF1RF,Remigiusz,,Szczecin,,Poland
 2601041,SP1CIN,Konrad,None,Szczecin,zachodniopomorskie,Poland
 2601042,SQ1BHK,Aleksander,,Przeclaw,zachodniopomorskie,Poland
-2601043,SP1VDE,Pawel,,Szczecim,,Poland
+2601043,SP1VDE,Pawel,,Szczecim,zachodniopomorskie,Poland
 2601044,SP1CGT,Andrzej,,Szczecin,zachodniopomorskie,Poland
 2601045,SQ1FYC,Marek,Marks,Pezino,zachodniopomorskie,Poland
 2601047,SP7LK,Lukasz,Kaczmarek,Zdunska Wola,lodzkie,Poland
@@ -3350,7 +3348,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2608025,SQ8ERB,Przemyslaw,,Jaslo,podkarpackie,Poland
 2608026,SP8SA,Piotr,,Lublin,,Poland
 2608027,SP8BRE,Bogdan,Kochmanski,Rzeszow,podkarpackie,Poland
-2608028,SP8EBC,Mateusz,,Rzeszow,,Poland
+2608028,SP8EBC,Mateusz,,Rzeszow,podkarpackie,Poland
 2608029,SQ8MXL,Piotr,Lotycz,Jaroslaw,podkarpackie,Poland
 2608030,SQ8DRH,Marek,Chmiel,Dzierzkowice,lubelskie,Poland
 2608031,SQ8SET,Radoslaw,,Krasnik,podkarpackie,Poland
