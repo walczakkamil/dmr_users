@@ -369,6 +369,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2600387,SP9MOM,Maciej,,Gliwice,,Poland
 2600388,SP9TT,Tadeusz,,Tarnowskie Gory,,Poland
 2600389,SP9MQU,Eugeniusz,,Katowice,slaskie,Poland
+2600390,SP7SMF,Marek,,Mirkow,lodzkie,Poland
 2600391,SP9PKS,Klub,,Mikolow,,Poland
 2600393,SP1GAL,Krzysztof,,Smolecin,,Poland
 2600394,SQ5MOG,Wojciech,,Pruszynek,,Poland
@@ -377,6 +378,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2600397,SP5BOB,Rafal,,Sedek,,Poland
 2600398,SP7HO,Jacek,,Zyrardow,mazowieckie,Poland
 2600399,SO5DZ,Przemyslaw,,Nowy Dwor Mazowiecki,,Poland
+2600400,SP7SMF,Marek,,Mirkow,lodzkie,Poland
 2600401,HF9ZHP,ZHP Bedzin,Klub Harcerski,Bedzin,slaskie,Poland
 2600402,SP5RAK,Robert,,Warszawa,,Poland
 2600403,SP6DG,Dawid,,Skokowa,,Poland
@@ -1931,6 +1933,9 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2601992,SP6WAF,Zenon,Karczmarczyk,Zdzieszowice,opolskie,Poland
 2601993,SP0PQB,Jacek,,,,Poland
 2601994,SP5GW,Andrzej,Mazur,Otwock,mazowieckie,Poland
+2601995,SQ6PBA,Pawel,Brozyna,Ulesie,dolnoslaskie,Poland
+2601996,SP6IZA,Robert,Sidorowicz,Jawor,dolnoslaskie,Poland
+2601998,SQ8JIU,Mariusz,Baryla,Radzyn Podlaski,lubelskie,Poland
 2601999,SP5VEQ,Tomasz,Brejnak,Warszawa,mazowieckie,Poland
 2602001,SP2WGN,Maciej,,Gdansk,,Poland
 2602002,SP2FRN,Sebastian,Eferenovich,Gdynia,pomorskie,Poland
@@ -2485,7 +2490,6 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2605044,SQ5IZS,Krzysztof,Moneta,Warszawa,mazowieckie,Poland
 2605045,SQ5LTL,Pawel,Czajka,Garbatka-Letnisko,mazowieckie,Poland
 2605046,SQ8MFR,Krzysztof,,Lublin,,Poland
-2605047,SP8NTH,Grzegorz,Woloszun,Wlodawa,lubelskie,Poland
 2605048,SQ5AC,Antoni,,Piastow,mazowieckie,Poland
 2605049,SP5NAF,Grzegorz,Golan,Kadzidlo,mazowieckie,Poland
 2605050,SP5CWC,Daniel,,Piaseczno,mazowieckie,Poland
