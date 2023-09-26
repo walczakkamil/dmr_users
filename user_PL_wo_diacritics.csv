@@ -445,7 +445,6 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2600464,SP1MPW,Pawel,,Kolobrzeg,,Poland
 2600465,SP5J,Jan,,Warszawa,mazowieckie,Poland
 2600466,SP7PBC,Klub,,Skierniewice,lodzkie,Poland
-2600467,SP9WFU,Leszek,,Krakow,malopolskie,Poland
 2600468,SP1AL,Andrzej,,Bydgoszcz,kujawsko-pomorskie,Poland
 2600469,SP1IC,Irek,,Zlocieniec,zachodniopomorskie,Poland
 2600470,SQ1EUF,Jaroslaw,,71-804 Szczecin,,Poland
@@ -1792,7 +1791,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2601850,SP9SZW,Szymon,Wolniewicz,Czestochowa,slaskie,Poland
 2601851,SQ5ID,Igor,Dzikiewicz,Kuflew,mazowieckie,Poland
 2601852,SP9VIK,Jakub,Holubinka,Zabrze,slaskie,Poland
-2601853,HF7FT,Marek,Tyne,Lodz,lodzkie,Poland
+2601853,HF7FT,Marek,Tynenski,Lodz,lodzkie,Poland
 2601854,SP9BLD,Katarzyna,,Krakow,malopolskie,Poland
 2601855,SP1RKB,Rajmund,Reszkowski,Machowino,pomorskie,Poland
 2601856,SQ5SQ,Sebastian,Miller,Warszawa,mazowieckie,Poland
@@ -1966,6 +1965,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2602029,SQ2FRG,Marcin,Gorzynski,Inowroclaw,kujawsko-pomorskie,Poland
 2602030,SQ1GPI,Maciej,Kaszynski,Slupsk,pomorskie,Poland
 2602031,SQ2RBY,Grzegorz,Blonski-Kubiak ,Bydgoszcz,kujawsko-pomorskie,Poland
+2602032,SP5ORH,Jacek,Orych,Marki,mazowieckie,Poland
 2602033,SP2XDM,Michal,Lewczuk,Gdynia,pomorskie,Poland
 2602034,SQ2CDE,Marcin,,Pruszcz Gdanski,pomorskie,Poland
 2602035,SP2XDQ,Slawomir,,Tczew,,Poland
@@ -1987,6 +1987,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2602052,SP2A,Leszek,,Gdynia,,Poland
 2602053,SP2TMK,Tomasz,,Bydgoszcz,,Poland
 2602054,SQ2MTG,Blazej,,Banino,pomorskie,Poland
+2602055,SP3GB,Gracjan,Barnas,Lukowo,wielkopolskie,Poland
 2602056,SP1NQN,Tadeusz,,Siemianice,,Poland
 2602057,SQ2MMP,Mariusz,,Subkowy,,Poland
 2602058,SP2BC,Marek,,Gdynia,,Poland
