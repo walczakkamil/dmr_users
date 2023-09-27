@@ -2071,6 +2071,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2602141,SP2DFW,Ela,,Bydgoszcz,,Poland
 2602142,SP2NS,Norbert,,Slupy,,Poland
 2602143,SP2RXY,Dorota,,Torun,,Poland
+2602144,SQ3MAT,Mateusz,Byczynski,Warszawa,mazowieckie,Poland
 2602145,SP2KRZ,Krzysztof,,Bydgoszcz,,Poland
 2602147,SP2WDV,Zbigniew,,Starogard Gdanski,,Poland
 2602148,SQ2TAC,Pawel,Z,Reda,pomorskie,Poland
@@ -2093,6 +2094,8 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2602168,SP2RAW,Remigiusz,,Bydgoszcz,,Poland
 2602169,SQ2RSE,Roberto,,Mezowo,,Poland
 2602170,SP2RZ,Robert,Zawistowski,Gdansk,pomorskie,Poland
+2602171,SP9MKS,Mariusz,,Czernichow,malopolskie,Poland
+2602173,SP3SLK,Krzysztof,Merker,Chodziez,wielkopolskie,Poland
 2602222,HF2Y,Maciej,,Gdynia,pomorskie,Poland
 2602552,HF2Y,Maciej,,Gdynia,pomorskie,Poland
 2603001,SQ3CLK,Michal,,Poznan,,Poland
