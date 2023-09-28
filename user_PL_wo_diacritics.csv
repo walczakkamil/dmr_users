@@ -1015,6 +1015,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2601056,SQ1OHF,Edward,,Szczecin,zachodniopomorskie,Poland
 2601057,SP1UJW,Wojciech,,Dygowo,zachodniopomorskie,Poland
 2601058,SQ1GU,Andrzej,Gorczynski,Kolobrzeg ,zachodniopomorskie,Poland
+2601059,SQ1NT,Leszek,Karkut,Kolobrzeg,zachodniopomorskie,Poland
 2601060,SQ1WO,Wojciech,Zielinski,Szczecin,zachodniopomorskie,Poland
 2601061,SQ1BHQ,Piotr,Siedlarz,Trzebiez,zachodniopomorskie,Poland
 2601062,SP1IT,Tomasz,,Szczecin,zachodniopomorskie,Poland
@@ -1164,7 +1165,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2601212,SQ9MR,Mariusz,,Bochnia,malopolskie,Poland
 2601213,SQ9LS,Slawomir,,Sosnowiec,slaskie,Poland
 2601214,SP9KAM,Jakub,Mika,Wieliczka,malopolskie,Poland
-2601215,SP5LLT,Piotr,Paluch,Warszawa,mazowieckie,Poland
+2601215,SN5S,Piotr,Paluch,Blonie,mazowieckie,Poland
 2601216,SP1GKM,Robert,Gmyrek,Szczecin,zachodniopomorskie,Poland
 2601217,SP0KS,Marcin,Czop,Warszawa,mazowieckie,Poland
 2601218,SQ5HKW,Hubert,Wyszecki,Stare Babice,mazowieckie,Poland
@@ -2095,7 +2096,9 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2602169,SQ2RSE,Roberto,,Mezowo,,Poland
 2602170,SP2RZ,Robert,Zawistowski,Gdansk,pomorskie,Poland
 2602171,SP9MKS,Mariusz,,Czernichow,malopolskie,Poland
+2602172,HF7FT,Marek,Tynenski,Lodz,lodzkie,Poland
 2602173,SP3SLK,Krzysztof,Merker,Chodziez,wielkopolskie,Poland
+2602174,SN4O,Zbigniew,Jackowski,Olsztyn,warminsko-mazurskie,Poland
 2602222,HF2Y,Maciej,,Gdynia,pomorskie,Poland
 2602552,HF2Y,Maciej,,Gdynia,pomorskie,Poland
 2603001,SQ3CLK,Michal,,Poznan,,Poland
