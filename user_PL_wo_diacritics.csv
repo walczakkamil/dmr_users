@@ -472,7 +472,6 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2600494,SQ7OS,Piotr,Moron,Starachowice,swietokrzyskie,Poland
 2600495,SP6MED,Mateusz,,Strzelin,dolnoslaskie,Poland
 2600496,SQ4PKO,Jacek,,Bialystok,podlaskie,Poland
-2600497,SP6OJK,Jaroslaw,,Kolanowice,dolnoslaskie,Poland
 2600498,SP1SU,Kacper,,Swinoujscie,zachodniopomorskie,Poland
 2600499,SP8NFH,Andrzej,Rogalinski,Lesko,podkarpackie,Poland
 2600500,SQ7AIE,Andrzej,,Piotrkow Tryb,lodzkie,Poland
@@ -1104,7 +1103,6 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2601151,SP4ALA,Bartosz,Gradkowski,Ketrzyn,warminsko-mazurskie,Poland
 2601152,SP1KAR,Dawid,Rak,Lipiany,zachodniopomorskie,Poland
 2601153,SP2JB,Jaroslaw,Bola,Chojnice,pomorskie,Poland
-2601154,SQ1HTA,Pawel,Lorkiewicz,Szczecin,zachodniopomorskie,Poland
 2601155,SQ7WT,Wojciech,T,Skarzysko Kamienna,swietokrzyskie,Poland
 2601156,SP9CST,Edward,Zawislok,Chorzow,slaskie,Poland
 2601157,SO4SO,Marcin, ,Sobolewo,podlaskie,Poland
@@ -2262,7 +2260,6 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2603170,SP3WXH,Rafal,,Pila,wielkopolskie,Poland
 2603171,SQ3OPC,Szymon,,Wlosciejewki,,Poland
 2603172,SP3QFS,Jarek,,Poznan,,Poland
-2603173,SP3NGN,Henryka,None,Konin,,Poland
 2603174,SP3KPH,Klub,,Poznan,,Poland
 2603175,SQ3SKU,Bogdan,,Zielona Gora,,Poland
 2603176,SQ3KKT,Dariusz,Mikolajewski,Zielona Gora,lubuskie,Poland
