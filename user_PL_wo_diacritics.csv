@@ -660,7 +660,6 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2600694,SP5RST,Robert,Siwiec,Olszewnica Stara,mazowieckie,Poland
 2600695,SQ9CSB,Sebastian,,Bytom,slaskie,Poland
 2600696,SQ9KGB,Dariusz,Pcionek,Krakow,malopolskie,Poland
-2600697,SQ6ADD,Dawid,,Swidnica,dolnoslaskie,Poland
 2600698,SQ7LQT,Zbigniew ,,,,Poland
 2600699,SP9OUV,Jacek,Nowak,Bielsko Biala,slaskie,Poland
 2600700,SP7CC,Arek,,Lodz,,Poland
@@ -709,7 +708,6 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2600744,SP8DK,Tomasz,Wisniewski,Kocudza,lubelskie,Poland
 2600745,SP1MDR,Stanislaw,Kosalka,Karsino,zachodniopomorskie,Poland
 2600746,SP5GRZ,Grzegorz,,Milanowek,mazowieckie,Poland
-2600747,SQ6POH,Karol,Bejm,Wolow,dolnoslaskie,Poland
 2600748,SQ9BZ,Lukasz,Zelechowski,Katowice,slaskie,Poland
 2600749,SP5BUD,Krzysztof,Kencki,Warszawa,mazowieckie,Poland
 2600750,SQ5MS,Marcin,Sawicki,Zabki,mazowieckie,Poland
@@ -2097,6 +2095,9 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2602172,HF7FT,Marek,Tynenski,Lodz,lodzkie,Poland
 2602173,SP3SLK,Krzysztof,Merker,Chodziez,wielkopolskie,Poland
 2602174,SN4O,Zbigniew,Jackowski,Olsztyn,warminsko-mazurskie,Poland
+2602175,SP5SNB,Marcin,Przymus,Warszawa,mazowieckie,Poland
+2602176,SQ5GRQ,Marcin,Strzalkowski,Plock,mazowieckie,Poland
+2602177,SQ8AK,Arkadiusz,Grzesiak,Lublin,lubelskie,Poland
 2602222,HF2Y,Maciej,,Gdynia,pomorskie,Poland
 2602552,HF2Y,Maciej,,Gdynia,pomorskie,Poland
 2603001,SQ3CLK,Michal,,Poznan,,Poland
@@ -3768,7 +3769,6 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2609292,SQ9OJV,Dariusz,Orzechowski,Maciejowa,malopolskie,Poland
 2609293,SQ9FWX,Karol,,Maciejowa,,Poland
 2609294,SP9VOG,Wladyslaw,,Stadla,,Poland
-2609295,SO9AHG,Grzegorz,None,Orzesze,,Poland
 2609296,SP9STN,Jacek,,Bielsko Biala,,Poland
 2609297,SQ9OZA,Andrzej,,Chrzanow,,Poland
 2609298,SQ9NKX,Mateusz,,Zawiercie,,Poland
