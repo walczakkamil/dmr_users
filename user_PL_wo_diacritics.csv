@@ -1923,7 +1923,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2601985,SP9BIT,Marcin,Kudlik,Skawina,malopolskie,Poland
 2601986,SP3VPB,Jaroslaw,Pawlowski,Poznan,wielkopolskie,Poland
 2601987,SP9ONE,Marcin, ,Krakow,malopolskie,Poland
-2601989,SP3WBW,Wlodzimierz,Chodor,Poznan,wielkopolskie,Poland
+2601989,SP3WBW,Wlodzimierz,,Poznan,wielkopolskie,Poland
 2601990,SP9SAP,Pawel,Sapeta,Jaworzno,slaskie,Poland
 2601991,SP2ECM,Kacper,Musial,Gdynia,pomorskie,Poland
 2601992,SP6WAF,Zenon,Karczmarczyk,Zdzieszowice,opolskie,Poland
@@ -2098,6 +2098,9 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2602175,SP5SNB,Marcin,Przymus,Warszawa,mazowieckie,Poland
 2602176,SQ5GRQ,Marcin,Strzalkowski,Plock,mazowieckie,Poland
 2602177,SQ8AK,Arkadiusz,Grzesiak,Lublin,lubelskie,Poland
+2602178,SP9SE,Bartosz,Michalik,Ptaszkowa,malopolskie,Poland
+2602179,SQ2SIX,Konrad,Marszalkowski,Gdansk,pomorskie,Poland
+2602180,SP6PDZ,Klub,Strzelecki Klub Lacznosci,Strzelce Opolskie,opolskie,Poland
 2602222,HF2Y,Maciej,,Gdynia,pomorskie,Poland
 2602552,HF2Y,Maciej,,Gdynia,pomorskie,Poland
 2603001,SQ3CLK,Michal,,Poznan,,Poland
@@ -3591,7 +3594,6 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2609102,SQ9NKH,Lukasz,,Zakrzowiec,,Poland
 2609103,SQ9OKR,Jacek,Jasinski,Bukowona,malopolskie,Poland
 2609104,SP9SVH,Krzysztof,Podgorski,Krakow,malopolskie,Poland
-2609105,SP9WZO,Bronislaw,Kus,Cieszyn,slaskie,Poland
 2609106,SQ9ZAY,Michal,Matusik,Niepolomice,malopolskie,Poland
 2609107,SQ9PG,Pawel,None,Lubomierz,malopolskie,Poland
 2609108,SP9MAX,Andrzej,Lacheta,Krakow,malopolskie,Poland
@@ -3789,7 +3791,6 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2609315,SQ9BDL,Czeslaw,,Myslowice,,Poland
 2609316,SQ9DXT,Jan,Madecki,Zebrzydowice,slaskie,Poland
 2609317,SP9VUV,Andrzej,,Krakow,,Poland
-2609318,SP9WZO,Bronislaw,Kus,Cieszyn,slaskie,Poland
 2609319,SQ9JYT,Patryk,,Muszyna,,Poland
 2609320,SP9CJM,Jacek,,Bochnia,,Poland
 2609321,SP9SCI,Klub,,Cieszyn,,Poland
