@@ -1989,7 +1989,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2602058,SP2BC,Marek,,Gdynia,,Poland
 2602059,SQ2JSJ,Jacek,,Wejherowo,pomorskie,Poland
 2602060,SP2AB,Przemyslaw,,Wloclawek,,Poland
-2602061,SQ2DMX,Arkadiusz,,Wloclawek,,Poland
+2602061,SQ2DMX,Arkadiusz,,Wloclawek,kujawsko-pomorskie,Poland
 2602062,SP2FET,Bartek,,Wloclawek,,Poland
 2602063,SP2OFF,Grzegorz,Zimny,Wloclawek,kujawsko-pomorskie,Poland
 2602064,SQ2HXW,Marcin,,Wloclawek,,Poland
@@ -2102,6 +2102,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2602180,SP6PDZ,Klub,Strzelecki Klub Lacznosci,Strzelce Opolskie,opolskie,Poland
 2602181,3Z3MEVA,Krzysztof,Piechota,Poznan,wielkopolskie,Poland
 2602182,SP2ID,Michal,,Gdynia,pomorskie,Poland
+2602183,SP6MJR,Ireneusz,Major,Kedzerzyn-Kozle,opolskie,Poland
 2602222,HF2Y,Maciej,,Gdynia,pomorskie,Poland
 2602552,HF2Y,Maciej,,Gdynia,pomorskie,Poland
 2603001,SQ3CLK,Michal,,Poznan,,Poland
@@ -2883,7 +2884,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2605450,SP5MXZ,Wojciech,,Ostroleka,,Poland
 2605451,SP5BWN,Pawel,,Zalesie,mazowieckie,Poland
 2605452,SP5PA,Pawel,,Warszawa,,Poland
-2605453,SQ5WLE,Andrzej,,Plonsk,,Poland
+2605453,SQ5WLE,Andrzej,None,Plonsk,,Poland
 2605454,SQ5KOH,Olaf,,Warszawa,,Poland
 2605455,SQ5SAI,Piotr,,Warszawa,,Poland
 2605456,SP5PIO,Piotr,,Wisniew,,Poland
@@ -3052,14 +3053,14 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2606117,SP6AA,Wieslaw,,Legnica,dolnoslaskie,Poland
 2606118,SQ6POC,Przemyslaw,,Wroclaw,,Poland
 2606119,SQ6NDA,Janusz,,Brzeg,,Poland
-2606120,SQ6KMK,Krzysztof,,PRUDNIK,,Poland
+2606120,SQ6KMK,Krzysztof,None,Prudnik,,Poland
 2606121,SP6RGZ,Roman,None,Olesnica,dolnoslaskie,Poland
 2606122,SN6MP,Mariusz,,Steblow,dolnoslaskie,Poland
 2606123,SO6TIR,Marcin,Walenczak,Olawa,dolnoslaskie,Poland
 2606124,SP6TPY,Jerzy,,Glucholazy,,Poland
 2606125,SP6AN,Andrzej,None,Wroclaw,dolnoslaskie,Poland
 2606126,SQ6SGT,Grzegorz,None,Brzeg,,Poland
-2606127,SQ6SEI,Marek,,Prudnik,,Poland
+2606127,SQ6SEI,Marek,None,Prudnik,,Poland
 2606128,SQ6JAR,Jarek,,Przywory opolskie,,Poland
 2606129,SP6SK,Slawomir,,Lubin,,Poland
 2606130,SP6DNP,Tadeusz,,Legnica,,Poland
