@@ -2103,6 +2103,9 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2602181,3Z3MEVA,Krzysztof,Piechota,Poznan,wielkopolskie,Poland
 2602182,SP2ID,Michal,,Gdynia,pomorskie,Poland
 2602183,SP6MJR,Ireneusz,Major,Kedzerzyn-Kozle,opolskie,Poland
+2602184,SP0KC,Kornel,Chorazyczewski,Gorowo Ilaweckie,warminsko-mazurskie,Poland
+2602185,SP9NOZ,Slawomir,Noszczyk,Myszkow,slaskie,Poland
+2602186,SP1QT,Pawel,Cwiklak,Stargard,zachodniopomorskie,Poland
 2602222,HF2Y,Maciej,,Gdynia,pomorskie,Poland
 2602552,HF2Y,Maciej,,Gdynia,pomorskie,Poland
 2603001,SQ3CLK,Michal,,Poznan,,Poland
@@ -2509,7 +2512,6 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2605054,SQ5STX,Pawel,,Warszawa,,Poland
 2605055,SP5USO,Jacek,,Warszawa,mazowieckie,Poland
 2605056,SQ5RIQ,Marcin,,Radom,,Poland
-2605057,SP5PKK,Piotr,,Grodzisk Mazowiecki,,Poland
 2605058,SQ7EHO,Lukasz,,Skierniewice,,Poland
 2605059,SP8QER,Radoslaw,,Parczew,lubelskie,Poland
 2605060,SP5XHC,Adam,None,Warszawa,,Poland
