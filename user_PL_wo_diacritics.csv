@@ -1403,6 +1403,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2601459,SP2AKE,Piotr,Glomski,Gdansk,pomorskie,Poland
 2601460,SQ2OTO,Piotr,Halman,Lebork,pomorskie,Poland
 2601461,SP6UJW,Jedrzej,Ulasiewicz,Wroclaw,dolnoslaskie,Poland
+2601462,SP9RTT,Jan,Trofimczuk,Raciborz,slaskie,Poland
 2601463,SP2CDS,Lukasz,Halas,Radlowek,kujawsko-pomorskie,Poland
 2601464,SQ1UKF,Konrad,,Szczecin,zachodniopomorskie,Poland
 2601465,SP1KD,Konrad,Dudziak,Szczecin,zachodniopomorskie,Poland
@@ -1806,7 +1807,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2601869,SQ2WKJ,Piotr,Sobota,Bydgoszcz,kujawsko-pomorskie,Poland
 2601870,3Z2T,Marek,Runge,Bydgoszcz,kujawsko-pomorskie,Poland
 2601871,SP5UAF,Tomasz,Barbachowski,Sulejowek,mazowieckie,Poland
-2601872,SP1AKU,Arek,Czak,Lipiany,,Poland
+2601872,SP1AKU,Arek,,Lipiany,zachodniopomorskie,Poland
 2601873,SQ7DAR,Dariusz,Lubecki,Kielce,swietokrzyskie,Poland
 2601874,SP5LW,Lukasz,Wlodarczyk,Warszawa,mazowieckie,Poland
 2601875,SQ9PL,Slawomir,Smolka,Pszow,slaskie,Poland
@@ -2503,6 +2504,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2605044,SQ5IZS,Krzysztof,Moneta,Warszawa,mazowieckie,Poland
 2605045,SQ5LTL,Pawel,Czajka,Garbatka-Letnisko,mazowieckie,Poland
 2605046,SQ8MFR,Krzysztof,,Lublin,,Poland
+2605047,SP8NTH,Grzegorz,Woloszun,Wlodawa,lubelskie,Poland
 2605048,SQ5AC,Antoni,,Piastow,mazowieckie,Poland
 2605049,SP5NAF,Grzegorz,Golan,Kadzidlo,mazowieckie,Poland
 2605050,SP5CWC,Daniel,,Piaseczno,mazowieckie,Poland
