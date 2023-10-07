@@ -459,7 +459,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2600481,SP9TMK,Michal,,Bielsko-Biala,malopolskie,Poland
 2600482,SP1RWX,Rafal,,Lobez,zachodniopomorskie,Poland
 2600483,SP2SKL,Jakub,,Gdansk,pomorskie,Poland
-2600484,SQ6KQE,Adrian,Zodz,Jelenia Gora,dolnoslaskie,Poland
+2600484,SQ6KQE,Adrian,Z,Jelenia Gora,dolnoslaskie,Poland
 2600485,SQ4FAU,Zdzislaw,,Bielsk Podlaski,podlaskie,Poland
 2600486,SP0MM,Michal,Brennek,Warszawa,Mazowieckie,Poland
 2600487,SQ5DAL,Leszek,,Gora Kalwaria,mazowieckie,Poland
@@ -2068,7 +2068,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2602141,SP2DFW,Ela,,Bydgoszcz,,Poland
 2602142,SP2NS,Norbert,,Slupy,,Poland
 2602143,SP2RXY,Dorota,,Torun,,Poland
-2602144,SQ3MAT,Mateusz,Byczynski,Warszawa,mazowieckie,Poland
+2602144,SQ3MAT,Mateusz, ,Warszawa,mazowieckie,Poland
 2602145,SP2KRZ,Krzysztof,,Bydgoszcz,,Poland
 2602147,SP2WDV,Zbigniew,,Starogard Gdanski,,Poland
 2602148,SQ2TAC,Pawel,Z,Reda,pomorskie,Poland
@@ -2107,6 +2107,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2602184,SP0KC,Kornel,Chorazyczewski,Gorowo Ilaweckie,warminsko-mazurskie,Poland
 2602185,SP9NOZ,Slawomir,Noszczyk,Myszkow,slaskie,Poland
 2602186,SP1QT,Pawel,Cwiklak,Stargard,zachodniopomorskie,Poland
+2602187,SQ5GW,Grzegorz,Wroblewski,Warszawa,mazowieckie,Poland
 2602222,HF2Y,Maciej,,Gdynia,pomorskie,Poland
 2602552,HF2Y,Maciej,,Gdynia,pomorskie,Poland
 2603001,SQ3CLK,Michal,,Poznan,,Poland
