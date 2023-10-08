@@ -34,7 +34,6 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2600033,SQ8JI,Adam,,Pulawy,,Poland
 2600034,SQ5BUQ,Krzysztof,,Warszawa,,Poland
 2600035,SP5RK,Radoslaw,,Warszawa,,Poland
-2600036,SQ5NWR,Przemyslaw,,Skrzeszew,,Poland
 2600037,SP9TOT,Adam,,Katowice,,Poland
 2600038,SP9NRK,Stanislaw,,Katowice,slaskie,Poland
 2600039,SP5CVT,Bartosz,,Warszawa,,Poland
@@ -3271,7 +3270,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2607161,SQ7ECZ,Szymon,,Starachowice,swietokrzyskie,Poland
 2607162,SP7SUM,Adam,Szarata,Lodz,lodzkie,Poland
 2607163,SQ7CGR,Dariusz,,Zgierz,,Poland
-2607164,SP7RT,Konrad,,Staszw,,Poland
+2607164,SP7RT,Konrad,,Staszow,lodzkie,Poland
 2607165,SQ7XQ,Piotr,,Lodz,,Poland
 2607166,SQ7JZS,Janusz,,Wielun,,Poland
 2607167,SO7AFC,Maciek,,Kielce,,Poland
