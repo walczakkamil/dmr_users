@@ -2011,7 +2011,6 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2602080,SP2KOW,Witold,,Bydgoszcz,,Poland
 2602081,SQ2HCZ,Slawek,,Bydgoszcz,,Poland
 2602083,SP2BRO,Jerzy,,Kwidzyn,,Poland
-2602084,SP2IM,Anna,,Bydgoszcz,kujawsko-pomorskie,Poland
 2602085,SP2TDI,Janusz,,Bydgoszcz,kujawsko-pomorskie,Poland
 2602086,SQ2SM,Sebastian,,Bydgoszcz,,Poland
 2602087,SP2HSA,Slawomir,,Torun,kujawsko-pomorskie,Poland
@@ -2107,6 +2106,8 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2602185,SP9NOZ,Slawomir,Noszczyk,Myszkow,slaskie,Poland
 2602186,SP1QT,Pawel,Cwiklak,Stargard,zachodniopomorskie,Poland
 2602187,SQ5GW,Grzegorz,Wroblewski,Warszawa,mazowieckie,Poland
+2602188,SP5TEN,Tomasz,Nakielski,Warszawa,mazowieckie,Poland
+2602189,SQ9SZ,Bernard,Petrykowski,Zabrze,slaskie,Poland
 2602222,HF2Y,Maciej,,Gdynia,pomorskie,Poland
 2602552,HF2Y,Maciej,,Gdynia,pomorskie,Poland
 2603001,SQ3CLK,Michal,,Poznan,,Poland
@@ -3114,6 +3115,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2606176,SQ6KBZ,Andrzej,,Szczodre,,Poland
 2606177,SQ6JL,Patryk,,Strzelin,,Poland
 2606178,SQ6SFO,Jakub,Stepniewicz,Wroclaw,dolnoslaskie,Poland
+2606179,SP6ZT,Jerzy,Greblicki,Wilczyce,dolnoslaskie,Poland
 2606180,SQ6NEF,Tomasz,Filipowicz,Wilkszyn,dolnoslaskie,Poland
 2606181,SP6DK,Krzysztof,,Swidnica,,Poland
 2607002,SQ7SCC,Arek,,Lodz,,Poland
