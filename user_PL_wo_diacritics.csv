@@ -2104,10 +2104,15 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2602183,SP6MJR,Ireneusz,Major,Kedzerzyn-Kozle,opolskie,Poland
 2602184,SP0KC,Kornel,Chorazyczewski,Gorowo Ilaweckie,warminsko-mazurskie,Poland
 2602185,SP9NOZ,Slawomir,Noszczyk,Myszkow,slaskie,Poland
-2602186,SP1QT,Pawel,Cwiklak,Stargard,zachodniopomorskie,Poland
+2602186,SP1QT,Pawel,C,Stargard,zachodniopomorskie,Poland
 2602187,SQ5GW,Grzegorz,Wroblewski,Warszawa,mazowieckie,Poland
 2602188,SP5TEN,Tomasz,Nakielski,Warszawa,mazowieckie,Poland
 2602189,SQ9SZ,Bernard,Petrykowski,Zabrze,slaskie,Poland
+2602190,SP5OL,Maciej,Baur,Stefanowo,mazowieckie,Poland
+2602191,SP5UGX,Stanislaw,Wozniewicz,Warszawa,mazowieckie,Poland
+2602192,SP4RQ,Michal,Klimeczko,Elblag,warminsko-mazurskie,Poland
+2602193,SP8PSA,Pawel,Kluz,Lukawiec,podkarpackie,Poland
+2602194,SP9LKN,Lukasz,Grim,Wodzislaw Slaski,slaskie,Poland
 2602222,HF2Y,Maciej,,Gdynia,pomorskie,Poland
 2602552,HF2Y,Maciej,,Gdynia,pomorskie,Poland
 2603001,SQ3CLK,Michal,,Poznan,,Poland
@@ -3244,7 +3249,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2607132,SP7IIY,Piotr,,Busko-Zdroj,,Poland
 2607133,SQ7OFM,Klaudiusz,,Pabianice,,Poland
 2607134,SO7AML,Marek,,Lodz,,Poland
-2607135,SQ7IQT,Krzysztof,,Janow,,Poland
+2607135,SQ7IQT,Krzysztof,None,Janow,,Poland
 2607136,SQ7HIK,Karol,None,Radom,,Poland
 2607138,SQ7PTE,Piotr,Kolacki,Koprzywnica,swietokrzyskie,Poland
 2607139,SP7UTO,Tomasz,Pokornowski,Sieradz,lodzkie,Poland
