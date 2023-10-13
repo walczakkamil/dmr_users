@@ -1675,7 +1675,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2601738,SQ9NRG,Pawel,Jacyna,Gliwice,slaskie,Poland
 2601739,SP7FMB,Zenon,Skiba,Lodz,lodzkie,Poland
 2601740,SQ9SKG,Szymon,Karkowski,Gliwice,slaskie,Poland
-2601741,SQ9FME,Marcin,F,Zabrze,slaskie,Poland
+2601741,SQ9FME,Marcin,abcde,Zabrze,slaskie,Poland
 2601742,SP7RAQ,Slawomir,Raczynski,Lodz,lodzkie,Poland
 2601743,SQ9DI,Witold,Pietrzak,Raciborz,slaskie,Poland
 2601744,SP9LEH,Leszek,Cichon,Krakow,malopolskie,Poland
@@ -2066,7 +2066,7 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2602141,SP2DFW,Ela,,Bydgoszcz,,Poland
 2602142,SP2NS,Norbert,,Slupy,,Poland
 2602143,SP2RXY,Dorota,,Torun,,Poland
-2602144,SQ3MAT,Mateusz, ,Warszawa,mazowieckie,Poland
+2602144,SQ3MAT,Mateusz,,Warszawa,mazowieckie,Poland
 2602145,SP2KRZ,Krzysztof,,Bydgoszcz,,Poland
 2602147,SP2WDV,Zbigniew,,Starogard Gdanski,,Poland
 2602148,SQ2TAC,Pawel,Z,Reda,pomorskie,Poland
@@ -2115,7 +2115,8 @@ RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
 2602194,SP9LKN,Lukasz,Grim,Wodzislaw Slaski,slaskie,Poland
 2602195,SP6VWF,Michal,Puczynski,Wroclaw,dolnoslaskie,Poland
 2602196,SP4XYZ,Wladyslaw,Karczewski,Bialystok,podlaskie,Poland
-2602197,SQ4GIN,Jacek,M,Elblag,warminsko-mazurskie,Poland
+2602197,SQ4GIN,Jacek,Monko,Elblag,warminsko-mazurskie,Poland
+2602198,SP3GWL,Wojciech,Grodzki,Warszawa,mazowieckie,Poland
 2602222,HF2Y,Maciej,,Gdynia,pomorskie,Poland
 2602552,HF2Y,Maciej,,Gdynia,pomorskie,Poland
 2603001,SQ3CLK,Michal,,Poznan,,Poland
