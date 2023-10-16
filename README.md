@@ -4,6 +4,12 @@ DMR users without diacritics
 ## Source database
 <https://radioid.net/static/user.csv>
 
+## RELEASES
+
+Releases are performed daily.
+
+Latest release: <https://github.com/walczakkamil/dmr_users/releases/latest>
+
 ## DATABASE
 
 | File name | Description | 
@@ -17,5 +23,5 @@ DMR users without diacritics
 [pl]: <https://github.com/walczakkamil/dmr_users/blob/main/user_PL_wo_diacritics.csv>
 
 
-## author 
+## Author 
 SP7FM
