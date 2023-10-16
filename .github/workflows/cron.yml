@@ -25,4 +25,7 @@ jobs:
                   path: databases
 
             - name: Update release
-              run: gh release upload latest databases/* --clobber
+              run: |
+                TODAY=$(date +"%Y%m%d")
+                gh release create ${TODAY}
+                gh release upload ${TODAY} databases/* --clobber
