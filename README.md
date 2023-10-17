@@ -18,9 +18,9 @@ Latest release: <https://github.com/walczakkamil/dmr_users/releases/latest>
 | [user_wo_diacritics.csv][global] | Global without diacritics |
 | [user_PL_wo_diacritics.csv][pl] | Polish Stations without diacritics |
 
-[source]: <https://github.com/walczakkamil/dmr_users/blob/main/user.csv>
-[global]: <https://github.com/walczakkamil/dmr_users/blob/main/user_wo_diacritics.csv>
-[pl]: <https://github.com/walczakkamil/dmr_users/blob/main/user_PL_wo_diacritics.csv>
+[source]: <https://github.com/walczakkamil/dmr_users/releases/latest/download/user.csv>
+[global]: <https://github.com/walczakkamil/dmr_users/releases/latest/download/user_wo_diacritics.csv>
+[pl]: <https://github.com/walczakkamil/dmr_users/releases/latest/download/user_PL_wo_diacritics.csv>
 
 
 ## Author 
