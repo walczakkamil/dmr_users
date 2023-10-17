@@ -30,7 +30,7 @@ jobs:
                 TODAY=$(date +"%Y%m%d")
                 
                 echo "Publish ${TODAY} relese"
-                gh release delete ${TODAY}
+                #gh release delete ${TODAY}
                 gh release create ${TODAY}
                 gh release upload ${TODAY} databases/* --clobber
 
