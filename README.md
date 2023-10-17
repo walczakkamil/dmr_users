@@ -1,12 +1,12 @@
 # dmr_users
-DMR users without diacritics
+DMR users without diacritics.
 
 ## Source database
 <https://radioid.net/static/user.csv>
 
 ## RELEASES
 
-Releases are performed daily.
+Releases are performed daily at 5pm UTC.
 
 Latest release: <https://github.com/walczakkamil/dmr_users/releases/latest>
 
@@ -25,3 +25,6 @@ Latest release: <https://github.com/walczakkamil/dmr_users/releases/latest>
 
 ## Author 
 SP7FM
+
+<https://github.com/MrTalon63> Part of GHA workflow
+
