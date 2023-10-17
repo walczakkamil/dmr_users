@@ -27,6 +27,7 @@ jobs:
             - name: Update release
               run: |
                 TODAY=$(date +"%Y%m%d")
+                gh release create ${TODAY}
                 gh release upload ${TODAY} databases/* --clobber
 
             - uses: dev-drprasad/delete-older-releases@v0.3.2
