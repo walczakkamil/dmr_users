@@ -31,8 +31,8 @@ jobs:
                 
                 echo "Publish ${TODAY} relese"
                 gh release delete ${TODAY}
-                gh release create v${TODAY}
-                gh release upload v${TODAY} databases/* --clobber
+                gh release create ${TODAY}
+                gh release upload ${TODAY} databases/* --clobber
 
                 echo "Publish 'latest' relese"
                 gh release upload latest databases/* --clobber
