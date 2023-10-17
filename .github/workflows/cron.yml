@@ -28,11 +28,14 @@ jobs:
               run: |
                 set -e
                 TODAY=$(date +"%Y%m%d")
-                gh release upload latest databases/* --clobber
                 
+                echo "Publish ${TODAY} relese"
                 gh release delete ${TODAY}
                 gh release create ${TODAY}
                 gh release upload ${TODAY} databases/* --clobber
+
+                echo "Publish 'latest' relese"
+                gh release upload latest databases/* --clobber
 
             - uses: dev-drprasad/delete-older-releases@v0.3.2
               with:
