@@ -19,6 +19,9 @@ jobs:
             - name: Run the script
               run: bash script.sh
 
+            - name: Generate md5sum
+              run: md5sum * > md5sum.txt
+
             - name: Upload files
               uses: actions/upload-artifact@v2
               with:
