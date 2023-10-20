@@ -6,7 +6,7 @@ DMR users without diacritics.
 
 ## RELEASES
 
-Releases are performed daily at 5pm UTC.
+Releases are performed daily at 3pm UTC.
 
 Latest release: <https://github.com/walczakkamil/dmr_users/releases/latest>
 
