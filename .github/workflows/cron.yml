@@ -20,7 +20,7 @@ jobs:
               run: bash script.sh
 
             - name: Generate md5sum
-              run: md5sum * > md5sum.md5
+              run: md5sum databases/* > databases/md5sum.md5
 
             - name: Upload files
               uses: actions/upload-artifact@v2
