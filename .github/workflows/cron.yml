@@ -25,7 +25,7 @@ jobs:
                  md5sum * > md5sum.txt
 
             - name: Upload files
-              uses: actions/upload-artifact@v2
+              uses: actions/upload-artifact@v4
               with:
                   path: databases
 
