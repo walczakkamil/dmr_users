@@ -38,7 +38,7 @@ jobs:
                 gh release create ${TODAY}
                 gh release upload ${TODAY} databases/* --clobber
 
-            - uses: dev-drprasad/delete-older-releases@v0.3.2
+            - uses: dev-drprasad/delete-older-releases@v0.3.4
               with:
                 repo: walczakkamil/dmr_users
                 keep_latest: 3
