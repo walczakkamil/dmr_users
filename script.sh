@@ -44,7 +44,7 @@ AZ_P='[,](JA|JH|JR|JS|BY|VU|HS|9V|7L|7M|7N|UA[890]|HL|DS|UN|UK|EX|EY|EZ|4X|4Z|A6
 AUS_P='[,](VK|AX|ZL|ZM|YB|YC|YD|YE|YF|YG|YH|DU|DV|DW|DX|DY|DZ|P2|V6|V7|V8|T2|T3|T8|ZK|ZL|ZM|FK|FO|FW|5W|A3|C2|E5|H4|KH[0-9]|NH[0-9]|WH[0-9]|V7|3D2)[0-9]'
 
 # AF - Afryka
-AF_P='[,](ZS|ZR|ZU|CN|SU|5N|D2|V5|EL|3V|5[H-T]|5U|5V|6W|7X|9G|9J|9L|9U|9X|C5|D4|E3|ET|J2|S7|ST|T5|TJ|TR|TT|TU|TY|TZ|VQ9|XT|Z2)[0-9]'
+AF_P='[,](ZS|ZR|ZU|CN|SU|5N|D2|D3|V5|EL|3V|5H|5I|5R|5T|5U|5V|6W|7X|9G|9J|9L|9U|9X|C5|D4|E3|ET|J2|S7|ST|T5|TJ|TR|TT|TU|TY|TZ|VQ9|XT|Z2)[0-9]'
 
 filter_users "$EU_P" "user_EU_wo_diacritics.csv" "Europe"
 filter_users "$AMN_P" "user_AMN_wo_diacritics.csv" "North America"
