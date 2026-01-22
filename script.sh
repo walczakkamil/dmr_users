@@ -16,49 +16,37 @@ echo "--- Replacing of diacritics ---"
 iconv -f UTF8 -t ASCII//IGNORE//TRANSLIT "$DB_FILE" > "$CLEAN_FILE"
 HEADER=$(head -n 1 "$DB_FILE")
 
-filter_users() {
+# Definicje prefiksów (w formacie dla awk)
+PL_P="^(HF|3Z|SN|SO|SP|SQ|SR)"
+EU_P="^(DL|DA|DB|DC|DD|DE|DF|DG|DH|DI|DJ|DK|F|G|M|2A|2E|2I|2M|2W|I|HB|HE|OE|OK|OL|OM|ON|OT|PA|PB|PC|PD|PE|PF|PG|PH|PI|LX|LA|LB|LC|LD|LE|LF|LG|LH|SM|SA|OH|OZ|5P|5Q|EI|EJ|CT|EA|EB|EC|ED|HA|YO|LZ|UR|UT|US|UW|UX|UY|LY|YL|ES|S5|9A|E7|Z3|ZA|ZB|ZC|SV|SW|UA[1-7])"
+AMN_P="^(W|K|N|A|VE|VA|VO|VY|XE|XF|XG|TI|TG|YS|YN|HR|HP|HI|CO|CM|6Y|C6|V2|V3|V4|VP[2589]|KP[24])"
+AMS_P="^(PP|PR|PS|PT|PU|PV|PW|PX|PY|LU|LW|AY|AZ|CE|XQ|HK|HJ|HC|HD|YV|YW|ZP|CX|OA|OB|OC|CP|PZ|8R)"
+AZ_P="^(JA|JH|JR|JS|BY|VU|HS|9V|7L|7M|7N|UA[890]|HL|DS|UN|UK|EX|EY|EZ|4X|4Z|A6|A7|A9|HZ|EP|YI|JY|9M|9N|XV|XU|XW|S2|BA|BD|BG|BH)"
+AUS_P="^(VK|AX|ZL|ZM|YB|YC|YD|YE|YF|YG|YH|DU|DV|DW|DX|DY|DZ|P2|V6|V7|V8|T2|T3|T8|ZK|FK|FO|FW|5W|A3|C2|E5|H4|KH[0-9]|NH[0-9]|WH[0-9]|V7|3D2)"
+AF_P="^(ZS|ZR|ZU|CN|SU|5N|D2|D3|V5|EL|3V|5H|5I|5R|5T|5U|5V|5X|5Z|6W|7X|9G|9J|9L|9U|9X|C5|D4|E3|ET|J2|S7|ST|T5|TJ|TR|TT|TU|TY|TZ|VQ9|XT|Z2)"
+
+ALL_KNOWN="$PL_P|$EU_P|$AMN_P|$AMS_P|$AZ_P|$AUS_P|$AF_P"
+
+echo "--- Filter by 2nd column (CALLSIGN) ---"
+
+filter_awk() {
     local pattern=$1
     local output=$2
-    local label=$3
     echo "$HEADER" > "$output"
-    grep -E "$pattern" "$CLEAN_FILE" >> "$output"
-    local count=$(($(wc -l < "$output") - 1))
-    printf "%-20s : %'d users\n" "$label" "$count"
+    awk -F',' -v pat="$pattern" '$2 ~ pat' "$CLEAN_FILE" >> "$output"
 }
 
-echo "--- Generating Continental Files ---"
+filter_awk "$PL_P" "user_PL_wo_diacritics.csv"
+filter_awk "$EU_P" "user_EU_wo_diacritics.csv"
+filter_awk "$AMN_P" "user_AMN_wo_diacritics.csv"
+filter_awk "$AMS_P" "user_AMS_wo_diacritics.csv"
+filter_awk "$AZ_P" "user_AZ_wo_diacritics.csv"
+filter_awk "$AUS_P" "user_AUS_wo_diacritics.csv"
+filter_awk "$AF_P" "user_AF_wo_diacritics.csv"
 
-# EU - Europa (Wszystkie kraje europejskie wg ITU)
-EU_P='[,](SP|HF|3Z|SN|SO|SQ|SR|DL|DA|DB|DC|DD|DE|DF|DG|DH|DI|DJ|DK|F|G|M|2A|2E|2I|2M|2W|I|HB|HE|OE|OK|OL|OM|ON|OT|PA|PB|PC|PD|PE|PF|PG|PH|PI|LX|LA|LB|LC|LD|LE|LF|LG|LH|SM|SA|OH|OZ|5P|5Q|EI|EJ|CT|EA|EB|EC|ED|HA|YO|LZ|UR|UT|US|UW|UX|UY|LY|YL|ES|S5|9A|E7|Z3|ZA|ZB|ZC|SV|SW|UA1|UA2|UA3|UA4|UA5|UA6|UA7)[0-9]'
-
-# AMN - Ameryka Północna i Środkowa (USA, Kanada, Meksyk, Karaiby)
-AMN_P='[,](W|K|N|A|VE|VA|VO|VY|XE|XF|XG|TI|TG|YS|YN|HR|HP|HI|CO|CM|6Y|C6|V2|V3|V4|VP2|VP5|VP8|VP9|KP2|KP4)[0-9]'
-
-# AMS - Ameryka Południowa
-AMS_P='[,](PP|PR|PS|PT|PU|PV|PW|PX|PY|LU|LW|AY|AZ|CE|XQ|HK|HJ|HC|HD|YV|YW|ZP|CX|OA|OB|OC|CP|PZ|8R)[0-9]'
-
-# AZ - Azja (Japonia, Chiny, Indie, Bliski Wschód, Azjatycka Rosja)
-AZ_P='[,](JA|JH|JR|JS|BY|VU|HS|9V|7L|7M|7N|UA8|UA9|UA0|HL|DS|UN|UK|EX|EY|EZ|4X|4Z|A6|A7|A9|HZ|EP|YI|JY|9M|9N|XV|XU|XW|S2|BA|BD|BG|BH)[0-9]'
-
-# AUS - Australia i Oceania
-AUS_P='[,](VK|AX|ZL|ZM|YB|YC|YD|YE|YF|YG|YH|DU|DV|DW|DX|DY|DZ|P2|V6|V7|V8|T2|T3|T8|ZK|ZL|ZM|FK|FO|FW|5W|A3|C2|E5|H4|KH[0-9]|NH[0-9]|WH[0-9]|V7|3D2)[0-9]'
-
-# AF - Afryka
-AF_P='[,](ZS|ZR|ZU|CN|SU|5N|D2|D3|V5|EL|3V|5H|5I|5R|5T|5U|5V|5X|5Z|6W|7X|9G|9J|9L|9U|9X|C5|D4|E3|ET|J2|S7|ST|T5|TJ|TR|TT|TU|TY|TZ|VQ9|XT|Z2)[0-9]'
-
-filter_users "$EU_P" "user_EU_wo_diacritics.csv" "Europe"
-filter_users "$AMN_P" "user_AMN_wo_diacritics.csv" "North America"
-filter_users "$AMS_P" "user_AMS_wo_diacritics.csv" "South America"
-filter_users "$AZ_P" "user_AZ_wo_diacritics.csv" "Asia"
-filter_users "$AUS_P" "user_AUS_wo_diacritics.csv" "Australia/Oceania"
-filter_users "$AF_P" "user_AF_wo_diacritics.csv" "Africa"
-
-# Polska (zostaje jako osobny plik)
-filter_users '[,](HF|3Z|S[NOPRQ])[0-9]' "user_PL_wo_diacritics.csv" "Poland"
-
-ALL_KNOWN="($PL_P|$EU_P|$AMN_P|$AMS_P|$AZ_P|$AUS_P|$AF_P)"
+# UNKNOWN - rekordy niepasujące do żadnego kontynentu
 echo "$HEADER" > "user_UNKNOWN.csv"
-grep -E -v "[,]($ALL_KNOWN)[0-9]" "$CLEAN_FILE" | grep -v "RADIO_ID" >> "user_UNKNOWN.csv"
+awk -F',' -v pat="$ALL_KNOWN" 'NR > 1 && $2 !~ pat' "$CLEAN_FILE" >> "user_UNKNOWN.csv"
 
 printf "Polska     : %'d\n" $(($(wc -l < user_PL_wo_diacritics.csv) - 1))
 printf "Europa     : %'d\n" $(($(wc -l < user_EU_wo_diacritics.csv) - 1))
