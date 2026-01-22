@@ -56,6 +56,19 @@ filter_users "$AF_P" "user_AF_wo_diacritics.csv" "Africa"
 # Polska (zostaje jako osobny plik)
 filter_users '[,](HF|3Z|S[NOPRQ])[0-9]' "user_PL_wo_diacritics.csv" "Poland"
 
+ALL_KNOWN="($PL_P|$EU_P|$AMN_P|$AMS_P|$AZ_P|$AUS_P|$AF_P)"
+echo "$HEADER" > "user_UNKNOWN.csv"
+grep -E -v "[,]($ALL_KNOWN)[0-9]" "$CLEAN_FILE" | grep -v "RADIO_ID" >> "user_UNKNOWN.csv"
+
+printf "Polska     : %'d\n" $(($(wc -l < user_PL_wo_diacritics.csv) - 1))
+printf "Europa     : %'d\n" $(($(wc -l < user_EU_wo_diacritics.csv) - 1))
+printf "Ameryka N  : %'d\n" $(($(wc -l < user_AMN_wo_diacritics.csv) - 1))
+printf "Ameryka S  : %'d\n" $(($(wc -l < user_AMS_wo_diacritics.csv) - 1))
+printf "Azja       : %'d\n" $(($(wc -l < user_AZ_wo_diacritics.csv) - 1))
+printf "Australia  : %'d\n" $(($(wc -l < user_AUS_wo_diacritics.csv) - 1))
+printf "Afryka     : %'d\n" $(($(wc -l < user_AF_wo_diacritics.csv) - 1))
+printf "Pozostałe  : %'d (Plik UNKNOWN)\n" $(($(wc -l < user_UNKNOWN.csv) - 1))
+
 mkdir -p databases
 mv user*.csv databases/
 echo "--- Finished ---"
