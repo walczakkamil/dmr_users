@@ -1,4 +1,4 @@
-name: Script cron
+name: Generate contact list
 
 on:
     schedule:
