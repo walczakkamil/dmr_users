@@ -29,23 +29,22 @@ filter_users() {
 echo "--- Generating Continental Files ---"
 
 # EU - Europa (Wszystkie kraje europejskie wg ITU)
-# Zawiera m.in. SP, DL, G, F, I, HB, OE, OK, OM, LY, YL, ES, OH, LA, SM, OZ, EI, SV, CT, EA, HA, YO, LZ, UR, UA(1-6)
-EU_P='[,]([C][3]|DL|EB|EA|EC|ED|EE|EF|EG|EH|EI|EJ|EK|ER|ES|ET|EU|EW|EX|EY|F|G|H[ABEGILN]|I|L[A-H]|M|OE|O[H-J]|O[K-M]|O[N-T]|O[U-Z]|P[A-I]|S[A-M]|S[NOPRQ]|T[FGHJKLMNPQR]|U[A-I][1-7]|U[KLNR-Z]|Y[LNU]|Z[A-C]|[23][A-Z])[0-9]'
+EU_P='[,](SP|HF|3Z|SN|SO|SQ|SR|DL|DJ|DK|DL|DM|F|G|M|2[A-Z]|I|IK|IZ|IV|HB|HE|OE|OK|OL|OM|ON|OT|PA|PB|PC|PD|PE|PF|PG|PH|PI|LX|LA|LB|LC|LD|LE|LF|LG|LH|SM|SA|OH|OZ|EI|EJ|CT|EA|EB|EC|ED|HA|YO|LZ|UR|UT|US|UW|UX|UY|LY|YL|ES|S5|9A|E7|Z3|ZA|ZB|ZC|SV|SW|UA[1-7])[0-9]'
 
 # AMN - Ameryka Północna i Środkowa (USA, Kanada, Meksyk, Karaiby)
-AMN_P='[,]([WKNA]|VE|VA|VO|VY|XE|XF|XG|V[2-4]|V[P-R]|TI|T[G-J]|H[H-K]|6[Y-Z]|7[P-S]|8[P-R]|9[A-Z])[0-9]'
+AMN_P='[,]([WKNA]|VE|VA|VO|VY|XE|XF|XG|TI|TG|YS|YN|HR|HP|HI|CO|CM|6Y|C6|V[2-4]|VP[2589]|KP[24])[0-9]'
 
 # AMS - Ameryka Południowa
-AMS_P='[,](PY|PP|PU|LU|AY|LW|CE|CX|HC|HK|HJ|OA|YV|ZP|ZV|OA|CP|P[J-T]|8[R])[0-9]'
+AMS_P='[,](P[P-Y]|LU|LW|AY|AZ|CE|XQ|HK|HJ|HC|HD|YV|YW|ZP|CX|OA|OB|OC|CP|PZ|8R)[0-9]'
 
 # AZ - Azja (Japonia, Chiny, Indie, Bliski Wschód, Azjatycka Rosja)
-AZ_P='[,](JA|JH|JR|JS|BY|VU|HS|9V|7L|7M|7N|UA9|UA0|HL|DS|A[4-9]|B|E[2-4]|H[L-Z]|J[A-S]|9[K-N])[0-9]'
+AZ_P='[,](JA|JH|JR|JS|BY|VU|HS|9V|7L|7M|7N|UA[890]|HL|DS|UN|UK|EX|EY|EZ|4X|4Z|A6|A7|A9|HZ|EP|YI|JY|9M|9N|XV|XU|XW|S2|B[A-Z])[0-9]'
 
 # AUS - Australia i Oceania
-AUS_P='[,](VK|ZL|ZM|V[A-G]|YB|YC|DU|DV|P2|T2|T3|V[6-8]|ZK|FW|5W|KH[0-9])[0-9]'
+AUS_P='[,](VK|AX|ZL|ZM|YB|YC|YD|YE|YF|YG|YH|DU|DV|DW|DX|DY|DZ|P2|V6|V7|V8|T2|T3|T8|ZK|ZL|ZM|FK|FO|FW|5W|A3|C2|E5|H4|KH[0-9]|NH[0-9]|WH[0-9]|V7|3D2)[0-9]'
 
 # AF - Afryka
-AF_P='[,](ZS|ZR|ZU|CN|SU|5N|D2|V5|EL|3[A-B]|5[H-T]|6[A-W]|7[A-R]|9[G-L])[0-9]'
+AF_P='[,](ZS|ZR|ZU|CN|SU|5N|D2|V5|EL|3V|5[H-T]|5U|5V|6W|7X|9G|9J|9L|9U|9X|C5|D4|E3|ET|J2|S7|ST|T5|TJ|TR|TT|TU|TY|TZ|VQ9|XT|Z2)[0-9]'
 
 filter_users "$EU_P" "user_EU_wo_diacritics.csv" "Europe"
 filter_users "$AMN_P" "user_AMN_wo_diacritics.csv" "North America"
