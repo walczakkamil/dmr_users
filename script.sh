@@ -47,7 +47,7 @@ process_data() {
             gsub(/^ | $/, "", full_name) # Usuń spacje na końcach
 
             # Radio_ID ($1), Callsign ($2), Name (full_name), City ($5), State ($6), Country ($7), Remarks (puste), Call Type (Private Call), Call Alert (None)
-            print $1, $2, "\""full_name"\"", "\""$5"\"", "\""$6"\"", "\""$7"\"", "", "", ""
+            print $1, $2, "\""full_name"\"", "\""$5"\"", "\""$6"\"", "\""$7"\"", "\"\"", "\"\"", "\"\""
         }
     }' "$CLEAN_FILE" >> "$output"
 }
