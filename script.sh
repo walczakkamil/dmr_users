@@ -61,6 +61,7 @@ process_data "$AMS_P"     "databases/DMR_America_South.csv" "false"
 process_data "$AZ_P"      "databases/DMR_Asia.csv"          "false"
 process_data "$AUS_P"     "databases/DMR_Australia.csv"     "false"
 process_data "$AF_P"      "databases/DMR_Africa.csv"        "false"
+process_data "$ALL_KNOWN" "databases/DMR_world.csv"         "false"
 process_data "$ALL_KNOWN" "databases/DMR_unkown.csv"        "true"
 
 echo "--- Summary ---"
