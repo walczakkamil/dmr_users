@@ -54,15 +54,15 @@ process_data() {
 
 mkdir -p databases
 rm -rf ./databases/DMR*.csv
-process_data "$PL_P"      "databases/DMR_PL.csv"            "false"
-process_data "$EU_P"      "databases/DMR_Europe.csv"        "false"
-process_data "$AMN_P"     "databases/DMR_America_North.csv" "false"
-process_data "$AMS_P"     "databases/DMR_America_South.csv" "false"
-process_data "$AZ_P"      "databases/DMR_Asia.csv"          "false"
-process_data "$AUS_P"     "databases/DMR_Australia.csv"     "false"
-process_data "$AF_P"      "databases/DMR_Africa.csv"        "false"
-process_data "$ALL_KNOWN" "databases/DMR_world.csv"         "false"
-process_data "$ALL_KNOWN" "databases/DMR_unkown.csv"        "true"
+process_data "$PL_P"              "databases/DMR_PL.csv"            "false"
+process_data "${PL_P}|${EU_P}"    "databases/DMR_Europe.csv"        "false"
+process_data "$AMN_P"             "databases/DMR_America_North.csv" "false"
+process_data "$AMS_P"             "databases/DMR_America_South.csv" "false"
+process_data "$AZ_P"              "databases/DMR_Asia.csv"          "false"
+process_data "$AUS_P"             "databases/DMR_Australia.csv"     "false"
+process_data "$AF_P"              "databases/DMR_Africa.csv"        "false"
+process_data "$ALL_KNOWN"         "databases/DMR_world.csv"         "false"
+process_data "$ALL_KNOWN"         "databases/DMR_unkown.csv"        "true"
 
 echo "--- Summary ---"
 for f in databases/DMR_*.csv; do
