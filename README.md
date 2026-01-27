@@ -14,14 +14,25 @@ Latest release: <https://github.com/walczakkamil/dmr_users/releases/latest>
 
 | File name | Description | 
 | --------- | --------- |
-| [user.csv][source] | Source file |
-| [user_wo_diacritics.csv][global] | Global without diacritics |
-| [user_PL_wo_diacritics.csv][pl] | Polish Stations without diacritics |
+| [DMR_world.csv][world] | Global without diacritics |
+| [DMR_Africa.csv][africa] | Africa |
+| [DMR_America_North.csv][am_n] | North America |
+| [DMR_America_South.csv][am_s] | South America|
+| [DMR_Asia.csv][asia] | Asia |
+| [DMR_Australia.csv][australia] | Australia |
+| [DMR_Europe.csv][europe] | Europe |
+| [DMR_PL.csv][poland] | Poland|
+| [DMR_unkown.csv][unkown] | Unkown - station with no classification|
 
-[source]: <https://github.com/walczakkamil/dmr_users/releases/latest/download/user.csv>
-[global]: <https://github.com/walczakkamil/dmr_users/releases/latest/download/user_wo_diacritics.csv>
-[pl]: <https://github.com/walczakkamil/dmr_users/releases/latest/download/user_PL_wo_diacritics.csv>
-
+[africa]: <https://github.com/walczakkamil/dmr_users/releases/download/20260127/DMR_Africa.csv>
+[am_n]: <https://github.com/walczakkamil/dmr_users/releases/download/20260127/DMR_America_North.csv>
+[am_s]: <https://github.com/walczakkamil/dmr_users/releases/download/20260127/DMR_America_South.csv>
+[asia]: <https://github.com/walczakkamil/dmr_users/releases/download/20260127/DMR_Asia.csv>
+[australia]: <https://github.com/walczakkamil/dmr_users/releases/download/20260127/DMR_Australia.csv>
+[europe]: <https://github.com/walczakkamil/dmr_users/releases/download/20260127/DMR_Europe.csv>
+[poland]: <https://github.com/walczakkamil/dmr_users/releases/download/20260127/DMR_PL.csv>
+[unkown]: <https://github.com/walczakkamil/dmr_users/releases/download/20260127/DMR_unkown.csv>
+[world]: <https://github.com/walczakkamil/dmr_users/releases/download/20260127/DMR_world.csv>
 
 ## Author 
 SP7FM
